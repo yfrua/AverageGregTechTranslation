@@ -1,0 +1,336 @@
+1
+00:00:00,266 --> 00:00:03,266
+oftentimes when I make new patterns for my EBF and vacuum freezers
+
+2
+00:00:03,266 --> 00:00:05,933
+I get asked why do I make patterns with the hot ingots
+
+3
+00:00:06,333 --> 00:00:08,900
+now I know how much some of you love ore-dictionary card
+
+4
+00:00:08,900 --> 00:00:12,100
+and what I'm going to say works different in different mod packs
+
+5
+00:00:12,133 --> 00:00:17,900
+the thing is that I don't see any real advantage in making edited patterns that don't show the hot ingots
+
+6
+00:00:18,233 --> 00:00:18,733
+like, yeah
+
+7
+00:00:18,733 --> 00:00:20,900
+you have one less pattern to deal with
+
+8
+00:00:20,900 --> 00:00:24,000
+but the one you have to make is a little bit more complicated
+
+9
+00:00:24,000 --> 00:00:26,300
+so my take is that most people do that
+
+10
+00:00:26,300 --> 00:00:30,033
+only because they feel better if they use the ore-dictionary card
+
+11
+00:00:30,033 --> 00:00:32,700
+but if you pattern hot ingots there are some advantages
+
+12
+00:00:32,966 --> 00:00:37,600
+the biggest one is that most of the times you're waiting for EBF while the vacuum freezer has nothing to do
+
+13
+00:00:37,833 --> 00:00:40,400
+but sometimes when you do some specific ingot
+
+14
+00:00:40,500 --> 00:00:42,600
+EBF will be faster than the vacuum freezer
+
+15
+00:00:42,600 --> 00:00:45,633
+and your vacuum freezer will be stuck cooling things
+
+16
+00:00:45,900 --> 00:00:46,933
+if you pattern hot ingots
+
+17
+00:00:46,933 --> 00:00:50,033
+you can make a dedicated interface with blocking mode for those ingots
+
+18
+00:00:50,333 --> 00:00:53,900
+that way, the ingots that are faster to cool than to melt can pass
+
+19
+00:00:53,900 --> 00:00:55,600
+in front of those slower ingots
+
+20
+00:00:55,600 --> 00:00:59,900
+and you can keep working on other things while your superconductor slowly cool down
+
+21
+00:01:00,433 --> 00:01:04,666
+another advantage is that you can see from AE2 crafting UI what the issue is
+
+22
+00:01:04,700 --> 00:01:08,033
+here we can guess ingots are waiting to be inserted into the vacuum freezer
+
+23
+00:01:08,033 --> 00:01:12,433
+here we can see a lot of ingots queued up inside the vacuum freezer that are being cooled down
+
+24
+00:01:12,433 --> 00:01:16,133
+while here the issue is the EBF having trouble blasting some tough materials
+
+25
+00:01:16,133 --> 00:01:17,800
+as you normally expect
+
+26
+00:01:17,933 --> 00:01:20,133
+another reason which I'm not vouching for too much
+
+27
+00:01:20,133 --> 00:01:23,400
+is that you can also fine tune how many ingots are going inside the machines at once
+
+28
+00:01:23,400 --> 00:01:26,666
+to better use the parallel capacity of each machine
+
+29
+00:01:27,200 --> 00:01:30,333
+another reason is that, in GTNH end game mostly
+
+30
+00:01:30,333 --> 00:01:34,333
+you will probably want to use crafting input buffers and crafting input proxies
+
+31
+00:01:34,533 --> 00:01:38,100
+and unless you want to optionally filter the output of a gorge
+
+32
+00:01:38,100 --> 00:01:42,266
+you most likely want to either redo all of the patterns once you get those
+
+33
+00:01:42,533 --> 00:01:45,166
+or if you do hot ingots patterns early on (?)
+
+34
+00:01:45,166 --> 00:01:46,733
+you already have the patterns done
+
+35
+00:01:47,400 --> 00:01:50,066
+now those were my takes mostly for GTNH
+
+36
+00:01:50,300 --> 00:01:51,333
+maybe I forgot something
+
+37
+00:01:51,333 --> 00:01:52,700
+maybe it's different in other packs
+
+38
+00:01:52,700 --> 00:01:53,333
+I don't know
+
+39
+00:01:53,566 --> 00:01:55,266
+I just wanted to put that in a video
+
+40
+00:01:55,266 --> 00:01:56,800
+so every time someone asks me
+
+41
+00:01:56,800 --> 00:01:58,933
+I can point them to this video
+
+42
+00:01:58,933 --> 00:01:59,466
+bye bye
+
+43
+00:00:00,266 --> 00:00:03,266
+通常当我为我的EBF和真空冰箱制作新图案时
+
+44
+00:00:03,266 --> 00:00:05,933
+有人问我为什么要用热锭制作图案
+
+45
+00:00:06,333 --> 00:00:08,900
+现在我知道你们中的一些人有多喜欢词典卡。
+
+46
+00:00:08,900 --> 00:00:12,100
+我要说的在不同的mod包中工作不同
+
+47
+00:00:12,133 --> 00:00:17,900
+问题是，我看不出制作不显示热锭的编辑图案有什么真正的优势。
+
+48
+00:00:18,233 --> 00:00:18,733
+就像，是的
+
+49
+00:00:18,733 --> 00:00:20,900
+你少了一个要处理的模式
+
+50
+00:00:20,900 --> 00:00:24,000
+但是你要做的有点复杂。
+
+51
+00:00:24,000 --> 00:00:26,300
+所以我的看法是大多数人都这样做
+
+52
+00:00:26,300 --> 00:00:30,033
+那是因为他们用字典卡会感觉好些
+
+53
+00:00:30,033 --> 00:00:32,700
+但是如果你图案热元宝有一些优势
+
+54
+00:00:32,966 --> 00:00:37,600
+最大的一个是，大多数时候你在等待EBF，而真空冰箱却无事可做
+
+55
+00:00:37,833 --> 00:00:40,400
+但有时当你做一些特定的元宝时
+
+56
+00:00:40,500 --> 00:00:42,600
+EBF会比真空冷冻机快
+
+57
+00:00:42,600 --> 00:00:45,633
+你的真空冰箱会卡在冷却东西上
+
+58
+00:00:45,900 --> 00:00:46,933
+如果你图案热元宝
+
+59
+00:00:46,933 --> 00:00:50,033
+您可以为这些元宝制作具有阻塞模式的专用接口
+
+60
+00:00:50,333 --> 00:00:53,900
+这样冷却速度快于熔化速度的钢锭就可以通过
+
+61
+00:00:53,900 --> 00:00:55,600
+在那些慢元宝面前
+
+62
+00:00:55,600 --> 00:00:59,900
+当你的超导体慢慢冷却下来时，你可以继续做其他事情
+
+63
+00:01:00,433 --> 00:01:04,666
+另一个优点是您可以从AE2制作UI中看到问题所在
+
+64
+00:01:04,700 --> 00:01:08,033
+在这里，我们可以猜测元宝正在等待插入真空冰箱
+
+65
+00:01:08,033 --> 00:01:12,433
+在这里，我们可以看到许多钢锭在真空冰箱内排队，正在冷却
+
+66
+00:01:12,433 --> 00:01:16,133
+而这里的问题是EBF在爆破一些坚韧的材料时遇到了麻烦
+
+67
+00:01:16,133 --> 00:01:17,800
+正如您通常期望的那样
+
+68
+00:01:17,933 --> 00:01:20,133
+另一个我不能保证太多的原因
+
+69
+00:01:20,133 --> 00:01:23,400
+您还可以微调一次进入机器的元宝数量
+
+70
+00:01:23,400 --> 00:01:26,666
+更好地利用每台机器的并行容量
+
+71
+00:01:27,200 --> 00:01:30,333
+另一个原因是，在GTNH结束游戏大多
+
+72
+00:01:30,333 --> 00:01:34,333
+您可能希望使用制作输入缓冲区和制作输入代理
+
+73
+00:01:34,533 --> 00:01:38,100
+除非你想选择性地过滤峡谷的输出
+
+74
+00:01:38,100 --> 00:01:42,266
+一旦你得到这些，你很可能想重做所有的模式
+
+75
+00:01:42,533 --> 00:01:45,166
+或者如果你早期做热锭图案（？）
+
+76
+00:01:45,166 --> 00:01:46,733
+你已经把图案做好了。
+
+77
+00:01:47,400 --> 00:01:50,066
+这些主要是我对GTNH的看法。
+
+78
+00:01:50,300 --> 00:01:51,333
+也许我忘了什么
+
+79
+00:01:51,333 --> 00:01:52,700
+也许其他包里不一样
+
+80
+00:01:52,700 --> 00:01:53,333
+我不知道。
+
+81
+00:01:53,566 --> 00:01:55,266
+我只是想把它放在视频里。
+
+82
+00:01:55,266 --> 00:01:56,800
+所以每次有人问我
+
+83
+00:01:56,800 --> 00:01:58,933
+我可以给他们指这段视频
+
+84
+00:01:58,933 --> 00:01:59,466
+拜拜
+
