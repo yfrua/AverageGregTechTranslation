@@ -1,0 +1,5784 @@
+1
+00:00:00,300 --> 00:00:02,533
+you just couldn't resist, could you?
+
+2
+00:00:03,000 --> 00:00:05,466
+the allure of magic was far too strong
+
+3
+00:00:06,033 --> 00:00:08,633
+mastering gregtech power isn't enough for you
+
+4
+00:00:09,200 --> 00:00:11,866
+only absolute power will suffice
+
+5
+00:00:11,866 --> 00:00:13,233
+magical infusion
+
+6
+00:00:13,500 --> 00:00:15,300
+bloody sacrifice
+
+7
+00:00:15,800 --> 00:00:17,266
+a witchery brew
+
+8
+00:00:17,933 --> 00:00:20,533
+you want it all, you need it all
+
+9
+00:00:21,333 --> 00:00:22,533
+but where does it begin
+
+10
+00:00:24,000 --> 00:00:25,433
+right here of course
+
+11
+00:00:25,500 --> 00:00:26,666
+congratulations
+
+12
+00:00:26,833 --> 00:00:29,600
+the Hogwarts letter you've been waiting for all your life has just arrived
+
+13
+00:00:29,933 --> 00:00:32,866
+welcome to the beginners guide to gregtech new horizons
+
+14
+00:00:33,066 --> 00:00:36,133
+this is episode six, magic
+
+15
+00:00:49,866 --> 00:00:51,166
+here we are in the new base
+
+16
+00:00:51,166 --> 00:00:52,433
+recognize the design?
+
+17
+00:00:53,200 --> 00:00:56,966
+today we cover the basics of Thaumcraft, Botania, witchery and blood magic
+
+18
+00:00:57,533 --> 00:01:01,333
+enough to get you going and on your way towards the many delights magic can offer you in GTNH
+
+19
+00:01:02,066 --> 00:01:04,000
+oh right this is GTNH
+
+20
+00:01:04,500 --> 00:01:08,566
+which means magic is way more useful and well integrated than anything you've ever seen
+
+21
+00:01:08,566 --> 00:01:10,833
+and also a bit more complicated than usual
+
+22
+00:01:12,466 --> 00:01:14,333
+as always, first things first
+
+23
+00:01:14,700 --> 00:01:17,400
+keep in mind that all this is optional at least for now
+
+24
+00:01:17,400 --> 00:01:18,733
+but has huge benefits
+
+25
+00:01:19,433 --> 00:01:21,266
+and like everything else, the earlier you get them
+
+26
+00:01:21,266 --> 00:01:22,466
+the more payoff they have
+
+27
+00:01:22,900 --> 00:01:25,933
+it's still a bit early in overall progression to go too nuts with magic
+
+28
+00:01:26,033 --> 00:01:27,300
+but now that you have aluminum
+
+29
+00:01:27,466 --> 00:01:31,033
+and a while to wait to get enough stuff to make the power system you planned after last episode
+
+30
+00:01:31,033 --> 00:01:31,933
+you can get started
+
+31
+00:01:32,300 --> 00:01:33,800
+and if you've gotten a bit lucky with loot
+
+32
+00:01:33,833 --> 00:01:35,000
+you can take it pretty far
+
+33
+00:01:35,266 --> 00:01:37,966
+the long and short is you need stainless steel
+
+34
+00:01:37,966 --> 00:01:40,600
+16 ingots in total to take you through everything you're gonna see here
+
+35
+00:01:40,600 --> 00:01:41,700
+and a couple of eyes of ender
+
+36
+00:01:41,700 --> 00:01:44,933
+which you can get from villagers before you have machines that can make them in hv
+
+37
+00:01:45,433 --> 00:01:46,700
+even if you did get lucky with loot
+
+38
+00:01:46,700 --> 00:01:48,800
+this guide will take you until the end of MV to complete
+
+39
+00:01:48,800 --> 00:01:50,233
+and you'll need some MV machines
+
+40
+00:01:50,233 --> 00:01:51,133
+so keep that in mind
+
+41
+00:01:51,433 --> 00:01:52,600
+and that's far from all you need
+
+42
+00:01:52,600 --> 00:01:55,700
+you certainly won't be finishing magic progression with just that
+
+43
+00:01:55,866 --> 00:01:57,100
+but this is the beginner's guide
+
+44
+00:01:57,133 --> 00:01:58,033
+so let's begin
+
+45
+00:02:01,233 --> 00:02:02,500
+it all starts with thaumcraft
+
+46
+00:02:03,000 --> 00:02:06,400
+it's no coincidence that this is the first magic mod the quest book calls out
+
+47
+00:02:06,400 --> 00:02:08,200
+to get started on any of the other magic mods
+
+48
+00:02:08,200 --> 00:02:09,866
+you'll need to make some progress with thaumcraft
+
+49
+00:02:10,466 --> 00:02:12,900
+it might appear that getting aluminum will unlock the quest chapter
+
+50
+00:02:12,900 --> 00:02:14,600
+but if you didn't unlock it when you went to the twilight
+
+51
+00:02:14,600 --> 00:02:18,033
+what you actually need is a quest way back in the "so it begins" chapter
+
+52
+00:02:18,600 --> 00:02:19,400
+what's that
+
+53
+00:02:20,533 --> 00:02:22,433
+if you can't find silverwood or greatwood trees
+
+54
+00:02:22,433 --> 00:02:23,933
+buy the saplings from the quest book
+
+55
+00:02:24,266 --> 00:02:25,633
+if you haven't been doing the side quests
+
+56
+00:02:25,633 --> 00:02:28,100
+you might have to do a few now to get the right coins
+
+57
+00:02:28,100 --> 00:02:30,233
+either way, you can start thinking about your first wand
+
+58
+00:02:30,766 --> 00:02:32,500
+you've been to the twilight to do some mining
+
+59
+00:02:32,500 --> 00:02:34,566
+now it's time to go back and do some fighting
+
+60
+00:02:34,566 --> 00:02:37,200
+oh, and more mining
+
+61
+00:02:37,433 --> 00:02:38,333
+before you go boss hunting
+
+62
+00:02:38,333 --> 00:02:39,500
+you might want to pause for a bit
+
+63
+00:02:39,500 --> 00:02:41,833
+and check out the introductory quests in the thaumcraft chapter
+
+64
+00:02:42,600 --> 00:02:46,333
+firstly, ironwood is handy if you didn't grind out the cobalt pickaxe head already
+
+65
+00:02:46,633 --> 00:02:48,666
+and the armor is pretty good too, at least for now
+
+66
+00:02:49,333 --> 00:02:51,233
+the magic map is also worth grabbing now
+
+67
+00:02:51,233 --> 00:02:54,100
+since it'll point you directly to the bosses you need to slay
+
+68
+00:02:54,100 --> 00:02:56,866
+speaking of, there are lots of them
+
+69
+00:02:56,866 --> 00:02:57,833
+but for early progression
+
+70
+00:02:57,833 --> 00:02:59,200
+you only need to kill two
+
+71
+00:02:59,200 --> 00:03:00,900
+the Naga and the Lich king
+
+72
+00:03:01,733 --> 00:03:02,966
+the Naga isn't super dangerous
+
+73
+00:03:02,966 --> 00:03:04,200
+if you have a few extra hearts
+
+74
+00:03:04,200 --> 00:03:05,333
+you can probably run right at them
+
+75
+00:03:05,333 --> 00:03:06,633
+and start swinging with a decent sword
+
+76
+00:03:06,633 --> 00:03:08,333
+or shooting with your carbon limb crossbow
+
+77
+00:03:09,000 --> 00:03:10,166
+and if you have it in you
+
+78
+00:03:10,166 --> 00:03:10,633
+kill a few
+
+79
+00:03:10,633 --> 00:03:12,833
+to make the first wand, you only need two scales
+
+80
+00:03:12,833 --> 00:03:16,033
+but you'll need to craft an upgrade before you can make a wand that uses the next boss drop
+
+81
+00:03:18,600 --> 00:03:19,833
+if you want to stop after the Naga
+
+82
+00:03:19,833 --> 00:03:20,833
+and do the next part later
+
+83
+00:03:20,833 --> 00:03:21,233
+feel free
+
+84
+00:03:21,233 --> 00:03:23,333
+but the Lich is only slightly more complicated
+
+85
+00:03:23,900 --> 00:03:25,000
+pillar up to the boss room
+
+86
+00:03:25,000 --> 00:03:26,533
+it should be pretty obvious which one it is
+
+87
+00:03:26,533 --> 00:03:27,500
+and break straight in
+
+88
+00:03:28,000 --> 00:03:29,066
+while the boss is waking up
+
+89
+00:03:29,066 --> 00:03:32,066
+block off the staircase so the mobs below don't wander into the Arena
+
+90
+00:03:32,233 --> 00:03:35,266
+a creeper explosion at this moment would be most untimely
+
+91
+00:03:36,366 --> 00:03:37,800
+draw your sword and start swinging
+
+92
+00:03:37,800 --> 00:03:39,100
+this time to keep the zombies at Bay
+
+93
+00:03:39,100 --> 00:03:42,633
+and try to reflect the flying interpoles back at the boss to remove the shields that are circling them
+
+94
+00:03:42,933 --> 00:03:45,066
+once they're gone, slay on slayer
+
+95
+00:03:45,633 --> 00:03:46,266
+if you get pinched
+
+96
+00:03:46,266 --> 00:03:48,633
+hide in one of the side rooms or just bail out of the room
+
+97
+00:03:48,800 --> 00:03:52,733
+a few red hearts can be handy for instant regen if you've gotten any from your blaze farm
+
+98
+00:03:52,733 --> 00:03:54,500
+again, a couple of boss kills can be worth it
+
+99
+00:03:54,666 --> 00:03:56,533
+but by the time you're using Lich bones to make wands
+
+100
+00:03:56,533 --> 00:03:59,466
+you'll be ready to make a bit of salas mudus to craft the bones using the trophy
+
+101
+00:04:01,033 --> 00:04:02,133
+before you leave the twilight
+
+102
+00:04:02,133 --> 00:04:04,000
+grab a couple stacks worth of every shard ore
+
+103
+00:04:04,433 --> 00:04:06,500
+ore doubling these is painfully slow
+
+104
+00:04:06,500 --> 00:04:08,466
+so you might want to start by smelting them directly
+
+105
+00:04:09,100 --> 00:04:12,466
+if so, consider grabbing the silky jewel reward from the twilight forest quest
+
+106
+00:04:12,466 --> 00:04:13,866
+either way get plenty
+
+107
+00:04:14,600 --> 00:04:15,466
+and once you're home
+
+108
+00:04:15,466 --> 00:04:17,566
+crafting the wand is elementary
+
+109
+00:04:17,566 --> 00:04:18,733
+ollendor delights (?)
+
+110
+00:04:21,133 --> 00:04:22,866
+now the snowball can start rolling
+
+111
+00:04:22,866 --> 00:04:26,133
+right click a bookshelf with the wand to get your thaumonicon
+
+112
+00:04:26,133 --> 00:04:29,066
+right click a table with the wand to get your arcane worktable
+
+113
+00:04:32,700 --> 00:04:35,100
+right click a cauldron with the wand to get your crucible
+
+114
+00:04:37,666 --> 00:04:40,900
+right click two tables with describing tools to get your research station
+
+115
+00:04:44,200 --> 00:04:46,300
+and then use your shards to make the thaumometer
+
+116
+00:04:46,933 --> 00:04:49,800
+you've acquired the basics your trip to hogsmeade (?) has concluded
+
+117
+00:04:52,633 --> 00:04:54,700
+and just like that the Hogwarts express has dropped you off
+
+118
+00:04:54,700 --> 00:04:55,833
+and you're in your first lesson
+
+119
+00:04:55,866 --> 00:04:57,100
+so pay close attention
+
+120
+00:04:57,700 --> 00:05:01,233
+thaumcraft research is a minigame that spends points to complete a chain of aspects
+
+121
+00:05:01,500 --> 00:05:04,666
+aspects are the core elements of magic that everything in the game is composed of
+
+122
+00:05:05,433 --> 00:05:07,000
+everything is made up of different aspects
+
+123
+00:05:07,000 --> 00:05:09,733
+and every research is made up of different sequences of aspects
+
+124
+00:05:09,733 --> 00:05:13,033
+that need to be connected via other aspects that share part of their makeup
+
+125
+00:05:13,033 --> 00:05:14,733
+before we worry too much about that
+
+126
+00:05:14,733 --> 00:05:16,466
+you need to accumulate some aspects
+
+127
+00:05:16,900 --> 00:05:19,700
+the quest book has a nice list of what to scan for all the aspects soon
+
+128
+00:05:19,700 --> 00:05:21,466
+don't worry too much about what you've unlocked
+
+129
+00:05:21,466 --> 00:05:22,833
+just scan the list of things for now
+
+130
+00:05:24,933 --> 00:05:26,800
+you can either hold the thaumometer and look at things
+
+131
+00:05:26,800 --> 00:05:28,600
+or hover over items in your inventory
+
+132
+00:05:29,133 --> 00:05:32,400
+as the quest book indicates, the first set of things needs to be scanned in order
+
+133
+00:05:32,466 --> 00:05:33,466
+don't skip any
+
+134
+00:05:33,466 --> 00:05:35,866
+scan as many of the other things in the list as you have or can find
+
+135
+00:05:35,866 --> 00:05:37,433
+and be prepared to make things
+
+136
+00:05:37,433 --> 00:05:38,700
+or go kill mobs for loot
+
+137
+00:05:38,700 --> 00:05:39,433
+or go hunting
+
+138
+00:05:39,900 --> 00:05:42,400
+if you get a message that you're missing knowledge to scan an item
+
+139
+00:05:42,400 --> 00:05:44,733
+skip it, and circle back to it next time you see that message
+
+140
+00:05:45,266 --> 00:05:48,400
+this is a one time effort to unlock knowledge of all the aspects
+
+141
+00:05:48,400 --> 00:05:50,100
+so knuckle down and get it done
+
+142
+00:05:50,100 --> 00:05:51,933
+for the tainted anything item
+
+143
+00:05:52,066 --> 00:05:54,033
+your best bet is finding a tainted lands biome
+
+144
+00:05:54,700 --> 00:05:56,666
+you might be traveling quite a while to find one
+
+145
+00:05:56,666 --> 00:05:57,533
+use the biome compass
+
+146
+00:05:57,600 --> 00:06:00,566
+and find a magical forest while you're out if you haven't already
+
+147
+00:06:00,566 --> 00:06:01,866
+once you find the tainted lands
+
+148
+00:06:01,866 --> 00:06:03,433
+scan something tainted then bail
+
+149
+00:06:03,433 --> 00:06:05,233
+and do not chunkload this area
+
+150
+00:06:05,233 --> 00:06:07,266
+if you base near it, move
+
+151
+00:06:07,266 --> 00:06:09,400
+no matter how time consuming it'll be
+
+152
+00:06:10,000 --> 00:06:14,066
+you have just observed the future of your base and the entire world if you aren't careful
+
+153
+00:06:14,300 --> 00:06:15,400
+all consumed in tainted
+
+154
+00:06:15,833 --> 00:06:18,766
+which is why i don't recommend experimenting with the method the quest book recommends
+
+155
+00:06:18,766 --> 00:06:20,600
+unless you have some experience
+
+156
+00:06:21,100 --> 00:06:22,700
+now that you have all the aspects
+
+157
+00:06:22,700 --> 00:06:24,800
+scan literally everything you own
+
+158
+00:06:26,800 --> 00:06:29,700
+you can review them in NEI to see which items produce those aspects when scanned
+
+159
+00:06:29,700 --> 00:06:31,333
+or run through the alchemical furnace
+
+160
+00:06:33,600 --> 00:06:35,800
+take another look at your research station now too
+
+161
+00:06:35,800 --> 00:06:36,866
+all the aspects are there
+
+162
+00:06:36,866 --> 00:06:38,733
+ready to be used for the research minigame
+
+163
+00:06:39,100 --> 00:06:42,566
+each has a number representing how many points worth that aspect you have scanned
+
+164
+00:06:42,566 --> 00:06:43,666
+to accumulate more
+
+165
+00:06:43,666 --> 00:06:46,133
+you need to scan new items that contain that aspect type
+
+166
+00:06:46,633 --> 00:06:50,100
+in general you'll want to scan basically every new thing you encounter in craft going forward
+
+167
+00:06:50,100 --> 00:06:52,433
+and go back and scan every single thing you possess
+
+168
+00:06:53,066 --> 00:06:57,400
+you'll probably notice that you accumulate more of a couple particular aspects than you do anything else
+
+169
+00:06:57,400 --> 00:06:59,700
+due to how many unique machines you have laying around to scan
+
+170
+00:07:00,233 --> 00:07:01,700
+ordo and instrumentum
+
+171
+00:07:04,200 --> 00:07:06,000
+if benzene is the metaphor for power
+
+172
+00:07:06,133 --> 00:07:08,666
+ordo and instrumentum are the metaphor for thaumcraft research
+
+173
+00:07:09,400 --> 00:07:10,866
+aside from the primal aspects
+
+174
+00:07:10,866 --> 00:07:14,066
+every other aspect is made up from two other aspects
+
+175
+00:07:14,833 --> 00:07:17,666
+for example, air plus ordo makes motus
+
+176
+00:07:19,300 --> 00:07:21,233
+with scribe tools and paper in your inventory
+
+177
+00:07:21,233 --> 00:07:24,000
+click on none research in the thomsonomicon to get a research sheet
+
+178
+00:07:24,000 --> 00:07:26,600
+and stick it in the table with the scribe tools
+
+179
+00:07:27,033 --> 00:07:32,600
+the way the research minigame works is by connecting the aspects that start on the research sheet using other aspects that are made up from them
+
+180
+00:07:33,600 --> 00:07:35,300
+motus can be placed beside ordo
+
+181
+00:07:35,300 --> 00:07:37,500
+because motus is composed of ordo
+
+182
+00:07:37,500 --> 00:07:39,300
+air can be placed on the other side of motus
+
+183
+00:07:39,300 --> 00:07:41,666
+because motus is also composed of air
+
+184
+00:07:41,666 --> 00:07:44,833
+now we have a link between ordo and air via motus
+
+185
+00:07:46,500 --> 00:07:47,533
+to complete the research
+
+186
+00:07:47,533 --> 00:07:50,033
+you simply connect all the aspects using the same idea
+
+187
+00:07:50,066 --> 00:07:52,633
+both different aspects depending on what the research starts with
+
+188
+00:07:52,666 --> 00:07:53,233
+make sense?
+
+189
+00:07:53,233 --> 00:07:54,900
+after you play with it for a bit
+
+190
+00:07:54,900 --> 00:07:59,900
+you may notice that almost every research can be completed by first converting the starting aspects into ordo or instrumentum
+
+191
+00:07:59,900 --> 00:08:02,200
+and then alternating between the two to bridge gaps
+
+192
+00:08:02,666 --> 00:08:04,566
+things should be loaded with both of these things
+
+193
+00:08:04,566 --> 00:08:06,700
+and might struggle to get anything else in large supply
+
+194
+00:08:06,833 --> 00:08:07,733
+this is the way
+
+195
+00:08:09,233 --> 00:08:10,333
+as you unlock research
+
+196
+00:08:10,333 --> 00:08:13,000
+you'll notice that some of them are labeled forbidden knowledge
+
+197
+00:08:13,000 --> 00:08:15,066
+with varying degrees of severity
+
+198
+00:08:15,066 --> 00:08:16,600
+this is thaumcraft warp
+
+199
+00:08:16,866 --> 00:08:19,533
+or a way to represent how much dark magic you've dealt into
+
+200
+00:08:19,533 --> 00:08:22,966
+the more you do the bigger the number and the bigger the consequences
+
+201
+00:08:22,966 --> 00:08:25,000
+until you're spawning withers in your base
+
+202
+00:08:25,833 --> 00:08:28,866
+the starting effects range from goofy to quirky to annoying
+
+203
+00:08:29,133 --> 00:08:30,866
+and the later effects can be downright evil
+
+204
+00:08:31,633 --> 00:08:34,300
+don't worry about it too much to begin, don't get carried away
+
+205
+00:08:35,833 --> 00:08:38,866
+the quest book will lead you to how to deal with it in the advanced thaumcraft chapter
+
+206
+00:08:38,866 --> 00:08:39,900
+but not soon
+
+207
+00:08:42,500 --> 00:08:43,566
+now about your taint
+
+208
+00:08:43,566 --> 00:08:44,800
+uh
+
+209
+00:08:45,100 --> 00:08:48,866
+anyway one of the ways you end up with taint is by introducing too much flux in the world
+
+210
+00:08:48,866 --> 00:08:50,033
+right, another term
+
+211
+00:08:50,433 --> 00:08:51,900
+think about flux as excess magic
+
+212
+00:08:51,900 --> 00:08:54,100
+if you get a bunch of junk and put it in the crucible
+
+213
+00:08:54,100 --> 00:08:56,766
+and it leaves a bunch of extra junk after making the thing you want
+
+214
+00:08:56,766 --> 00:08:57,833
+you get flux
+
+215
+00:08:58,133 --> 00:09:00,533
+you might see this as purple goo that overflows out
+
+216
+00:09:00,866 --> 00:09:02,233
+a tiny bit is okay
+
+217
+00:09:02,300 --> 00:09:04,033
+just clean it up by placing blocks on it
+
+218
+00:09:04,433 --> 00:09:07,933
+too much flux is really, really, really bad
+
+219
+00:09:08,433 --> 00:09:11,500
+like creating an infinitely spreading tainted lands biome in your base pad
+
+220
+00:09:11,866 --> 00:09:14,433
+it would take being super careless to end up there
+
+221
+00:09:14,433 --> 00:09:16,633
+but if you're new to the mod, it's not impossible
+
+222
+00:09:17,000 --> 00:09:19,466
+there are ways to cheese using the microblocks and trapdoors
+
+223
+00:09:19,466 --> 00:09:20,633
+but this is a beginner's guide
+
+224
+00:09:20,633 --> 00:09:23,800
+so we're gonna focus on getting a safe crafting the way the mod provides
+
+225
+00:09:24,766 --> 00:09:27,133
+quick notes on the thaumonomicon and research
+
+226
+00:09:27,333 --> 00:09:29,500
+the research is split up into pages or chapters
+
+227
+00:09:29,500 --> 00:09:30,833
+or whatever you want to call them
+
+228
+00:09:31,233 --> 00:09:33,366
+basic information is where it all begins
+
+229
+00:09:33,366 --> 00:09:36,933
+and most if not all of these are worth grabbing right away to make the research points go further
+
+230
+00:09:36,933 --> 00:09:39,900
+and make sure you don't accidentally destroy a node while you're charging your wand
+
+231
+00:09:40,133 --> 00:09:41,200
+we'll get to that in a sec
+
+232
+00:09:41,933 --> 00:09:45,233
+thaumaturgy is all about the basics of making and using wands
+
+233
+00:09:45,866 --> 00:09:49,400
+alchemy is about crafting with the crucible and metal transmutation
+
+234
+00:09:50,033 --> 00:09:52,633
+artifice is about the tools and utility items
+
+235
+00:09:52,866 --> 00:09:55,333
+tons of good stuff in there including infusion
+
+236
+00:09:56,100 --> 00:09:57,733
+and there's lots more chapters
+
+237
+00:09:57,933 --> 00:10:00,466
+some odd specific ones like blood magic and Botania
+
+238
+00:10:00,666 --> 00:10:02,800
+and some just containing more cool and useful stuff
+
+239
+00:10:03,100 --> 00:10:06,100
+some you won't unlock until you go insane, end game
+
+240
+00:10:07,133 --> 00:10:09,233
+covering everything in this book would take hours
+
+241
+00:10:09,233 --> 00:10:10,433
+so we aren't doing that here
+
+242
+00:10:10,533 --> 00:10:12,866
+the main point is you don't need every research
+
+243
+00:10:12,866 --> 00:10:14,500
+not even every research in a chapter
+
+244
+00:10:14,666 --> 00:10:16,333
+but trust me you might want them 
+
+245
+00:10:16,866 --> 00:10:19,600
+everything we're going to cover is in the chapters i just mentioned
+
+246
+00:10:19,600 --> 00:10:20,200
+so start there
+
+247
+00:10:22,000 --> 00:10:23,200
+one more thing on research
+
+248
+00:10:23,200 --> 00:10:25,033
+if you know an item you want ahead of time
+
+249
+00:10:25,033 --> 00:10:27,433
+say the boots of the traveler for example
+
+250
+00:10:27,733 --> 00:10:29,400
+you'll see that you don't have the research
+
+251
+00:10:29,600 --> 00:10:34,700
+one of the tricky parts about thaumcraft is it's hard to know what research unlocks the research you actually want
+
+252
+00:10:34,700 --> 00:10:35,433
+not in GTNH
+
+253
+00:10:36,100 --> 00:10:38,666
+hovering over the research name tells you what the parent researches are
+
+254
+00:10:38,666 --> 00:10:39,733
+and which chapter they're in
+
+255
+00:10:39,733 --> 00:10:41,400
+which can sometimes be a direct path
+
+256
+00:10:41,700 --> 00:10:43,433
+if you can't see the prerequisite research either
+
+257
+00:10:43,433 --> 00:10:46,433
+there's a research cheat sheet in the wiki, linked below
+
+258
+00:10:47,033 --> 00:10:48,300
+it takes some bouncing around
+
+259
+00:10:48,300 --> 00:10:48,900
+but in the end
+
+260
+00:10:48,900 --> 00:10:50,466
+you can find where all the research you need is
+
+261
+00:10:50,466 --> 00:10:51,566
+and where to unlock it
+
+262
+00:10:51,566 --> 00:10:56,133
+you can also turn on a mod option to allow you to see the recipes for items you haven't researched yet
+
+263
+00:10:56,133 --> 00:10:56,866
+mod options
+
+264
+00:10:56,866 --> 00:10:58,633
+thaumcraft NEI additions
+
+265
+00:10:58,633 --> 00:10:59,200
+general
+
+266
+00:10:59,200 --> 00:11:00,800
+show locked recipes
+
+267
+00:11:01,433 --> 00:11:02,266
+but fair warning
+
+268
+00:11:02,500 --> 00:11:05,166
+it gets really hard to tell what you've actually researched if it's on
+
+269
+00:11:05,166 --> 00:11:06,333
+useful though
+
+270
+00:11:07,066 --> 00:11:10,800
+now going forward i'm gonna assume you simply have all the research you need
+
+271
+00:11:10,800 --> 00:11:13,833
+if you finish most of what's in the first four chapters of the thauminonicon
+
+272
+00:11:13,833 --> 00:11:14,800
+you will
+
+273
+00:11:16,533 --> 00:11:17,900
+to get anywhere with thaumcraft
+
+274
+00:11:17,900 --> 00:11:19,166
+you need the infusion altar
+
+275
+00:11:19,166 --> 00:11:21,300
+and to use it, you need jars of essentia
+
+276
+00:11:21,300 --> 00:11:24,366
+to get those, you need an alchemical furnace and some arcane alembics (?)
+
+277
+00:11:24,366 --> 00:11:26,933
+and to craft those you need vis in your wand
+
+278
+00:11:28,900 --> 00:11:31,066
+grab yourself some goggles of revealing
+
+279
+00:11:31,066 --> 00:11:31,700
+oh wait
+
+280
+00:11:32,033 --> 00:11:34,700
+your 20 capacity wand is way too garbage for that
+
+281
+00:11:34,700 --> 00:11:36,366
+we'll fix that momentarily
+
+282
+00:11:36,866 --> 00:11:39,233
+instead grab your thaumometer and start wandering
+
+283
+00:11:39,433 --> 00:11:40,266
+you're looking for nodes
+
+284
+00:11:40,266 --> 00:11:43,133
+which will appear as bright balls of light until you get up close
+
+285
+00:11:43,133 --> 00:11:45,833
+scan them and you can see which aspects they're made of
+
+286
+00:11:45,833 --> 00:11:47,633
+they'll mostly be primal aspects
+
+287
+00:11:47,633 --> 00:11:49,766
+which is good, because that's what you need
+
+288
+00:11:49,766 --> 00:11:51,800
+searching at night can make them easier to find
+
+289
+00:11:51,800 --> 00:11:54,633
+they have a slight light signature similar to the beehives
+
+290
+00:11:55,433 --> 00:11:59,333
+you need at least one of every primal aspect in enough quantity to fill your wand
+
+291
+00:11:59,333 --> 00:12:00,466
+and the more the better
+
+292
+00:12:00,866 --> 00:12:02,666
+you shouldn't have to wander too far to get just that
+
+293
+00:12:03,566 --> 00:12:05,166
+right click with the wand to charge it
+
+294
+00:12:05,166 --> 00:12:08,133
+and be careful not to drain the nodes empty and destroy them
+
+295
+00:12:08,133 --> 00:12:09,300
+this wand is bad
+
+296
+00:12:12,033 --> 00:12:15,000
+your first priority is making a wand good enough to get the goggles of revealing
+
+297
+00:12:15,000 --> 00:12:17,566
+and ultimately the rest of the vis discount gear you can make early
+
+298
+00:12:17,566 --> 00:12:19,400
+and stop yourself from breaking nets
+
+299
+00:12:20,300 --> 00:12:21,733
+since you got lucky with stainless steel
+
+300
+00:12:21,733 --> 00:12:23,866
+you can jump right to the iron cap greatwood wand
+
+301
+00:12:24,266 --> 00:12:25,733
+which bumps the vis capacity up to 40
+
+302
+00:12:25,733 --> 00:12:27,700
+and if you have the node preserver research
+
+303
+00:12:27,700 --> 00:12:29,400
+will prevent you from breaking nodes
+
+304
+00:12:29,433 --> 00:12:31,033
+unless you're sneaking while charging
+
+305
+00:12:31,933 --> 00:12:33,066
+grab the goggles of revealing
+
+306
+00:12:33,100 --> 00:12:34,200
+find some more nodes
+
+307
+00:12:34,200 --> 00:12:35,933
+much more easily this time
+
+308
+00:12:36,633 --> 00:12:40,033
+and get to work on the bewitched robe and bewitched leggings and thaumaturge's boots
+
+309
+00:12:40,033 --> 00:12:41,800
+to max out your vis discount for crafting
+
+310
+00:12:42,133 --> 00:12:44,233
+you'll need the spinning wheel and some thaumium
+
+311
+00:12:44,600 --> 00:12:46,166
+it's time to talk alchemy
+
+312
+00:12:47,000 --> 00:12:49,533
+the very first thing you want from your crucible is nitor
+
+313
+00:12:49,633 --> 00:12:53,400
+so craft it up by tossing in four torches, two coal and a piece of glowstone
+
+314
+00:12:53,400 --> 00:12:55,200
+that was your first perfect craft
+
+315
+00:12:55,433 --> 00:12:56,800
+goodbye fire
+
+316
+00:12:58,266 --> 00:13:02,800
+the next thing you want is a large supply of balance shards and thaumium, thaumcraft base metal
+
+317
+00:13:02,800 --> 00:13:04,633
+toss in four of each shard
+
+318
+00:13:04,633 --> 00:13:06,000
+finishing with four air shards
+
+319
+00:13:06,000 --> 00:13:08,833
+and then five iron ingots and five air crystal powder
+
+320
+00:13:09,400 --> 00:13:11,233
+you should end up with four balance shards
+
+321
+00:13:11,233 --> 00:13:13,333
+five thaumium and five air shards
+
+322
+00:13:13,400 --> 00:13:15,333
+with no excess essentia in the crucible
+
+323
+00:13:16,066 --> 00:13:17,800
+it works the same way with any crystal powder
+
+324
+00:13:17,800 --> 00:13:19,600
+and with the shards in any order
+
+325
+00:13:20,433 --> 00:13:22,633
+if you're tired of running all over the place to charge your wand
+
+326
+00:13:22,666 --> 00:13:24,333
+you'll probably want some primal shrooms
+
+327
+00:13:25,066 --> 00:13:27,033
+you need to find vishrooms in a magical forest
+
+328
+00:13:27,033 --> 00:13:28,366
+which hopefully you found long ago
+
+329
+00:13:28,366 --> 00:13:30,600
+or the biome compass can lead you to easily
+
+330
+00:13:30,600 --> 00:13:32,500
+get quite literally as many as you can
+
+331
+00:13:32,500 --> 00:13:34,100
+and buy them from the quest book
+
+332
+00:13:35,900 --> 00:13:38,866
+a pumpkin and two tiny piles of stone dust and a vishroom
+
+333
+00:13:38,866 --> 00:13:39,733
+get you a primal
+
+334
+00:13:39,933 --> 00:13:41,033
+and that's free vis
+
+335
+00:13:41,933 --> 00:13:43,466
+the watering can works on him as well
+
+336
+00:13:43,833 --> 00:13:45,433
+no matter how much time you spend doing this
+
+337
+00:13:45,433 --> 00:13:47,633
+it's less than you would spend roaming node to node
+
+338
+00:13:48,200 --> 00:13:49,466
+and with thaumium and all the vis you need
+
+339
+00:13:49,466 --> 00:13:52,233
+you can start using the alchemical furnace with a couple of arcane alembics
+
+340
+00:13:52,233 --> 00:13:54,200
+to break down items into their component essentias
+
+341
+00:13:54,200 --> 00:13:55,600
+and store it all in jars
+
+342
+00:13:55,600 --> 00:13:57,200
+any combustible can fuel it
+
+343
+00:13:57,233 --> 00:13:59,233
+but aluminum makes it drain essentia faster
+
+344
+00:14:00,033 --> 00:14:02,900
+you can continue to use a regular crucible setup when you have perfect crafts
+
+345
+00:14:02,900 --> 00:14:04,833
+like for nitors, balance shards and thaumium
+
+346
+00:14:04,833 --> 00:14:08,500
+and now aluminum with three coal three tiny piles of stone dust and a coal dust
+
+347
+00:14:09,533 --> 00:14:11,066
+once there's essentia in the alembic
+
+348
+00:14:11,066 --> 00:14:11,833
+slap a label on it 
+
+349
+00:14:11,833 --> 00:14:13,300
+so we'll only accept that type
+
+350
+00:14:13,300 --> 00:14:14,266
+you can remove them
+
+351
+00:14:14,266 --> 00:14:16,600
+but this keeps the pipes from making things weird
+
+352
+00:14:16,600 --> 00:14:18,700
+essentia pipes are super goofy
+
+353
+00:14:18,900 --> 00:14:19,800
+but for our purposes
+
+354
+00:14:19,800 --> 00:14:21,666
+just pipe straight into a jar from the alembic
+
+355
+00:14:22,500 --> 00:14:23,733
+you can label the jars too
+
+356
+00:14:23,733 --> 00:14:26,700
+and Voila, restoring essentia for future use
+
+357
+00:14:26,800 --> 00:14:28,200
+and there's no need to wait
+
+358
+00:14:29,066 --> 00:14:32,000
+if you make a couple of alchemical constructs and stick them on top of crucible
+
+359
+00:14:32,100 --> 00:14:34,233
+now you got a system for perfect ratio Alchemy
+
+360
+00:14:34,466 --> 00:14:36,100
+just plug your jars into the sides
+
+361
+00:14:36,100 --> 00:14:36,833
+and Bingo Bango
+
+362
+00:14:37,500 --> 00:14:40,566
+you can also and should also upgrade your wand again
+
+363
+00:14:40,566 --> 00:14:42,833
+this time to the satin entwined greatwood wand
+
+364
+00:14:43,400 --> 00:14:45,400
+the quest is either or (?) and satin is better
+
+365
+00:14:45,400 --> 00:14:46,466
+so go for that
+
+366
+00:14:47,533 --> 00:14:50,933
+slap on your bewitch robes and leggings your goggles and your thaumaturges boots
+
+367
+00:14:50,933 --> 00:14:52,800
+and get your final wand upgrade for now
+
+368
+00:14:53,033 --> 00:14:54,700
+the gold banded greatwood scepter
+
+369
+00:14:55,200 --> 00:14:58,933
+you needed that 50 capacity wand specifically for the primal charm to make the next wand
+
+370
+00:14:59,433 --> 00:15:01,633
+this is how a wand progression works from here
+
+371
+00:15:01,633 --> 00:15:02,466
+so get used to it
+
+372
+00:15:03,833 --> 00:15:06,533
+with this wand you can start bringing home nodes in jars
+
+373
+00:15:06,533 --> 00:15:07,633
+check the research
+
+374
+00:15:07,733 --> 00:15:09,266
+shortening your vis recharge even more
+
+375
+00:15:09,266 --> 00:15:11,233
+and preparing for advanced thaumaturgy
+
+376
+00:15:12,000 --> 00:15:13,966
+and finally, the infusion altar
+
+377
+00:15:14,933 --> 00:15:16,866
+this is basically the end of the line for us for now
+
+378
+00:15:16,866 --> 00:15:20,433
+with this, the rest of thaumcraft and all the other magic mods are open to you
+
+379
+00:15:20,600 --> 00:15:23,600
+not to mention the best animation in the history of the game
+
+380
+00:15:24,333 --> 00:15:26,666
+hopefully you found a villager willing to trade you an ender pearl
+
+381
+00:15:26,666 --> 00:15:28,500
+if not you're waiting until HV for this
+
+382
+00:15:28,500 --> 00:15:29,700
+which is a big time bummer
+
+383
+00:15:29,700 --> 00:15:34,000
+because the boots of the traveler are so much better earlier than that
+
+384
+00:15:34,000 --> 00:15:35,233
+work on those first
+
+385
+00:15:35,233 --> 00:15:38,533
+and rejoice at how much more convenient getting around is about to become
+
+386
+00:15:38,533 --> 00:15:40,466
+the recipes show the ingredients around the center
+
+387
+00:15:40,466 --> 00:15:41,933
+and they don't need to be in perfect order
+
+388
+00:15:42,266 --> 00:15:44,333
+but they do need to be balanced on the pedestals
+
+389
+00:15:44,633 --> 00:15:48,100
+if there are four items to the left, put four on the right, and so on
+
+390
+00:15:48,100 --> 00:15:50,300
+some recipes don't have perfect balance
+
+391
+00:15:50,300 --> 00:15:51,833
+which can be a little jarring to look at
+
+392
+00:15:51,833 --> 00:15:53,033
+but they still work
+
+393
+00:15:53,033 --> 00:15:55,533
+every recipe also has a stability value
+
+394
+00:15:56,200 --> 00:15:57,633
+once you get the arcane abacus
+
+395
+00:15:57,633 --> 00:15:59,333
+you can have the recipe laid out on the pedestals
+
+396
+00:15:59,333 --> 00:16:01,433
+and the abacus will tell you the instability of the recipe
+
+397
+00:16:01,433 --> 00:16:02,966
+and the stability of your altar
+
+398
+00:16:02,966 --> 00:16:05,666
+sadly you can't get this until close to the end of MV
+
+399
+00:16:05,666 --> 00:16:07,533
+when you can get your first hv circuits
+
+400
+00:16:07,900 --> 00:16:10,733
+before that just overload on stability boosters
+
+401
+00:16:11,633 --> 00:16:13,333
+there are lots of blocks that can boost stability
+
+402
+00:16:13,333 --> 00:16:14,700
+and they all tell you that
+
+403
+00:16:14,700 --> 00:16:16,700
+the easiest way is probably quicksilver blocks
+
+404
+00:16:16,800 --> 00:16:18,333
+they make a symmetrical pattern under your altar
+
+405
+00:16:18,333 --> 00:16:20,533
+you can go another couple layers below as well
+
+406
+00:16:21,400 --> 00:16:22,733
+throw down some skulls or candles
+
+407
+00:16:22,733 --> 00:16:25,866
+and just make sure the pattern they have is symmetrical for the maximum boost
+
+408
+00:16:26,066 --> 00:16:27,366
+once you have some stability going
+
+409
+00:16:27,366 --> 00:16:28,300
+lay out a crafting recipe
+
+410
+00:16:28,300 --> 00:16:31,333
+and right click the matrix at the center with your wand to start the craft
+
+411
+00:16:31,333 --> 00:16:32,633
+after the boots of the traveler
+
+412
+00:16:32,633 --> 00:16:35,633
+it's up to you just how far down the rabbit hole you want to go
+
+413
+00:16:36,533 --> 00:16:38,300
+so now you know how to get into thaumcraft
+
+414
+00:16:38,433 --> 00:16:40,633
+the only question left is, why
+
+415
+00:16:41,633 --> 00:16:47,000
+beyond unlocking the other magic mods and finishing the pack that is well here's the thing
+
+416
+00:17:22,133 --> 00:17:24,000
+yeah worth
+
+417
+00:17:24,533 --> 00:17:26,433
+there's also the nano suit boots of the traveler
+
+418
+00:17:26,433 --> 00:17:28,633
+and the goggles of revealing to go with the rest of your nano suit
+
+419
+00:17:28,633 --> 00:17:29,833
+which are amazing
+
+420
+00:17:30,566 --> 00:17:33,900
+and a lot of players, including me, hardline the thaumcraft restorer (?)
+
+421
+00:17:34,133 --> 00:17:37,133
+which can repair, among other things, the oblivion frames
+
+422
+00:17:37,300 --> 00:17:39,300
+a crucial early item for bee progression
+
+423
+00:17:39,466 --> 00:17:41,900
+and the flight potion that grants create a flight
+
+424
+00:17:41,900 --> 00:17:43,100
+yeah you want this
+
+425
+00:17:44,433 --> 00:17:45,700
+short bit on bees
+
+426
+00:17:45,700 --> 00:17:49,066
+they are absurdly good in GTNH for everything
+
+427
+00:17:49,100 --> 00:17:50,266
+and i mean everything
+
+428
+00:17:50,600 --> 00:17:52,600
+they're reason enough to get as far as we've gone in the guide
+
+429
+00:17:53,100 --> 00:17:54,900
+they're the basis of my resource generation
+
+430
+00:17:54,900 --> 00:17:56,800
+and the power generation in my own world
+
+431
+00:17:56,866 --> 00:17:58,333
+outrageously good
+
+432
+00:17:58,600 --> 00:17:59,933
+if you want to learn how to do bees
+
+433
+00:17:59,933 --> 00:18:01,333
+check out Aditya's guide
+
+434
+00:18:01,333 --> 00:18:04,666
+by far the most exhaustive and useful guide on GTNH bee that exists
+
+435
+00:18:05,200 --> 00:18:07,466
+you'll be glad you invested in magic, i'll say that
+
+436
+00:18:08,533 --> 00:18:10,700
+and if you want to take thaumcraft farther than we've gone here
+
+437
+00:18:10,700 --> 00:18:11,833
+you'll need better wands
+
+438
+00:18:11,833 --> 00:18:15,233
+which threefold's GTNH spreadsheet has some amazing information on
+
+439
+00:18:15,433 --> 00:18:18,766
+as well as information on which items give the clearest source of essentia
+
+440
+00:18:18,766 --> 00:18:20,200
+routes to both are linked below
+
+441
+00:18:21,933 --> 00:18:24,033
+so with thaumcraft progression in the bag
+
+442
+00:18:24,033 --> 00:18:25,633
+you can move on to the other magic mods
+
+443
+00:18:25,633 --> 00:18:28,466
+all of which have conveniences that are nearly as good or better
+
+444
+00:18:29,133 --> 00:18:31,300
+how about some herbology next?
+
+445
+00:18:31,300 --> 00:18:33,200
+Botania has its own research chapter
+
+446
+00:18:33,200 --> 00:18:35,266
+which i'll assume you've completed as relevant here
+
+447
+00:18:36,700 --> 00:18:39,333
+it also has its own book, the Lexica Botania
+
+448
+00:18:39,433 --> 00:18:41,400
+which you should a hundred percent read
+
+449
+00:18:41,400 --> 00:18:43,066
+great mod book it must be said
+
+450
+00:18:43,066 --> 00:18:44,000
+cheers vasquez
+
+451
+00:18:45,200 --> 00:18:47,600
+you can actually get into Botania without doing thaumcraft
+
+452
+00:18:47,600 --> 00:18:48,866
+but it would be a little painful
+
+453
+00:18:49,266 --> 00:18:51,533
+no matter what you'll start by wandering the twilight forest
+
+454
+00:18:51,533 --> 00:18:53,866
+looking for caves that contain shimmering mushrooms
+
+455
+00:18:54,133 --> 00:18:55,966
+you'll be converting them to flowers using Alchemy
+
+456
+00:18:55,966 --> 00:18:57,266
+and like with most things
+
+457
+00:18:57,266 --> 00:18:59,200
+the more you collect the easier it will be to snowball
+
+458
+00:18:59,200 --> 00:19:00,333
+so keep at it for a bit
+
+459
+00:19:00,733 --> 00:19:02,600
+but you'll also unlock ways to duplicate them
+
+460
+00:19:02,600 --> 00:19:03,600
+also through alchemy
+
+461
+00:19:03,633 --> 00:19:04,833
+or you might have already
+
+462
+00:19:05,733 --> 00:19:08,233
+the Petal apothecary is the crafting table of Botania
+
+463
+00:19:08,433 --> 00:19:11,033
+and the first thing you want to make are pure daisies
+
+464
+00:19:11,033 --> 00:19:12,400
+to use the apothecary
+
+465
+00:19:12,433 --> 00:19:13,300
+fill with water
+
+466
+00:19:13,400 --> 00:19:14,433
+drop recipe items in
+
+467
+00:19:14,433 --> 00:19:16,933
+then toss seeds in to complete the craft
+
+468
+00:19:16,933 --> 00:19:19,700
+shift right click with an empty hand to repeat the whole recipe
+
+469
+00:19:23,233 --> 00:19:24,966
+a handful of pure daisies will do it
+
+470
+00:19:24,966 --> 00:19:27,400
+hop them down and surround each one with logs or stone
+
+471
+00:19:27,500 --> 00:19:29,900
+and in a jiff, they'll convert to living wood and living rock
+
+472
+00:19:32,266 --> 00:19:33,133
+with living wood in hand
+
+473
+00:19:33,133 --> 00:19:37,233
+make your first wand of the forest with a couple of petals and the colors of your preference
+
+474
+00:19:37,233 --> 00:19:38,266
+now you're ready to rock
+
+475
+00:19:38,600 --> 00:19:39,600
+living rock
+
+476
+00:19:40,300 --> 00:19:42,066
+we're Gonna speed run mana generation here
+
+477
+00:19:42,066 --> 00:19:42,933
+so buckle in
+
+478
+00:19:43,533 --> 00:19:44,566
+make the diluted mana pool
+
+479
+00:19:44,566 --> 00:19:47,433
+and get ready to trash it almost immediately
+
+480
+00:19:47,433 --> 00:19:50,000
+to start, you'll have to use dayblooms and nightshades
+
+481
+00:19:50,000 --> 00:19:52,700
+one generates mana during the day and the other at night
+
+482
+00:19:52,700 --> 00:19:54,900
+they die, so make sure you get your money's worth
+
+483
+00:19:54,900 --> 00:19:56,233
+place a mana spreader nearby
+
+484
+00:19:56,233 --> 00:20:00,066
+and shift right click on the flower then the spreader while in bind mode to link them
+
+485
+00:20:00,500 --> 00:20:02,600
+you'll see a green check mark indicating it was successful
+
+486
+00:20:02,600 --> 00:20:04,433
+and a nice particle effect showing the flow
+
+487
+00:20:05,000 --> 00:20:07,100
+do the same to the spreader and link it to the mana pool
+
+488
+00:20:10,533 --> 00:20:11,800
+as soon as you get the visual indicator
+
+489
+00:20:11,800 --> 00:20:14,533
+that you can make mana steel by dropping a steel ingot into the pool
+
+490
+00:20:14,533 --> 00:20:15,333
+do it
+
+491
+00:20:15,333 --> 00:20:18,200
+then immediately replace the diluted pool with a real mana pool
+
+492
+00:20:19,500 --> 00:20:22,333
+you might even salvage an extra bit of free mana from your first flowers
+
+493
+00:20:25,200 --> 00:20:27,333
+the next flower you want is the Emdoflame
+
+494
+00:20:27,333 --> 00:20:28,733
+which can eat combustibles
+
+495
+00:20:29,066 --> 00:20:31,900
+and whose only real difficulty is the burning blossoms from the nether
+
+496
+00:20:32,633 --> 00:20:34,300
+with a 30 second timer and a dropper
+
+497
+00:20:34,300 --> 00:20:36,700
+you can set up an Emdoflame to produce mana for a good long while
+
+498
+00:20:36,700 --> 00:20:41,100
+you can easily scale the same setup to a bunch of Emdoflames
+
+499
+00:20:41,100 --> 00:20:42,833
+long term, the thermolilly
+
+500
+00:20:42,833 --> 00:20:45,300
+paired with an ever burner and cycling buckets into droppers
+
+501
+00:20:45,300 --> 00:20:48,533
+and otherwise working exactly the same way as the emdoflame setup
+
+502
+00:20:48,533 --> 00:20:50,233
+using a timer set to five minutes
+
+503
+00:20:50,233 --> 00:20:52,566
+is going to produce massive amounts of mana
+
+504
+00:20:52,566 --> 00:20:55,233
+to get that one though you need the runic altar
+
+505
+00:20:56,033 --> 00:20:58,000
+luckily, you have thaumcraft infusion
+
+506
+00:20:58,000 --> 00:20:59,200
+so this is no big deal
+
+507
+00:20:59,933 --> 00:21:04,300
+you get the prismarine shards by dropping nether quartz in a mana pool with the alchemy catalyst underneath the pool
+
+508
+00:21:04,300 --> 00:21:05,966
+a bit more research and crafting
+
+509
+00:21:05,966 --> 00:21:07,100
+and they're all yours
+
+510
+00:21:07,533 --> 00:21:08,266
+once you have it
+
+511
+00:21:08,266 --> 00:21:10,066
+place a couple of spreaders next to your mana pool
+
+512
+00:21:10,066 --> 00:21:11,400
+and point them at the altar
+
+513
+00:21:13,400 --> 00:21:15,233
+right click the recipe items onto the altar
+
+514
+00:21:15,233 --> 00:21:17,800
+let the mana build up until you get a sweet lightning animation
+
+515
+00:21:17,800 --> 00:21:19,133
+then toss living rock on the top
+
+516
+00:21:19,133 --> 00:21:20,966
+and right click with the wand
+
+517
+00:21:20,966 --> 00:21:21,433
+bazinga
+
+518
+00:21:21,733 --> 00:21:22,633
+you're runicing
+
+519
+00:21:25,300 --> 00:21:26,933
+so why Botania
+
+520
+00:21:27,733 --> 00:21:28,600
+first of all
+
+521
+00:21:28,700 --> 00:21:31,666
+it looks cool and makes for awesome thematic decoration
+
+522
+00:21:32,333 --> 00:21:34,533
+secondly though is cheap tiered glass
+
+523
+00:21:34,533 --> 00:21:36,600
+and an excellent gregtech tool material
+
+524
+00:21:37,066 --> 00:21:40,300
+mana glass is way easier to make than the equivalent gregtech glass
+
+525
+00:21:40,300 --> 00:21:42,400
+which you'll need for some of the upcoming multi blocks
+
+526
+00:21:42,400 --> 00:21:47,100
+and mana steel and after EV terra steel are incredible tool materials for their time
+
+527
+00:21:47,866 --> 00:21:49,733
+not to mention the Botania tools themselves
+
+528
+00:21:49,733 --> 00:21:50,700
+which are insane
+
+529
+00:21:50,933 --> 00:21:54,300
+oh and fantastic potions, resource duplication and transmutation
+
+530
+00:21:55,500 --> 00:21:58,066
+the single longest crafting recipe in the entire game
+
+531
+00:21:58,733 --> 00:22:00,300
+and if you get through it all
+
+532
+00:22:00,300 --> 00:22:02,700
+the most Epic boss battle music of all time
+
+533
+00:22:03,833 --> 00:22:04,800
+what's not to love
+
+534
+00:22:07,133 --> 00:22:09,533
+next up, potions with professor Snape
+
+535
+00:22:09,733 --> 00:22:11,000
+it's time for witchery
+
+536
+00:22:11,133 --> 00:22:13,133
+and it begins with a bit of farming
+
+537
+00:22:13,133 --> 00:22:16,000
+actually hoeing the grass away from water to get the witchery seeds
+
+538
+00:22:16,300 --> 00:22:17,066
+farm them up
+
+539
+00:22:17,066 --> 00:22:18,233
+and beware the mandrakes
+
+540
+00:22:18,900 --> 00:22:20,100
+using the crossbow to break the plant
+
+541
+00:22:20,100 --> 00:22:22,100
+and immediately shoot the little guy tends to work
+
+542
+00:22:22,100 --> 00:22:24,533
+but if not, just make the earphones
+
+543
+00:22:25,166 --> 00:22:27,866
+secure the cauldron, the witch's oven and a bunch of clay jars
+
+544
+00:22:27,866 --> 00:22:29,800
+and start making all the odors and such
+
+545
+00:22:29,800 --> 00:22:31,700
+thapplings (?) might actually be a problem
+
+546
+00:22:31,800 --> 00:22:33,133
+you haven't needed them until now
+
+547
+00:22:33,200 --> 00:22:34,000
+enjoy
+
+548
+00:22:35,600 --> 00:22:36,833
+light a fire under the cauldron
+
+549
+00:22:36,833 --> 00:22:38,100
+fill it with three buckets of water
+
+550
+00:22:38,100 --> 00:22:40,433
+and toss in the items the quest book suggests one at a time
+
+551
+00:22:40,433 --> 00:22:41,933
+to get yourself some mutandis
+
+552
+00:22:45,466 --> 00:22:47,500
+and use the mutandis on grass or flowers
+
+553
+00:22:47,500 --> 00:22:49,333
+until you get three witchery saplings
+
+554
+00:22:49,500 --> 00:22:51,533
+Rowan, alder and hawthorn
+
+555
+00:22:51,933 --> 00:22:53,333
+then you might need a bit
+
+556
+00:22:54,066 --> 00:22:56,833
+farm some wood, and leave a couple of trees grown as well
+
+557
+00:22:56,833 --> 00:22:58,933
+the next thing you'll need is the witchery altar
+
+558
+00:22:59,000 --> 00:23:01,466
+and it gets more power the more variety of nature is around it
+
+559
+00:23:01,500 --> 00:23:03,500
+so max out the different trees and flowers
+
+560
+00:23:04,066 --> 00:23:06,533
+there are a few other things you can use to upgrade the ultra power as well
+
+561
+00:23:06,533 --> 00:23:08,333
+toss your own skull on there
+
+562
+00:23:08,600 --> 00:23:10,300
+candelabra you made with the altar
+
+563
+00:23:10,300 --> 00:23:11,833
+and the chalice from the quest
+
+564
+00:23:12,666 --> 00:23:14,200
+if you take the redstone soup award
+
+565
+00:23:14,200 --> 00:23:16,333
+you can upgrade the chalice right away and make it better
+
+566
+00:23:17,633 --> 00:23:20,600
+you need 5450 ultra power for the short term goal
+
+567
+00:23:20,600 --> 00:23:21,466
+and if you're way short
+
+568
+00:23:21,466 --> 00:23:23,100
+the Dragon egg will take you over the top
+
+569
+00:23:23,400 --> 00:23:24,900
+though that's a mission of its own
+
+570
+00:23:24,900 --> 00:23:26,400
+try some more nature first
+
+571
+00:23:27,366 --> 00:23:29,200
+to follow the quest book to the thing you actually want
+
+572
+00:23:29,200 --> 00:23:31,733
+you'll need to have a nightmare and visit the spirit world
+
+573
+00:23:32,266 --> 00:23:33,500
+grab yourself a kettle light
+
+574
+00:23:33,500 --> 00:23:34,166
+a fire under it
+
+575
+00:23:34,166 --> 00:23:35,600
+and craft up some brews to sleep
+
+576
+00:23:38,600 --> 00:23:41,933
+drink a sip of flight potion and night vision potion before you drink the brew
+
+577
+00:23:42,066 --> 00:23:43,466
+you can't bring anything with you
+
+578
+00:23:43,466 --> 00:23:45,966
+and you'll want to make this quick, trust me
+
+579
+00:23:46,433 --> 00:23:49,500
+immediately grab as much to serve cotton as you can find while dodging monsters
+
+580
+00:23:49,500 --> 00:23:50,666
+and then let one kill you
+
+581
+00:23:51,100 --> 00:23:52,800
+you're done with this dimension if you want
+
+582
+00:23:55,433 --> 00:23:57,333
+grab the spinning wheel and the distillery
+
+583
+00:23:57,333 --> 00:23:59,133
+luckily, your wand is up to snuff for the craft
+
+584
+00:23:59,133 --> 00:24:01,433
+since you need 80 vis capacity
+
+585
+00:24:01,433 --> 00:24:02,800
+now you can make the witch's robes
+
+586
+00:24:02,800 --> 00:24:04,866
+and most importantly diamond vapor
+
+587
+00:24:04,933 --> 00:24:07,933
+which unlocks the main reason you'd do witchery at all
+
+588
+00:24:07,933 --> 00:24:09,633
+biome changing potions
+
+589
+00:24:09,700 --> 00:24:13,600
+absolutely amazing for all those bees that have particular requirements for jubilation (?)
+
+590
+00:24:13,900 --> 00:24:15,333
+did i mention bees are awesome?
+
+591
+00:24:15,933 --> 00:24:16,966
+just grab a biome page
+
+592
+00:24:16,966 --> 00:24:20,566
+and toss the items the quest book suggests into the cauldron to brew
+
+593
+00:24:20,566 --> 00:24:22,966
+completely worth the effort on its own
+
+594
+00:24:22,966 --> 00:24:24,833
+to reiterate, these are absurd
+
+595
+00:24:25,000 --> 00:24:26,433
+but if that's not enough for you
+
+596
+00:24:26,833 --> 00:24:28,700
+you can get some insane potions from witchery
+
+597
+00:24:28,700 --> 00:24:29,800
+and the other were infusion
+
+598
+00:24:29,800 --> 00:24:31,900
+which is a legit substitute for the home command
+
+599
+00:24:32,033 --> 00:24:34,500
+oh and werewolves you can be a werewolf
+
+600
+00:24:34,900 --> 00:24:37,200
+there's lots of goofy stuff for multiplayer too
+
+601
+00:24:37,300 --> 00:24:41,133
+and lastly, you need those attuned stones you've been using to get into blood magic
+
+602
+00:24:42,500 --> 00:24:45,466
+and so we've arrived at the dark arts with he who must not be named
+
+603
+00:24:46,066 --> 00:24:48,133
+a joint enrollment class at devastate
+
+604
+00:24:48,133 --> 00:24:52,500
+fair warning, getting into blood magic is 100 percent going to increase your warp
+
+605
+00:24:52,733 --> 00:24:53,766
+so if you plan to do it early
+
+606
+00:24:53,766 --> 00:24:56,100
+plan not to have a way to deal with that
+
+607
+00:24:56,100 --> 00:24:58,900
+unless you've gone completely nuts with other warpy research
+
+608
+00:24:58,900 --> 00:24:59,700
+you'll be fine
+
+609
+00:25:00,200 --> 00:25:01,700
+but your soul is forfeit
+
+610
+00:25:01,700 --> 00:25:05,233
+the blood altar uses items from thaumcraft and witchery and some others
+
+611
+00:25:05,233 --> 00:25:07,100
+and requires the implosion compressor
+
+612
+00:25:07,133 --> 00:25:10,066
+which you can't make until you get HV circuits at the end of MV
+
+613
+00:25:10,233 --> 00:25:13,333
+and which you otherwise probably wouldn't make until you're thinking about the tier 1 Rocket
+
+614
+00:25:13,333 --> 00:25:14,600
+but you should for this
+
+615
+00:25:14,633 --> 00:25:16,433
+and since you only need two double compressed cobble
+
+616
+00:25:16,433 --> 00:25:18,066
+the powder barrels work fine
+
+617
+00:25:18,066 --> 00:25:20,400
+the blood altar is a multi block with six tiers
+
+618
+00:25:20,400 --> 00:25:22,133
+and we'll be rushing the tier 3 altar here
+
+619
+00:25:22,833 --> 00:25:25,033
+the tier 1 altar is just the block itself
+
+620
+00:25:25,200 --> 00:25:26,400
+and to fill it with blood at the start
+
+621
+00:25:26,400 --> 00:25:28,133
+you'll need the dagger of sacrifice
+
+622
+00:25:28,800 --> 00:25:30,233
+it's time for some bloodletting
+
+623
+00:25:30,733 --> 00:25:35,033
+this would be a massive literally painful grind if it weren't for your preparation
+
+624
+00:25:35,433 --> 00:25:37,733
+you've got all the options you need for regeneration potions
+
+625
+00:25:37,733 --> 00:25:38,866
+and if those don't suit you
+
+626
+00:25:38,866 --> 00:25:41,600
+a stockpile of red hearts from your blaze farm for instant regen
+
+627
+00:25:42,233 --> 00:25:45,533
+you might even have some industrious bees giving the regen effect constantly
+
+628
+00:25:45,533 --> 00:25:48,733
+with nothing, prepare for pure pain
+
+629
+00:25:49,433 --> 00:25:52,333
+with enough regen, prepare for easy street
+
+630
+00:25:52,333 --> 00:25:55,066
+craft yourself a ton of blank slates
+
+631
+00:25:55,400 --> 00:25:57,400
+you can use a hopper or conduit to do 10 at a time
+
+632
+00:25:57,400 --> 00:25:59,033
+for the cost of a full altar of blood
+
+633
+00:25:59,033 --> 00:26:02,500
+and a filtered EnderIO conduit for extracting only once you get the rune you want
+
+634
+00:26:02,533 --> 00:26:05,300
+and nothing else about slate crafting gets better than it is right now
+
+635
+00:26:05,300 --> 00:26:08,866
+assuming you have dank (?) regen until you get a ton of upgrade runes
+
+636
+00:26:09,000 --> 00:26:12,100
+which you can't make until you have a tier 3 altar and a ton of slates
+
+637
+00:26:12,533 --> 00:26:14,866
+A TON OF SLATES
+
+638
+00:26:17,200 --> 00:26:19,066
+and of course, the tier 1 blood orb
+
+639
+00:26:19,200 --> 00:26:19,833
+once you have it
+
+640
+00:26:19,833 --> 00:26:21,433
+right click while holding it to bind it
+
+641
+00:26:21,433 --> 00:26:23,900
+then stick it back in the altar and let it soak up some blood
+
+642
+00:26:24,433 --> 00:26:25,800
+you now have an LP network
+
+643
+00:26:27,400 --> 00:26:29,700
+the divination sigil will tell you how much LP you have
+
+644
+00:26:29,700 --> 00:26:31,533
+and there are a bunch of other cool sigils too
+
+645
+00:26:32,233 --> 00:26:34,966
+it takes eight blank runes to upgrade the altar to tier 2
+
+646
+00:26:34,966 --> 00:26:37,133
+and snag your tier 2 orb while you're there
+
+647
+00:26:37,133 --> 00:26:38,900
+and another 20 to upgrade to tier 3
+
+648
+00:26:39,433 --> 00:26:42,600
+four blank slates per rune for a total of 112 slates
+
+649
+00:26:42,600 --> 00:26:45,266
+and that's before you can get any runes that improve blood generation
+
+650
+00:26:45,933 --> 00:26:48,000
+each tier of the altar adds a tier of slate
+
+651
+00:26:48,000 --> 00:26:49,266
+and you'll want a bunch of tier 2
+
+652
+00:26:49,266 --> 00:26:50,633
+and at least a handful of tier 3
+
+653
+00:26:50,633 --> 00:26:52,833
+besides the ones you need for the rune upgrades
+
+654
+00:26:52,933 --> 00:26:54,800
+yeah you're gonna need a lot of blood
+
+655
+00:26:55,300 --> 00:26:58,300
+the tier 3 altar also requires blood soak thaumium blocks
+
+656
+00:26:58,300 --> 00:26:59,666
+so i hope you stocked up earlier
+
+657
+00:27:00,133 --> 00:27:03,866
+and the tier 3 blood orb specifically requires 30 thousand blood
+
+658
+00:27:04,100 --> 00:27:05,766
+so using speed runes might hurt you
+
+659
+00:27:05,766 --> 00:27:08,166
+unless you grind out some augment and capacity runes too
+
+660
+00:27:08,866 --> 00:27:12,933
+no matter what, you need to invest in runes before you'll be successful in making the tier 3 orb
+
+661
+00:27:13,100 --> 00:27:14,633
+but you need Titanium for that anyway
+
+662
+00:27:14,633 --> 00:27:15,866
+so you aren't making it now
+
+663
+00:27:15,933 --> 00:27:18,700
+and that means you have time to make the upgrade runes before the end of HV
+
+664
+00:27:19,133 --> 00:27:21,800
+which means you also have time for a little bit of blood Alchemy
+
+665
+00:27:22,600 --> 00:27:23,700
+after a bit more research
+
+666
+00:27:23,700 --> 00:27:25,333
+you can make the alchemist chemistry set
+
+667
+00:27:25,633 --> 00:27:28,133
+this thing has quite a few very useful recipes
+
+668
+00:27:28,133 --> 00:27:30,300
+but for now, you're after alchemy ingredients
+
+669
+00:27:31,066 --> 00:27:32,233
+simple catalyst
+
+670
+00:27:32,466 --> 00:27:33,666
+strengthen catalyst
+
+671
+00:27:33,866 --> 00:27:34,933
+sanctus
+
+672
+00:27:34,933 --> 00:27:35,933
+Tenere
+
+673
+00:27:35,933 --> 00:27:37,466
+Incendium
+
+674
+00:27:38,000 --> 00:27:38,900
+Potentia
+
+675
+00:27:39,466 --> 00:27:40,133
+Aether
+
+676
+00:27:41,066 --> 00:27:41,633
+Terre
+
+677
+00:27:42,200 --> 00:27:43,366
+and Aqua Salis
+
+678
+00:27:44,633 --> 00:27:45,400
+there are a few more too
+
+679
+00:27:45,400 --> 00:27:46,300
+but with all these
+
+680
+00:27:46,300 --> 00:27:48,900
+you'll be free to make that big decision
+
+681
+00:27:48,900 --> 00:27:51,000
+self sacrifice or sacrifice
+
+682
+00:27:51,600 --> 00:27:53,900
+you're going to sit tight at this level of blood magic for a bit
+
+683
+00:27:54,066 --> 00:27:55,933
+so some self sacrifice runes are worth it
+
+684
+00:27:56,233 --> 00:27:58,100
+they'll speed up the finger pricking substantially
+
+685
+00:27:58,866 --> 00:28:01,233
+consider the glass dagger of sacrifice if you go this route
+
+686
+00:28:02,066 --> 00:28:03,633
+if you plan to use the well of suffering
+
+687
+00:28:03,633 --> 00:28:05,300
+which you will eventually no matter what
+
+688
+00:28:05,300 --> 00:28:07,466
+you're gonna want runes of sacrifice instead
+
+689
+00:28:08,033 --> 00:28:10,400
+the problem is you need a tier 4 altar for that
+
+690
+00:28:10,466 --> 00:28:13,766
+and that will require more thaumcraft progression than you've done
+
+691
+00:28:13,766 --> 00:28:14,300
+a lot more
+
+692
+00:28:14,466 --> 00:28:16,066
+the dangerous kind
+
+693
+00:28:16,766 --> 00:28:19,800
+from this point, the quest book does a decent job of walking you through things
+
+694
+00:28:19,800 --> 00:28:21,433
+they also start to overlap a bit
+
+695
+00:28:21,433 --> 00:28:23,033
+and get a little bit complicated
+
+696
+00:28:23,033 --> 00:28:25,866
+so we may circle back for another round of magic at some point later in the guide
+
+697
+00:28:25,866 --> 00:28:27,766
+let me know if that interests you
+
+698
+00:28:27,766 --> 00:28:28,700
+maddening frames
+
+699
+00:28:28,700 --> 00:28:31,100
+which you might be able to make now if you've already gotten into bees a bit
+
+700
+00:28:31,100 --> 00:28:32,866
+and is incredible for bee breeding
+
+701
+00:28:33,566 --> 00:28:34,866
+the well of suffering
+
+702
+00:28:34,866 --> 00:28:36,700
+for infinite blood generation
+
+703
+00:28:39,133 --> 00:28:40,033
+bound tools
+
+704
+00:28:40,033 --> 00:28:44,933
+unbreakable tools that obliterate entire veins in one swing
+
+705
+00:28:44,933 --> 00:28:45,866
+bound armor
+
+706
+00:28:45,866 --> 00:28:47,700
+that makes you nearly invincible
+
+707
+00:28:47,700 --> 00:28:49,100
+and looks sick
+
+708
+00:28:49,100 --> 00:28:50,666
+energy blasters
+
+709
+00:28:50,666 --> 00:28:53,666
+for firing off devastating energy attacks
+
+710
+00:28:55,233 --> 00:28:56,866
+and if you're able to put it all together
+
+711
+00:28:56,866 --> 00:28:59,733
+completely automated resource from blood magic meteors
+
+712
+00:29:00,066 --> 00:29:02,600
+interdimensional item transport using magic mirrors
+
+713
+00:29:03,000 --> 00:29:06,466
+and enough item intake to deal with everything you've got
+
+714
+00:29:07,100 --> 00:29:08,300
+and thaumic energices
+
+715
+00:29:08,500 --> 00:29:10,933
+digital essentia storage and automation
+
+716
+00:29:11,600 --> 00:29:12,700
+magic is insane
+
+717
+00:29:12,700 --> 00:29:14,866
+and insanely underappreciated
+
+718
+00:29:15,433 --> 00:29:17,433
+GTNH is obviously a tech pack
+
+719
+00:29:17,633 --> 00:29:19,233
+there's a lot more than that under the hood
+
+720
+00:29:19,866 --> 00:29:21,933
+you got plenty to explore as you make more aluminum
+
+721
+00:29:21,933 --> 00:29:23,066
+repair your power system
+
+722
+00:29:23,066 --> 00:29:25,633
+and get yourself ready for the beast that is in MV
+
+723
+00:29:26,266 --> 00:29:27,500
+see you there for episode 7
+
+724
+00:00:00,300 --> 00:00:02,533
+你就是无法抗拒，是吗？
+
+725
+00:00:03,000 --> 00:00:05,466
+魔法的诱惑太强烈了
+
+726
+00:00:06,033 --> 00:00:08,633
+掌握Gregtech的力量对你来说还不够
+
+727
+00:00:09,200 --> 00:00:11,866
+只有绝对的力量才足够
+
+728
+00:00:11,866 --> 00:00:13,233
+神奇输液
+
+729
+00:00:13,500 --> 00:00:15,300
+血腥牺牲
+
+730
+00:00:15,800 --> 00:00:17,266
+巫术酿造品
+
+731
+00:00:17,933 --> 00:00:20,533
+你想要这一切，你需要这一切
+
+732
+00:00:21,333 --> 00:00:22,533
+但是它从哪里开始呢？
+
+733
+00:00:24,000 --> 00:00:25,433
+当然就在这里
+
+734
+00:00:25,500 --> 00:00:26,666
+恭喜
+
+735
+00:00:26,833 --> 00:00:29,600
+你等了一辈子的霍格沃茨的信刚刚到了
+
+736
+00:00:29,933 --> 00:00:32,866
+欢迎来到gregtech新视野初学者指南
+
+737
+00:00:33,066 --> 00:00:36,133
+第六集魔术
+
+738
+00:00:49,866 --> 00:00:51,166
+我们到了新基地
+
+739
+00:00:51,166 --> 00:00:52,433
+认识设计吗？
+
+740
+00:00:53,200 --> 00:00:56,966
+今天我们涵盖Thaumcraft、Botania、巫术和血魔法的基础知识
+
+741
+00:00:57,533 --> 00:01:01,333
+足以让你继续前进，走向魔法能在GTNH为你提供的许多快乐
+
+742
+00:01:02,066 --> 00:01:04,000
+哦，对了，这是GTNH。
+
+743
+00:01:04,500 --> 00:01:08,566
+这意味着魔法比你见过的任何东西都更有用更能整合
+
+744
+00:01:08,566 --> 00:01:10,833
+也比平时复杂一点
+
+745
+00:01:12,466 --> 00:01:14,333
+一如既往要事第一
+
+746
+00:01:14,700 --> 00:01:17,400
+请记住，至少目前这一切都是可选的
+
+747
+00:01:17,400 --> 00:01:18,733
+但有巨大的好处
+
+748
+00:01:19,433 --> 00:01:21,266
+和其他东西一样，你越早得到它们
+
+749
+00:01:21,266 --> 00:01:22,466
+他们得到的回报就越多
+
+750
+00:01:22,900 --> 00:01:25,933
+现在对魔法太着迷还为时过早
+
+751
+00:01:26,033 --> 00:01:27,300
+但现在你有铝了
+
+752
+00:01:27,466 --> 00:01:31,033
+还有一段时间等待得到足够的东西来制造你在上一集之后计划的电力系统
+
+753
+00:01:31,033 --> 00:01:31,933
+你可以开始了
+
+754
+00:01:32,300 --> 00:01:33,800
+如果你在战利品方面有点幸运
+
+755
+00:01:33,833 --> 00:01:35,000
+你可以走得很远
+
+756
+00:01:35,266 --> 00:01:37,966
+长短是你需要不锈钢
+
+757
+00:01:37,966 --> 00:01:40,600
+总共16块带你了解你将在这里看到的一切
+
+758
+00:01:40,600 --> 00:01:41,700
+和几只眼睛的安德
+
+759
+00:01:41,700 --> 00:01:44,933
+在你有机器可以用hv制造它们之前，你可以从村民那里得到它们。
+
+760
+00:01:45,433 --> 00:01:46,700
+即使你确实幸运地得到了战利品
+
+761
+00:01:46,700 --> 00:01:48,800
+本指南将带您直到MV结束才能完成
+
+762
+00:01:48,800 --> 00:01:50,233
+你需要一些MV机器
+
+763
+00:01:50,233 --> 00:01:51,133
+所以记住这一点
+
+764
+00:01:51,433 --> 00:01:52,600
+这远非你所需要的
+
+765
+00:01:52,600 --> 00:01:55,700
+你肯定不会就这么完成魔法升级
+
+766
+00:01:55,866 --> 00:01:57,100
+但这是新手引导
+
+767
+00:01:57,133 --> 00:01:58,033
+所以让我们开始吧
+
+768
+00:02:01,233 --> 00:02:02,500
+这一切都始于thaumcraft
+
+769
+00:02:03,000 --> 00:02:06,400
+这不是巧合，这是任务书调用的第一个魔法mod
+
+770
+00:02:06,400 --> 00:02:08,200
+开始使用任何其他魔法mod
+
+771
+00:02:08,200 --> 00:02:09,866
+你需要在Thaumcraft上取得一些进展
+
+772
+00:02:10,466 --> 00:02:12,900
+看来得到铝会打开任务章节
+
+773
+00:02:12,900 --> 00:02:14,600
+但是如果你去暮光之城的时候没有打开它
+
+774
+00:02:14,600 --> 00:02:18,033
+你真正需要的是一个回到“所以它开始”一章的任务
+
+775
+00:02:18,600 --> 00:02:19,400
+那是什么？
+
+776
+00:02:20,533 --> 00:02:22,433
+如果你找不到银木或大木
+
+777
+00:02:22,433 --> 00:02:23,933
+从任务书中购买树苗
+
+778
+00:02:24,266 --> 00:02:25,633
+如果你没有做副业
+
+779
+00:02:25,633 --> 00:02:28,100
+您现在可能需要做一些才能获得正确的硬币
+
+780
+00:02:28,100 --> 00:02:30,233
+不管怎样，你可以开始考虑你的第一根魔杖了
+
+781
+00:02:30,766 --> 00:02:32,500
+你去暮光之城挖矿了
+
+782
+00:02:32,500 --> 00:02:34,566
+现在是时候回去战斗了
+
+783
+00:02:34,566 --> 00:02:37,200
+哦，还有更多的采矿
+
+784
+00:02:37,433 --> 00:02:38,333
+在你去找老板之前
+
+785
+00:02:38,333 --> 00:02:39,500
+你可能想暂停一下
+
+786
+00:02:39,500 --> 00:02:41,833
+并查看Thaumcraft章节中的介绍性任务
+
+787
+00:02:42,600 --> 00:02:46,333
+首先，铁木很方便，如果你没有磨掉钴镐头
+
+788
+00:02:46,633 --> 00:02:48,666
+盔甲也很好，至少现在是这样
+
+789
+00:02:49,333 --> 00:02:51,233
+魔法地图现在也值得抢
+
+790
+00:02:51,233 --> 00:02:54,100
+因为它会直接指向你需要杀死的老板
+
+791
+00:02:54,100 --> 00:02:56,866
+说起来他们有很多人
+
+792
+00:02:56,866 --> 00:02:57,833
+但为了早期进展
+
+793
+00:02:57,833 --> 00:02:59,200
+你只需要杀两个
+
+794
+00:02:59,200 --> 00:03:00,900
+娜迦和巫妖王
+
+795
+00:03:01,733 --> 00:03:02,966
+那加号并不是超级危险
+
+796
+00:03:02,966 --> 00:03:04,200
+如果你有几颗多余的心
+
+797
+00:03:04,200 --> 00:03:05,333
+你可以直接冲过去
+
+798
+00:03:05,333 --> 00:03:06,633
+开始挥舞一把像样的剑
+
+799
+00:03:06,633 --> 00:03:08,333
+或者用你的碳臂弩射击
+
+800
+00:03:09,000 --> 00:03:10,166
+如果你有这种能力
+
+801
+00:03:10,166 --> 00:03:10,633
+杀几个
+
+802
+00:03:10,633 --> 00:03:12,833
+要制作第一根魔杖，你只需要两个秤
+
+803
+00:03:12,833 --> 00:03:16,033
+但是你需要在制作一根使用下一个老板掉落的魔杖之前进行升级
+
+804
+00:03:18,600 --> 00:03:19,833
+如果你想在纳迦之后停下来
+
+805
+00:03:19,833 --> 00:03:20,833
+稍后再做下一部分
+
+806
+00:03:20,833 --> 00:03:21,233
+感到自由
+
+807
+00:03:21,233 --> 00:03:23,333
+但是巫妖只是稍微复杂一点
+
+808
+00:03:23,900 --> 00:03:25,000
+顶上老板的房间
+
+809
+00:03:25,000 --> 00:03:26,533
+应该很明显是哪一个
+
+810
+00:03:26,533 --> 00:03:27,500
+并直接闯入
+
+811
+00:03:28,000 --> 00:03:29,066
+趁老板醒了
+
+812
+00:03:29,066 --> 00:03:32,066
+封锁楼梯，这样下面的暴徒就不会溜进竞技场了
+
+813
+00:03:32,233 --> 00:03:35,266
+此时发生爬虫爆炸是非常不合时宜的
+
+814
+00:03:36,366 --> 00:03:37,800
+拔出你的剑开始挥舞
+
+815
+00:03:37,800 --> 00:03:39,100
+这次是为了阻止僵尸
+
+816
+00:03:39,100 --> 00:03:42,633
+并尝试将飞行的内极反射回boss以移除环绕它们的护盾
+
+817
+00:03:42,933 --> 00:03:45,066
+一旦他们走了，杀死杀手
+
+818
+00:03:45,633 --> 00:03:46,266
+如果你被抓了
+
+819
+00:03:46,266 --> 00:03:48,633
+藏在侧室里或者直接跳出房间
+
+820
+00:03:48,800 --> 00:03:52,733
+如果你从你的火焰农场得到了一些红心，它们可以方便地立即再生。
+
+821
+00:03:52,733 --> 00:03:54,500
+再说一次杀几个老板是值得的
+
+822
+00:03:54,666 --> 00:03:56,533
+但是当你用巫妖骨头做魔杖的时候
+
+823
+00:03:56,533 --> 00:03:59,466
+你要准备好用战利品来制作骨头
+
+824
+00:04:01,033 --> 00:04:02,133
+在你离开暮色之前
+
+825
+00:04:02,133 --> 00:04:04,000
+拿几堆价值的碎片矿石
+
+826
+00:04:04,433 --> 00:04:06,500
+矿石翻倍非常缓慢
+
+827
+00:04:06,500 --> 00:04:08,466
+所以你可能想从直接熔炼开始
+
+828
+00:04:09,100 --> 00:04:12,466
+如果是这样，考虑从暮光之城森林任务中获得丝绸珠宝奖励
+
+829
+00:04:12,466 --> 00:04:13,866
+不管怎样，都要得到很多。
+
+830
+00:04:14,600 --> 00:04:15,466
+一旦你回家
+
+831
+00:04:15,466 --> 00:04:17,566
+制作魔杖是最基本的
+
+832
+00:04:17,566 --> 00:04:18,733
+奥伦多快乐（？）
+
+833
+00:04:21,133 --> 00:04:22,866
+现在雪球可以开始滚动了
+
+834
+00:04:22,866 --> 00:04:26,133
+用魔杖右键单击书架以获取您的thaumonicon
+
+835
+00:04:26,133 --> 00:04:29,066
+用魔杖右键单击一张桌子以获得您的神秘工作台
+
+836
+00:04:32,700 --> 00:04:35,100
+用魔杖右键单击一个大锅以获得您的坩埚
+
+837
+00:04:37,666 --> 00:04:40,900
+右键单击两个带有描述工具的表格以获取您的研究站
+
+838
+00:04:44,200 --> 00:04:46,300
+然后用你的碎片制作地震仪
+
+839
+00:04:46,933 --> 00:04:49,800
+你已经掌握了霍格莫德之旅的基本知识？）已经结束
+
+840
+00:04:52,633 --> 00:04:54,700
+就这样霍格沃茨特快把你放下了
+
+841
+00:04:54,700 --> 00:04:55,833
+这是你的第一堂课
+
+842
+00:04:55,866 --> 00:04:57,100
+所以密切关注
+
+843
+00:04:57,700 --> 00:05:01,233
+Thaumcraft研究是一个小游戏，花费积分来完成一系列方面
+
+844
+00:05:01,500 --> 00:05:04,666
+方面是魔术的核心元素，游戏中的一切都是由
+
+845
+00:05:05,433 --> 00:05:07,000
+一切都是由不同的方面组成的
+
+846
+00:05:07,000 --> 00:05:09,733
+每项研究都由不同的方面组成
+
+847
+00:05:09,733 --> 00:05:13,033
+需要通过共享部分组成的其他方面进行连接
+
+848
+00:05:13,033 --> 00:05:14,733
+在我们太担心之前
+
+849
+00:05:14,733 --> 00:05:16,466
+你需要积累一些方面
+
+850
+00:05:16,900 --> 00:05:19,700
+任务书有一个很好的列表，列出了很快要扫描的所有方面
+
+851
+00:05:19,700 --> 00:05:21,466
+不要太担心你解锁了什么
+
+852
+00:05:21,466 --> 00:05:22,833
+现在就扫描一下清单
+
+853
+00:05:24,933 --> 00:05:26,800
+你可以拿着测风仪看东西
+
+854
+00:05:26,800 --> 00:05:28,600
+或悬停在库存中的物品上
+
+855
+00:05:29,133 --> 00:05:32,400
+正如任务书所指出的，第一组东西需要按顺序扫描
+
+856
+00:05:32,466 --> 00:05:33,466
+不要跳过任何
+
+857
+00:05:33,466 --> 00:05:35,866
+扫描列表中尽可能多的其他东西，因为你有或可以找到
+
+858
+00:05:35,866 --> 00:05:37,433
+并准备好制造东西
+
+859
+00:05:37,433 --> 00:05:38,700
+或者去杀暴徒抢夺战利品
+
+860
+00:05:38,700 --> 00:05:39,433
+或者去打猎
+
+861
+00:05:39,900 --> 00:05:42,400
+如果您收到一条消息，说您缺少扫描项目的知识
+
+862
+00:05:42,400 --> 00:05:44,733
+跳过它，下次看到该消息时再圈回它
+
+863
+00:05:45,266 --> 00:05:48,400
+这是一个一次性的努力解锁知识的所有方面
+
+864
+00:05:48,400 --> 00:05:50,100
+所以全力以赴完成它
+
+865
+00:05:50,100 --> 00:05:51,933
+对于受污染的任何物品
+
+866
+00:05:52,066 --> 00:05:54,033
+你最好的选择是找到一个受污染的土地生物群落
+
+867
+00:05:54,700 --> 00:05:56,666
+你可能要旅行很长时间才能找到一个
+
+868
+00:05:56,666 --> 00:05:57,533
+使用生物群落指南针
+
+869
+00:05:57,600 --> 00:06:00,566
+如果你还没有的话，在你外出的时候找到一个神奇的森林
+
+870
+00:06:00,566 --> 00:06:01,866
+一旦你找到被污染的土地
+
+871
+00:06:01,866 --> 00:06:03,433
+扫描受污染的东西然后保释
+
+872
+00:06:03,433 --> 00:06:05,233
+不要卸载这个区域
+
+873
+00:06:05,233 --> 00:06:07,266
+如果你靠近它，移动
+
+874
+00:06:07,266 --> 00:06:09,400
+不管有多费时
+
+875
+00:06:10,000 --> 00:06:14,066
+如果你不小心，你刚刚观察到了你基地和整个世界的未来
+
+876
+00:06:14,300 --> 00:06:15,400
+全部消耗殆尽
+
+877
+00:06:15,833 --> 00:06:18,766
+这就是为什么我不建议尝试探索书推荐的方法
+
+878
+00:06:18,766 --> 00:06:20,600
+除非你有经验
+
+879
+00:06:21,100 --> 00:06:22,700
+现在你有了所有的方面
+
+880
+00:06:22,700 --> 00:06:24,800
+扫描你拥有的所有东西
+
+881
+00:06:26,800 --> 00:06:29,700
+您可以在NEI中查看它们，以查看扫描时哪些项目会产生这些方面
+
+882
+00:06:29,700 --> 00:06:31,333
+或者穿过炼金炉
+
+883
+00:06:33,600 --> 00:06:35,800
+现在也再看看你的研究站
+
+884
+00:06:35,800 --> 00:06:36,866
+所有方面都在那里
+
+885
+00:06:36,866 --> 00:06:38,733
+准备用于研究小游戏
+
+886
+00:06:39,100 --> 00:06:42,566
+每个都有一个数字，表示您扫描了该方面的值多少点
+
+887
+00:06:42,566 --> 00:06:43,666
+积累更多
+
+888
+00:06:43,666 --> 00:06:46,133
+您需要扫描包含该方面类型的新项目
+
+889
+00:06:46,633 --> 00:06:50,100
+一般来说，你会想扫描你在飞船前进中遇到的每一件新东西
+
+890
+00:06:50,100 --> 00:06:52,433
+回去扫描你所有的东西
+
+891
+00:06:53,066 --> 00:06:57,400
+你可能会注意到你积累的几个特定方面比你做任何其他事情都多
+
+892
+00:06:57,400 --> 00:06:59,700
+因为你有多少独特的机器可以扫描
+
+893
+00:07:00,233 --> 00:07:01,700
+奥多和乐器
+
+894
+00:07:04,200 --> 00:07:06,000
+如果苯是权力的隐喻
+
+895
+00:07:06,133 --> 00:07:08,666
+奥多和工具是神器研究的隐喻
+
+896
+00:07:09,400 --> 00:07:10,866
+除了原始方面
+
+897
+00:07:10,866 --> 00:07:14,066
+每一个其他方面都是由另外两个方面组成的
+
+898
+00:07:14,833 --> 00:07:17,666
+例如，空气加ordo使motus
+
+899
+00:07:19,300 --> 00:07:21,233
+库存中有划线工具和纸张
+
+900
+00:07:21,233 --> 00:07:24,000
+点击thomsonomicon中的无研究以获取研究表
+
+901
+00:07:24,000 --> 00:07:26,600
+用划线工具把它插在桌子上
+
+902
+00:07:27,033 --> 00:07:32,600
+研究小游戏的工作方式是使用由它们组成的其他方面连接研究表上开始的方面
+
+903
+00:07:33,600 --> 00:07:35,300
+motus可以放在ordo旁边
+
+904
+00:07:35,300 --> 00:07:37,500
+因为motus是由ordo组成的
+
+905
+00:07:37,500 --> 00:07:39,300
+空气可以放在motus的另一边
+
+906
+00:07:39,300 --> 00:07:41,666
+因为motus也是由空气组成的
+
+907
+00:07:41,666 --> 00:07:44,833
+现在我们通过motus找到了ordo和air之间的联系
+
+908
+00:07:46,500 --> 00:07:47,533
+完成研究
+
+909
+00:07:47,533 --> 00:07:50,033
+您只需使用相同的想法连接所有方面
+
+910
+00:07:50,066 --> 00:07:52,633
+这两个不同的方面取决于研究的开始
+
+911
+00:07:52,666 --> 00:07:53,233
+有意义吗？
+
+912
+00:07:53,233 --> 00:07:54,900
+在你玩了一会儿之后
+
+913
+00:07:54,900 --> 00:07:59,900
+您可能会注意到，几乎每项研究都可以通过首先将起始方面转换为ordo或Instrentumum来完成
+
+914
+00:07:59,900 --> 00:08:02,200
+然后在两者之间交替以弥合差距
+
+915
+00:08:02,666 --> 00:08:04,566
+东西应该同时加载这两个东西
+
+916
+00:08:04,566 --> 00:08:06,700
+可能很难得到其他大量供应的东西。
+
+917
+00:08:06,833 --> 00:08:07,733
+这就是方法
+
+918
+00:08:09,233 --> 00:08:10,333
+当你解锁研究时
+
+919
+00:08:10,333 --> 00:08:13,000
+你会注意到其中一些被贴上了禁忌知识的标签。
+
+920
+00:08:13,000 --> 00:08:15,066
+程度不同的
+
+921
+00:08:15,066 --> 00:08:16,600
+这是雷神级曲速
+
+922
+00:08:16,866 --> 00:08:19,533
+或者用一种方式来表示你使用了多少黑魔法
+
+923
+00:08:19,533 --> 00:08:22,966
+你做的越多，数字越大，后果也越大
+
+924
+00:08:22,966 --> 00:08:25,000
+直到你在基地里产卵
+
+925
+00:08:25,833 --> 00:08:28,866
+起始效果范围从愚蠢到古怪再到烦人
+
+926
+00:08:29,133 --> 00:08:30,866
+后来的影响可能是彻头彻尾的邪恶
+
+927
+00:08:31,633 --> 00:08:34,300
+开始时不要太担心，不要忘乎所以
+
+928
+00:08:35,833 --> 00:08:38,866
+任务书将引导您在高级thaumcraft章节中如何处理它
+
+929
+00:08:38,866 --> 00:08:39,900
+但不会很快
+
+930
+00:08:42,500 --> 00:08:43,566
+现在关于你的污点
+
+931
+00:08:43,566 --> 00:08:44,800
+额
+
+932
+00:08:45,100 --> 00:08:48,866
+总之，污染的其中一个后果就是给这个世界带来了太多的通量。
+
+933
+00:08:48,866 --> 00:08:50,033
+对，另一个术语
+
+934
+00:08:50,433 --> 00:08:51,900
+把通量想象成多余的魔法
+
+935
+00:08:51,900 --> 00:08:54,100
+如果你把一堆垃圾放进坩埚
+
+936
+00:08:54,100 --> 00:08:56,766
+在做了你想要的东西后，它会留下一堆额外的垃圾。
+
+937
+00:08:56,766 --> 00:08:57,833
+你得到通量
+
+938
+00:08:58,133 --> 00:09:00,533
+你可能会认为这是溢出的紫色粘性物质
+
+939
+00:09:00,866 --> 00:09:02,233
+一点点没关系
+
+940
+00:09:02,300 --> 00:09:04,033
+只要在上面放块就可以清理了
+
+941
+00:09:04,433 --> 00:09:07,933
+太多的流量真的，真的，真的很糟糕
+
+942
+00:09:08,433 --> 00:09:11,500
+就像在你的基地创造一个无限蔓延的污染土地生物群落
+
+943
+00:09:11,866 --> 00:09:14,433
+如果你真的是太粗心了
+
+944
+00:09:14,433 --> 00:09:16,633
+但如果您是mod的新手，这并非不可能
+
+945
+00:09:17,000 --> 00:09:19,466
+有很多方法可以使用微块和活板门
+
+946
+00:09:19,466 --> 00:09:20,633
+但这是新手引导
+
+947
+00:09:20,633 --> 00:09:23,800
+所以我们要专注于按照mod提供的方式进行安全制作
+
+948
+00:09:24,766 --> 00:09:27,133
+关于thaumonomicon和研究的快速笔记
+
+949
+00:09:27,333 --> 00:09:29,500
+研究分为几页或几章
+
+950
+00:09:29,500 --> 00:09:30,833
+或者随便你怎么称呼他们
+
+951
+00:09:31,233 --> 00:09:33,366
+基本信息是一切的开始
+
+952
+00:09:33,366 --> 00:09:36,933
+如果不是所有这些都值得马上抓住，让研究点走得更远
+
+953
+00:09:36,933 --> 00:09:39,900
+并确保您在给魔杖充电时不会意外破坏节点
+
+954
+00:09:40,133 --> 00:09:41,200
+我们一会儿再谈这个
+
+955
+00:09:41,933 --> 00:09:45,233
+神学是关于制作和使用魔杖的基础知识
+
+956
+00:09:45,866 --> 00:09:49,400
+炼金术是关于用坩埚和金属蜕变来制作
+
+957
+00:09:50,033 --> 00:09:52,633
+技巧是关于工具和实用物品的
+
+958
+00:09:52,866 --> 00:09:55,333
+里面有很多好东西包括输液
+
+959
+00:09:56,100 --> 00:09:57,733
+还有很多章节
+
+960
+00:09:57,933 --> 00:10:00,466
+一些奇怪的特定的，比如血魔法和植物
+
+961
+00:10:00,666 --> 00:10:02,800
+有些只是包含更多很酷和有用的东西
+
+962
+00:10:03,100 --> 00:10:06,100
+有些你不会解锁，直到你疯了，结束游戏
+
+963
+00:10:07,133 --> 00:10:09,233
+涵盖这本书里的所有内容需要几个小时
+
+964
+00:10:09,233 --> 00:10:10,433
+所以我们不会在这里这样做
+
+965
+00:10:10,533 --> 00:10:12,866
+重点是你不需要每一项研究
+
+966
+00:10:12,866 --> 00:10:14,500
+甚至不是一章中的每一项研究
+
+967
+00:10:14,666 --> 00:10:16,333
+但相信我你可能会想要它们
+
+968
+00:10:16,866 --> 00:10:19,600
+我们要讨论的内容都在我刚才提到的章节里
+
+969
+00:10:19,600 --> 00:10:20,200
+所以从那里开始
+
+970
+00:10:22,000 --> 00:10:23,200
+还有一件关于研究的事情
+
+971
+00:10:23,200 --> 00:10:25,033
+如果您提前知道您想要的商品
+
+972
+00:10:25,033 --> 00:10:27,433
+比方说旅行者的靴子
+
+973
+00:10:27,733 --> 00:10:29,400
+你会发现你没有研究
+
+974
+00:10:29,600 --> 00:10:34,700
+关于thaumcraft的一个棘手的部分是，很难知道什么研究开启了你真正想要的研究
+
+975
+00:10:34,700 --> 00:10:35,433
+不在GTNH
+
+976
+00:10:36,100 --> 00:10:38,666
+将鼠标悬停在研究名称上会告诉您父研究是什么
+
+977
+00:10:38,666 --> 00:10:39,733
+以及他们在哪个章节
+
+978
+00:10:39,733 --> 00:10:41,400
+有时可以是直接路径
+
+979
+00:10:41,700 --> 00:10:43,433
+如果你也看不到先决条件研究
+
+980
+00:10:43,433 --> 00:10:46,433
+维基中有一份研究备忘单，链接如下
+
+981
+00:10:47,033 --> 00:10:48,300
+它需要一些弹跳
+
+982
+00:10:48,300 --> 00:10:48,900
+但最终
+
+983
+00:10:48,900 --> 00:10:50,466
+你可以找到你需要的所有研究在哪里
+
+984
+00:10:50,466 --> 00:10:51,566
+以及在哪里解锁
+
+985
+00:10:51,566 --> 00:10:56,133
+您还可以打开mod选项，让您查看尚未研究的项目的食谱
+
+986
+00:10:56,133 --> 00:10:56,866
+mod选项
+
+987
+00:10:56,866 --> 00:10:58,633
+Thaumcraft NEI添加
+
+988
+00:10:58,633 --> 00:10:59,200
+将军
+
+989
+00:10:59,200 --> 00:11:00,800
+显示锁定的食谱
+
+990
+00:11:01,433 --> 00:11:02,266
+但公平的警告
+
+991
+00:11:02,500 --> 00:11:05,166
+如果它开着，很难判断你到底研究了什么
+
+992
+00:11:05,166 --> 00:11:06,333
+虽然有用
+
+993
+00:11:07,066 --> 00:11:10,800
+接下来我会假设你已经有了你需要的所有研究
+
+994
+00:11:10,800 --> 00:11:13,833
+如果你完成了thaumonicon前四章的大部分内容
+
+995
+00:11:13,833 --> 00:11:14,800
+你会的
+
+996
+00:11:16,533 --> 00:11:17,900
+使用thaumcraft取得任何进展
+
+997
+00:11:17,900 --> 00:11:19,166
+你需要输液祭坛
+
+998
+00:11:19,166 --> 00:11:21,300
+要使用它，你需要一罐罐香精
+
+999
+00:11:21,300 --> 00:11:24,366
+要得到这些，你需要一个炼金炉和一些奥术铝（？）
+
+1000
+00:11:24,366 --> 00:11:26,933
+并在魔杖中制作你需要的东西
+
+1001
+00:11:28,900 --> 00:11:31,066
+带上你自己的护目镜
+
+1002
+00:11:31,066 --> 00:11:31,700
+哦等等
+
+1003
+00:11:32,033 --> 00:11:34,700
+你的20容量魔杖太垃圾了
+
+1004
+00:11:34,700 --> 00:11:36,366
+我们会马上解决的
+
+1005
+00:11:36,866 --> 00:11:39,233
+取而代之的是拿起你的地震仪开始游荡
+
+1006
+00:11:39,433 --> 00:11:40,266
+你在寻找节点
+
+1007
+00:11:40,266 --> 00:11:43,133
+它会以明亮的光球出现，直到你靠近
+
+1008
+00:11:43,133 --> 00:11:45,833
+扫描它们，你可以看到它们是由哪些方面组成的
+
+1009
+00:11:45,833 --> 00:11:47,633
+它们大多是最原始的方面
+
+1010
+00:11:47,633 --> 00:11:49,766
+这很好，因为这就是你需要的
+
+1011
+00:11:49,766 --> 00:11:51,800
+晚上搜查能让他们更容易被发现
+
+1012
+00:11:51,800 --> 00:11:54,633
+它们有轻微的光特征类似于蜂巢
+
+1013
+00:11:55,433 --> 00:11:59,333
+你需要至少一个原始方面足够数量来填满你的魔杖
+
+1014
+00:11:59,333 --> 00:12:00,466
+而且越多越好
+
+1015
+00:12:00,866 --> 00:12:02,666
+你不应该走得太远就能得到它
+
+1016
+00:12:03,566 --> 00:12:05,166
+用魔杖右键点击充电
+
+1017
+00:12:05,166 --> 00:12:08,133
+小心不要把节点排空并摧毁它们
+
+1018
+00:12:08,133 --> 00:12:09,300
+这根魔杖坏了
+
+1019
+00:12:12,033 --> 00:12:15,000
+你的首要任务是制作一根足够好的魔杖来获得揭示的护目镜
+
+1020
+00:12:15,000 --> 00:12:17,566
+最终，您可以提前制作其余的vis折扣装备
+
+1021
+00:12:17,566 --> 00:12:19,400
+并阻止自己破网
+
+1022
+00:12:20,300 --> 00:12:21,733
+既然你幸运地用了不锈钢
+
+1023
+00:12:21,733 --> 00:12:23,866
+你可以直接跳到铁帽巨木魔杖
+
+1024
+00:12:24,266 --> 00:12:25,733
+这将vis容量提升到40
+
+1025
+00:12:25,733 --> 00:12:27,700
+如果你有节点保存器研究
+
+1026
+00:12:27,700 --> 00:12:29,400
+将防止您破坏节点
+
+1027
+00:12:29,433 --> 00:12:31,033
+除非你在充电时偷偷摸摸
+
+1028
+00:12:31,933 --> 00:12:33,066
+抓住揭示的护目镜
+
+1029
+00:12:33,100 --> 00:12:34,200
+找到更多节点
+
+1030
+00:12:34,200 --> 00:12:35,933
+这次容易多了
+
+1031
+00:12:36,633 --> 00:12:40,033
+然后开始设计魔法长袍魔法紧身裤和Thaumatry的靴子
+
+1032
+00:12:40,033 --> 00:12:41,800
+最大限度地提高您的手工艺折扣
+
+1033
+00:12:42,133 --> 00:12:44,233
+你需要纺车和一些钍
+
+1034
+00:12:44,600 --> 00:12:46,166
+是时候谈谈炼金术了
+
+1035
+00:12:47,000 --> 00:12:49,533
+你想从坩埚里得到的第一件事就是nitor
+
+1036
+00:12:49,633 --> 00:12:53,400
+所以把四个火把两个煤和一块发光石扔进去制作它
+
+1037
+00:12:53,400 --> 00:12:55,200
+那是你第一个完美的手艺
+
+1038
+00:12:55,433 --> 00:12:56,800
+再见火
+
+1039
+00:12:58,266 --> 00:13:02,800
+接下来你想要的是大量的平衡碎片和thaumium，thaumcraft贱金属
+
+1040
+00:13:02,800 --> 00:13:04,633
+每个碎片扔四个
+
+1041
+00:13:04,633 --> 00:13:06,000
+用四个空气碎片完成
+
+1042
+00:13:06,000 --> 00:13:08,833
+然后是五个铁锭和五个空气水晶粉
+
+1043
+00:13:09,400 --> 00:13:11,233
+你应该得到四个平衡碎片
+
+1044
+00:13:11,233 --> 00:13:13,333
+五个钍和五个空气碎片
+
+1045
+00:13:13,400 --> 00:13:15,333
+坩埚里没有多余的香精
+
+1046
+00:13:16,066 --> 00:13:17,800
+它与任何水晶粉末的工作方式相同
+
+1047
+00:13:17,800 --> 00:13:19,600
+碎片按任何顺序排列
+
+1048
+00:13:20,433 --> 00:13:22,633
+如果你厌倦了跑来跑去给你的魔杖充电
+
+1049
+00:13:22,666 --> 00:13:24,333
+你可能会想要一些原始蘑菇
+
+1050
+00:13:25,066 --> 00:13:27,033
+你需要在魔法森林里找到客厅
+
+1051
+00:13:27,033 --> 00:13:28,366
+希望你很久以前就找到了。
+
+1052
+00:13:28,366 --> 00:13:30,600
+或者生物群落指南针可以很容易地引导你
+
+1053
+00:13:30,600 --> 00:13:32,500
+尽可能多地获得
+
+1054
+00:13:32,500 --> 00:13:34,100
+并从任务书中购买它们
+
+1055
+00:13:35,900 --> 00:13:38,866
+一个南瓜、两小堆石灰和一个客厅
+
+1056
+00:13:38,866 --> 00:13:39,733
+给你一个原始的
+
+1057
+00:13:39,933 --> 00:13:41,033
+这是免费的。
+
+1058
+00:13:41,933 --> 00:13:43,466
+喷壶对他也有效
+
+1059
+00:13:43,833 --> 00:13:45,433
+不管你花多少时间做这件事
+
+1060
+00:13:45,433 --> 00:13:47,633
+这比您在节点到节点漫游时花费的要少
+
+1061
+00:13:48,200 --> 00:13:49,466
+有了钍和所有你需要的东西
+
+1062
+00:13:49,466 --> 00:13:52,233
+你可以开始用炼金炉和一些奥术炼金术
+
+1063
+00:13:52,233 --> 00:13:54,200
+将项目分解为其组件要素
+
+1064
+00:13:54,200 --> 00:13:55,600
+并将其全部储存在罐子里
+
+1065
+00:13:55,600 --> 00:13:57,200
+任何可燃物都可以为其提供燃料
+
+1066
+00:13:57,233 --> 00:13:59,233
+但是铝能让它更快地排出精华。
+
+1067
+00:14:00,033 --> 00:14:02,900
+当您有完美的工艺时，您可以继续使用常规坩埚设置
+
+1068
+00:14:02,900 --> 00:14:04,833
+就像nitor、平衡碎片和thaumium一样
+
+1069
+00:14:04,833 --> 00:14:08,500
+现在是铝和三个煤，三个小堆石粉和一个煤粉
+
+1070
+00:14:09,533 --> 00:14:11,066
+一旦有了精华素
+
+1071
+00:14:11,066 --> 00:14:11,833
+贴上标签
+
+1072
+00:14:11,833 --> 00:14:13,300
+所以我们只接受那种类型的
+
+1073
+00:14:13,300 --> 00:14:14,266
+你可以删除它们
+
+1074
+00:14:14,266 --> 00:14:16,600
+但这可以防止水管让事情变得奇怪
+
+1075
+00:14:16,600 --> 00:14:18,700
+Esentia管道超级愚蠢
+
+1076
+00:14:18,900 --> 00:14:19,800
+但为了我们的目的
+
+1077
+00:14:19,800 --> 00:14:21,666
+直接从蒸馏器里装到罐子里就行了
+
+1078
+00:14:22,500 --> 00:14:23,733
+你也可以给罐子贴上标签。
+
+1079
+00:14:23,733 --> 00:14:26,700
+瞧，恢复必需品以备将来使用
+
+1080
+00:14:26,800 --> 00:14:28,200
+没有必要等待
+
+1081
+00:14:29,066 --> 00:14:32,000
+如果你做几个炼金术构造并把它们粘在坩埚上
+
+1082
+00:14:32,100 --> 00:14:34,233
+现在你有一个完美比例炼金术的系统
+
+1083
+00:14:34,466 --> 00:14:36,100
+只需将您的罐子插入侧面
+
+1084
+00:14:36,100 --> 00:14:36,833
+和宾果邦戈
+
+1085
+00:14:37,500 --> 00:14:40,566
+您还可以并且应该再次升级您的魔杖
+
+1086
+00:14:40,566 --> 00:14:42,833
+这次是缎子缠绕的巨木魔杖
+
+1087
+00:14:43,400 --> 00:14:45,400
+任务是要么（？）缎子更好
+
+1088
+00:14:45,400 --> 00:14:46,466
+所以去做吧
+
+1089
+00:14:47,533 --> 00:14:50,933
+穿上你迷人的长袍和紧身裤，你的护目镜和你的thaumatush靴子
+
+1090
+00:14:50,933 --> 00:14:52,800
+并暂时升级您的最终魔杖
+
+1091
+00:14:53,033 --> 00:14:54,700
+金带大木权杖
+
+1092
+00:14:55,200 --> 00:14:58,933
+你需要那根50容量的魔杖专门用于原始魅力来制作下一根魔杖
+
+1093
+00:14:59,433 --> 00:15:01,633
+这就是魔杖从这里进行的方式
+
+1094
+00:15:01,633 --> 00:15:02,466
+所以习惯吧
+
+1095
+00:15:03,833 --> 00:15:06,533
+有了这个魔杖，你可以开始把节点装在罐子里带回家。
+
+1096
+00:15:06,533 --> 00:15:07,633
+检查研究
+
+1097
+00:15:07,733 --> 00:15:09,266
+缩短您的vis充电时间
+
+1098
+00:15:09,266 --> 00:15:11,233
+并为高级医疗做准备
+
+1099
+00:15:12,000 --> 00:15:13,966
+最后是输液祭坛
+
+1100
+00:15:14,933 --> 00:15:16,866
+这基本上是我们目前的终点
+
+1101
+00:15:16,866 --> 00:15:20,433
+有了这个，thaumcraft的其余部分和所有其他魔法mod都向您开放
+
+1102
+00:15:20,600 --> 00:15:23,600
+更别提游戏史上最棒的动画了
+
+1103
+00:15:24,333 --> 00:15:26,666
+希望你能找到一个愿意和你交换安德珍珠的村民
+
+1104
+00:15:26,666 --> 00:15:28,500
+如果没有，你要等到HV。
+
+1105
+00:15:28,500 --> 00:15:29,700
+这是一个很大的沮丧
+
+1106
+00:15:29,700 --> 00:15:34,000
+因为旅行者的靴子比那早得多
+
+1107
+00:15:34,000 --> 00:15:35,233
+先做那些
+
+1108
+00:15:35,233 --> 00:15:38,533
+为出行变得更加方便而欢欣鼓舞
+
+1109
+00:15:38,533 --> 00:15:40,466
+食谱显示了中心周围的成分
+
+1110
+00:15:40,466 --> 00:15:41,933
+它们不需要井井有条。
+
+1111
+00:15:42,266 --> 00:15:44,333
+但它们确实需要在底座上保持平衡
+
+1112
+00:15:44,633 --> 00:15:48,100
+如果左边有四件物品，就把四件放在右边，以此类推
+
+1113
+00:15:48,100 --> 00:15:50,300
+有些食谱没有完美的平衡
+
+1114
+00:15:50,300 --> 00:15:51,833
+看起来可能有点刺耳
+
+1115
+00:15:51,833 --> 00:15:53,033
+但它们仍然有效
+
+1116
+00:15:53,033 --> 00:15:55,533
+每个配方也有一个稳定值
+
+1117
+00:15:56,200 --> 00:15:57,633
+一旦你拿到奥术算盘
+
+1118
+00:15:57,633 --> 00:15:59,333
+你可以把食谱放在底座上
+
+1119
+00:15:59,333 --> 00:16:01,433
+算盘会告诉你配方的不稳定性
+
+1120
+00:16:01,433 --> 00:16:02,966
+还有你祭坛的稳定性
+
+1121
+00:16:02,966 --> 00:16:05,666
+遗憾的是，你要到MV快结束的时候才能收到这个。
+
+1122
+00:16:05,666 --> 00:16:07,533
+当你可以得到你的第一个高压电路时
+
+1123
+00:16:07,900 --> 00:16:10,733
+在此之前，只是稳定性助推器超载
+
+1124
+00:16:11,633 --> 00:16:13,333
+有很多块可以提高稳定性
+
+1125
+00:16:13,333 --> 00:16:14,700
+他们都告诉你
+
+1126
+00:16:14,700 --> 00:16:16,700
+最简单的方法可能是水银块
+
+1127
+00:16:16,800 --> 00:16:18,333
+它们在你的祭坛下形成对称的图案
+
+1128
+00:16:18,333 --> 00:16:20,533
+你也可以在下面再走几层。
+
+1129
+00:16:21,400 --> 00:16:22,733
+扔下一些骷髅头或蜡烛
+
+1130
+00:16:22,733 --> 00:16:25,866
+只要确保它们的图案是对称的，以获得最大的提升。
+
+1131
+00:16:26,066 --> 00:16:27,366
+一旦稳定下来
+
+1132
+00:16:27,366 --> 00:16:28,300
+列出制作配方
+
+1133
+00:16:28,300 --> 00:16:31,333
+用魔杖右键点击中间的矩阵开始飞船
+
+1134
+00:16:31,333 --> 00:16:32,633
+在旅行者的靴子之后
+
+1135
+00:16:32,633 --> 00:16:35,633
+你想在兔子洞里走多远由你决定
+
+1136
+00:16:36,533 --> 00:16:38,300
+现在你知道怎么进入Thaumcraft了
+
+1137
+00:16:38,433 --> 00:16:40,633
+唯一剩下的问题是，为什么
+
+1138
+00:16:41,633 --> 00:16:47,000
+除了解锁其他魔法mod并完成包装之外，事情是这样的
+
+1139
+00:17:22,133 --> 00:17:24,000
+是啊值得
+
+1140
+00:17:24,533 --> 00:17:26,433
+还有旅行者的纳米西装靴
+
+1141
+00:17:26,433 --> 00:17:28,633
+还有和你纳米套装的其余部分搭配的护目镜
+
+1142
+00:17:28,633 --> 00:17:29,833
+这太棒了。
+
+1143
+00:17:30,566 --> 00:17:33,900
+包括我在内的许多玩家都坚持thaumacft修复者（？）
+
+1144
+00:17:34,133 --> 00:17:37,133
+它可以修复遗忘框架
+
+1145
+00:17:37,300 --> 00:17:39,300
+蜜蜂进化的关键早期项目
+
+1146
+00:17:39,466 --> 00:17:41,900
+而飞行药水能创造飞行
+
+1147
+00:17:41,900 --> 00:17:43,100
+是的，你想要这个。
+
+1148
+00:17:44,433 --> 00:17:45,700
+短咬蜜蜂
+
+1149
+00:17:45,700 --> 00:17:49,066
+他们在GTNH中的一切都好得荒谬
+
+1150
+00:17:49,100 --> 00:17:50,266
+我是说一切
+
+1151
+00:17:50,600 --> 00:17:52,600
+他们有足够的理由走到我们在指南中走的那么远
+
+1152
+00:17:53,100 --> 00:17:54,900
+它们是我创造资源的基础
+
+1153
+00:17:54,900 --> 00:17:56,800
+和我自己世界里的发电
+
+1154
+00:17:56,866 --> 00:17:58,333
+好得惊人
+
+1155
+00:17:58,600 --> 00:17:59,933
+如果你想学习如何做蜜蜂
+
+1156
+00:17:59,933 --> 00:18:01,333
+看看Aditya的指南
+
+1157
+00:18:01,333 --> 00:18:04,666
+迄今为止最详尽和有用的GTNH蜜蜂指南
+
+1158
+00:18:05,200 --> 00:18:07,466
+你会很高兴你投资了魔术
+
+1159
+00:18:08,533 --> 00:18:10,700
+如果你想让飞船比我们走得更远
+
+1160
+00:18:10,700 --> 00:18:11,833
+你需要更好的魔杖
+
+1161
+00:18:11,833 --> 00:18:15,233
+哪个三倍的GTNH电子表格有一些惊人的信息
+
+1162
+00:18:15,433 --> 00:18:18,766
+以及关于哪些项目提供最清晰的必需品来源的信息
+
+1163
+00:18:18,766 --> 00:18:20,200
+前往两者的路线链接如下
+
+1164
+00:18:21,933 --> 00:18:24,033
+所以有了Thaumcraft的进展
+
+1165
+00:18:24,033 --> 00:18:25,633
+您可以继续使用其他魔术mod
+
+1166
+00:18:25,633 --> 00:18:28,466
+所有这些都有几乎一样好或更好的便利
+
+1167
+00:18:29,133 --> 00:18:31,300
+接下来来点草药怎么样？
+
+1168
+00:18:31,300 --> 00:18:33,200
+Botania有自己的研究分会
+
+1169
+00:18:33,200 --> 00:18:35,266
+我假设你已经完成了相关的内容。
+
+1170
+00:18:36,700 --> 00:18:39,333
+它也有自己的书，Lexica Botania
+
+1171
+00:18:39,433 --> 00:18:41,400
+你应该百分之百地阅读
+
+1172
+00:18:41,400 --> 00:18:43,066
+必须说很棒的mod书
+
+1173
+00:18:43,066 --> 00:18:44,000
+干杯瓦斯奎兹
+
+1174
+00:18:45,200 --> 00:18:47,600
+你不用做神技也能进Botania
+
+1175
+00:18:47,600 --> 00:18:48,866
+但这会有点痛苦
+
+1176
+00:18:49,266 --> 00:18:51,533
+不管怎样，你将从漫步暮色森林开始
+
+1177
+00:18:51,533 --> 00:18:53,866
+寻找含有闪闪发光的蘑菇的洞穴
+
+1178
+00:18:54,133 --> 00:18:55,966
+你会用炼金术把它们变成花
+
+1179
+00:18:55,966 --> 00:18:57,266
+就像大多数事情一样
+
+1180
+00:18:57,266 --> 00:18:59,200
+你收集的越多就越容易滚雪球
+
+1181
+00:18:59,200 --> 00:19:00,333
+所以坚持一会儿
+
+1182
+00:19:00,733 --> 00:19:02,600
+但你也会开启复制它们的方法
+
+1183
+00:19:02,600 --> 00:19:03,600
+也是通过炼金术
+
+1184
+00:19:03,633 --> 00:19:04,833
+或者你可能已经
+
+1185
+00:19:05,733 --> 00:19:08,233
+花瓣药剂师是Botania的手工桌
+
+1186
+00:19:08,433 --> 00:19:11,033
+你首先要做的是纯雏菊
+
+1187
+00:19:11,033 --> 00:19:12,400
+使用药剂师
+
+1188
+00:19:12,433 --> 00:19:13,300
+加满水
+
+1189
+00:19:13,400 --> 00:19:14,433
+放入食谱项目
+
+1190
+00:19:14,433 --> 00:19:16,933
+然后把种子扔进去完成工艺
+
+1191
+00:19:16,933 --> 00:19:19,700
+空手移位右键重复整个食谱
+
+1192
+00:19:23,233 --> 00:19:24,966
+一把纯雏菊就可以了
+
+1193
+00:19:24,966 --> 00:19:27,400
+把它们跳下来，用原木或石头包围每一个
+
+1194
+00:19:27,500 --> 00:19:29,900
+很快它们就会变成活木头和活石头
+
+1195
+00:19:32,266 --> 00:19:33,133
+手里拿着活木头
+
+1196
+00:19:33,133 --> 00:19:37,233
+用几个花瓣和您喜欢的颜色制作您的第一根森林魔杖
+
+1197
+00:19:37,233 --> 00:19:38,266
+现在你准备好摇滚了
+
+1198
+00:19:38,600 --> 00:19:39,600
+活石
+
+1199
+00:19:40,300 --> 00:19:42,066
+我们将在这里加速运行法力生成
+
+1200
+00:19:42,066 --> 00:19:42,933
+所以扣好安全带
+
+1201
+00:19:43,533 --> 00:19:44,566
+使稀释的法力池
+
+1202
+00:19:44,566 --> 00:19:47,433
+准备好马上把它扔掉
+
+1203
+00:19:47,433 --> 00:19:50,000
+首先，你必须使用白昼花和夜总会
+
+1204
+00:19:50,000 --> 00:19:52,700
+一个在白天产生法力，另一个在晚上产生法力
+
+1205
+00:19:52,700 --> 00:19:54,900
+他们死了所以你要确保钱花得值
+
+1206
+00:19:54,900 --> 00:19:56,233
+在附近放置法力传播者
+
+1207
+00:19:56,233 --> 00:20:00,066
+并在绑定模式下右键单击花朵，然后单击吊具以链接它们
+
+1208
+00:20:00,500 --> 00:20:02,600
+您将看到一个绿色复选标记，表示它已成功。
+
+1209
+00:20:02,600 --> 00:20:04,433
+和一个很好的粒子效果显示流动
+
+1210
+00:20:05,000 --> 00:20:07,100
+对吊具做同样的事情并将其链接到法力池
+
+1211
+00:20:10,533 --> 00:20:11,800
+一旦你得到视觉指示器
+
+1212
+00:20:11,800 --> 00:20:14,533
+你可以通过把一个钢锭扔进游泳池来制造魔法钢
+
+1213
+00:20:14,533 --> 00:20:15,333
+做
+
+1214
+00:20:15,333 --> 00:20:18,200
+然后立即将稀释后的池子换成真正的法力池
+
+1215
+00:20:19,500 --> 00:20:22,333
+你甚至可以从你的第一朵花中抢救一点额外的免费法力
+
+1216
+00:20:25,200 --> 00:20:27,333
+你要的下一朵花是火焰花
+
+1217
+00:20:27,333 --> 00:20:28,733
+它可以吃可燃物
+
+1218
+00:20:29,066 --> 00:20:31,900
+唯一真正的困难是来自地狱的燃烧的花朵
+
+1219
+00:20:32,633 --> 00:20:34,300
+带有30秒计时器和滴管
+
+1220
+00:20:34,300 --> 00:20:36,700
+你可以设置一个火炎来产生很长一段时间的法力
+
+1221
+00:20:36,700 --> 00:20:41,100
+您可以轻松地将相同的设置扩展到一堆Emdo火焰
+
+1222
+00:20:41,100 --> 00:20:42,833
+长期来看，热莫利
+
+1223
+00:20:42,833 --> 00:20:45,300
+与永远的燃烧器配对，并将桶循环成滴管
+
+1224
+00:20:45,300 --> 00:20:48,533
+否则工作方式与emdo火焰设置完全相同
+
+1225
+00:20:48,533 --> 00:20:50,233
+使用设置为五分钟的计时器
+
+1226
+00:20:50,233 --> 00:20:52,566
+会产生大量的法力
+
+1227
+00:20:52,566 --> 00:20:55,233
+要得到那个，你需要符文祭坛。
+
+1228
+00:20:56,033 --> 00:20:58,000
+幸运的是，你有Thaumcraft输液
+
+1229
+00:20:58,000 --> 00:20:59,200
+所以这没什么大不了的
+
+1230
+00:20:59,933 --> 00:21:04,300
+你可以通过将下石英放入法力池中获得棱柱碎片，池下有炼金术催化剂
+
+1231
+00:21:04,300 --> 00:21:05,966
+更多的研究和制作
+
+1232
+00:21:05,966 --> 00:21:07,100
+它们都是你的了
+
+1233
+00:21:07,533 --> 00:21:08,266
+一旦你拥有它
+
+1234
+00:21:08,266 --> 00:21:10,066
+在你的法力池旁边放几个吊具
+
+1235
+00:21:10,066 --> 00:21:11,400
+把他们指向圣坛
+
+1236
+00:21:13,400 --> 00:21:15,233
+右键点击菜谱到祭坛上
+
+1237
+00:21:15,233 --> 00:21:17,800
+让法力积累起来，直到你得到一个甜蜜的闪电动画
+
+1238
+00:21:17,800 --> 00:21:19,133
+然后把活石头扔在上面
+
+1239
+00:21:19,133 --> 00:21:20,966
+然后用魔杖右键单击
+
+1240
+00:21:20,966 --> 00:21:21,433
+巴津加
+
+1241
+00:21:21,733 --> 00:21:22,633
+你在跑步
+
+1242
+00:21:25,300 --> 00:21:26,933
+那么为什么Botania
+
+1243
+00:21:27,733 --> 00:21:28,600
+首先
+
+1244
+00:21:28,700 --> 00:21:31,666
+它看起来很酷，是很棒的主题装饰
+
+1245
+00:21:32,333 --> 00:21:34,533
+其次是便宜的分层玻璃
+
+1246
+00:21:34,533 --> 00:21:36,600
+和出色的gregtech工具材料
+
+1247
+00:21:37,066 --> 00:21:40,300
+法力玻璃比同等的gregtech玻璃更容易制作
+
+1248
+00:21:40,300 --> 00:21:42,400
+这是您在即将到来的多街区中需要的
+
+1249
+00:21:42,400 --> 00:21:47,100
+法力钢和EV之后的terra钢对他们那个时代来说是不可思议的工具材料
+
+1250
+00:21:47,866 --> 00:21:49,733
+更不用说Botania工具本身了
+
+1251
+00:21:49,733 --> 00:21:50,700
+哪些是疯狂的
+
+1252
+00:21:50,933 --> 00:21:54,300
+哦，神奇的药水，资源复制和蜕变
+
+1253
+00:21:55,500 --> 00:21:58,066
+整个游戏中最长的制作配方
+
+1254
+00:21:58,733 --> 00:22:00,300
+如果你熬过这一切
+
+1255
+00:22:00,300 --> 00:22:02,700
+有史以来最史诗般的boss战斗音乐
+
+1256
+00:22:03,833 --> 00:22:04,800
+什么是不爱
+
+1257
+00:22:07,133 --> 00:22:09,533
+接下来是斯内普教授的魔药课
+
+1258
+00:22:09,733 --> 00:22:11,000
+是时候施展巫术了
+
+1259
+00:22:11,133 --> 00:22:13,133
+它始于一点农业
+
+1260
+00:22:13,133 --> 00:22:16,000
+实际上是把草从水里锄开来得到巫术种子
+
+1261
+00:22:16,300 --> 00:22:17,066
+把他们集中起来
+
+1262
+00:22:17,066 --> 00:22:18,233
+小心风茄
+
+1263
+00:22:18,900 --> 00:22:20,100
+用弩来破坏植物
+
+1264
+00:22:20,100 --> 00:22:22,100
+并立即射击小家伙倾向于工作
+
+1265
+00:22:22,100 --> 00:22:24,533
+但如果没有，就做耳机。
+
+1266
+00:22:25,166 --> 00:22:27,866
+保护好大锅女巫的烤箱和一堆陶罐
+
+1267
+00:22:27,866 --> 00:22:29,800
+开始制造所有的气味之类的
+
+1268
+00:22:29,800 --> 00:22:31,700
+thappings（？）实际上可能是一个问题
+
+1269
+00:22:31,800 --> 00:22:33,133
+你直到现在才需要它们
+
+1270
+00:22:33,200 --> 00:22:34,000
+享受
+
+1271
+00:22:35,600 --> 00:22:36,833
+火上浇油
+
+1272
+00:22:36,833 --> 00:22:38,100
+装满三桶水
+
+1273
+00:22:38,100 --> 00:22:40,433
+把任务书上建议的物品一次扔一个
+
+1274
+00:22:40,433 --> 00:22:41,933
+给自己弄点变通
+
+1275
+00:22:45,466 --> 00:22:47,500
+并将其用于草地或花朵
+
+1276
+00:22:47,500 --> 00:22:49,333
+直到你得到三棵巫术树苗
+
+1277
+00:22:49,500 --> 00:22:51,533
+罗文、赤杨和山楂
+
+1278
+00:22:51,933 --> 00:22:53,333
+那你可能需要一点
+
+1279
+00:22:54,066 --> 00:22:56,833
+种些木头，也留几棵树
+
+1280
+00:22:56,833 --> 00:22:58,933
+接下来你需要的是巫师祭坛
+
+1281
+00:22:59,000 --> 00:23:01,466
+周围的自然环境越多它的能量就越大
+
+1282
+00:23:01,500 --> 00:23:03,500
+所以最大化不同的树和花
+
+1283
+00:23:04,066 --> 00:23:06,533
+还有一些其他的东西你可以用来升级超能力以及
+
+1284
+00:23:06,533 --> 00:23:08,333
+把你自己的骷髅头扔在上面
+
+1285
+00:23:08,600 --> 00:23:10,300
+你用祭坛做的烛台
+
+1286
+00:23:10,300 --> 00:23:11,833
+还有任务中的圣杯
+
+1287
+00:23:12,666 --> 00:23:14,200
+如果你拿了红石汤奖
+
+1288
+00:23:14,200 --> 00:23:16,333
+您可以立即升级圣杯并使其变得更好
+
+1289
+00:23:17,633 --> 00:23:20,600
+短期目标需要5450超强动力
+
+1290
+00:23:20,600 --> 00:23:21,466
+如果你太矮了
+
+1291
+00:23:21,466 --> 00:23:23,100
+龙蛋会带你飞上天
+
+1292
+00:23:23,400 --> 00:23:24,900
+虽然这是它自己的使命
+
+1293
+00:23:24,900 --> 00:23:26,400
+先试试大自然
+
+1294
+00:23:27,366 --> 00:23:29,200
+按照任务书找到你真正想要的东西
+
+1295
+00:23:29,200 --> 00:23:31,733
+你需要做个噩梦然后去精神世界
+
+1296
+00:23:32,266 --> 00:23:33,500
+给自己拿个水壶灯
+
+1297
+00:23:33,500 --> 00:23:34,166
+下面有火
+
+1298
+00:23:34,166 --> 00:23:35,600
+弄点啤酒睡觉
+
+1299
+00:23:38,600 --> 00:23:41,933
+喝啤酒前喝一口飞行药水和夜视药水
+
+1300
+00:23:42,066 --> 00:23:43,466
+你不能带任何东西
+
+1301
+00:23:43,466 --> 00:23:45,966
+你会想快点的相信我
+
+1302
+00:23:46,433 --> 00:23:49,500
+在躲避怪物时，立即抓住尽可能多的棉花
+
+1303
+00:23:49,500 --> 00:23:50,666
+然后让一个人杀了你
+
+1304
+00:23:51,100 --> 00:23:52,800
+如果你愿意，你已经完成了这个维度
+
+1305
+00:23:55,433 --> 00:23:57,333
+抓住纺车和酿酒厂
+
+1306
+00:23:57,333 --> 00:23:59,133
+幸运的是，你的魔杖完全符合工艺要求
+
+1307
+00:23:59,133 --> 00:24:01,433
+因为你需要80维斯的容量。
+
+1308
+00:24:01,433 --> 00:24:02,800
+现在你可以做女巫的长袍了
+
+1309
+00:24:02,800 --> 00:24:04,866
+最重要的是钻石蒸汽
+
+1310
+00:24:04,933 --> 00:24:07,933
+这就解开了你做巫师的主要原因
+
+1311
+00:24:07,933 --> 00:24:09,633
+改变生物群落的药水
+
+1312
+00:24:09,700 --> 00:24:13,600
+对于所有那些对欢庆有特殊要求的蜜蜂来说，这绝对是惊人的（？）
+
+1313
+00:24:13,900 --> 00:24:15,333
+我有没有提到蜜蜂很棒？
+
+1314
+00:24:15,933 --> 00:24:16,966
+只要抓住一个生物群系页面
+
+1315
+00:24:16,966 --> 00:24:20,566
+把任务书建议的东西扔进大锅里煮
+
+1316
+00:24:20,566 --> 00:24:22,966
+完全值得努力
+
+1317
+00:24:22,966 --> 00:24:24,833
+重申一下，这些都是荒谬的
+
+1318
+00:24:25,000 --> 00:24:26,433
+但如果这对你来说还不够
+
+1319
+00:24:26,833 --> 00:24:28,700
+你可以从巫术中得到一些疯狂的药水
+
+1320
+00:24:28,700 --> 00:24:29,800
+另一个是输液
+
+1321
+00:24:29,800 --> 00:24:31,900
+这是家庭命令的合法替代品
+
+1322
+00:24:32,033 --> 00:24:34,500
+哦，狼人，你可以成为狼人
+
+1323
+00:24:34,900 --> 00:24:37,200
+多人游戏也有很多愚蠢的东西
+
+1324
+00:24:37,300 --> 00:24:41,133
+最后，你需要那些你用来进入血魔法的协调石
+
+1325
+00:24:42,500 --> 00:24:45,466
+所以我们和一个不能透露姓名的人一起到达了黑暗艺术
+
+1326
+00:24:46,066 --> 00:24:48,133
+联合招生班
+
+1327
+00:24:48,133 --> 00:24:52,500
+公平的警告，进入血魔法100%会增加你的曲速
+
+1328
+00:24:52,733 --> 00:24:53,766
+所以如果你打算早点做
+
+1329
+00:24:53,766 --> 00:24:56,100
+计划没有办法处理这个问题
+
+1330
+00:24:56,100 --> 00:24:58,900
+除非你对其他扭曲的研究完全疯了
+
+1331
+00:24:58,900 --> 00:24:59,700
+你不会有事的
+
+1332
+00:25:00,200 --> 00:25:01,700
+但你的灵魂已被没收
+
+1333
+00:25:01,700 --> 00:25:05,233
+血祭坛使用来自thaumcraft和巫术以及其他一些物品
+
+1334
+00:25:05,233 --> 00:25:07,100
+并需要内爆压缩机
+
+1335
+00:25:07,133 --> 00:25:10,066
+除非你在MV末尾有高压电路，否则你无法制作
+
+1336
+00:25:10,233 --> 00:25:13,333
+除非你考虑到第一层火箭否则你可能不会做
+
+1337
+00:25:13,333 --> 00:25:14,600
+但你应该为此
+
+1338
+00:25:14,633 --> 00:25:16,433
+因为你只需要两个双层压缩鹅卵石
+
+1339
+00:25:16,433 --> 00:25:18,066
+粉末桶工作正常
+
+1340
+00:25:18,066 --> 00:25:20,400
+血坛是六层的多街区
+
+1341
+00:25:20,400 --> 00:25:22,133
+我们会冲向3层的祭坛
+
+1342
+00:25:22,833 --> 00:25:25,033
+1层祭坛只是块
+
+1343
+00:25:25,200 --> 00:25:26,400
+一开始就把它装满血
+
+1344
+00:25:26,400 --> 00:25:28,133
+你需要一把牺牲匕首
+
+1345
+00:25:28,800 --> 00:25:30,233
+是时候放血了
+
+1346
+00:25:30,733 --> 00:25:35,033
+如果不是因为你的准备，这将是一个巨大的痛苦的折磨
+
+1347
+00:25:35,433 --> 00:25:37,733
+你有再生药水所需的所有选项
+
+1348
+00:25:37,733 --> 00:25:38,866
+如果这些不适合你
+
+1349
+00:25:38,866 --> 00:25:41,600
+从你的火焰农场储备红心以供即时再生
+
+1350
+00:25:42,233 --> 00:25:45,533
+你甚至可能有一些勤劳的蜜蜂不断地提供再生效果
+
+1351
+00:25:45,533 --> 00:25:48,733
+一无所有，为纯粹的痛苦做好准备
+
+1352
+00:25:49,433 --> 00:25:52,333
+有了足够的回复，为轻松的街道做准备
+
+1353
+00:25:52,333 --> 00:25:55,066
+为自己制作一吨空白石板
+
+1354
+00:25:55,400 --> 00:25:57,400
+您可以使用料斗或管道一次做10个
+
+1355
+00:25:57,400 --> 00:25:59,033
+为了一坛血的代价
+
+1356
+00:25:59,033 --> 00:26:02,500
+和一个过滤的EnderIO管道，仅在您获得所需的符文后才提取
+
+1357
+00:26:02,533 --> 00:26:05,300
+石板制作没有什么比现在更好的了
+
+1358
+00:26:05,300 --> 00:26:08,866
+假设你有潮湿（？）再生，直到你得到大量升级符文
+
+1359
+00:26:09,000 --> 00:26:12,100
+除非你有一个3层的祭坛和一吨石板
+
+1360
+00:26:12,533 --> 00:26:14,866
+一吨石板
+
+1361
+00:26:17,200 --> 00:26:19,066
+当然还有第一层的血球
+
+1362
+00:26:19,200 --> 00:26:19,833
+一旦你拥有它
+
+1363
+00:26:19,833 --> 00:26:21,433
+持有时右键单击以绑定它
+
+1364
+00:26:21,433 --> 00:26:23,900
+然后把它放回祭坛让它吸干血
+
+1365
+00:26:24,433 --> 00:26:25,800
+您现在拥有一个LP网络
+
+1366
+00:26:27,400 --> 00:26:29,700
+占卜符号会告诉你你有多少LP
+
+1367
+00:26:29,700 --> 00:26:31,533
+还有一堆其他很酷的标志
+
+1368
+00:26:32,233 --> 00:26:34,966
+需要八个空白符文才能将祭坛升级到第二层
+
+1369
+00:26:34,966 --> 00:26:37,133
+在那里抓住你的第二层球体
+
+1370
+00:26:37,133 --> 00:26:38,900
+还有20个升级到第三层
+
+1371
+00:26:39,433 --> 00:26:42,600
+每个符文四个空白石板，总共112个石板
+
+1372
+00:26:42,600 --> 00:26:45,266
+那是在你得到任何能改善血液生成的符文之前
+
+1373
+00:26:45,933 --> 00:26:48,000
+祭坛每层增加一层石板
+
+1374
+00:26:48,000 --> 00:26:49,266
+你会想要一堆2层的
+
+1375
+00:26:49,266 --> 00:26:50,633
+还有至少一把第三层
+
+1376
+00:26:50,633 --> 00:26:52,833
+除了你升级符文所需的那些
+
+1377
+00:26:52,933 --> 00:26:54,800
+是的，你需要大量的血
+
+1378
+00:26:55,300 --> 00:26:58,300
+3层祭坛还需要血液浸泡钍块
+
+1379
+00:26:58,300 --> 00:26:59,666
+所以我希望你早点进货。
+
+1380
+00:27:00,133 --> 00:27:03,866
+第三层血球特别需要3万血
+
+1381
+00:27:04,100 --> 00:27:05,766
+所以使用速度符文可能会伤害你
+
+1382
+00:27:05,766 --> 00:27:08,166
+除非你也磨出一些增强和容量符文
+
+1383
+00:27:08,866 --> 00:27:12,933
+无论如何，在你成功制作第三层球体之前，你需要投资符文
+
+1384
+00:27:13,100 --> 00:27:14,633
+但无论如何你都需要钛金属。
+
+1385
+00:27:14,633 --> 00:27:15,866
+所以你现在没有成功。
+
+1386
+00:27:15,933 --> 00:27:18,700
+这意味着你有时间在HV结束前制作升级符文
+
+1387
+00:27:19,133 --> 00:27:21,800
+这意味着你也有时间做一点血液炼金术
+
+1388
+00:27:22,600 --> 00:27:23,700
+经过更多的研究
+
+1389
+00:27:23,700 --> 00:27:25,333
+你可以制作炼金术士化学套装
+
+1390
+00:27:25,633 --> 00:27:28,133
+这东西有很多非常有用的配方
+
+1391
+00:27:28,133 --> 00:27:30,300
+但现在你要的是炼金术原料
+
+1392
+00:27:31,066 --> 00:27:32,233
+简单催化剂
+
+1393
+00:27:32,466 --> 00:27:33,666
+强化催化剂
+
+1394
+00:27:33,866 --> 00:27:34,933
+圣三颂
+
+1395
+00:27:34,933 --> 00:27:35,933
+保持
+
+1396
+00:27:35,933 --> 00:27:37,466
+芝麻属
+
+1397
+00:27:38,000 --> 00:27:38,900
+电位
+
+1398
+00:27:39,466 --> 00:27:40,133
+以太
+
+1399
+00:27:41,066 --> 00:27:41,633
+特雷
+
+1400
+00:27:42,200 --> 00:27:43,366
+和Aqua Salis
+
+1401
+00:27:44,633 --> 00:27:45,400
+还有几个也是
+
+1402
+00:27:45,400 --> 00:27:46,300
+但有了这些
+
+1403
+00:27:46,300 --> 00:27:48,900
+你可以自由地做出重大决定
+
+1404
+00:27:48,900 --> 00:27:51,000
+自我牺牲或牺牲
+
+1405
+00:27:51,600 --> 00:27:53,900
+你要在这种血魔法水平上呆一会儿
+
+1406
+00:27:54,066 --> 00:27:55,933
+所以一些自我牺牲的符文是值得的
+
+1407
+00:27:56,233 --> 00:27:58,100
+它们会大大加快手指刺穿的速度
+
+1408
+00:27:58,866 --> 00:28:01,233
+如果你走这条路，考虑一下牺牲的玻璃匕首
+
+1409
+00:28:02,066 --> 00:28:03,633
+如果你打算利用苦难之井
+
+1410
+00:28:03,633 --> 00:28:05,300
+无论发生什么，你最终都会
+
+1411
+00:28:05,300 --> 00:28:07,466
+你会想要祭祀符文
+
+1412
+00:28:08,033 --> 00:28:10,400
+问题是你需要一个4层的祭坛
+
+1413
+00:28:10,466 --> 00:28:13,766
+而这需要比你更多的科技进步
+
+1414
+00:28:13,766 --> 00:28:14,300
+更多
+
+1415
+00:28:14,466 --> 00:28:16,066
+危险的那种
+
+1416
+00:28:16,766 --> 00:28:19,800
+从这一点来看，任务书在引导你完成事情方面做得很好
+
+1417
+00:28:19,800 --> 00:28:21,433
+它们也开始有点重叠
+
+1418
+00:28:21,433 --> 00:28:23,033
+变得有点复杂
+
+1419
+00:28:23,033 --> 00:28:25,866
+所以我们可能会在指南后面的某个时候绕回来进行另一轮魔法
+
+1420
+00:28:25,866 --> 00:28:27,766
+如果你感兴趣，请告诉我。
+
+1421
+00:28:27,766 --> 00:28:28,700
+令人抓狂的框架
+
+1422
+00:28:28,700 --> 00:28:31,100
+如果你已经有点喜欢蜜蜂了，你现在也许可以做出来。
+
+1423
+00:28:31,100 --> 00:28:32,866
+这对蜜蜂繁殖来说是不可思议的
+
+1424
+00:28:33,566 --> 00:28:34,866
+苦井
+
+1425
+00:28:34,866 --> 00:28:36,700
+为了无限的血液生成
+
+1426
+00:28:39,133 --> 00:28:40,033
+装订工具
+
+1427
+00:28:40,033 --> 00:28:44,933
+牢不可破的工具一挥即灭整个静脉
+
+1428
+00:28:44,933 --> 00:28:45,866
+装甲
+
+1429
+00:28:45,866 --> 00:28:47,700
+让你几乎所向披靡
+
+1430
+00:28:47,700 --> 00:28:49,100
+看起来病了
+
+1431
+00:28:49,100 --> 00:28:50,666
+能量爆破器
+
+1432
+00:28:50,666 --> 00:28:53,666
+发动毁灭性的能量攻击
+
+1433
+00:28:55,233 --> 00:28:56,866
+如果你能把它们放在一起
+
+1434
+00:28:56,866 --> 00:28:59,733
+来自血魔法流星的全自动资源
+
+1435
+00:29:00,066 --> 00:29:02,600
+使用魔镜的跨维度物品运输
+
+1436
+00:29:03,000 --> 00:29:06,466
+和足够的物品摄入量来处理你所拥有的一切
+
+1437
+00:29:07,100 --> 00:29:08,300
+和thaumic能量
+
+1438
+00:29:08,500 --> 00:29:10,933
+Digital essentia存储和自动化
+
+1439
+00:29:11,600 --> 00:29:12,700
+魔法太疯狂了
+
+1440
+00:29:12,700 --> 00:29:14,866
+并且疯狂地低估了
+
+1441
+00:29:15,433 --> 00:29:17,433
+GTNH显然是一个技术包
+
+1442
+00:29:17,633 --> 00:29:19,233
+引擎盖下可不止这些
+
+1443
+00:29:19,866 --> 00:29:21,933
+随着你制造更多的铝，你有很多东西可以探索
+
+1444
+00:29:21,933 --> 00:29:23,066
+修复您的电力系统
+
+1445
+00:29:23,066 --> 00:29:25,633
+准备好迎接MV中的野兽
+
+1446
+00:29:26,266 --> 00:29:27,500
+第七集那里见
+
