@@ -368,7 +368,7 @@ this time to keep the zombies at Bay
 
 93
 00:03:39,100 --> 00:03:42,633
-and try to reflect the flying interpoles back at the boss to remove the shields that are circling them
+and try to reflect the flying interpoles (?) back at the boss to remove the shields that are circling them
 
 94
 00:03:42,933 --> 00:03:45,066
@@ -704,7 +704,7 @@ with scribe tools and paper in your inventory
 
 177
 00:07:21,233 --> 00:07:24,000
-click on none research in the thomsonomicon to get a research sheet
+click on none research in the thaumonicon to get a research sheet
 
 178
 00:07:24,000 --> 00:07:26,600
@@ -896,7 +896,7 @@ so we're gonna focus on getting a safe crafting the way the mod provides
 
 225
 00:09:24,766 --> 00:09:27,133
-quick notes on the thaumonomicon and research
+quick notes on the thaumonicon and research
 
 226
 00:09:27,333 --> 00:09:29,500
@@ -1080,7 +1080,7 @@ now going forward i'm gonna assume you simply have all the research you need
 
 271
 00:11:10,800 --> 00:11:13,833
-if you finish most of what's in the first four chapters of the thauminonicon
+if you finish most of what's in the first four chapters of the thaumonicon
 
 272
 00:11:13,833 --> 00:11:14,800
@@ -1460,7 +1460,7 @@ so go for that
 
 366
 00:14:47,533 --> 00:14:50,933
-slap on your bewitch robes and leggings your goggles and your thaumaturges boots
+slap on your bewitch robes and leggings your goggles and your thaumaturge boots
 
 367
 00:14:50,933 --> 00:14:52,800
@@ -1992,7 +1992,7 @@ you can easily scale the same setup to a bunch of Emdoflames
 
 499
 00:20:41,100 --> 00:20:42,833
-long term, the thermolilly
+long term, the thermolilly (?)
 
 500
 00:20:42,833 --> 00:20:45,300
@@ -2852,7 +2852,7 @@ and enough item intake to deal with everything you've got
 
 714
 00:29:07,100 --> 00:29:08,300
-and thaumic energistics
+and thaumic energetics
 
 715
 00:29:08,500 --> 00:29:10,933
