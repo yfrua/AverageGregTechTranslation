@@ -459,316 +459,316 @@ right click two tables with describing tools to get your research station
 and then use your shards to make the thaumometer
 
 116
-00:04:46,933 --> 00:04:49,800
-you've acquired the basics your trip to Hogsmeade has concluded
+00:04:46,933 --> 00:04:48,133
+you've acquired the basics
 
 117
+00:04:48,133 --> 00:04:49,800
+your trip to Hogsmeade has concluded
+
+118
 00:04:52,633 --> 00:04:54,700
 and just like that the Hogwarts express has dropped you off
 
-118
+119
 00:04:54,700 --> 00:04:55,833
 and you're in your first lesson
 
-119
+120
 00:04:55,866 --> 00:04:57,100
 so pay close attention
 
-120
+121
 00:04:57,700 --> 00:05:01,233
 thaumcraft research is a minigame that spends points to complete a chain of aspects
 
-121
+122
 00:05:01,500 --> 00:05:04,666
 aspects are the core elements of magic that everything in the game is composed of
 
-122
+123
 00:05:05,433 --> 00:05:07,000
 everything is made up of different aspects
 
-123
+124
 00:05:07,000 --> 00:05:09,733
 and every research is made up of different sequences of aspects
 
-124
+125
 00:05:09,733 --> 00:05:13,033
 that need to be connected via other aspects that share part of their makeup
 
-125
+126
 00:05:13,033 --> 00:05:14,733
 before we worry too much about that
 
-126
+127
 00:05:14,733 --> 00:05:16,466
 you need to accumulate some aspects
 
-127
+128
 00:05:16,900 --> 00:05:19,700
 the quest book has a nice list of what to scan for all the aspects soon
 
-128
+129
 00:05:19,700 --> 00:05:21,466
 don't worry too much about what you've unlocked
 
-129
+130
 00:05:21,466 --> 00:05:22,833
 just scan the list of things for now
 
-130
+131
 00:05:24,933 --> 00:05:26,800
 you can either hold the thaumometer and look at things
 
-131
+132
 00:05:26,800 --> 00:05:28,600
 or hover over items in your inventory
 
-132
+133
 00:05:29,133 --> 00:05:32,400
 as the quest book indicates, the first set of things needs to be scanned in order
 
-133
+134
 00:05:32,466 --> 00:05:33,466
 don't skip any
 
-134
+135
 00:05:33,466 --> 00:05:35,866
 scan as many of the other things in the list as you have or can find
 
-135
+136
 00:05:35,866 --> 00:05:37,433
 and be prepared to make things
 
-136
+137
 00:05:37,433 --> 00:05:38,700
 or go kill mobs for loot
 
-137
+138
 00:05:38,700 --> 00:05:39,433
 or go hunting
 
-138
+139
 00:05:39,900 --> 00:05:42,400
 if you get a message that you're missing knowledge to scan an item
 
-139
+140
 00:05:42,400 --> 00:05:44,733
 skip it, and circle back to it next time you see that message
 
-140
+141
 00:05:45,266 --> 00:05:48,400
 this is a one time effort to unlock knowledge of all the aspects
 
-141
+142
 00:05:48,400 --> 00:05:50,100
 so knuckle down and get it done
 
-142
+143
 00:05:50,100 --> 00:05:51,933
 for the tainted anything item
 
-143
+144
 00:05:52,066 --> 00:05:54,033
 your best bet is finding a tainted lands biome
 
-144
+145
 00:05:54,700 --> 00:05:56,666
 you might be traveling quite a while to find one
 
-145
+146
 00:05:56,666 --> 00:05:57,533
 use the biome compass
 
-146
+147
 00:05:57,600 --> 00:06:00,566
 and find a magical forest while you're out if you haven't already
 
-147
+148
 00:06:00,566 --> 00:06:01,866
 once you find the tainted lands
 
-148
+149
 00:06:01,866 --> 00:06:03,433
 scan something tainted then bail
 
-149
+150
 00:06:03,433 --> 00:06:05,233
 and do not chunkload this area
 
-150
+151
 00:06:05,233 --> 00:06:07,266
 if you base near it, move
 
-151
+152
 00:06:07,266 --> 00:06:09,400
 no matter how time consuming it'll be
 
-152
+153
 00:06:10,000 --> 00:06:14,066
 you have just observed the future of your base and the entire world if you aren't careful
 
-153
+154
 00:06:14,300 --> 00:06:15,400
 all consumed in tainted
 
-154
+155
 00:06:15,833 --> 00:06:18,766
 which is why i don't recommend experimenting with the method the quest book recommends
 
-155
+156
 00:06:18,766 --> 00:06:20,600
 unless you have some experience
 
-156
+157
 00:06:21,100 --> 00:06:22,700
 now that you have all the aspects
 
-157
+158
 00:06:22,700 --> 00:06:24,800
 scan literally everything you own
 
-158
+159
 00:06:26,800 --> 00:06:29,700
 you can review them in NEI to see which items produce those aspects when scanned
 
-159
+160
 00:06:29,700 --> 00:06:31,333
 or run through the alchemical furnace
 
-160
+161
 00:06:33,600 --> 00:06:35,800
 take another look at your research station now too
 
-161
+162
 00:06:35,800 --> 00:06:36,866
 all the aspects are there
 
-162
+163
 00:06:36,866 --> 00:06:38,733
 ready to be used for the research minigame
 
-163
+164
 00:06:39,100 --> 00:06:42,566
 each has a number representing how many points worth that aspect you have scanned
 
-164
+165
 00:06:42,566 --> 00:06:43,666
 to accumulate more
 
-165
+166
 00:06:43,666 --> 00:06:46,133
 you need to scan new items that contain that aspect type
 
-166
+167
 00:06:46,633 --> 00:06:50,100
 in general you'll want to scan basically every new thing you encounter in craft going forward
 
-167
+168
 00:06:50,100 --> 00:06:52,433
 and go back and scan every single thing you possess
 
-168
+169
 00:06:53,066 --> 00:06:57,400
 you'll probably notice that you accumulate more of a couple particular aspects than you do anything else
 
-169
+170
 00:06:57,400 --> 00:06:59,700
 due to how many unique machines you have laying around to scan
 
-170
+171
 00:07:00,233 --> 00:07:01,700
 ordo and instrumentum
 
-171
+172
 00:07:04,200 --> 00:07:06,000
 if benzene is the metaphor for power
 
-172
+173
 00:07:06,133 --> 00:07:08,666
 ordo and instrumentum are the metaphor for thaumcraft research
 
-173
+174
 00:07:09,400 --> 00:07:10,866
 aside from the primal aspects
 
-174
+175
 00:07:10,866 --> 00:07:14,066
 every other aspect is made up from two other aspects
 
-175
+176
 00:07:14,833 --> 00:07:17,666
 for example, air plus ordo makes motus
 
-176
+177
 00:07:19,300 --> 00:07:21,233
 with scribe tools and paper in your inventory
 
-177
+178
 00:07:21,233 --> 00:07:24,000
 click on non-research in the thaumonicon to get a research sheet
 
-178
+179
 00:07:24,000 --> 00:07:26,600
 and stick it in the table with the scribe tools
 
-179
+180
 00:07:27,033 --> 00:07:32,600
 the way the research minigame works is by connecting the aspects that start on the research sheet using other aspects that are made up from them
 
-180
+181
 00:07:33,600 --> 00:07:35,300
 motus can be placed beside ordo
 
-181
+182
 00:07:35,300 --> 00:07:37,500
 because motus is composed of ordo
 
-182
+183
 00:07:37,500 --> 00:07:39,300
 air can be placed on the other side of motus
 
-183
+184
 00:07:39,300 --> 00:07:41,666
 because motus is also composed of air
 
-184
+185
 00:07:41,666 --> 00:07:44,833
 now we have a link between ordo and air via motus
 
-185
+186
 00:07:46,500 --> 00:07:47,533
 to complete the research
 
-186
+187
 00:07:47,533 --> 00:07:50,033
 you simply connect all the aspects using the same idea
 
-187
+188
 00:07:50,066 --> 00:07:52,633
 both different aspects depending on what the research starts with
 
-188
+189
 00:07:52,666 --> 00:07:53,233
 make sense?
 
-189
+190
 00:07:53,233 --> 00:07:54,900
 after you play with it for a bit
 
-190
+191
 00:07:54,900 --> 00:07:59,900
 you may notice that almost every research can be completed by first converting the starting aspects into ordo or instrumentum
 
-191
+192
 00:07:59,900 --> 00:08:02,200
 and then alternating between the two to bridge gaps
 
-192
-00:08:02,666 --> 00:08:04,566
-things should be loaded with both of these things
-
 193
-00:08:04,566 --> 00:08:06,700
-and might struggle to get anything else in large supply
+00:08:02,666 --> 00:08:06,700
+things should be loaded with both of these things and might struggle to get anything else in large supply
 
 194
 00:08:06,833 --> 00:08:07,733
@@ -1655,68 +1655,68 @@ so now you know how to get into thaumcraft
 the only question left is, why
 
 415
-00:16:41,633 --> 00:16:47,000
-beyond unlocking the other magic mods and finishing the pack that is well here's the thing
+00:16:41,633 --> 00:16:44,866
+beyond unlocking the other magic mods and finishing the pack that is
 
 416
+00:16:45,433 --> 00:16:47,000
+well here's the thing
+
+417
 00:17:22,133 --> 00:17:24,000
 yeah worth
 
-417
+418
 00:17:24,533 --> 00:17:26,433
 there's also the nano suit boots of the traveler
 
-418
+419
 00:17:26,433 --> 00:17:28,633
 and the goggles of revealing to go with the rest of your nano suit
 
-419
+420
 00:17:28,633 --> 00:17:29,833
 which are amazing
 
-420
+421
 00:17:30,566 --> 00:17:33,900
 and a lot of players, including me, hardline the thaumcraft restorer (?)
 
-421
+422
 00:17:34,133 --> 00:17:37,133
 which can repair, among other things, the oblivion frames
 
-422
+423
 00:17:37,300 --> 00:17:39,300
 a crucial early item for bee progression
 
-423
+424
 00:17:39,466 --> 00:17:41,900
 and the flight potion that grants create a flight
 
-424
+425
 00:17:41,900 --> 00:17:43,100
 yeah you want this
 
-425
+426
 00:17:44,433 --> 00:17:45,700
 short bit on bees
 
-426
+427
 00:17:45,700 --> 00:17:49,066
 they are absurdly good in GTNH for everything
 
-427
+428
 00:17:49,100 --> 00:17:50,266
 and i mean everything
 
-428
+429
 00:17:50,600 --> 00:17:52,600
 they're reason enough to get as far as we've gone in the guide
 
-429
-00:17:53,100 --> 00:17:54,900
-they're the basis of my resource generation
-
 430
-00:17:54,900 --> 00:17:56,800
-and the power generation in my own world
+00:17:53,100 --> 00:17:56,733
+they're the basis of my resource generation and the power generation in my own world
 
 431
 00:17:56,866 --> 00:17:58,333
@@ -3351,320 +3351,320 @@ see you there for episode 7
 然后用碎片制作魔导透镜
 
 839
-00:04:46,933 --> 00:04:49,800
-你已经掌握了基本的魔法知识（需要分行）
+00:04:46,933 --> 00:04:48,133
+你已经掌握了基本的魔法知识
 
 840
+00:04:48,133 --> 00:04:49,800
+你的霍格莫德之旅已结束
+
+841
 00:04:52,633 --> 00:04:54,700
 就这样，你从霍格沃茨特快上下来了
 
-841
+842
 00:04:54,700 --> 00:04:55,833
 这是你的第一堂课
 
-842
+843
 00:04:55,866 --> 00:04:57,100
 认真听讲
 
-843
+844
 00:04:57,700 --> 00:05:01,233
 神秘研究是个小游戏，通过花费研究点来完成一些“要素链”
 
-844
+845
 00:05:01,500 --> 00:05:04,666
 要素是神秘时代的核心元素，是一切事物的基本构成
 
-845
+846
 00:05:05,433 --> 00:05:07,000
 每个事物都是由不同的要素组成的
 
-846
+847
 00:05:07,000 --> 00:05:09,733
 每项研究都由一系列要素组成
 
-847
+848
 00:05:09,733 --> 00:05:13,033
 我们要做的是将它们连接起来，中间是它们之间共有的组成要素
 
-848
+849
 00:05:13,033 --> 00:05:14,733
 在我们太操心研究之前
 
-849
+850
 00:05:14,733 --> 00:05:16,466
 你需要积累一些要素
 
-850
+851
 00:05:16,900 --> 00:05:19,700
 任务书上有一个不错的列表，列出了要扫描的所有要素
 
-851
+852
 00:05:19,700 --> 00:05:21,466
 不要太担心你解锁了什么
 
-852
+853
 00:05:21,466 --> 00:05:22,833
 现在就看一眼清单
 
-853
+854
 00:05:24,933 --> 00:05:26,800
 你可以拿着魔导透镜观察东西
 
-854
+855
 00:05:26,800 --> 00:05:28,600
 或悬停在库存中的物品上
 
-855
+856
 00:05:29,133 --> 00:05:32,400
 正如任务书所指出的，第一组东西需要按顺序扫
 
-856
+857
 00:05:32,466 --> 00:05:33,466
 不要跳着扫
 
-857
+858
 00:05:33,466 --> 00:05:35,866
 扫描列表中尽可能多你已经找到或者能找到的东西
 
-858
+859
 00:05:35,866 --> 00:05:37,433
 并准备好搓一些东西
 
-859
+860
 00:05:37,433 --> 00:05:38,700
 或者去杀怪物获得战利品
 
-860
+861
 00:05:38,700 --> 00:05:39,433
 或者去打猎
 
-861
+862
 00:05:39,900 --> 00:05:42,400
 如果你收到一条消息，说你缺少扫描物品的知识
 
-862
+863
 00:05:42,400 --> 00:05:44,733
 跳过它，下次看到该消息时再回来看看
 
-863
+864
 00:05:45,266 --> 00:05:48,400
 解锁所有要素只需要干一次就行
 
-864
+865
 00:05:48,400 --> 00:05:50,100
 所以全力以赴完成它
 
-865
+866
 00:05:50,100 --> 00:05:51,933
 对于腐化的任何物品
 
-866
+867
 00:05:52,066 --> 00:05:54,033
 你最好的选择是找到一个腐化之地生物群系
 
-867
+868
 00:05:54,700 --> 00:05:56,666
 你可能要探很长时间图才能找到一个
 
-868
+869
 00:05:56,666 --> 00:05:57,533
 使用生物群系指南针
 
-869
+870
 00:05:57,600 --> 00:06:00,566
 在你游历四方的时候再找一个魔法森林群系，如果你还没有见过的话
 
-870
+871
 00:06:00,566 --> 00:06:01,866
 一旦你找到腐化之地
 
-871
+872
 00:06:01,866 --> 00:06:03,433
 扫描受污染的东西然后就跑
 
-872
+873
 00:06:03,433 --> 00:06:05,233
 不要加载这个区域
 
-873
+874
 00:06:05,233 --> 00:06:07,266
 如果你基地就在旁边，移动（此处插入祥子移动jpg）
 
-874
+875
 00:06:07,266 --> 00:06:09,400
 别管要花多久
 
-875
+876
 00:06:10,000 --> 00:06:14,066
 如果你不小心处理腐化的话，你基地和整个世界未来就是刚刚那样
 
-876
+877
 00:06:14,300 --> 00:06:15,400
 全部被腐化吞噬
 
-877
+878
 00:06:15,833 --> 00:06:18,766
 这就是为什么我不建议尝试任务书推荐的方法
 
-878
+879
 00:06:18,766 --> 00:06:20,600
 除非你已经有了经验
 
-879
+880
 00:06:21,100 --> 00:06:22,700
 现在你解锁了所有的要素
 
-880
+881
 00:06:22,700 --> 00:06:24,800
 扫描你拥有的所有东西
 
-881
+882
 00:06:26,800 --> 00:06:29,700
 你可以在NEI中查看它们，以查看扫描时哪些物品包含这些要素
 
-882
+883
 00:06:29,700 --> 00:06:31,333
 或者看看炼金炉配方
 
-883
+884
 00:06:33,600 --> 00:06:35,800
 现在也再看看你的研究台
 
-884
+885
 00:06:35,800 --> 00:06:36,866
 所有要素应该都在了
 
-885
+886
 00:06:36,866 --> 00:06:38,733
 准备用于研究小游戏
 
-886
+887
 00:06:39,100 --> 00:06:42,566
 每个要素都有数字，显示了你扫描了该要素的研究点
 
-887
+888
 00:06:42,566 --> 00:06:43,666
 要多收集一些研究点
 
-888
+889
 00:06:43,666 --> 00:06:46,133
 你需要扫描包含该要素的新物品
 
-889
+890
 00:06:46,633 --> 00:06:50,100
 一般来说，你要扫描你在制作中得到的每一件新东西
 
-890
+891
 00:06:50,100 --> 00:06:52,433
 以及回去扫描你所有已有的东西
 
-891
+892
 00:06:53,066 --> 00:06:57,400
 你可能会注意到你积累的几个特定要素比其他的都多
 
-892
+893
 00:06:57,400 --> 00:06:59,700
 因为你有特别多不同类型机器可以扫描
 
-893
+894
 00:07:00,233 --> 00:07:01,700
 秩序和工具
 
-894
+895
 00:07:04,200 --> 00:07:06,000
 如果苯代表了电力
 
-895
+896
 00:07:06,133 --> 00:07:08,666
 秩序和工具则代表了神秘研究
 
-896
+897
 00:07:09,400 --> 00:07:10,866
 除了原始要素
 
-897
+898
 00:07:10,866 --> 00:07:14,066
 其他所有要素都是由另外两个要素组成的
 
-898
+899
 00:07:14,833 --> 00:07:17,666
 例如，风加秩序是移动
 
-899
+900
 00:07:19,300 --> 00:07:21,233
 在背包里放上笔与墨和纸
 
-900
+901
 00:07:21,233 --> 00:07:24,000
 点击魔导手册中的未完成的研究获得研究笔记
 
-901
+902
 00:07:24,000 --> 00:07:26,600
 把笔记，笔与墨放到研究台上
 
-902
+903
 00:07:27,033 --> 00:07:32,600
 研究小游戏的玩法是，用由用组成的要素连接图中一开始就有的要素
 
-903
+904
 00:07:33,600 --> 00:07:35,300
 移动可以放在秩序旁边
 
-904
+905
 00:07:35,300 --> 00:07:37,500
 因为移动是由秩序组成的
 
-905
+906
 00:07:37,500 --> 00:07:39,300
 气可以放在移动的另一边
 
-906
+907
 00:07:39,300 --> 00:07:41,666
 因为移动也是由气组成的
 
-907
+908
 00:07:41,666 --> 00:07:44,833
 现在我们通过移动找到了秩序和气之间的联系
 
-908
+909
 00:07:46,500 --> 00:07:47,533
 要完成研究
 
-909
+910
 00:07:47,533 --> 00:07:50,033
 你只需用这个思路连接所有要素
 
-910
+911
 00:07:50,066 --> 00:07:52,633
 这两个不同的要素取决于研究的开始（？）
 
-911
+912
 00:07:52,666 --> 00:07:53,233
 懂了吗？
 
-912
+913
 00:07:53,233 --> 00:07:54,900
 在你玩了一会儿之后
 
-913
+914
 00:07:54,900 --> 00:07:59,900
 你可能会注意到，几乎每项研究都可以通过首先将起始要素转换为秩序或工具来完成
 
-914
+915
 00:07:59,900 --> 00:08:02,200
 然后在两者之间交替来搭桥
 
-915
-00:08:02,666 --> 00:08:04,566
-东西应该同时加载这两个东西
-
 916
-00:08:04,566 --> 00:08:06,700
-可能很难得到其他大量供应的东西。（？）
+00:08:02,666 --> 00:08:06,700
+东西应该同时加载这两个东西，可能很难得到其他大量供应的东西。（？）
 
 917
 00:08:06,833 --> 00:08:07,733
-这就是方法（？）
+这就是方法
 
 918
 00:08:09,233 --> 00:08:10,333
@@ -4547,68 +4547,68 @@ NEI神秘时代附属
 唯一剩下的问题是，为什么
 
 1138
-00:16:41,633 --> 00:16:47,000
-除了用它解锁其他魔法模组和推进整合包进度（断句）关键在于
+00:16:41,633 --> 00:16:44,866
+除了用它解锁其他魔法模组和推进整合包进度
 
 1139
+00:16:45,433 --> 00:16:47,000
+你还可以：
+
+1140
 00:17:22,133 --> 00:17:24,000
 对，绝对值得
 
-1140
+1141
 00:17:24,533 --> 00:17:26,433
 还有纳米套版的旅行者之靴
 
-1141
+1142
 00:17:26,433 --> 00:17:28,633
 以及能和纳米套其他部件搭配的揭示之护目镜
 
-1142
+1143
 00:17:28,633 --> 00:17:29,833
 都非常好用
 
-1143
+1144
 00:17:30,566 --> 00:17:33,900
 很多玩家包括我在内，都会优先做神秘修复器（？）
 
-1144
+1145
 00:17:34,133 --> 00:17:37,133
 它可以修复很多东西，包括遗忘框架
 
-1145
+1146
 00:17:37,300 --> 00:17:39,300
 那是养蜂前期的关键道具
 
-1146
+1147
 00:17:39,466 --> 00:17:41,900
 还有能赋予创造飞行的飞行药水
 
-1147
+1148
 00:17:41,900 --> 00:17:43,100
 对，这个你肯定想要
 
-1148
+1149
 00:17:44,433 --> 00:17:45,700
 简单提一下蜜蜂
 
-1149
+1150
 00:17:45,700 --> 00:17:49,066
 他们在GTNH中简直是六边形战士
 
-1150
+1151
 00:17:49,100 --> 00:17:50,266
 懂吗，全方面的好
 
-1151
+1152
 00:17:50,600 --> 00:17:52,600
 它们足以成为我们在这个指南讲这么多东西的理由
 
-1152
-00:17:53,100 --> 00:17:54,900
-它们是我自己世界中资源生成和电力生成的基础
-
 1153
-00:17:54,900 --> 00:17:56,800
-（向上合并）
+00:17:53,100 --> 00:17:56,733
+它们是我自己世界中资源生成和电力生成的基础
 
 1154
 00:17:56,866 --> 00:17:58,333
