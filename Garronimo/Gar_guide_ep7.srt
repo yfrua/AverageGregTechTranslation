@@ -1,0 +1,2480 @@
+1
+00:00:00,333 --> 00:00:01,800
+now you're really cooking
+
+2
+00:00:02,433 --> 00:00:03,700
+you've got more than gusto
+
+3
+00:00:03,900 --> 00:00:05,233
+you've got goals
+
+4
+00:00:05,466 --> 00:00:06,600
+a power system
+
+5
+00:00:06,733 --> 00:00:08,133
+a magical remedies
+
+6
+00:00:08,200 --> 00:00:09,800
+and a smooth ride through MV
+
+7
+00:00:10,533 --> 00:00:12,700
+but the quest book has you spooked
+
+8
+00:00:13,133 --> 00:00:14,866
+things are getting more complicated quickly
+
+9
+00:00:15,466 --> 00:00:16,400
+chemical lines
+
+10
+00:00:16,400 --> 00:00:17,866
+multi step automation
+
+11
+00:00:17,866 --> 00:00:19,233
+new mods and metals
+
+12
+00:00:19,333 --> 00:00:21,500
+and brand new circuit components you've never seen
+
+13
+00:00:22,000 --> 00:00:22,933
+what in the world
+
+14
+00:00:23,700 --> 00:00:24,533
+gregtech
+
+15
+00:00:24,533 --> 00:00:25,333
+that's what
+
+16
+00:00:25,733 --> 00:00:29,066
+welcome back to the beginners guide to GregTech New Horizons
+
+17
+00:00:29,066 --> 00:00:30,400
+today we upgrade
+
+18
+00:00:30,733 --> 00:00:32,400
+if you're waiting to take things to the next level
+
+19
+00:00:32,400 --> 00:00:33,666
+you're in the right place
+
+20
+00:00:33,666 --> 00:00:34,700
+this is episode 7
+
+21
+00:00:35,300 --> 00:00:36,100
+MV
+
+22
+00:00:52,800 --> 00:00:54,333
+there's not a ton of preamble this time
+
+23
+00:00:54,800 --> 00:00:56,266
+you should have a goal for your power system
+
+24
+00:00:56,266 --> 00:00:58,200
+and maybe some goodies you already know you want to grab
+
+25
+00:00:58,333 --> 00:01:00,300
+and you're probably already feeling the power spike
+
+26
+00:01:00,800 --> 00:01:02,433
+you can't run your EBF full time
+
+27
+00:01:02,466 --> 00:01:03,300
+make that a goal
+
+28
+00:01:03,500 --> 00:01:06,300
+and don't be afraid to use multiple types of power production to make it happen
+
+29
+00:01:06,600 --> 00:01:08,100
+and keep the aluminum cranking
+
+30
+00:01:08,266 --> 00:01:10,333
+by using the alumina and cryolite recipe
+
+31
+00:01:11,100 --> 00:01:12,200
+and don't forget steel
+
+32
+00:01:12,933 --> 00:01:15,933
+as usual, "you're gonna hate this" quest unlock the meat of the chapter
+
+33
+00:01:16,100 --> 00:01:18,866
+and let that be your reminder to get familiar with conveyors and pumps
+
+34
+00:01:19,233 --> 00:01:21,066
+the chemical lines you'll be diving into in MV
+
+35
+00:01:21,066 --> 00:01:23,066
+are gonna require cell management for fluids
+
+36
+00:01:23,133 --> 00:01:27,066
+and you're probably at the point where upgrading the covers on your power system makes sense for transport speed
+
+37
+00:01:27,800 --> 00:01:30,100
+the flawless emerald for the sensor might be a bit of a trick
+
+38
+00:01:30,266 --> 00:01:32,300
+but enough poking around the nether should get you a few
+
+39
+00:01:32,300 --> 00:01:33,533
+or you can look into sifting
+
+40
+00:01:33,866 --> 00:01:36,233
+for the most part, MV is about upgrades
+
+41
+00:01:36,333 --> 00:01:39,033
+either for speed, bonus output or cost
+
+42
+00:01:39,666 --> 00:01:41,866
+after you get the extruder for more efficient rod production
+
+43
+00:01:41,866 --> 00:01:44,100
+the next thing on the list is probably the electrolyzer
+
+44
+00:01:44,333 --> 00:01:45,733
+you actually can make it right away
+
+45
+00:01:45,733 --> 00:01:47,600
+without getting that "you're gonna hate this" quests
+
+46
+00:01:47,600 --> 00:01:49,866
+but the extruder will help you keep scaling towards your power plan
+
+47
+00:01:49,866 --> 00:01:52,100
+so it's probably six one way, half dozen the other
+
+48
+00:01:52,266 --> 00:01:53,333
+you need it all either way
+
+49
+00:01:54,200 --> 00:01:57,533
+speaking of, there's some crossover dependencies inside the MV chapter
+
+50
+00:01:57,533 --> 00:01:59,066
+but you can approach it with different paths
+
+51
+00:01:59,066 --> 00:02:00,033
+this is just one
+
+52
+00:02:00,400 --> 00:02:01,833
+and to be fair to the electrolyzer
+
+53
+00:02:01,833 --> 00:02:03,666
+it's probably the most important machine of the tier
+
+54
+00:02:04,400 --> 00:02:06,933
+to start you'll probably just be slamming different dust through the machine
+
+55
+00:02:06,933 --> 00:02:08,400
+and routing the outputs to drawers
+
+56
+00:02:08,700 --> 00:02:10,033
+that'll work just fine to begin
+
+57
+00:02:10,200 --> 00:02:12,066
+just make sure you have enough drawers for all the outputs 
+
+58
+00:02:12,066 --> 00:02:13,833
+and you're storing all the fluid outputs
+
+59
+00:02:13,833 --> 00:02:15,200
+and have a way to avoid water
+
+60
+00:02:16,266 --> 00:02:18,200
+you'll need to electrolyze ruby dust for chrome
+
+61
+00:02:18,500 --> 00:02:20,900
+find out with redstone ore veins and a lot of it
+
+62
+00:02:21,133 --> 00:02:23,700
+electrolyze sodalite are great for starting silicone and sodium
+
+63
+00:02:23,700 --> 00:02:25,233
+and stockpiling aluminum dust
+
+64
+00:02:25,266 --> 00:02:26,900
+and salt is ideal for chlorine
+
+65
+00:02:27,500 --> 00:02:29,433
+but that hardened clay biome you found ages ago
+
+66
+00:02:29,433 --> 00:02:31,533
+is about to become critically important
+
+67
+00:02:31,900 --> 00:02:33,333
+even if only for a short while
+
+68
+00:02:33,866 --> 00:02:36,000
+macerate it, then electrolyze the clay dust
+
+69
+00:02:36,000 --> 00:02:39,433
+for tons of aluminum, sodium, lithium and silicon dioxide
+
+70
+00:02:40,266 --> 00:02:43,233
+the silicon dioxide can be sent through a chemical reactor with magnesium
+
+71
+00:02:43,266 --> 00:02:45,266
+which you can get by centrifuging marble dust
+
+72
+00:02:45,433 --> 00:02:47,066
+to get raw silicone dust
+
+73
+00:02:48,733 --> 00:02:52,000
+this is 100 percent going to be worth automating end to end
+
+74
+00:02:52,300 --> 00:02:55,100
+the magnesium can be recycled, also in an electrolyzer
+
+75
+00:02:55,100 --> 00:02:56,833
+to get the original magnesium back
+
+76
+00:02:56,933 --> 00:02:59,533
+so the only input item is the silicon dioxide dust
+
+77
+00:02:59,933 --> 00:03:02,400
+the magnesium input is what's called a closed loop
+
+78
+00:03:02,733 --> 00:03:05,100
+meaning the same system that produces your ideal output
+
+79
+00:03:05,100 --> 00:03:07,133
+also produces more of your input items
+
+80
+00:03:07,500 --> 00:03:09,433
+you want to look for these as often as you can
+
+81
+00:03:10,266 --> 00:03:13,300
+there are many other ways to get silicon dioxide too
+
+82
+00:03:13,666 --> 00:03:15,066
+most players are going to want glass
+
+83
+00:03:15,066 --> 00:03:17,500
+so a little setup to turn cobblestone into glass dust
+
+84
+00:03:17,500 --> 00:03:18,733
+some being turned into glass
+
+85
+00:03:18,733 --> 00:03:20,100
+and some into silicon dioxide
+
+86
+00:03:20,100 --> 00:03:21,100
+will make it renewable
+
+87
+00:03:21,300 --> 00:03:23,466
+another thing you'll want to be looking for as often as you can
+
+88
+00:03:23,833 --> 00:03:26,233
+and you plug it into the same setup you're using for clay dust
+
+89
+00:03:27,433 --> 00:03:29,300
+there are several use cases for raw silicon
+
+90
+00:03:29,533 --> 00:03:32,333
+but for now the most important one is silicon solar grade dust
+
+91
+00:03:33,033 --> 00:03:34,233
+there are two paths to making it
+
+92
+00:03:34,233 --> 00:03:36,000
+and both have closed loop input items
+
+93
+00:03:36,000 --> 00:03:37,833
+making raw silicon dust the only input
+
+94
+00:03:38,433 --> 00:03:41,100
+the tetrachloride route is a little bit easier for cell management
+
+95
+00:03:41,100 --> 00:03:43,400
+but it does take an extra machine to get the chlorine back
+
+96
+00:03:44,600 --> 00:03:47,733
+the trichlorethylene route doesn't have any extra byproduct recycling
+
+97
+00:03:47,733 --> 00:03:48,933
+but only deals with fluids
+
+98
+00:03:48,933 --> 00:03:50,600
+so cell management can be tricky
+
+99
+00:03:51,066 --> 00:03:51,700
+either way
+
+100
+00:03:51,700 --> 00:03:53,400
+start working towards a full drawer of the stuff
+
+101
+00:03:53,400 --> 00:03:54,833
+and be ready for a lot more
+
+102
+00:03:55,800 --> 00:03:59,000
+while your SSG stacks up it's time to pivot to plastics
+
+103
+00:03:59,300 --> 00:04:01,466
+polyethylene is one that has a ton of uses early
+
+104
+00:04:01,633 --> 00:04:04,900
+from cheaper circuit components to EnderIO conduits and many more
+
+105
+00:04:05,400 --> 00:04:07,033
+just like there are new circuits in every tier
+
+106
+00:04:07,033 --> 00:04:08,300
+there are new plastics too
+
+107
+00:04:08,533 --> 00:04:10,000
+they're usually not required right away
+
+108
+00:04:10,000 --> 00:04:11,466
+and polyethylene is no different
+
+109
+00:04:11,666 --> 00:04:14,100
+you can get the HV circuits at the end of the chapter without it
+
+110
+00:04:14,600 --> 00:04:17,733
+and the circuit boards the quest line calls out aren't actually needed until HV
+
+111
+00:04:18,266 --> 00:04:21,466
+but not having it would make the next part a lot more expensive
+
+112
+00:04:23,066 --> 00:04:24,533
+if you didn't notice during the LV tier
+
+113
+00:04:24,533 --> 00:04:27,600
+there are a couple different types of circuit components that can work to make each circuit
+
+114
+00:04:27,933 --> 00:04:29,200
+the recipe will rotate through them
+
+115
+00:04:29,200 --> 00:04:30,666
+so you can see everything that works
+
+116
+00:04:31,066 --> 00:04:33,200
+there are also multiple ways to make each component
+
+117
+00:04:33,266 --> 00:04:35,866
+each with a higher return in exchange for a better material
+
+118
+00:04:36,300 --> 00:04:39,233
+the LDR (?), make the best thing you can afford always
+
+119
+00:04:39,933 --> 00:04:42,900
+staying in supply of tantalum at this point probably isn't realistic
+
+120
+00:04:42,900 --> 00:04:43,933
+or possible at all
+
+121
+00:04:44,066 --> 00:04:45,333
+and as the quest book suggests
+
+122
+00:04:45,333 --> 00:04:48,200
+the resistor is probably the only upgrade you can afford right now
+
+123
+00:04:48,300 --> 00:04:49,233
+but they're worth it
+
+124
+00:04:49,233 --> 00:04:50,600
+even with the electrum recipe
+
+125
+00:04:52,100 --> 00:04:54,700
+you can also view the entire circuitry with this little button
+
+126
+00:04:55,133 --> 00:04:55,933
+there's a lot here
+
+127
+00:04:55,933 --> 00:04:56,533
+and honestly
+
+128
+00:04:56,533 --> 00:04:58,800
+this is most useful for illustrating two things
+
+129
+00:04:59,400 --> 00:05:01,733
+the first is the order of upgrades per tier of circuit
+
+130
+00:05:01,733 --> 00:05:02,866
+along the horizontal
+
+131
+00:05:03,133 --> 00:05:04,633
+from most to least expensive
+
+132
+00:05:04,633 --> 00:05:05,466
+or set another way
+
+133
+00:05:05,466 --> 00:05:06,500
+from the first ones you'll make
+
+134
+00:05:06,500 --> 00:05:07,666
+to the last ones you'll make
+
+135
+00:05:08,500 --> 00:05:09,266
+and the other is
+
+136
+00:05:09,266 --> 00:05:11,633
+which circuit boards are required for which level of circuit
+
+137
+00:05:11,633 --> 00:05:12,600
+along the vertical
+
+138
+00:05:12,800 --> 00:05:14,466
+from the lowest tier to the highest tier
+
+139
+00:05:15,066 --> 00:05:16,266
+it can be a little confusing
+
+140
+00:05:16,266 --> 00:05:17,233
+so to simplify
+
+141
+00:05:17,233 --> 00:05:18,266
+in order to advance
+
+142
+00:05:18,266 --> 00:05:22,066
+you'll need to make preposterously expensive mainframe circuits using cheap boards
+
+143
+00:05:22,266 --> 00:05:24,066
+and to unlock the cheaper circuit recipes
+
+144
+00:05:24,066 --> 00:05:25,700
+you'll need to unlock better boards
+
+145
+00:05:28,733 --> 00:05:31,533
+so, now you know why you don't want to delay your chemistry
+
+146
+00:05:31,933 --> 00:05:34,800
+it's going to get ridiculously expensive to proceed if you do
+
+147
+00:05:35,233 --> 00:05:37,100
+the next step is actually doing it
+
+148
+00:05:37,633 --> 00:05:39,333
+making polyethylene is the easy part
+
+149
+00:05:39,433 --> 00:05:41,000
+you just mix ethylene with oxygen
+
+150
+00:05:41,400 --> 00:05:42,666
+you already know how to make oxygen
+
+151
+00:05:42,666 --> 00:05:43,533
+so if you need more
+
+152
+00:05:43,533 --> 00:05:45,400
+give polyethylene its own oxygen setup
+
+153
+00:05:45,833 --> 00:05:47,866
+it's a little early to share fluid setups easily
+
+154
+00:05:47,866 --> 00:05:49,266
+so if you're having trouble doing it
+
+155
+00:05:49,333 --> 00:05:50,133
+don't bother
+
+156
+00:05:51,400 --> 00:05:52,466
+you can take it over too
+
+157
+00:05:52,466 --> 00:05:55,300
+but if you don't have enough chores with all the mining and ore processing you've been doing
+
+158
+00:05:55,300 --> 00:05:56,333
+I'd be surprised
+
+159
+00:05:56,666 --> 00:05:58,633
+surely you haven't forgotten about mining, right?
+
+160
+00:05:59,400 --> 00:06:00,266
+we'll get back to that
+
+161
+00:06:00,533 --> 00:06:01,933
+for now, ethylene
+
+162
+00:06:02,833 --> 00:06:04,866
+like most things there are a number of ways to get it
+
+163
+00:06:05,133 --> 00:06:08,533
+and the way you choose will probably be connected to your power system choice
+
+164
+00:06:09,500 --> 00:06:10,233
+at this point
+
+165
+00:06:10,233 --> 00:06:11,466
+things are getting pretty busy
+
+166
+00:06:11,600 --> 00:06:12,600
+so if you need to take a beat here
+
+167
+00:06:12,600 --> 00:06:14,266
+and get organized with your power system
+
+168
+00:06:14,266 --> 00:06:15,133
+definitely do
+
+169
+00:06:15,233 --> 00:06:18,200
+check out episode 5 if you missed it for more details on the options
+
+170
+00:06:18,533 --> 00:06:19,433
+the good news is
+
+171
+00:06:19,433 --> 00:06:21,133
+your silicone is probably built up enough by now
+
+172
+00:06:21,133 --> 00:06:23,400
+that you can start thinking about the MV Energy hatch
+
+173
+00:06:24,666 --> 00:06:26,500
+stock back up on gallium and arsenic
+
+174
+00:06:26,800 --> 00:06:27,933
+it's still a bit painful
+
+175
+00:06:27,933 --> 00:06:29,033
+but MV miners are great
+
+176
+00:06:29,200 --> 00:06:31,066
+and blast furnace your way to some boules
+
+177
+00:06:31,600 --> 00:06:33,600
+this is a long smelting operation
+
+178
+00:06:33,600 --> 00:06:35,200
+so make sure you don't run out of fuel
+
+179
+00:06:35,900 --> 00:06:37,866
+grab the MV cutting machine and Laser Engraver too
+
+180
+00:06:38,266 --> 00:06:43,200
+the thaumcraft shards you grab for magic can be made into the Tera lenses and Ignis lenses if you struggled for emerald and ruby
+
+181
+00:06:43,300 --> 00:06:44,600
+but for the RAM you need later
+
+182
+00:06:44,600 --> 00:06:46,133
+you'll have to hunt down sapphires
+
+183
+00:06:46,533 --> 00:06:48,000
+for now grab the Tera lens
+
+184
+00:06:48,000 --> 00:06:50,800
+and make low power ICs and the MV Energy hatch
+
+185
+00:06:51,833 --> 00:06:53,600
+if you manage to get the other ones as too
+
+186
+00:06:53,633 --> 00:06:56,533
+take advantage of cheaper LV and MV circuits starting right away
+
+187
+00:06:56,866 --> 00:06:58,666
+feel free to upgrade the EBF now too
+
+188
+00:06:58,666 --> 00:07:00,533
+but definitely upgrade your power system
+
+189
+00:07:02,466 --> 00:07:03,933
+the EBF will be relevant soon
+
+190
+00:07:04,000 --> 00:07:06,266
+but if you're opting for steam or benzene for long term power
+
+191
+00:07:06,266 --> 00:07:08,333
+what you need at the moment is the pyrolysis oven
+
+192
+00:07:09,400 --> 00:07:10,933
+get your farms an oven set for power
+
+193
+00:07:10,933 --> 00:07:13,933
+then divert some wood into a secondary pyrolysis to make wood gas
+
+194
+00:07:13,933 --> 00:07:15,000
+using circuit 5
+
+195
+00:07:15,033 --> 00:07:16,900
+and don't forget the nitrogen for efficiency
+
+196
+00:07:17,500 --> 00:07:19,433
+then distill the wood gas for ethylene
+
+197
+00:07:19,733 --> 00:07:20,333
+easy peasy
+
+198
+00:07:20,333 --> 00:07:21,866
+ready to mix with oxygen
+
+199
+00:07:23,433 --> 00:07:25,700
+if you opted for fuel like I did in my main world
+
+200
+00:07:25,700 --> 00:07:29,600
+the straightest line to ethylene for now is to divert some of the light fuel into a chemical reactor
+
+201
+00:07:29,633 --> 00:07:31,900
+mix with steam for severely steamed light fuel
+
+202
+00:07:31,900 --> 00:07:33,200
+and distill for ethylene
+
+203
+00:07:33,833 --> 00:07:37,100
+you can complicate this a bit by making lightly steamed light fuel instead
+
+204
+00:07:37,133 --> 00:07:38,800
+and distilling into naphtha first
+
+205
+00:07:38,800 --> 00:07:40,066
+then steaming it again
+
+206
+00:07:40,066 --> 00:07:42,733
+and distilling the naphtha into ethylene for a better return
+
+207
+00:07:43,033 --> 00:07:44,500
+but if you're going oil long term
+
+208
+00:07:44,600 --> 00:07:47,200
+it might be better to wait for the distillation tower to do that
+
+209
+00:07:48,000 --> 00:07:50,233
+even if you got crazy and went bio-diesel for power
+
+210
+00:07:50,233 --> 00:07:52,700
+there's a way to get ethylene through ethanol and sulfuric acid
+
+211
+00:07:52,833 --> 00:07:53,833
+but like everything else
+
+212
+00:07:53,833 --> 00:07:57,233
+it's a big investment that's only worth it if the plans all align for you
+
+213
+00:07:58,233 --> 00:08:00,200
+you can also get into EnderIO now
+
+214
+00:08:00,533 --> 00:08:01,433
+we aren't going to cover it here
+
+215
+00:08:01,433 --> 00:08:03,633
+because the quest book does a great job of walking you through
+
+216
+00:08:03,700 --> 00:08:04,733
+but I'll say this
+
+217
+00:08:04,733 --> 00:08:07,800
+item conduits with item filters will be life changing
+
+218
+00:08:08,933 --> 00:08:10,533
+now, with power well under control
+
+219
+00:08:10,533 --> 00:08:11,666
+and polyethylene in hand
+
+220
+00:08:11,666 --> 00:08:13,100
+it's time to get back to the EBF
+
+221
+00:08:13,633 --> 00:08:15,133
+double up on MV Energy hatches
+
+222
+00:08:15,133 --> 00:08:16,633
+and get that bad boy to HV
+
+223
+00:08:16,700 --> 00:08:18,400
+and get ready to roll some coal
+
+224
+00:08:19,200 --> 00:08:21,633
+you got plenty of chrome by now from all the electrolyzing too
+
+225
+00:08:21,833 --> 00:08:23,066
+oh you forgot about that
+
+226
+00:08:23,400 --> 00:08:25,033
+back to the mines with you immediately
+
+227
+00:08:25,400 --> 00:08:28,266
+anyway mix up some kanthal dust in your new MV mixer
+
+228
+00:08:28,266 --> 00:08:29,266
+and get to smelting
+
+229
+00:08:30,533 --> 00:08:31,700
+to cool the hot ingots
+
+230
+00:08:31,700 --> 00:08:33,433
+you'll need a chemical bath with some coolant in
+
+231
+00:08:34,266 --> 00:08:35,933
+you make the coolant with water and lapis dust
+
+232
+00:08:35,933 --> 00:08:37,733
+which means it's effectively free
+
+233
+00:08:38,300 --> 00:08:39,700
+I might catch some heat for this one
+
+234
+00:08:39,700 --> 00:08:42,933
+but I don't think it's worth using the tank and fan to recycle the coolant
+
+235
+00:08:43,433 --> 00:08:44,533
+just make the distilled water
+
+236
+00:08:44,533 --> 00:08:45,833
+and match out a tank of the stuff
+
+237
+00:08:46,133 --> 00:08:47,533
+with 128 buckets
+
+238
+00:08:47,533 --> 00:08:49,200
+you can cool over 500 ingots
+
+239
+00:08:49,200 --> 00:08:52,433
+which was way more than I personally needed before crafting the vacuum freezer
+
+240
+00:08:53,466 --> 00:08:54,833
+with the basic cooling system
+
+241
+00:08:54,833 --> 00:08:55,933
+some kanthal coils
+
+242
+00:08:55,933 --> 00:08:57,866
+which by the way this time require mica
+
+243
+00:08:57,866 --> 00:09:00,300
+so if you cheaped out last time, get the prospecting
+
+244
+00:09:00,800 --> 00:09:02,833
+you can start cooking and cooling SSG ingots
+
+245
+00:09:02,866 --> 00:09:04,900
+and start making HV circuits at last
+
+246
+00:09:04,900 --> 00:09:07,000
+the very very expensive way
+
+247
+00:09:08,000 --> 00:09:11,000
+and finally the HV Metal, stainless steel
+
+248
+00:09:11,300 --> 00:09:12,533
+you're probably hurting for chrome
+
+249
+00:09:12,533 --> 00:09:13,700
+and that's totally normal
+
+250
+00:09:13,700 --> 00:09:14,700
+so get back to the mines
+
+251
+00:09:14,700 --> 00:09:18,233
+or start centrifuging that outrageous backlog of redstone for extra ruby dust
+
+252
+00:09:18,300 --> 00:09:20,933
+and power the setup using all that mercury and an acid generator
+
+253
+00:09:21,466 --> 00:09:23,800
+it was exactly at this point in my own journey that
+
+254
+00:09:23,800 --> 00:09:27,233
+I pivoted into magic and bees to solve for some of these trickier resources
+
+255
+00:09:27,500 --> 00:09:29,333
+there are other ways to approach getting ruby
+
+256
+00:09:29,466 --> 00:09:30,666
+and if you're having serious trouble
+
+257
+00:09:30,666 --> 00:09:32,500
+definitely consider using the ruby juice
+
+258
+00:09:32,733 --> 00:09:34,433
+the only trick is the hydrochloric acid
+
+259
+00:09:34,533 --> 00:09:36,900
+but let's not pretend like you have enough ruby to need it infinitely
+
+260
+00:09:37,933 --> 00:09:40,433
+and anyway, match up as much stainless as you can afford
+
+261
+00:09:40,733 --> 00:09:42,866
+you'll be making some more multi blocks in the next tier
+
+262
+00:09:42,900 --> 00:09:44,066
+and they're expensive
+
+263
+00:09:45,433 --> 00:09:47,633
+and so it was that you were ready for HV
+
+264
+00:09:48,033 --> 00:09:48,833
+how about that
+
+265
+00:09:49,800 --> 00:09:51,400
+there are some things we glossed over though
+
+266
+00:09:51,500 --> 00:09:52,900
+so let's do some highlights
+
+267
+00:09:53,933 --> 00:09:56,433
+EnderIO has some amazing things to offer
+
+268
+00:09:56,500 --> 00:09:57,933
+from easy travel around your base
+
+269
+00:09:57,933 --> 00:09:59,633
+to automated mob spawning and killing
+
+270
+00:10:00,066 --> 00:10:02,000
+it's different in GTNH, naturally
+
+271
+00:10:02,000 --> 00:10:03,066
+but still amazing
+
+272
+00:10:03,333 --> 00:10:05,700
+and the dark steel chests are needed for the compressed chest
+
+273
+00:10:05,700 --> 00:10:07,933
+godliest of all for purposes of mining
+
+274
+00:10:08,466 --> 00:10:10,400
+polyvinyl Chloride is a little French for now
+
+275
+00:10:10,400 --> 00:10:14,066
+but super worth having around as you start making improved circuit components with your polyethylene
+
+276
+00:10:14,466 --> 00:10:15,833
+and make straight out of pipes
+
+277
+00:10:16,900 --> 00:10:19,600
+the prospecting tool is a gift from Greg himself
+
+278
+00:10:19,733 --> 00:10:21,733
+no more digging down to check ore veins
+
+279
+00:10:23,200 --> 00:10:25,233
+The World Accelerator is an incredibly useful
+
+280
+00:10:25,233 --> 00:10:29,500
+if equally power hungry little block that speeds up the tick rate of blocks and entities around it
+
+281
+00:10:30,033 --> 00:10:32,266
+void upgrades keep your automated systems moving
+
+282
+00:10:32,266 --> 00:10:33,400
+especially power
+
+283
+00:10:34,233 --> 00:10:37,466
+super chests, for massive storage capacity of single items
+
+284
+00:10:38,400 --> 00:10:41,333
+transporters, for close range item and fluid transport
+
+285
+00:10:41,800 --> 00:10:43,433
+so many goodies to enjoy
+
+286
+00:10:43,633 --> 00:10:45,833
+and one big giant gotcha
+
+287
+00:10:46,600 --> 00:10:48,300
+since you don't need those circuit boards now
+
+288
+00:10:48,333 --> 00:10:51,533
+it can be easy to ignore the iron III Chloride or the sodium persulfate
+
+289
+00:10:52,066 --> 00:10:53,866
+don't overlook this
+
+290
+00:10:54,000 --> 00:10:55,866
+you need giant quantities
+
+291
+00:10:56,033 --> 00:10:58,066
+so you either need to think hard about sulfuric acid
+
+292
+00:10:58,066 --> 00:10:59,666
+or you need to think hard about chlorine
+
+293
+00:11:00,233 --> 00:11:01,066
+it's not urgent
+
+294
+00:11:01,066 --> 00:11:02,866
+but once you start needing it during HV
+
+295
+00:11:03,000 --> 00:11:05,133
+you'll hit a brick wall if you can't make quite a lot
+
+296
+00:11:05,533 --> 00:11:06,600
+you might have also noticed
+
+297
+00:11:06,600 --> 00:11:08,733
+there weren't as many single block machine quests this time
+
+298
+00:11:08,733 --> 00:11:09,933
+get used to that
+
+299
+00:11:10,066 --> 00:11:10,800
+but don't forget
+
+300
+00:11:10,800 --> 00:11:13,033
+every tier has new additions of all the machines
+
+301
+00:11:13,033 --> 00:11:14,033
+and they're all better
+
+302
+00:11:14,233 --> 00:11:15,033
+other than that
+
+303
+00:11:15,200 --> 00:11:16,266
+be ready for the big one
+
+304
+00:11:16,833 --> 00:11:18,800
+new multi blocks, the clean room
+
+305
+00:11:18,800 --> 00:11:19,600
+the moon
+
+306
+00:11:19,600 --> 00:11:20,400
+titanium
+
+307
+00:11:20,666 --> 00:11:22,100
+applied energistics
+
+308
+00:11:22,866 --> 00:11:24,333
+are you really a beginner anymore
+
+309
+00:11:24,833 --> 00:11:26,233
+I guess we'll find out in HV
+
+310
+00:11:26,733 --> 00:11:28,066
+see you there for episode 8
+
+311
+00:00:00,333 --> 00:00:01,800
+现在你真的在做饭了
+
+312
+00:00:02,433 --> 00:00:03,700
+你有更多的兴趣
+
+313
+00:00:03,900 --> 00:00:05,233
+你有目标
+
+314
+00:00:05,466 --> 00:00:06,600
+电力系统
+
+315
+00:00:06,733 --> 00:00:08,133
+灵丹妙药
+
+316
+00:00:08,200 --> 00:00:09,800
+顺利通过MV
+
+317
+00:00:10,533 --> 00:00:12,700
+但是任务书吓到你了
+
+318
+00:00:13,133 --> 00:00:14,866
+事情变得越来越复杂
+
+319
+00:00:15,466 --> 00:00:16,400
+化学线
+
+320
+00:00:16,400 --> 00:00:17,866
+多步自动化
+
+321
+00:00:17,866 --> 00:00:19,233
+新的mods和金属
+
+322
+00:00:19,333 --> 00:00:21,500
+以及你从未见过的全新电路元件
+
+323
+00:00:22,000 --> 00:00:22,933
+这是怎么回事？
+
+324
+00:00:23,700 --> 00:00:24,533
+格雷格科技
+
+325
+00:00:24,533 --> 00:00:25,333
+那是什么
+
+326
+00:00:25,733 --> 00:00:29,066
+欢迎回到GregTech New Horizons初学者指南
+
+327
+00:00:29,066 --> 00:00:30,400
+今天我们升级
+
+328
+00:00:30,733 --> 00:00:32,400
+如果你想让事情更上一层楼
+
+329
+00:00:32,400 --> 00:00:33,666
+你来对地方了
+
+330
+00:00:33,666 --> 00:00:34,700
+这是第7集
+
+331
+00:00:35,300 --> 00:00:36,100
+MV
+
+332
+00:00:52,800 --> 00:00:54,333
+这次的开场白不多
+
+333
+00:00:54,800 --> 00:00:56,266
+你应该为你的动力系统设定一个目标
+
+334
+00:00:56,266 --> 00:00:58,200
+也许还有一些你已经知道你想拿的好东西
+
+335
+00:00:58,333 --> 00:01:00,300
+你可能已经感觉到能量激增了
+
+336
+00:01:00,800 --> 00:01:02,433
+你不能全职运行你的EBF
+
+337
+00:01:02,466 --> 00:01:03,300
+把它作为一个目标
+
+338
+00:01:03,500 --> 00:01:06,300
+不要害怕使用多种类型的电力生产来实现它
+
+339
+00:01:06,600 --> 00:01:08,100
+并保持铝制曲柄
+
+340
+00:01:08,266 --> 00:01:10,333
+通过使用氧化铝和冰晶石配方
+
+341
+00:01:11,100 --> 00:01:12,200
+别忘了钢铁
+
+342
+00:01:12,933 --> 00:01:15,933
+像往常一样，“你会讨厌这个”的任务解锁了这一章的内容
+
+343
+00:01:16,100 --> 00:01:18,866
+让这提醒你熟悉输送机和泵
+
+344
+00:01:19,233 --> 00:01:21,066
+你将在MV中潜入的化学线
+
+345
+00:01:21,066 --> 00:01:23,066
+需要对体液进行细胞管理
+
+346
+00:01:23,133 --> 00:01:27,066
+你可能正处于升级电力系统盖子对运输速度有意义的地步
+
+347
+00:01:27,800 --> 00:01:30,100
+传感器的完美祖母绿可能有点诡计
+
+348
+00:01:30,266 --> 00:01:32,300
+但是在地狱里闲逛会让你得到一些
+
+349
+00:01:32,300 --> 00:01:33,533
+或者你可以考虑筛选
+
+350
+00:01:33,866 --> 00:01:36,233
+在大多数情况下，MV是关于升级的
+
+351
+00:01:36,333 --> 00:01:39,033
+无论是速度、奖金产出还是成本
+
+352
+00:01:39,666 --> 00:01:41,866
+获得更高效的棒材生产的挤出机后
+
+353
+00:01:41,866 --> 00:01:44,100
+名单上的下一件事可能是电解槽
+
+354
+00:01:44,333 --> 00:01:45,733
+你实际上可以马上做。
+
+355
+00:01:45,733 --> 00:01:47,600
+没有得到“你会讨厌这个”的任务
+
+356
+00:01:47,600 --> 00:01:49,866
+但是挤出机将帮助您继续扩展您的电源计划
+
+357
+00:01:49,866 --> 00:01:52,100
+所以可能是单程六个，另一个半打
+
+358
+00:01:52,266 --> 00:01:53,333
+不管怎样你都需要它
+
+359
+00:01:54,200 --> 00:01:57,533
+说到这里，在MV章节中有一些交叉依赖
+
+360
+00:01:57,533 --> 00:01:59,066
+但你可以用不同的路径接近它
+
+361
+00:01:59,066 --> 00:02:00,033
+这只是一个
+
+362
+00:02:00,400 --> 00:02:01,833
+为了对电解槽公平起见
+
+363
+00:02:01,833 --> 00:02:03,666
+这可能是这层最重要的机器
+
+364
+00:02:04,400 --> 00:02:06,933
+首先，你可能只是通过机器猛击不同的灰尘
+
+365
+00:02:06,933 --> 00:02:08,400
+并将输出路由到抽屉
+
+366
+00:02:08,700 --> 00:02:10,033
+这将很好地开始工作
+
+367
+00:02:10,200 --> 00:02:12,066
+只要确保你有足够的抽屉来放所有的输出
+
+368
+00:02:12,066 --> 00:02:13,833
+你储存了所有的液体输出
+
+369
+00:02:13,833 --> 00:02:15,200
+并有办法避免水
+
+370
+00:02:16,266 --> 00:02:18,200
+你需要电解红宝石粉来获得铬
+
+371
+00:02:18,500 --> 00:02:20,900
+找出红石矿脉和很多
+
+372
+00:02:21,133 --> 00:02:23,700
+电解钠盐非常适合启动硅胶和钠
+
+373
+00:02:23,700 --> 00:02:25,233
+并储存铝粉
+
+374
+00:02:25,266 --> 00:02:26,900
+盐是氯的理想选择
+
+375
+00:02:27,500 --> 00:02:29,433
+但是你很久以前发现的硬化粘土生物群落
+
+376
+00:02:29,433 --> 00:02:31,533
+即将变得至关重要
+
+377
+00:02:31,900 --> 00:02:33,333
+即使只有很短的一段时间
+
+378
+00:02:33,866 --> 00:02:36,000
+浸渍然后电解粘土粉
+
+379
+00:02:36,000 --> 00:02:39,433
+大量的铝钠锂和二氧化硅
+
+380
+00:02:40,266 --> 00:02:43,233
+二氧化硅可以和镁一起通过化学反应器
+
+381
+00:02:43,266 --> 00:02:45,266
+你可以通过离心大理石灰尘来获得
+
+382
+00:02:45,433 --> 00:02:47,066
+获取原始硅胶灰尘
+
+383
+00:02:48,733 --> 00:02:52,000
+这是100%值得端到端自动化的
+
+384
+00:02:52,300 --> 00:02:55,100
+镁可以回收，也可以在电解槽中回收
+
+385
+00:02:55,100 --> 00:02:56,833
+把原来的镁拿回来
+
+386
+00:02:56,933 --> 00:02:59,533
+所以唯一的输入项是二氧化硅粉尘
+
+387
+00:02:59,933 --> 00:03:02,400
+镁的输入就是所谓的闭环
+
+388
+00:03:02,733 --> 00:03:05,100
+这意味着产生理想输出的相同系统
+
+389
+00:03:05,100 --> 00:03:07,133
+还会产生更多的输入项
+
+390
+00:03:07,500 --> 00:03:09,433
+你想尽可能经常地寻找这些
+
+391
+00:03:10,266 --> 00:03:13,300
+还有许多其他方法可以获得二氧化硅
+
+392
+00:03:13,666 --> 00:03:15,066
+大多数玩家会想要玻璃
+
+393
+00:03:15,066 --> 00:03:17,500
+所以把鹅卵石变成玻璃灰尘的小装置
+
+394
+00:03:17,500 --> 00:03:18,733
+有些被变成了玻璃
+
+395
+00:03:18,733 --> 00:03:20,100
+有些转化为二氧化硅
+
+396
+00:03:20,100 --> 00:03:21,100
+将使其可再生
+
+397
+00:03:21,300 --> 00:03:23,466
+另一个你要尽可能经常寻找的东西
+
+398
+00:03:23,833 --> 00:03:26,233
+你把它插入你用来处理粘土灰尘的同一个装置
+
+399
+00:03:27,433 --> 00:03:29,300
+生硅有几个用例
+
+400
+00:03:29,533 --> 00:03:32,333
+但目前最重要的是硅太阳能级灰尘
+
+401
+00:03:33,033 --> 00:03:34,233
+有两条路可以走
+
+402
+00:03:34,233 --> 00:03:36,000
+并且都有闭环输入项
+
+403
+00:03:36,000 --> 00:03:37,833
+使原始硅粉成为唯一的输入
+
+404
+00:03:38,433 --> 00:03:41,100
+四氯化路线对细胞管理更容易一点
+
+405
+00:03:41,100 --> 00:03:43,400
+但是需要一台额外的机器才能把氯拿回来
+
+406
+00:03:44,600 --> 00:03:47,733
+三氯乙烯路线没有任何额外的副产品回收
+
+407
+00:03:47,733 --> 00:03:48,933
+但只处理液体
+
+408
+00:03:48,933 --> 00:03:50,600
+所以细胞管理可能很棘手
+
+409
+00:03:51,066 --> 00:03:51,700
+不管怎样
+
+410
+00:03:51,700 --> 00:03:53,400
+开始朝着满满一抽屉的东西努力
+
+411
+00:03:53,400 --> 00:03:54,833
+并为更多做好准备
+
+412
+00:03:55,800 --> 00:03:59,000
+当你的SSG堆积起来时，是时候转向塑料了
+
+413
+00:03:59,300 --> 00:04:01,466
+聚乙烯在早期有很多用途。
+
+414
+00:04:01,633 --> 00:04:04,900
+从更便宜的电路组件到EnderIO导管等等
+
+415
+00:04:05,400 --> 00:04:07,033
+就像每层都有新电路一样
+
+416
+00:04:07,033 --> 00:04:08,300
+还有新的塑料
+
+417
+00:04:08,533 --> 00:04:10,000
+他们通常不需要马上
+
+418
+00:04:10,000 --> 00:04:11,466
+聚乙烯也不例外
+
+419
+00:04:11,666 --> 00:04:14,100
+你可以在没有它的情况下得到本章末尾的高压电路
+
+420
+00:04:14,600 --> 00:04:17,733
+任务线调用的电路板实际上直到高压才需要
+
+421
+00:04:18,266 --> 00:04:21,466
+但是没有它会让下一部分更贵。
+
+422
+00:04:23,066 --> 00:04:24,533
+如果你在LV层没注意到
+
+423
+00:04:24,533 --> 00:04:27,600
+有几个不同类型的电路组件可以工作，使每个电路
+
+424
+00:04:27,933 --> 00:04:29,200
+食谱会在他们中间轮换
+
+425
+00:04:29,200 --> 00:04:30,666
+这样你就可以看到所有有效的东西。
+
+426
+00:04:31,066 --> 00:04:33,200
+也有多种方法来制作每个组件
+
+427
+00:04:33,266 --> 00:04:35,866
+每一个都有更高的回报以换取更好的材料
+
+428
+00:04:36,300 --> 00:04:39,233
+LDR（？），做你能负担得起的最好的东西
+
+429
+00:04:39,933 --> 00:04:42,900
+在这一点上保持钽的供应可能是不现实的
+
+430
+00:04:42,900 --> 00:04:43,933
+或者根本不可能
+
+431
+00:04:44,066 --> 00:04:45,333
+正如探索书所暗示的
+
+432
+00:04:45,333 --> 00:04:48,200
+电阻器可能是您现在唯一能负担得起的升级
+
+433
+00:04:48,300 --> 00:04:49,233
+但它们是值得的
+
+434
+00:04:49,233 --> 00:04:50,600
+即使有电子配方
+
+435
+00:04:52,100 --> 00:04:54,700
+您还可以查看整个电路与这个小按钮
+
+436
+00:04:55,133 --> 00:04:55,933
+这里有很多
+
+437
+00:04:55,933 --> 00:04:56,533
+老实说
+
+438
+00:04:56,533 --> 00:04:58,800
+这对说明两件事最有用
+
+439
+00:04:59,400 --> 00:05:01,733
+第一个是每层电路的升级顺序
+
+440
+00:05:01,733 --> 00:05:02,866
+沿水平方向
+
+441
+00:05:03,133 --> 00:05:04,633
+从最贵到最便宜
+
+442
+00:05:04,633 --> 00:05:05,466
+或者设置另一种方式
+
+443
+00:05:05,466 --> 00:05:06,500
+从你要做的第一个开始
+
+444
+00:05:06,500 --> 00:05:07,666
+到你要做的最后一个
+
+445
+00:05:08,500 --> 00:05:09,266
+另一个是
+
+446
+00:05:09,266 --> 00:05:11,633
+哪个级别的电路需要哪些电路板
+
+447
+00:05:11,633 --> 00:05:12,600
+沿垂直方向
+
+448
+00:05:12,800 --> 00:05:14,466
+从最低层到最高层
+
+449
+00:05:15,066 --> 00:05:16,266
+这可能有点令人困惑
+
+450
+00:05:16,266 --> 00:05:17,233
+所以为了简化
+
+451
+00:05:17,233 --> 00:05:18,266
+为了前进
+
+452
+00:05:18,266 --> 00:05:22,066
+你需要用便宜的电路板来制造昂贵得离谱的主机电路
+
+453
+00:05:22,266 --> 00:05:24,066
+并解锁更便宜的电路配方
+
+454
+00:05:24,066 --> 00:05:25,700
+你需要解锁更好的板子
+
+455
+00:05:28,733 --> 00:05:31,533
+现在你知道为什么不想耽误化学反应了吧
+
+456
+00:05:31,933 --> 00:05:34,800
+如果你这样做，继续下去会变得非常昂贵
+
+457
+00:05:35,233 --> 00:05:37,100
+下一步就是真正去做。
+
+458
+00:05:37,633 --> 00:05:39,333
+制造聚乙烯是最简单的部分
+
+459
+00:05:39,433 --> 00:05:41,000
+你只要把乙烯和氧气混合
+
+460
+00:05:41,400 --> 00:05:42,666
+你已经知道怎么制造氧气了
+
+461
+00:05:42,666 --> 00:05:43,533
+所以如果你需要更多
+
+462
+00:05:43,533 --> 00:05:45,400
+给聚乙烯自己的氧气装置
+
+463
+00:05:45,833 --> 00:05:47,866
+现在轻松共享流体设置有点早
+
+464
+00:05:47,866 --> 00:05:49,266
+所以如果你做这件事有困难
+
+465
+00:05:49,333 --> 00:05:50,133
+不用麻烦了
+
+466
+00:05:51,400 --> 00:05:52,466
+你也可以接手
+
+467
+00:05:52,466 --> 00:05:55,300
+但是如果你没有足够的家务来处理你一直在做的采矿和矿石加工
+
+468
+00:05:55,300 --> 00:05:56,333
+我会惊讶的
+
+469
+00:05:56,666 --> 00:05:58,633
+你肯定没有忘记采矿，对吧？
+
+470
+00:05:59,400 --> 00:06:00,266
+我们回头再说
+
+471
+00:06:00,533 --> 00:06:01,933
+现在是乙烯
+
+472
+00:06:02,833 --> 00:06:04,866
+像大多数事情一样，有很多方法可以得到它
+
+473
+00:06:05,133 --> 00:06:08,533
+您选择的方式可能与您的电力系统选择有关
+
+474
+00:06:09,500 --> 00:06:10,233
+在这一点上
+
+475
+00:06:10,233 --> 00:06:11,466
+事情越来越忙了
+
+476
+00:06:11,600 --> 00:06:12,600
+所以如果你需要在这里休息一下
+
+477
+00:06:12,600 --> 00:06:14,266
+用你的电力系统组织起来
+
+478
+00:06:14,266 --> 00:06:15,133
+一定行
+
+479
+00:06:15,233 --> 00:06:18,200
+如果您错过了第5集，请查看第5集，了解有关选项的更多详细信息
+
+480
+00:06:18,533 --> 00:06:19,433
+好消息是
+
+481
+00:06:19,433 --> 00:06:21,133
+你的硅胶现在可能已经足够了
+
+482
+00:06:21,133 --> 00:06:23,400
+你可以开始考虑MV能源舱口了
+
+483
+00:06:24,666 --> 00:06:26,500
+镓和砷的库存增加
+
+484
+00:06:26,800 --> 00:06:27,933
+还是有点疼
+
+485
+00:06:27,933 --> 00:06:29,033
+但是MV矿工很棒。
+
+486
+00:06:29,200 --> 00:06:31,066
+用你的方式去买一些球体。
+
+487
+00:06:31,600 --> 00:06:33,600
+这是一个漫长的冶炼作业
+
+488
+00:06:33,600 --> 00:06:35,200
+所以确保你没有用完燃料
+
+489
+00:06:35,900 --> 00:06:37,866
+抓住MV切割机和激光雕刻机
+
+490
+00:06:38,266 --> 00:06:43,200
+如果你为祖母绿和红宝石而奋斗，你为魔法而抓住的雷神碎片可以制成特拉镜片和伊格尼斯镜片
+
+491
+00:06:43,300 --> 00:06:44,600
+但对于您以后需要的RAM
+
+492
+00:06:44,600 --> 00:06:46,133
+你得去找蓝宝石
+
+493
+00:06:46,533 --> 00:06:48,000
+现在抓住Tera镜头
+
+494
+00:06:48,000 --> 00:06:50,800
+并制造低功耗IC和MV Energy舱口
+
+495
+00:06:51,833 --> 00:06:53,600
+如果你也设法得到了其他的。
+
+496
+00:06:53,633 --> 00:06:56,533
+立即开始使用更便宜的LV和MV电路
+
+497
+00:06:56,866 --> 00:06:58,666
+现在也可以随时升级EBF
+
+498
+00:06:58,666 --> 00:07:00,533
+但一定要升级你的动力系统
+
+499
+00:07:02,466 --> 00:07:03,933
+EBF很快就会相关
+
+500
+00:07:04,000 --> 00:07:06,266
+但是如果你选择蒸汽或苯作为长期动力
+
+501
+00:07:06,266 --> 00:07:08,333
+你现在需要的是热解炉
+
+502
+00:07:09,400 --> 00:07:10,933
+给你的农场买一套烤箱供电
+
+503
+00:07:10,933 --> 00:07:13,933
+然后将一些木材进行二次热解以制造木材气体
+
+504
+00:07:13,933 --> 00:07:15,000
+使用电路5
+
+505
+00:07:15,033 --> 00:07:16,900
+别忘了氮气来提高效率
+
+506
+00:07:17,500 --> 00:07:19,433
+然后把木气蒸馏成乙烯
+
+507
+00:07:19,733 --> 00:07:20,333
+简单易懂
+
+508
+00:07:20,333 --> 00:07:21,866
+准备与氧气混合
+
+509
+00:07:23,433 --> 00:07:25,700
+如果你像我在主世界一样选择燃料
+
+510
+00:07:25,700 --> 00:07:29,600
+目前最直接的路线是将一些轻质燃料转移到化学反应堆中
+
+511
+00:07:29,633 --> 00:07:31,900
+与蒸汽混合用于严重蒸汽的轻质燃料
+
+512
+00:07:31,900 --> 00:07:33,200
+并蒸馏出乙烯
+
+513
+00:07:33,833 --> 00:07:37,100
+你可以用轻蒸的轻质燃料来代替
+
+514
+00:07:37,133 --> 00:07:38,800
+并先蒸馏成石脑油
+
+515
+00:07:38,800 --> 00:07:40,066
+然后再蒸一次
+
+516
+00:07:40,066 --> 00:07:42,733
+将石脑油蒸馏成乙烯以获得更好的回报
+
+517
+00:07:43,033 --> 00:07:44,500
+但是如果你要长期使用石油
+
+518
+00:07:44,600 --> 00:07:47,200
+等蒸馏塔这么做可能更好
+
+519
+00:07:48,000 --> 00:07:50,233
+即使你疯了，用生物柴油发电
+
+520
+00:07:50,233 --> 00:07:52,700
+有办法通过乙醇和硫酸得到乙烯
+
+521
+00:07:52,833 --> 00:07:53,833
+但就像其他一切一样
+
+522
+00:07:53,833 --> 00:07:57,233
+这是一项巨大的投资，只有当计划都适合你时才值得
+
+523
+00:07:58,233 --> 00:08:00,200
+您现在也可以进入EnderIO
+
+524
+00:08:00,533 --> 00:08:01,433
+我们不打算在这里报道
+
+525
+00:08:01,433 --> 00:08:03,633
+因为任务书在引导你完成任务方面做得很好
+
+526
+00:08:03,700 --> 00:08:04,733
+但我要说
+
+527
+00:08:04,733 --> 00:08:07,800
+带有物品过滤器的物品管道将改变生活
+
+528
+00:08:08,933 --> 00:08:10,533
+现在，随着电力得到控制
+
+529
+00:08:10,533 --> 00:08:11,666
+手里拿着聚乙烯
+
+530
+00:08:11,666 --> 00:08:13,100
+是时候回到EBF了
+
+531
+00:08:13,633 --> 00:08:15,133
+在MV能源舱口加倍
+
+532
+00:08:15,133 --> 00:08:16,633
+把那个坏男孩送到HV
+
+533
+00:08:16,700 --> 00:08:18,400
+并准备好滚一些煤
+
+534
+00:08:19,200 --> 00:08:21,633
+你现在也从所有的电解中得到了足够的铬
+
+535
+00:08:21,833 --> 00:08:23,066
+哦，你忘了。
+
+536
+00:08:23,400 --> 00:08:25,033
+马上跟你回矿井
+
+537
+00:08:25,400 --> 00:08:28,266
+无论如何，在你的新MV混音器中混合一些坎塔尔灰尘
+
+538
+00:08:28,266 --> 00:08:29,266
+然后开始冶炼
+
+539
+00:08:30,533 --> 00:08:31,700
+冷却热锭
+
+540
+00:08:31,700 --> 00:08:33,433
+你需要一个加冷却剂的化学浴
+
+541
+00:08:34,266 --> 00:08:35,933
+你用水和青金石粉做冷却剂
+
+542
+00:08:35,933 --> 00:08:37,733
+这意味着它实际上是免费的
+
+543
+00:08:38,300 --> 00:08:39,700
+我可能会为这件事惹麻烦
+
+544
+00:08:39,700 --> 00:08:42,933
+但我认为不值得用水箱和风扇来回收冷却剂
+
+545
+00:08:43,433 --> 00:08:44,533
+就做蒸馏水
+
+546
+00:08:44,533 --> 00:08:45,833
+并匹配一箱这种东西
+
+547
+00:08:46,133 --> 00:08:47,533
+有128桶
+
+548
+00:08:47,533 --> 00:08:49,200
+你可以冷却超过500个元宝
+
+549
+00:08:49,200 --> 00:08:52,433
+这比我个人在制作真空冰箱之前需要的要多得多
+
+550
+00:08:53,466 --> 00:08:54,833
+带有基本的冷却系统
+
+551
+00:08:54,833 --> 00:08:55,933
+一些坎塔尔线圈
+
+552
+00:08:55,933 --> 00:08:57,866
+顺便说一下，这次需要云母。
+
+553
+00:08:57,866 --> 00:09:00,300
+所以如果你上次便宜了，那就去找潜在客户
+
+554
+00:09:00,800 --> 00:09:02,833
+您可以开始烹饪和冷却SSG元宝
+
+555
+00:09:02,866 --> 00:09:04,900
+最后开始制作高压电路
+
+556
+00:09:04,900 --> 00:09:07,000
+非常非常昂贵的方式
+
+557
+00:09:08,000 --> 00:09:11,000
+最后是高压金属，不锈钢
+
+558
+00:09:11,300 --> 00:09:12,533
+你可能为chrome受伤了
+
+559
+00:09:12,533 --> 00:09:13,700
+这完全正常
+
+560
+00:09:13,700 --> 00:09:14,700
+所以回到矿井去
+
+561
+00:09:14,700 --> 00:09:18,233
+或者开始离心积压的红石以获得额外的红宝石粉尘
+
+562
+00:09:18,300 --> 00:09:20,933
+用所有的水银和酸发生器为装置供电
+
+563
+00:09:21,466 --> 00:09:23,800
+正是在我自己旅程的这一点上
+
+564
+00:09:23,800 --> 00:09:27,233
+我转向魔法和蜜蜂来解决一些更棘手的资源。
+
+565
+00:09:27,500 --> 00:09:29,333
+还有其他方法可以获得红宝石
+
+566
+00:09:29,466 --> 00:09:30,666
+如果你遇到了严重的麻烦
+
+567
+00:09:30,666 --> 00:09:32,500
+一定要考虑使用红宝石汁
+
+568
+00:09:32,733 --> 00:09:34,433
+唯一的诀窍是盐酸
+
+569
+00:09:34,533 --> 00:09:36,900
+但我们不要假装你有足够的红宝石来无限需要它
+
+570
+00:09:37,933 --> 00:09:40,433
+无论如何，匹配尽可能多的不锈钢，你能负担得起
+
+571
+00:09:40,733 --> 00:09:42,866
+你会在下一层做更多的多块
+
+572
+00:09:42,900 --> 00:09:44,066
+它们很贵。
+
+573
+00:09:45,433 --> 00:09:47,633
+所以你已经准备好接受HV了
+
+574
+00:09:48,033 --> 00:09:48,833
+这样如何？
+
+575
+00:09:49,800 --> 00:09:51,400
+不过有些事情我们忽略了
+
+576
+00:09:51,500 --> 00:09:52,900
+所以让我们做一些亮点
+
+577
+00:09:53,933 --> 00:09:56,433
+EnderIO提供了一些惊人的东西
+
+578
+00:09:56,500 --> 00:09:57,933
+从你的基地轻松旅行
+
+579
+00:09:57,933 --> 00:09:59,633
+到自动暴徒产卵和杀戮
+
+580
+00:10:00,066 --> 00:10:02,000
+自然，在GTNH中是不同的
+
+581
+00:10:02,000 --> 00:10:03,066
+但还是很神奇
+
+582
+00:10:03,333 --> 00:10:05,700
+压缩胸部需要深色钢箱
+
+583
+00:10:05,700 --> 00:10:07,933
+最神圣的采矿目的
+
+584
+00:10:08,466 --> 00:10:10,400
+聚氯乙烯现在有点法国化了
+
+585
+00:10:10,400 --> 00:10:14,066
+但是当你开始用聚乙烯制造改进的电路组件时，非常值得拥有
+
+586
+00:10:14,466 --> 00:10:15,833
+直接用管子做
+
+587
+00:10:16,900 --> 00:10:19,600
+探矿工具是格雷格自己送的礼物
+
+588
+00:10:19,733 --> 00:10:21,733
+不再挖掘矿脉
+
+589
+00:10:23,200 --> 00:10:25,233
+世界加速器是一个非常有用的
+
+590
+00:10:25,233 --> 00:10:29,500
+如果同样耗电的小块，它会加快块和周围实体的滴答率
+
+591
+00:10:30,033 --> 00:10:32,266
+无效升级让您的自动化系统保持运行
+
+592
+00:10:32,266 --> 00:10:33,400
+尤其是权力
+
+593
+00:10:34,233 --> 00:10:37,466
+超级箱子，用于存储大量单件物品
+
+594
+00:10:38,400 --> 00:10:41,333
+运输工具，用于近距离物品和液体运输
+
+595
+00:10:41,800 --> 00:10:43,433
+这么多好东西可以享受
+
+596
+00:10:43,633 --> 00:10:45,833
+一个大巨人抓住了你
+
+597
+00:10:46,600 --> 00:10:48,300
+既然你现在不需要那些电路板了
+
+598
+00:10:48,333 --> 00:10:51,533
+很容易忽略氯化铁或过硫酸钠
+
+599
+00:10:52,066 --> 00:10:53,866
+不要忽视这一点
+
+600
+00:10:54,000 --> 00:10:55,866
+你需要大量的
+
+601
+00:10:56,033 --> 00:10:58,066
+所以你要么好好想想硫酸
+
+602
+00:10:58,066 --> 00:10:59,666
+或者你需要认真考虑氯
+
+603
+00:11:00,233 --> 00:11:01,066
+这并不紧急
+
+604
+00:11:01,066 --> 00:11:02,866
+但是一旦你在HV期间开始需要它
+
+605
+00:11:03,000 --> 00:11:05,133
+如果你赚不到很多钱，你会碰壁的
+
+606
+00:11:05,533 --> 00:11:06,600
+你可能也注意到了
+
+607
+00:11:06,600 --> 00:11:08,733
+这次没有那么多单块机器任务
+
+608
+00:11:08,733 --> 00:11:09,933
+习惯吧
+
+609
+00:11:10,066 --> 00:11:10,800
+但别忘了
+
+610
+00:11:10,800 --> 00:11:13,033
+每层都增加了所有机器
+
+611
+00:11:13,033 --> 00:11:14,033
+他们都更好
+
+612
+00:11:14,233 --> 00:11:15,033
+除此之外
+
+613
+00:11:15,200 --> 00:11:16,266
+准备迎接大的
+
+614
+00:11:16,833 --> 00:11:18,800
+新的多街区，洁净室
+
+615
+00:11:18,800 --> 00:11:19,600
+月亮
+
+616
+00:11:19,600 --> 00:11:20,400
+钛
+
+617
+00:11:20,666 --> 00:11:22,100
+应用能源学
+
+618
+00:11:22,866 --> 00:11:24,333
+你真的是初学者了吗？
+
+619
+00:11:24,833 --> 00:11:26,233
+我想我们会在高压下找到答案
+
+620
+00:11:26,733 --> 00:11:28,066
+第八集那里见
+
