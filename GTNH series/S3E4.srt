@@ -1,0 +1,537 @@
+1
+00:00:00,000 --> 00:00:03,300
+so far we have been powering everything using steam turbines
+
+2
+00:00:03,300 --> 00:00:07,100
+but now we got to the point where the steam pipes are too much of a mess
+
+3
+00:00:07,100 --> 00:00:10,466
+and the amount of turbines used is starting to get out of hand
+
+4
+00:00:10,633 --> 00:00:12,666
+as we have seen in previous episode
+
+5
+00:00:12,666 --> 00:00:15,666
+we had to do things that way due to cable power loss
+
+6
+00:00:15,766 --> 00:00:18,366
+but now that we work with 500 volts
+
+7
+00:00:18,366 --> 00:00:20,100
+the power loss is negligible
+
+8
+00:00:20,233 --> 00:00:22,633
+that means we can now start using longer cables
+
+9
+00:00:22,633 --> 00:00:25,033
+long enough to cover all of our base
+
+10
+00:00:25,066 --> 00:00:27,433
+but that leaves us with a new challenge
+
+11
+00:00:27,433 --> 00:00:29,100
+deciding which cable to use
+
+12
+00:00:29,100 --> 00:00:31,566
+while every material has different stats
+
+13
+00:00:31,566 --> 00:00:34,900
+the thing which might be trickier is deciding its thickness
+
+14
+00:00:35,166 --> 00:00:37,866
+that last choice only changes the maximum ampage
+
+15
+00:00:38,033 --> 00:00:39,500
+so to pick a proper size
+
+16
+00:00:39,500 --> 00:00:42,633
+we have to understand how many amps the cable is going to carry
+
+17
+00:00:43,000 --> 00:00:45,000
+this value is determined by two things
+
+18
+00:00:45,000 --> 00:00:46,700
+how much power can enter the cable
+
+19
+00:00:46,700 --> 00:00:48,066
+and how much can be drawn
+
+20
+00:00:48,300 --> 00:00:49,133
+in this example
+
+21
+00:00:49,133 --> 00:00:51,300
+we have a machine which can draw 2 amps
+
+22
+00:00:51,366 --> 00:00:53,033
+with a turbine that produces 1
+
+23
+00:00:53,233 --> 00:00:56,300
+since there is no way for 2 amps to be pushed in that cable
+
+24
+00:00:56,300 --> 00:00:58,900
+we can chip out and use a thin 1 amp cable
+
+25
+00:00:58,900 --> 00:01:02,500
+but if our generator was a transformer with an output of 4 amps
+
+26
+00:01:02,500 --> 00:01:06,700
+the limiting factor will become the 2 amps used by the electrolyzer
+
+27
+00:01:06,833 --> 00:01:08,866
+thus requiring a 2 amps cable
+
+28
+00:01:09,100 --> 00:01:10,066
+to be more precise
+
+29
+00:01:10,066 --> 00:01:12,466
+the electrolyzer doesn't really need the 2 amps
+
+30
+00:01:12,566 --> 00:01:14,766
+this value depends on many factors
+
+31
+00:01:14,800 --> 00:01:17,100
+all of these recipes are actually less than 1 amp
+
+32
+00:01:17,100 --> 00:01:20,966
+and if there is no cable loss we can use a 1 amp cable
+
+33
+00:01:21,000 --> 00:01:23,366
+however if there was a power fluctuation
+
+34
+00:01:23,366 --> 00:01:27,800
+the cable will have to carry some current spikes to refill the machine's internal buffer
+
+35
+00:01:27,800 --> 00:01:29,033
+thus melting
+
+36
+00:01:29,033 --> 00:01:30,866
+anyways in most of the cases
+
+37
+00:01:30,866 --> 00:01:33,866
+you will want to size the cable according to the power source
+
+38
+00:01:33,866 --> 00:01:36,033
+which is usually clearly stated
+
+39
+00:01:36,233 --> 00:01:37,766
+and if that amount is too high
+
+40
+00:01:37,766 --> 00:01:43,033
+you can use a cable diode to put a clear limit on how much current can flow in a section of cable
+
+41
+00:01:43,166 --> 00:01:44,766
+here we can see a 4 amp diode
+
+42
+00:01:44,766 --> 00:01:47,300
+ensuring that a 4 amp cable won't burn
+
+43
+00:01:47,633 --> 00:01:50,300
+also by limiting the power draw of this section
+
+44
+00:01:50,400 --> 00:01:54,366
+we ensure that we will have leftover power for our blast furnaces
+
+45
+00:01:54,666 --> 00:01:58,900
+and that could be one of the downsides of having a single main energy storage
+
+46
+00:01:59,100 --> 00:02:01,600
+we can only draw 1 amp for each battery
+
+47
+00:02:01,600 --> 00:02:04,300
+and we are going to power many machines at once
+
+48
+00:02:04,300 --> 00:02:06,966
+which could cause some nasty power spikes
+
+49
+00:02:07,066 --> 00:02:14,100
+this central node allows for an energy detector cover to optimize power usage by toggling less furnace and backup generator
+
+50
+00:02:14,600 --> 00:02:17,700
+by the way we are still producing our energy from steam
+
+51
+00:02:17,833 --> 00:02:20,866
+solar boilers are usually a great way of doing so
+
+52
+00:02:21,000 --> 00:02:24,500
+but this time we are instead using 4 railcraft boilers
+
+53
+00:02:24,500 --> 00:02:26,866
+powered by 2 advanced coke oven
+
+54
+00:02:26,866 --> 00:02:29,266
+fed by a single LV crop manager
+
+55
+00:02:29,666 --> 00:02:32,400
+this setup can work perpetually with no maintenance
+
+56
+00:02:32,400 --> 00:02:35,300
+and produces about 3 amps of HV power
+
+57
+00:02:35,566 --> 00:02:37,033
+let's do a quick recap
+
+58
+00:02:37,566 --> 00:02:41,266
+every cable has three values voltage amperage and loss
+
+59
+00:02:41,666 --> 00:02:45,666
+generator  push energy into the cables as packets of a fixed size
+
+60
+00:02:45,666 --> 00:02:47,066
+that size is the voltage
+
+61
+00:02:47,066 --> 00:02:50,833
+and there is a limit of how big of a packet a cable can carry
+
+62
+00:02:51,066 --> 00:02:52,866
+every time a packet is moved through a cable
+
+63
+00:02:52,866 --> 00:02:55,600
+it will lose a value equal to the cable loss
+
+64
+00:02:55,766 --> 00:02:57,433
+finally we have amperage
+
+65
+00:02:57,466 --> 00:03:01,066
+that value represents how many packets are moving simultaneously
+
+66
+00:00:00,000 --> 00:00:03,300
+到目前为止，我们一直使用蒸汽轮机为一切提供动力
+
+67
+00:00:03,300 --> 00:00:07,100
+但是现在我们已经到了蒸汽管道一团糟的地步
+
+68
+00:00:07,100 --> 00:00:10,466
+涡轮机的使用量开始失控
+
+69
+00:00:10,633 --> 00:00:12,666
+正如我们在前一集中看到的那样
+
+70
+00:00:12,666 --> 00:00:15,666
+由于电缆线损，我们不得不这样做
+
+71
+00:00:15,766 --> 00:00:18,366
+但现在我们用的是500伏特
+
+72
+00:00:18,366 --> 00:00:20,100
+能量损失可以忽略不计
+
+73
+00:00:20,233 --> 00:00:22,633
+这意味着我们现在可以开始使用更长的电缆
+
+74
+00:00:22,633 --> 00:00:25,033
+足够覆盖我们所有的基地
+
+75
+00:00:25,066 --> 00:00:27,433
+但这给我们带来了新的挑战
+
+76
+00:00:27,433 --> 00:00:29,100
+也就是决定使用哪种电缆
+
+77
+00:00:29,100 --> 00:00:31,566
+虽然每种材料都有不同的数据
+
+78
+00:00:31,566 --> 00:00:34,900
+更棘手的是决定它的厚度
+
+79
+00:00:35,166 --> 00:00:37,866
+
+厚度的选择只会改变最大电流
+
+
+80
+00:00:38,033 --> 00:00:39,500
+所以要选择合适的尺寸
+
+81
+00:00:39,500 --> 00:00:42,633
+
+我们必须了解电缆将承载多少安的电流
+
+
+82
+00:00:43,000 --> 00:00:45,000
+这个值是由两件事决定的
+
+83
+00:00:45,000 --> 00:00:46,700
+多少电量可以进入电缆
+
+84
+00:00:46,700 --> 00:00:48,066
+以及机器可以抽取多少
+
+85
+00:00:48,300 --> 00:00:49,133
+在这个例子中
+
+86
+00:00:49,133 --> 00:00:51,300
+我们有一台可以抽2A的机器
+
+87
+00:00:51,366 --> 00:00:53,033
+与产生1A的涡轮机
+
+88
+00:00:53,233 --> 00:00:56,300
+因为没有办法在该电缆中产生2A电流
+
+89
+00:00:56,300 --> 00:00:58,900
+我们可以转而使用细的1A电缆
+
+90
+00:00:58,900 --> 00:01:02,500
+但如果我们的发电机是输出为4A的变压器
+
+91
+00:01:02,500 --> 00:01:06,700
+限制因素将成为电解机使用的2A
+
+92
+00:01:06,833 --> 00:01:08,866
+因此需要2A的电缆
+
+93
+00:01:09,100 --> 00:01:10,066
+更准确地说
+
+94
+00:01:10,066 --> 00:01:12,466
+电解机并不是真的需要2A
+
+95
+00:01:12,566 --> 00:01:14,766
+这个值取决于许多因素
+
+96
+00:01:14,800 --> 00:01:17,100
+所有这些配方实际上都不到1A
+
+97
+00:01:17,100 --> 00:01:20,966
+如果没有电缆丢失，我们可以使用1A电缆
+
+98
+00:01:21,000 --> 00:01:23,366
+但是如果有能量波动
+
+99
+00:01:23,366 --> 00:01:27,800
+电缆必须能承载一些电流尖峰
+来重新填充机器的内部缓冲区
+
+100
+00:01:27,800 --> 00:01:29,033
+导致电缆融化
+
+101
+00:01:29,033 --> 00:01:30,866
+无论如何，在大多数情况下
+
+102
+00:01:30,866 --> 00:01:33,866
+你只需要根据电源调整电缆的尺寸
+
+103
+00:01:33,866 --> 00:01:36,033
+这通常是明确说明的
+
+104
+00:01:36,233 --> 00:01:37,766
+如果电流太高
+
+105
+00:01:37,766 --> 00:01:43,033
+你可以使用电缆二极管来明确限制
+一段电缆中可以流动的电流
+
+106
+00:01:43,166 --> 00:01:44,766
+这里我们可以看到一个4A二极管
+
+107
+00:01:44,766 --> 00:01:47,300
+确保4A电缆不会烧坏
+
+108
+00:01:47,633 --> 00:01:50,300
+通过限制这部分的用电
+
+109
+00:01:50,400 --> 00:01:54,366
+我们能确保高炉有剩余的电力
+
+110
+00:01:54,666 --> 00:01:58,900
+这可能是单一主储能的缺点之一
+
+111
+00:01:59,100 --> 00:02:01,600
+我们每个电池只能抽1A
+
+112
+00:02:01,600 --> 00:02:04,300
+我们将同时为许多机器提供动力
+
+113
+00:02:04,300 --> 00:02:06,966
+这可能会导致一些严重的用电峰值
+
+114
+00:02:07,066 --> 00:02:14,100
+这个中央节点允许通过使用能量检测覆盖板
+启停高炉和备用发电机来优化电力使用
+
+115
+00:02:14,600 --> 00:02:17,700
+顺便说一句，我们还在用蒸汽产生能量
+
+116
+00:02:17,833 --> 00:02:20,866
+太阳能锅炉通常是生产蒸汽的正确选择
+
+117
+00:02:21,000 --> 00:02:24,500
+但这次我们使用了4台RC锅炉
+
+118
+00:02:24,500 --> 00:02:26,866
+由2个进阶焦炉提供燃料
+
+119
+00:02:26,866 --> 00:02:29,266
+由一个LV作物管理机提供原料
+
+120
+00:02:29,666 --> 00:02:32,400
+此设置无需维护即可永久工作
+
+121
+00:02:32,400 --> 00:02:35,300
+并产生大约3A HV
+
+122
+00:02:35,566 --> 00:02:37,033
+让我们快速总结一下
+
+123
+00:02:37,566 --> 00:02:41,266
+每根电缆都有三个数值：电压、电流和线损
+
+124
+00:02:41,666 --> 00:02:45,666
+
+发电机将能量作为固定尺寸的“包”输送到电缆中
+
+
+125
+00:02:45,666 --> 00:02:47,066
+
+能量“包”的大小是电压
+
+
+126
+00:02:47,066 --> 00:02:50,833
+
+电缆可以承载的“包”大小是有限制的
+
+
+127
+00:02:51,066 --> 00:02:52,866
+
+每次电“包”通过电缆移动时
+
+
+128
+00:02:52,866 --> 00:02:55,600
+它的大小将损失一个等于线损的值
+
+129
+00:02:55,766 --> 00:02:57,433
+最后是安培数/电流数
+
+130
+00:02:57,466 --> 00:03:01,066
+
+该值表示同时移动的“包”数量
+
+

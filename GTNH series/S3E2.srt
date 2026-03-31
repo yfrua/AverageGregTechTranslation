@@ -1,0 +1,1349 @@
+1
+00:00:00,166 --> 00:00:02,166
+now that we have seen our new machinery
+
+2
+00:00:02,166 --> 00:00:04,400
+let's talk about how we manage power
+
+3
+00:00:04,466 --> 00:00:06,566
+even though we are connecting a lot of machines
+
+4
+00:00:06,566 --> 00:00:07,900
+a 4 amps cable is enough
+
+5
+00:00:07,900 --> 00:00:10,833
+because that's the maximum amperage we are producing
+
+6
+00:00:11,000 --> 00:00:13,633
+that power is provided by four steam turbines
+
+7
+00:00:13,700 --> 00:00:17,900
+each one can use slightly more than 1500 steam per second
+
+8
+00:00:18,100 --> 00:00:22,666
+so a potin pipe with a flow speed of 6000 steam per second should be just enough
+
+9
+00:00:22,833 --> 00:00:24,100
+talking of power flow
+
+10
+00:00:24,100 --> 00:00:26,900
+our cables have a loss of 1 EU per block
+
+11
+00:00:26,900 --> 00:00:31,233
+which means that we are losing voltage for each additional piece of cable we use
+
+12
+00:00:31,266 --> 00:00:33,500
+this has two main consequences
+
+13
+00:00:33,700 --> 00:00:35,833
+the first one is a loss of energy
+
+14
+00:00:35,900 --> 00:00:39,300
+the second one is that a single turbin could no longer be enough
+
+15
+00:00:39,466 --> 00:00:41,400
+but that's more advanced the stuff
+
+16
+00:00:41,533 --> 00:00:43,033
+all of that is just to say that
+
+17
+00:00:43,033 --> 00:00:47,100
+you should try to keep the most power intensive machines close to the generators
+
+18
+00:00:47,166 --> 00:00:50,033
+to run the heaviest recipes we are using a lot of steam
+
+19
+00:00:50,066 --> 00:00:54,833
+all of that steam comes from burning random stuff in our expanded railcraft boiler
+
+20
+00:00:54,900 --> 00:00:57,166
+it is now composed of 12 tanks
+
+21
+00:00:57,233 --> 00:01:00,166
+meaning it can produce 120 steam per tick
+
+22
+00:01:00,500 --> 00:01:02,400
+2,400 per second
+
+23
+00:01:02,466 --> 00:01:04,566
+that's less than half of our needs
+
+24
+00:01:04,566 --> 00:01:07,600
+but since we won't be running constantly at peak consumption
+
+25
+00:01:07,600 --> 00:01:09,800
+we can fix everything with a bigger buffer
+
+26
+00:01:09,900 --> 00:01:12,433
+and once we managed to stock up some steam
+
+27
+00:01:12,433 --> 00:01:14,400
+we can start using our workshop
+
+28
+00:01:14,400 --> 00:01:16,200
+the first thing we will want to do
+
+29
+00:01:16,200 --> 00:01:18,700
+is to stock up some of the most used parts
+
+30
+00:01:18,700 --> 00:01:22,366
+starting from copper wire steel plates and thin cables
+
+31
+00:01:22,366 --> 00:01:24,800
+since we will need lots of those parts
+
+32
+00:01:24,800 --> 00:01:26,833
+we have equipped those machines with hoppers 
+
+33
+00:01:26,833 --> 00:01:29,166
+to do bigger and unsupervised batches
+
+34
+00:01:29,433 --> 00:01:31,633
+and to avoid overfilling the output chests
+
+35
+00:01:31,633 --> 00:01:34,600
+we keep some of the excess stuff in some drawers close by
+
+36
+00:01:34,600 --> 00:01:37,366
+now that we stocked up the basic parts
+
+37
+00:01:37,366 --> 00:01:39,166
+let's craft a batch of circuits
+
+38
+00:01:39,466 --> 00:01:41,800
+to help us keep track of the missing materials
+
+39
+00:01:41,800 --> 00:01:44,400
+we bookmark recipes ingredients in NEI
+
+40
+00:01:44,600 --> 00:01:48,100
+we do that recursively for all of the stuff we haven't stocked up
+
+41
+00:01:48,166 --> 00:01:49,366
+such as resistors
+
+42
+00:01:49,366 --> 00:01:52,666
+which we can now craft in a more efficient way with an assembler
+
+43
+00:01:52,800 --> 00:01:58,100
+there we also notice that we can double our yield by running copper through an arc furnace to anneal it
+
+44
+00:01:58,633 --> 00:02:02,000
+next we can improve our vacuum tube production process
+
+45
+00:02:02,033 --> 00:02:04,433
+by using molten metal and annealed copper
+
+46
+00:02:04,966 --> 00:02:08,100
+once we bookmarked all of the main steps we will be doing
+
+47
+00:02:08,100 --> 00:02:09,500
+we can link those together
+
+48
+00:02:09,500 --> 00:02:12,066
+and apply the batch multiplier we want to achieve
+
+49
+00:02:12,866 --> 00:02:14,866
+now we just have to collect those ingredients
+
+50
+00:02:14,866 --> 00:02:16,566
+and Mark them off once acquired
+
+51
+00:02:17,266 --> 00:02:18,200
+and to speed up
+
+52
+00:02:18,200 --> 00:02:20,566
+we can try to do multiple things at once
+
+53
+00:02:20,700 --> 00:02:23,500
+that's why we also have some duplicated machines
+
+54
+00:02:23,700 --> 00:02:27,266
+and that's how we can now quickly craft a batch of circuits
+
+55
+00:02:27,566 --> 00:02:29,633
+but before using those for new machinery
+
+56
+00:02:29,633 --> 00:02:32,466
+we should get a better source of fuel for our boiler
+
+57
+00:02:32,666 --> 00:02:34,300
+there are a lot of different fuels
+
+58
+00:02:34,300 --> 00:02:36,433
+with many different ways of production
+
+59
+00:02:36,566 --> 00:02:38,600
+but for now we can stick with wood
+
+60
+00:02:38,800 --> 00:02:42,500
+so far we have been gathering it by manually chopping down trees
+
+61
+00:02:42,633 --> 00:02:44,966
+
+but we want a lower effort solution
+
+
+62
+00:02:45,200 --> 00:02:47,233
+we can do that in many different ways
+
+63
+00:02:47,233 --> 00:02:50,200
+the first one we will see is by using Steve's carts
+
+64
+00:02:50,433 --> 00:02:51,700
+as the name suggests
+
+65
+00:02:51,700 --> 00:02:54,400
+this involves some highly customizable minecarts
+
+66
+00:02:54,466 --> 00:02:57,766
+which we shall equip with a wood cutter to achieve our objective
+
+67
+00:02:58,166 --> 00:03:00,466
+assembling this cart will take quite some time
+
+68
+00:03:00,466 --> 00:03:03,566
+which you can use to prepare a track where it will be working
+
+69
+00:03:03,800 --> 00:03:06,500
+once everything is ready we can place our cart
+
+70
+00:03:06,500 --> 00:03:07,333
+give it fuel
+
+71
+00:03:07,333 --> 00:03:10,200
+and admire our new automated wood source
+
+72
+00:03:10,366 --> 00:03:13,466
+at first sight it may looks slow and with low output
+
+73
+00:03:13,500 --> 00:03:15,633
+but don't be fooled by appearances
+
+74
+00:03:15,900 --> 00:03:22,433
+you can verify that it is indeed slightly better than a flint axe by looking at its internal storage while it does its job
+
+75
+00:03:22,900 --> 00:03:25,633
+it also has more durability than a flint axe
+
+76
+00:03:26,400 --> 00:03:27,066
+speed aside
+
+77
+00:03:27,066 --> 00:03:31,166
+what matters is that it will autonomously bring wood to our base
+
+78
+00:03:31,466 --> 00:03:33,100
+to increase the combustion of this wood
+
+79
+00:03:33,100 --> 00:03:36,166
+we can pass it through an array of coke ovens to make charcoal
+
+80
+00:03:36,166 --> 00:03:38,433
+which we can then compress into blocks
+
+81
+00:03:38,900 --> 00:03:43,266
+now if you do not like to have a moving car that requires periodic diamond repairs
+
+82
+00:03:43,266 --> 00:03:44,700
+I have another option for you
+
+83
+00:03:44,700 --> 00:03:45,900
+forestry farms
+
+84
+00:03:46,366 --> 00:03:47,966
+those run on cheaper materials
+
+85
+00:03:47,966 --> 00:03:49,833
+but have a lot of moving parts
+
+86
+00:03:50,033 --> 00:03:51,800
+if you want a zero maintenance system
+
+87
+00:03:51,800 --> 00:03:54,566
+that also has not constant block by block collection
+
+88
+00:03:54,566 --> 00:03:56,566
+I suggest moving on to ic2 crops
+
+89
+00:03:56,566 --> 00:03:59,100
+which outscores the other two systems in every way
+
+90
+00:03:59,100 --> 00:04:00,866
+except for aesthetics
+
+91
+00:04:01,066 --> 00:04:05,400
+but the real potential of ic2 crops lies in cross breeding and ore berries
+
+92
+00:04:05,500 --> 00:04:08,633
+and here we can see a cultivation of aluminum and gold
+
+93
+00:04:08,833 --> 00:04:10,766
+from seeds given by the quest book
+
+94
+00:04:11,433 --> 00:04:12,400
+on a side note
+
+95
+00:04:12,400 --> 00:04:17,266
+the fruit of those berries can be collected from when the plant reaches the third stage of growth
+
+96
+00:04:17,566 --> 00:04:21,433
+we could get a better yield by waiting for the fourth and last stage of growth
+
+97
+00:04:21,700 --> 00:04:24,433
+but for that the crops need a block of metal underneath
+
+98
+00:04:24,433 --> 00:04:26,100
+which we cannot afford yet
+
+99
+00:04:26,366 --> 00:04:27,400
+and the issue is that
+
+100
+00:04:27,400 --> 00:04:31,033
+our crop manager will be waiting for that unreachable stage of growth
+
+101
+00:04:31,266 --> 00:04:34,666
+that means we will have to manually collect those for now
+
+102
+00:04:34,666 --> 00:04:38,400
+later on we will automate the collection by having a block of metal underneath
+
+103
+00:04:38,400 --> 00:04:40,400
+like we already did with gold
+
+104
+00:04:40,566 --> 00:04:43,166
+our crop manager also needs a little bit of power
+
+105
+00:04:43,166 --> 00:04:45,666
+and we are feeding it with a super thin cable
+
+106
+00:04:45,833 --> 00:04:48,000
+this is a chip cable which has no loss
+
+107
+00:04:48,000 --> 00:04:50,566
+meaning we can make it as long as we like
+
+108
+00:04:50,733 --> 00:04:53,266
+the downside is that it can only carry 8 volts
+
+109
+00:04:53,266 --> 00:04:54,966
+meaning we need a transformer
+
+110
+00:04:55,266 --> 00:04:57,833
+this transformer will output up to 4 amps
+
+111
+00:04:58,066 --> 00:05:01,266
+and since our crop manager can probably take at least 2 amps
+
+112
+00:05:01,266 --> 00:05:04,600
+we could end up burning the thin 1 amp cable
+
+113
+00:05:04,633 --> 00:05:07,233
+to ensure we do not exceed the maximum amperage
+
+114
+00:05:07,233 --> 00:05:08,700
+we can use cable diodes
+
+115
+00:05:08,700 --> 00:05:11,200
+in this case a ULV Machine Hull
+
+116
+00:05:11,766 --> 00:05:16,400
+with that we are running this cheap cable at its limit 8 EU per tick
+
+117
+00:05:16,400 --> 00:05:19,466
+which is enough to harvest 40 crops per second
+
+118
+00:05:20,066 --> 00:05:23,433
+the next thing we should probably try to get is some aluminum ingots
+
+119
+00:05:23,700 --> 00:05:25,500
+both to fully automate our crops
+
+120
+00:05:25,500 --> 00:05:27,566
+and to move on to the next age
+
+121
+00:05:27,666 --> 00:05:29,833
+this requires an electric blast furnace
+
+122
+00:05:29,833 --> 00:05:31,433
+and the main challenge here is that
+
+123
+00:05:31,433 --> 00:05:34,433
+some people could have issues locating a mica vein
+
+124
+00:05:35,200 --> 00:05:37,733
+one low effort foolproof way to do that is to
+
+125
+00:05:37,733 --> 00:05:42,033
+first take a walk on some mountains with a ore finder wand looking for pure tin
+
+126
+00:05:42,800 --> 00:05:44,900
+this will find us a cassiterite vein
+
+127
+00:05:44,900 --> 00:05:47,866
+from which we can take some samples of cassiterite ore
+
+128
+00:05:48,166 --> 00:05:50,633
+not to be confused with cassiterite sand
+
+129
+00:05:51,200 --> 00:05:54,400
+
+now that we have cassiterite ore we can easily locate mica
+
+
+130
+00:05:55,000 --> 00:05:56,766
+meaning we can build an EBF
+
+131
+00:05:57,366 --> 00:06:00,366
+and this machine is going to be one more wiring challenge
+
+132
+00:06:00,700 --> 00:06:04,800
+that's because most of its processes will require 120 EU per tick
+
+133
+00:06:04,966 --> 00:06:08,500
+and even one less will cause the machine to fail and void items
+
+134
+00:06:08,766 --> 00:06:09,833
+to achieve such power
+
+135
+00:06:09,833 --> 00:06:12,466
+we will need at least 4 amps of low voltage
+
+136
+00:06:12,633 --> 00:06:13,966
+as we have already seen
+
+137
+00:06:13,966 --> 00:06:15,666
+the issue is cable power loss
+
+138
+00:06:15,666 --> 00:06:17,300
+and if we are not careful
+
+139
+00:06:17,300 --> 00:06:19,866
+we could easily fail to meet the requirements
+
+140
+00:06:20,000 --> 00:06:24,400
+sometimes that could be just as easy as disconnecting a single cable connection
+
+141
+00:06:25,500 --> 00:06:29,900
+and we must also not forget to use a good enough pipe to feed those turbines
+
+142
+00:06:30,033 --> 00:06:30,800
+on a side note
+
+143
+00:06:30,800 --> 00:06:34,766
+I often get asked why I always restricted pipe flow direction
+
+144
+00:06:34,766 --> 00:06:39,033
+and this is one other thing that may change between updates and gregtech versions
+
+145
+00:06:39,166 --> 00:06:40,833
+but from testing it right now
+
+146
+00:06:40,833 --> 00:06:42,900
+I will say that for a point to point pipe
+
+147
+00:06:42,900 --> 00:06:45,000
+it doesn't really make much of a difference
+
+148
+00:06:45,000 --> 00:06:47,566
+however if we add some dead end modification
+
+149
+00:06:47,566 --> 00:06:49,100
+we can start to see some backflow
+
+150
+00:06:49,100 --> 00:06:51,400
+that will slow down the main pipe flow
+
+151
+00:06:51,600 --> 00:06:55,500
+I will say that you should do that just to make the behavior more predictable
+
+152
+00:06:56,066 --> 00:06:58,466
+now that we have a working EBF and aluminum
+
+153
+00:06:58,466 --> 00:07:00,366
+we can also get gallium arsenide
+
+154
+00:07:00,366 --> 00:07:02,466
+in order to make the new type of circuit
+
+155
+00:07:02,800 --> 00:07:04,966
+thus moving to the MV age
+
+156
+00:07:05,533 --> 00:07:07,666
+so after getting a circuit assembler
+
+157
+00:07:07,666 --> 00:07:09,666
+to cut the cost of making more circuits
+
+158
+00:07:09,666 --> 00:07:11,633
+we rushed our first MV machine
+
+159
+00:07:11,766 --> 00:07:12,633
+an extruder
+
+160
+00:07:13,100 --> 00:07:15,166
+we really want this machine as soon as possible
+
+161
+00:07:15,166 --> 00:07:18,600
+because it will make crafting parts way easier and cheaper
+
+162
+00:07:18,700 --> 00:07:21,366
+next before doing more progress in this tire
+
+163
+00:07:21,366 --> 00:07:23,466
+we should fix our energy production
+
+164
+00:07:23,766 --> 00:07:27,566
+we could upgrade our Railcraft boiler or get more solar boilers
+
+165
+00:07:27,666 --> 00:07:30,700
+but an interesting option is also the bronze boiler
+
+166
+00:07:30,866 --> 00:07:33,700
+this one can make enough steam to power 3 blast furnaces
+
+167
+00:07:33,700 --> 00:07:36,500
+and reaches working temperature in less than a minute
+
+168
+00:07:36,700 --> 00:07:38,766
+making fuel management easier
+
+169
+00:07:38,833 --> 00:07:41,566
+with that we can now get into MV tasks
+
+170
+00:07:41,633 --> 00:07:42,400
+or better yet
+
+171
+00:07:42,400 --> 00:07:45,833
+let's start from automating stuff we could have done in the previous tire
+
+172
+00:00:00,166 --> 00:00:02,166
+现在我们已经看到了新机器
+
+173
+00:00:02,166 --> 00:00:04,400
+是时候讲讲电力管理的事情了
+
+174
+00:00:04,466 --> 00:00:06,566
+尽管已经连接了很多机器
+
+175
+00:00:06,566 --> 00:00:07,900
+但一根4A的线缆便已足够
+
+176
+00:00:07,900 --> 00:00:10,833
+因为这是我们目前的发电上限
+
+177
+00:00:11,000 --> 00:00:13,633
+由四台蒸汽轮机提供
+
+178
+00:00:13,700 --> 00:00:17,900
+其每秒大约消耗1500L蒸汽
+
+179
+00:00:18,100 --> 00:00:22,666
+所以蒸汽流量6000L/s的粗青铜合金已经足够了
+
+180
+00:00:22,833 --> 00:00:24,100
+说到电力传输
+
+181
+00:00:24,100 --> 00:00:26,900
+我们的电缆每格损失1EU
+
+182
+00:00:26,900 --> 00:00:31,233
+这意味着我们每使用一根额外的电缆就会失去电压
+
+183
+00:00:31,266 --> 00:00:33,500
+这有两个主要后果
+
+184
+00:00:33,700 --> 00:00:35,833
+第一个是能量损失
+
+185
+00:00:35,900 --> 00:00:39,300
+第二个是一个涡轮已经不够用了
+
+186
+00:00:39,466 --> 00:00:41,400
+但那是更进阶的东西
+
+187
+00:00:41,533 --> 00:00:43,033
+总的来说
+
+188
+00:00:43,033 --> 00:00:47,100
+最耗电的机器应该贴近发电机
+
+189
+00:00:47,166 --> 00:00:50,033
+为了运行最耗电的配方，我们使用了大量的蒸汽
+
+190
+00:00:50,066 --> 00:00:54,833
+所有的蒸汽都来自于RC锅炉燃烧掉的随机可燃物
+
+191
+00:00:54,900 --> 00:00:57,166
+它现在有12台储罐
+
+192
+00:00:57,233 --> 00:01:00,166
+这意味着它每tick可以生产120L蒸汽
+
+193
+00:01:00,500 --> 00:01:02,400
+2400L每秒
+
+194
+00:01:02,466 --> 00:01:04,566
+这还不到我们需求的一半
+
+195
+00:01:04,566 --> 00:01:07,600
+不过我们可不会一直处于消耗巅峰
+
+196
+00:01:07,600 --> 00:01:09,800
+我们可以用更大的缓冲来解决所有问题
+
+197
+00:01:09,900 --> 00:01:12,433
+一旦我们设法储备了一些蒸汽
+
+198
+00:01:12,433 --> 00:01:14,400
+我们可以开始使用我们的车间
+
+199
+00:01:14,400 --> 00:01:16,200
+我们要做的第一件事
+
+200
+00:01:16,200 --> 00:01:18,700
+就是储备一些最常用的零件
+
+201
+00:01:18,700 --> 00:01:22,366
+从铜线缆、钢板和细电缆开始
+
+202
+00:01:22,366 --> 00:01:24,800
+因为我们会大量需要这些零件
+
+203
+00:01:24,800 --> 00:01:26,833
+我们已经为那些机器配备了漏斗
+
+204
+00:01:26,833 --> 00:01:29,166
+用来完成更大批量的被动生产
+
+205
+00:01:29,433 --> 00:01:31,633
+同时为了避免输出箱被填满
+
+206
+00:01:31,633 --> 00:01:34,600
+我们把多余的东西放在附近的抽屉里
+
+207
+00:01:34,600 --> 00:01:37,366
+现在我们储备了基本零件
+
+208
+00:01:37,366 --> 00:01:39,166
+让我们制作一批电路
+
+209
+00:01:39,466 --> 00:01:41,800
+要让我们能追踪缺少的材料
+
+210
+00:01:41,800 --> 00:01:44,400
+我们在NEI中为配方增加合成链
+
+211
+00:01:44,600 --> 00:01:48,100
+我们对所有没有储备的东西都递归地这样做
+
+212
+00:01:48,166 --> 00:01:52,700
+比如我们现在可以用组装机来增产的电阻
+
+213
+00:01:52,800 --> 00:01:58,100
+我们还注意到，通过将铜放入电弧炉退火
+我们可以将电阻的产出翻倍
+
+214
+00:01:58,633 --> 00:02:04,433
+接下来我们可以通过使用熔融金属和
+退火铜来改进真空管生产工艺
+
+215
+00:02:04,966 --> 00:02:08,100
+一旦我们将要做的所有主要步骤都标记
+
+216
+00:02:08,100 --> 00:02:09,500
+我们可以把它们联在一起
+
+217
+00:02:09,500 --> 00:02:12,066
+并施加我们想要实现的批乘数
+
+218
+00:02:12,866 --> 00:02:14,866
+现在我们只需要收集那些原料
+
+219
+00:02:14,866 --> 00:02:16,566
+获得之后就把它们取消标记
+
+220
+00:02:17,266 --> 00:02:18,200
+而为了加快速度
+
+221
+00:02:18,200 --> 00:02:20,566
+可以尝试同时做多件事
+
+222
+00:02:20,700 --> 00:02:23,500
+这就是为什么我们也有一些相同的机器
+
+223
+00:02:23,700 --> 00:02:27,266
+这就是我们现在快速制作一组电路的方法
+
+224
+00:02:27,566 --> 00:02:29,633
+但在将它们用于新机器之前
+
+225
+00:02:29,633 --> 00:02:32,466
+我们应该为锅炉找到更好的燃料来源
+
+226
+00:02:32,666 --> 00:02:34,300
+燃料很多
+
+227
+00:02:34,300 --> 00:02:36,433
+也有很多不同的产出方法
+
+228
+00:02:36,566 --> 00:02:38,600
+但现在可以继续使用木头
+
+229
+00:02:38,800 --> 00:02:42,500
+到目前为止，我们一直通过手工来砍伐
+
+230
+00:02:42,633 --> 00:02:44,966
+但我们想要一个麻烦更少的方案
+
+231
+00:02:45,200 --> 00:02:47,233
+有许多方法
+
+232
+00:02:47,233 --> 00:02:50,200
+第一个是通过使用史蒂夫矿车模组
+
+233
+00:02:50,433 --> 00:02:51,700
+顾名思义
+
+234
+00:02:51,700 --> 00:02:54,400
+这涉及到一些高度可定制的矿车
+
+235
+00:02:54,466 --> 00:02:57,766
+
+我们将为它配备一个伐木器来实现我们的目标
+
+
+236
+00:02:58,166 --> 00:03:00,466
+组装这辆车需要相当长的时间
+
+237
+00:03:00,466 --> 00:03:03,566
+我们利用这段时间在它工作的地方铺设好轨道
+
+238
+00:03:03,800 --> 00:03:06,500
+一旦一切准备就绪，我们就可以放置矿车了
+
+239
+00:03:06,500 --> 00:03:10,200
+加入燃料，欣赏我们新的自动化木材来源
+
+240
+00:03:10,366 --> 00:03:13,466
+乍一看，它可能看起来很慢，输出也很低
+
+241
+00:03:13,500 --> 00:03:15,633
+但不要被外表所迷惑
+
+242
+00:03:15,900 --> 00:03:22,433
+你可以通过查看它的内部存储来验证
+它确实比燧石斧稍微好一点
+
+243
+00:03:22,900 --> 00:03:25,633
+它也比燧石斧更耐用
+
+244
+00:03:26,400 --> 00:03:31,166
+抛开速度不谈，重要的是
+它会自动把木头带到我们的基地
+
+245
+00:03:31,466 --> 00:03:33,100
+想增加木头的燃烧时间
+
+246
+00:03:33,100 --> 00:03:36,166
+可以让它通过焦炉来制造木炭
+
+247
+00:03:36,166 --> 00:03:38,433
+然后我们可以将其压缩成块
+
+248
+00:03:38,900 --> 00:03:43,266
+现在如果你不喜欢拥有一个
+需要定期使用钻石维修的矿车
+
+249
+00:03:43,266 --> 00:03:44,700
+这有另一个选择
+
+250
+00:03:44,700 --> 00:03:45,900
+林场
+
+251
+00:03:46,366 --> 00:03:47,966
+它使用更便宜的材料
+
+252
+00:03:47,966 --> 00:03:49,833
+但有很多活动部件
+
+253
+00:03:50,033 --> 00:03:51,800
+如果你想要一个零维护系统
+
+254
+00:03:51,800 --> 00:03:54,566
+也无需具体的方块收集
+
+255
+00:03:54,566 --> 00:03:56,566
+我建议转向ic2作物
+
+256
+00:03:56,566 --> 00:03:59,100
+它在各个方面都胜过其他两个系统
+
+257
+00:03:59,100 --> 00:04:00,866
+除了美学
+
+258
+00:04:01,066 --> 00:04:05,400
+但ic2作物的真正潜力在于杂交育种和矿石浆果
+
+259
+00:04:05,500 --> 00:04:10,766
+这里我们可以看到由任务书
+赠送的种子种下的铝和金矿莓
+
+260
+00:04:11,433 --> 00:04:12,400
+顺便说一句
+
+261
+00:04:12,400 --> 00:04:17,266
+这些矿莓的果实可以从植物生长到第三阶段时收集
+
+262
+00:04:17,566 --> 00:04:21,433
+也可以等待其到第四阶段来获得更多产物
+
+263
+00:04:21,700 --> 00:04:24,433
+但庄稼下面需要放一个金属块才能进入那一阶段
+
+264
+00:04:24,433 --> 00:04:26,100
+我们还负担不起那些
+
+265
+00:04:26,366 --> 00:04:31,033
+问题是我们的作物管理器
+会等待那个遥不可及的生长阶段到来
+
+266
+00:04:31,266 --> 00:04:34,666
+这意味着我们现在必须手动收集这些
+
+267
+00:04:34,666 --> 00:04:38,400
+稍后，我们将通过在下面放一块金属来自动收集
+
+268
+00:04:38,400 --> 00:04:40,400
+就像我们已经对黄金做的那样
+
+269
+00:04:40,566 --> 00:04:43,166
+我们的作物管理器也需要一点电
+
+270
+00:04:43,166 --> 00:04:45,666
+我们用一根超细电缆供电
+
+271
+00:04:45,833 --> 00:04:48,000
+这是一根很便宜的超导线缆
+
+272
+00:04:48,000 --> 00:04:50,566
+意思是我们想搞多长就多长
+
+273
+00:04:50,733 --> 00:04:53,266
+缺点是它最大电压只有8V
+
+274
+00:04:53,266 --> 00:04:54,966
+这意味着我们需要一个变压器
+
+275
+00:04:55,266 --> 00:04:57,833
+该变压器将输出高达4A的电流
+
+276
+00:04:58,066 --> 00:05:01,266
+由于我们的作物管理器可能至少需要2A
+
+277
+00:05:01,266 --> 00:05:04,600
+这种细线缆可能会被烧了
+
+278
+00:05:04,633 --> 00:05:07,233
+为了确保我们不超过最大电流
+
+279
+00:05:07,233 --> 00:05:08,700
+我们可以使用电缆二极管
+
+280
+00:05:08,700 --> 00:05:11,200
+在这种情况下，是ULV机器外壳
+
+281
+00:05:11,766 --> 00:05:16,400
+有了它，其最大功率便被限制在8EU/t
+
+282
+00:05:16,400 --> 00:05:19,466
+这足以每秒收获40株作物
+
+283
+00:05:20,066 --> 00:05:23,433
+接下来我们可能应该尝试购买一些铝锭
+
+284
+00:05:23,700 --> 00:05:25,500
+都是为了让我们的作物完全自动化
+
+285
+00:05:25,500 --> 00:05:27,566
+为进入下一个时代
+
+286
+00:05:27,666 --> 00:05:29,833
+这需要一个电高炉
+
+287
+00:05:29,833 --> 00:05:31,433
+这里的主要挑战是
+
+288
+00:05:31,433 --> 00:05:34,433
+有些人可能在定位云母矿脉时遇到问题
+
+289
+00:05:35,200 --> 00:05:37,733
+一个不需要努力且万无一失的方法是
+
+290
+00:05:37,733 --> 00:05:42,033
+首先带着找寻矿魔杖在山上寻找纯锡
+
+291
+00:05:42,800 --> 00:05:44,900
+这能找到锡石矿脉
+
+292
+00:05:44,900 --> 00:05:47,866
+我们可以从中提取一些锡石矿石样本
+
+293
+00:05:48,166 --> 00:05:50,633
+不要与锡石砂混淆
+
+294
+00:05:51,200 --> 00:05:54,400
+而有了锡，云母矿脉便不在话下
+
+295
+00:05:55,000 --> 00:05:56,766
+这意味着我们可以做一个EBF
+
+296
+00:05:57,366 --> 00:06:00,366
+这台机器将是另一个布线挑战
+
+297
+00:06:00,700 --> 00:06:04,800
+这是因为它的大部分配方都需要120EU/t
+
+298
+00:06:04,966 --> 00:06:08,500
+即使少一点也会导致机器故障并使物品被吞
+
+299
+00:06:08,766 --> 00:06:12,466
+要达到这样的功率，至少要4A的LV电
+
+300
+00:06:12,633 --> 00:06:13,966
+正如我们已经看到的
+
+301
+00:06:13,966 --> 00:06:15,666
+问题是线损
+
+302
+00:06:15,666 --> 00:06:17,300
+如果我们不小心
+
+303
+00:06:17,300 --> 00:06:19,866
+很容易达不到要求
+
+304
+00:06:20,000 --> 00:06:24,400
+有时这可能就像断开单个电缆连接一样简单
+
+305
+00:06:25,500 --> 00:06:29,900
+我们也不能忘记使用足够好的管道来为涡轮机供电
+
+306
+00:06:30,033 --> 00:06:30,800
+顺便说一句
+
+307
+00:06:30,800 --> 00:06:34,766
+我经常被问到为什么我总是限制管道流动方向
+
+308
+00:06:34,766 --> 00:06:39,033
+这是另一件可能在不同更新
+或不同GT版本之间发生变化的事
+
+309
+00:06:39,166 --> 00:06:40,833
+但从现在的测试来看
+
+310
+00:06:40,833 --> 00:06:42,900
+我会说点对点管道
+
+311
+00:06:42,900 --> 00:06:45,000
+这没什么区别
+
+312
+00:06:45,000 --> 00:06:47,566
+但是如果我们添加一些死胡同
+
+313
+00:06:47,566 --> 00:06:49,100
+我们可以看到一些倒流
+
+314
+00:06:49,100 --> 00:06:51,400
+这将降低主管道的流量
+
+315
+00:06:51,600 --> 00:06:55,500
+我会说为了让流动更可预测，你应该这么做
+
+316
+00:06:56,066 --> 00:06:58,466
+现在我们有一个正常工作的EBF和铝
+
+317
+00:06:58,466 --> 00:07:00,366
+我们还能弄到砷化镓
+
+318
+00:07:00,366 --> 00:07:02,466
+用来制造新型电路
+
+319
+00:07:02,800 --> 00:07:04,966
+从而进入MV时代
+
+320
+00:07:05,533 --> 00:07:09,666
+所以在拿到能降低制造更多
+电路板成本的电路组装机后
+
+321
+00:07:09,666 --> 00:07:12,633
+我们速通出第一台MV机器——压模机
+
+322
+00:07:13,100 --> 00:07:15,166
+这台机器真的越早出越好
+
+323
+00:07:15,166 --> 00:07:18,600
+因为这将使制作零件变得更容易、更便宜
+
+324
+00:07:18,700 --> 00:07:21,366
+在这个阶段取得更多进展前
+
+325
+00:07:21,366 --> 00:07:23,466
+我们应该修复能源生产
+
+326
+00:07:23,766 --> 00:07:27,566
+我们可以升级RC锅炉或制作更多太阳能锅炉
+
+327
+00:07:27,666 --> 00:07:30,700
+但另一个有趣的选择是青铜锅炉
+
+328
+00:07:30,866 --> 00:07:33,700
+这个可以产生足够的蒸汽来驱动3个高炉
+
+329
+00:07:33,700 --> 00:07:36,500
+并在一分钟内达到工作温度
+
+330
+00:07:36,700 --> 00:07:38,766
+而使燃料管理变得轻松
+
+331
+00:07:38,833 --> 00:07:41,566
+有了它，我们现在可以进入MV任务
+
+332
+00:07:41,633 --> 00:07:42,400
+或者最好先不进入
+
+333
+00:07:42,400 --> 00:07:45,833
+
+让我们先从上一电压本就可以做的自动化开始吧
+
+

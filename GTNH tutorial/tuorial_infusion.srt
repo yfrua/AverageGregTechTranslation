@@ -1,0 +1,1035 @@
+1
+00:00:00,600 --> 00:00:01,100
+hello
+
+2
+00:00:01,100 --> 00:00:07,300
+today we are going to see how to automate thuamcraft 4 infusion using Steve's factory manager
+
+3
+00:00:07,766 --> 00:00:11,566
+so, once we built an infusion altar stable enough
+
+4
+00:00:11,566 --> 00:00:13,766
+we can start with the automation
+
+5
+00:00:14,600 --> 00:00:18,233
+by the way try to get the stability as high as you can
+
+6
+00:00:18,233 --> 00:00:22,300
+since the automation benefits a lot from extra stability
+
+7
+00:00:22,300 --> 00:00:24,666
+anyways, to get started
+
+8
+00:00:24,666 --> 00:00:31,600
+we want an accessible interface to drop the crafted items and a chest where the interface will drop ingredients
+
+9
+00:00:32,233 --> 00:00:34,000
+once everything is prepared
+
+10
+00:00:34,000 --> 00:00:38,066
+we can drop the machine inventory manager and connect it to everything
+
+11
+00:00:38,700 --> 00:00:43,166
+it is enough for the cables to touch all of the wanted inventories from any side
+
+12
+00:00:43,300 --> 00:00:45,633
+the altar doesn't care about the symmetry
+
+13
+00:00:46,166 --> 00:00:51,500
+we can check that the cable connected to everything by creating an output on the SFM controller
+
+14
+00:00:52,066 --> 00:00:55,866
+however managing the pedestals like that is going to be annoying
+
+15
+00:00:55,866 --> 00:01:00,300
+so we can use a labeler to rename the blocks we will be interacting with
+
+16
+00:01:01,033 --> 00:01:04,200
+the first and most important is the pedestal in the middle
+
+17
+00:01:04,200 --> 00:01:06,066
+which we'll show name accordingly
+
+18
+00:01:07,066 --> 00:01:11,033
+and we can see that we can now easily identify in our controller
+
+19
+00:01:11,900 --> 00:01:15,266
+but to keep the items balanced on the pedestals
+
+20
+00:01:15,266 --> 00:01:17,066
+we want to rename all of them
+
+21
+00:01:17,233 --> 00:01:19,433
+and to make things easier
+
+22
+00:01:19,433 --> 00:01:22,500
+we rename them in the order we want them to be filled
+
+23
+00:01:23,100 --> 00:01:24,433
+here is an example
+
+24
+00:01:24,433 --> 00:01:29,033
+but just go in the order you would normally fill the pedestals while doing infusion
+
+25
+00:01:30,233 --> 00:01:32,666
+and now time to start our program
+
+26
+00:01:32,866 --> 00:01:34,666
+we could use some better trigger
+
+27
+00:01:34,666 --> 00:01:37,200
+but we are going with the default timed one
+
+28
+00:01:37,366 --> 00:01:39,366
+we can set the timing as we want
+
+29
+00:01:39,366 --> 00:01:42,566
+more frequent causes more lag but works faster
+
+30
+00:01:43,200 --> 00:01:46,366
+next we have to move the items on the pedestals
+
+31
+00:01:46,566 --> 00:01:48,433
+to make things clean and nice
+
+32
+00:01:48,433 --> 00:01:50,400
+we can use a command group
+
+33
+00:01:51,666 --> 00:01:53,700
+this is basically a subprogram
+
+34
+00:01:53,700 --> 00:01:57,900
+that will make a lot of instruction take only a single block of space
+
+35
+00:01:58,666 --> 00:02:01,233
+to interact with the flow of the upper program
+
+36
+00:02:01,233 --> 00:02:04,833
+we can use group nodes inputs and outputs
+
+37
+00:02:05,966 --> 00:02:09,066
+now that we have our nice group for filling the pedestals
+
+38
+00:02:09,066 --> 00:02:11,833
+we have to actually do the item insertion
+
+39
+00:02:14,266 --> 00:02:16,300
+we start by creating an input
+
+40
+00:02:16,300 --> 00:02:19,300
+which will take items as input from the chest
+
+41
+00:02:20,066 --> 00:02:23,700
+then one by one we add all of the outputs
+
+42
+00:02:23,866 --> 00:02:27,300
+we go in sequential order to fill all of the pedestals
+
+43
+00:02:27,300 --> 00:02:29,233
+starting from the middle one
+
+44
+00:02:30,766 --> 00:02:32,666
+and to make that work
+
+45
+00:02:32,666 --> 00:02:36,600
+we must make patterns with the middle item as first in the pattern
+
+46
+00:02:37,766 --> 00:02:41,700
+and we fill the subgroup with all the outputs in sequential order
+
+47
+00:02:42,400 --> 00:02:45,800
+with that done we can go back to the actual program
+
+48
+00:02:46,233 --> 00:02:48,633
+and before doing anything else
+
+49
+00:02:48,633 --> 00:02:49,833
+we will want a condition
+
+50
+00:02:49,833 --> 00:02:53,700
+that will check if there are any items already present on the altar
+
+51
+00:02:54,433 --> 00:02:57,600
+we are going to do this check before anything else
+
+52
+00:02:57,900 --> 00:03:01,033
+to make it work we select all of the pedestals
+
+53
+00:03:01,200 --> 00:03:03,366
+to make it match any possible item
+
+54
+00:03:03,366 --> 00:03:06,600
+we select one random item but in match all mode
+
+55
+00:03:07,033 --> 00:03:08,900
+right click to open the menu
+
+56
+00:03:09,600 --> 00:03:12,366
+now, if there are no items on the altar
+
+57
+00:03:12,366 --> 00:03:15,066
+we can proceed with inserting a new crafting
+
+58
+00:03:15,666 --> 00:03:18,500
+and to ensure that so far everything works
+
+59
+00:03:18,500 --> 00:03:21,200
+we can already try to craft something
+
+60
+00:03:21,666 --> 00:03:22,800
+as you can see
+
+61
+00:03:22,800 --> 00:03:25,400
+the items are already placed with the main in the middle
+
+62
+00:03:25,400 --> 00:03:27,600
+and the others in a balanced pattern
+
+63
+00:03:28,033 --> 00:03:30,233
+to automatically start the infusion
+
+64
+00:03:30,233 --> 00:03:31,666
+we need an infusion claw
+
+65
+00:03:31,666 --> 00:03:34,433
+equipped with a wand that has some vis inside
+
+66
+00:03:34,700 --> 00:03:36,466
+and to make it work
+
+67
+00:03:36,466 --> 00:03:39,766
+it needs a Redstone signal to start the infusion
+
+68
+00:03:39,900 --> 00:03:43,566
+so we add a Redstone emitter which we properly rename
+
+69
+00:03:43,966 --> 00:03:47,566
+to control it we add a Redstone emitter to our program
+
+70
+00:03:47,900 --> 00:03:49,166
+we select the emitter
+
+71
+00:03:49,166 --> 00:03:51,766
+and set it to output a strong signal
+
+72
+00:03:51,866 --> 00:03:55,466
+and that shall be done after the items are placed on the pedestals
+
+73
+00:03:56,066 --> 00:03:57,900
+then we add a second emitter
+
+74
+00:03:57,900 --> 00:04:00,400
+with strength to 0 to shut it off
+
+75
+00:04:00,500 --> 00:04:06,800
+for the moment we shall turn it off once the pedestals have been filled and infusion already started
+
+76
+00:04:07,366 --> 00:04:10,566
+and to avoid having the Redstone emitter always on
+
+77
+00:04:10,566 --> 00:04:14,800
+we add a condition that will start the process only if there are items ready
+
+78
+00:04:14,800 --> 00:04:18,033
+otherwise it shut off the starting signal
+
+79
+00:04:19,366 --> 00:04:22,233
+and now it is time to test if this works
+
+80
+00:04:22,433 --> 00:04:25,500
+the starting Redstone signal barely made into the video
+
+81
+00:04:25,500 --> 00:04:28,466
+since it went off as soon as I closed the terminal
+
+82
+00:04:28,466 --> 00:04:30,366
+but the process is starting
+
+83
+00:04:30,500 --> 00:04:32,800
+after the long animation of the claw
+
+84
+00:04:32,800 --> 00:04:35,633
+the long animation of the infusion starts
+
+85
+00:04:36,433 --> 00:04:39,866
+and after all of the essential and items are collected
+
+86
+00:04:39,866 --> 00:04:41,166
+
+we get our item
+
+
+87
+00:04:41,300 --> 00:04:45,433
+now we only have to add a couple of instructions to retrieve those
+
+88
+00:04:45,766 --> 00:04:48,266
+but before retrieving any item
+
+89
+00:04:48,266 --> 00:04:51,166
+we must be sure the infusion is completed
+
+90
+00:04:51,300 --> 00:04:53,233
+to do so we make a condition
+
+91
+00:04:53,233 --> 00:04:56,900
+that will check for items in any of the pedestal but the mid one
+
+92
+00:04:57,433 --> 00:05:00,400
+we shall make that check after the more generic one
+
+93
+00:05:00,433 --> 00:05:05,033
+and if it is false or better there are no secondary items
+
+94
+00:05:05,033 --> 00:05:08,400
+then we can pull out the crafted item on the mid pedestal
+
+95
+00:05:08,866 --> 00:05:11,266
+so we take as input the mid pedestal
+
+96
+00:05:11,266 --> 00:05:15,833
+and we output to the interface to complete the crafting that AE2 is waiting
+
+97
+00:05:16,266 --> 00:05:18,266
+and now we can do a test run
+
+98
+00:05:18,266 --> 00:05:20,966
+where we can see that everything works fine
+
+99
+00:05:21,066 --> 00:05:24,200
+or maybe the items was extracted too quickly
+
+100
+00:05:24,766 --> 00:05:29,900
+the main issue now is that this speed is hardly acceptable for an automated setup
+
+101
+00:05:30,433 --> 00:05:34,566
+so we add a couple of world accelerator in tile entity mode
+
+102
+00:05:35,066 --> 00:05:37,966
+those will use 12 amps of the used tier
+
+103
+00:05:38,000 --> 00:05:40,033
+which might be a lot for some people
+
+104
+00:05:40,200 --> 00:05:42,800
+so we can add a machine controller cover
+
+105
+00:05:42,800 --> 00:05:45,100
+to toggle those on only when needed
+
+106
+00:05:45,566 --> 00:05:48,300
+we turn them on when the infusion is started
+
+107
+00:05:48,300 --> 00:05:52,366
+and then we turn those off when the items are retrieved from the infusion
+
+108
+00:05:52,466 --> 00:05:54,900
+and here we also turn off the claw
+
+109
+00:05:54,900 --> 00:05:58,800
+since we must ensure it toggles on and off to properly work
+
+110
+00:05:59,166 --> 00:06:02,066
+and now time to see if this is fast enough
+
+111
+00:06:02,433 --> 00:06:04,266
+and I'd say it's good enough
+
+112
+00:06:04,966 --> 00:06:07,366
+finally we make a more sustained test
+
+113
+00:06:07,366 --> 00:06:09,500
+to check if everything works fine
+
+114
+00:06:09,500 --> 00:06:11,900
+and after a little bit of debugging
+
+115
+00:06:11,900 --> 00:06:13,466
+it works well enough
+
+116
+00:06:14,100 --> 00:06:19,166
+the only thing left to do is to make sure we do not lack of essence when we autocraft
+
+117
+00:06:19,266 --> 00:06:22,200
+we can do that by using an advanced provider
+
+118
+00:06:22,200 --> 00:06:23,866
+but I never fiddled with it
+
+119
+00:06:24,200 --> 00:06:27,533
+or, a different approach is to set a slightly higher timer delay
+
+120
+00:06:27,533 --> 00:06:31,233
+and extract the middle item regardless of the how the process is doing
+
+121
+00:06:31,233 --> 00:06:33,566
+to stop anything that could have gone wrong
+
+122
+00:06:33,966 --> 00:06:38,100
+
+also you can have an input redstone signal to inhibit the automation
+
+
+123
+00:06:38,100 --> 00:06:44,366
+and turn on the world accelerator for some rare occasion where you will want to do manual infusions
+
+124
+00:00:00,600 --> 00:00:01,100
+大家好
+
+125
+00:00:01,100 --> 00:00:07,300
+今天我们将看到如何使用SFM自动神秘4注魔
+
+126
+00:00:07,766 --> 00:00:11,566
+
+那么，一旦我们建了一个足够稳定的注魔祭坛
+
+
+127
+00:00:11,566 --> 00:00:13,766
+我们可以开始自动化了
+
+128
+00:00:14,600 --> 00:00:18,233
+顺便说一句，要让稳定性尽可能高
+
+129
+00:00:18,233 --> 00:00:22,300
+因为自动化从额外的稳定性中受益匪浅
+
+130
+00:00:22,300 --> 00:00:24,666
+不管怎样，开始吧
+
+131
+00:00:24,666 --> 00:00:31,600
+我们想要一个输出原料的ME接口
+和一个可以输入原料的箱子
+
+132
+00:00:32,233 --> 00:00:34,000
+一旦一切准备就绪
+
+133
+00:00:34,000 --> 00:00:38,066
+我们放下工厂管理器
+并将其连接到所有东西上
+
+134
+00:00:38,700 --> 00:00:43,166
+线缆能接触到要连接的方块的任何一面就行
+
+135
+00:00:43,300 --> 00:00:45,633
+祭坛不在乎对称性
+
+136
+00:00:46,166 --> 00:00:51,500
+我们可以通过在SFM控制器上创建输出
+来检查线缆是否连接到所有东西
+
+137
+00:00:52,066 --> 00:00:55,866
+然而，这样管理基座会很烦人
+
+138
+00:00:55,866 --> 00:01:00,300
+
+我们可以使用贴标器来重命名要交互的方块
+
+
+139
+00:01:01,033 --> 00:01:04,200
+第一个也是最重要的是中间的基座
+
+140
+00:01:04,200 --> 00:01:06,066
+我们打上相应的名称
+
+141
+00:01:07,066 --> 00:01:11,033
+
+现在就可以很容易地在管理器中认出它
+
+
+142
+00:01:11,900 --> 00:01:15,266
+但是为了保持基座上物品的平衡
+
+143
+00:01:15,266 --> 00:01:17,066
+
+我们要把所有这些重命名了
+
+
+144
+00:01:17,233 --> 00:01:19,433
+
+为了让事情更轻松
+
+
+145
+00:01:19,433 --> 00:01:22,500
+我们按照"希望填充它们的顺序"重命名它们
+
+146
+00:01:23,100 --> 00:01:24,433
+
+比如下面这个例子
+
+
+147
+00:01:24,433 --> 00:01:29,033
+
+只要按照你一般注魔时填充基座的顺序就可以
+
+
+148
+00:01:30,233 --> 00:01:32,666
+现在是时候开始写我们的程序了
+
+149
+00:01:32,866 --> 00:01:34,666
+我们可以用更好的触发器
+
+150
+00:01:34,666 --> 00:01:37,200
+但我们要使用默认计时的
+
+151
+00:01:37,366 --> 00:01:39,366
+我们可以随心所欲地设定时间
+
+152
+00:01:39,366 --> 00:01:42,566
+更频繁会导致更多卡顿，但工作速度更快
+
+153
+00:01:43,200 --> 00:01:46,366
+接下来我们必须移动基座上的物品
+
+154
+00:01:46,566 --> 00:01:48,433
+
+为了让面板看起来更清爽
+
+
+155
+00:01:48,433 --> 00:01:50,400
+我们可以使用命令组
+
+156
+00:01:51,666 --> 00:01:53,700
+这基本上是一个子程序
+
+157
+00:01:53,700 --> 00:01:57,900
+这将使大量指令只占用一块空间
+
+158
+00:01:58,666 --> 00:02:01,233
+要与上层程序的流程交互
+
+159
+00:02:01,233 --> 00:02:04,833
+我们可以使用输入和输出的组节点
+
+160
+00:02:05,966 --> 00:02:09,066
+现在我们有了一个很好的、用来填充基座的命令组
+
+161
+00:02:09,066 --> 00:02:11,833
+我们必须真正地写出插入物品的命令
+
+162
+00:02:14,266 --> 00:02:16,300
+我们首先创建一个输入模块
+
+163
+00:02:16,300 --> 00:02:19,300
+它将箱子里的物品作为输入
+
+164
+00:02:20,066 --> 00:02:23,700
+然后我们一个接一个地添加所有输出
+
+165
+00:02:23,866 --> 00:02:27,300
+我们按顺序填满所有的基座
+
+166
+00:02:27,300 --> 00:02:29,233
+从中间开始
+
+167
+00:02:30,766 --> 00:02:32,666
+为了让它发挥作用
+
+168
+00:02:32,666 --> 00:02:36,600
+我们的样板必须要把祭坛中间的物品第一个输出
+
+169
+00:02:37,766 --> 00:02:41,700
+我们按顺序把命令组里的所有的输出写好
+
+170
+00:02:42,400 --> 00:02:45,800
+完成后，我们可以回到主程序
+
+171
+00:02:46,233 --> 00:02:48,633
+在做其他任何事情之前
+
+172
+00:02:48,633 --> 00:02:49,833
+
+我们需要一个条件模块
+
+
+173
+00:02:49,833 --> 00:02:53,700
+
+来检查祭坛上是否已经有任意物品
+
+
+174
+00:02:54,433 --> 00:02:57,600
+
+这个检查必须要放在做其他操作之前
+
+
+175
+00:02:57,900 --> 00:03:01,033
+为此，我们选择了所有的基座
+
+176
+00:03:01,200 --> 00:03:03,366
+使其匹配任何可能的物品
+
+177
+00:03:03,366 --> 00:03:06,600
+我们随便选一个物品，打开"匹配所有"模式
+
+178
+00:03:07,033 --> 00:03:08,900
+右键打开菜单来进行这项设置
+
+179
+00:03:09,600 --> 00:03:12,366
+
+那么，如果祭坛上没有东西
+
+
+180
+00:03:12,366 --> 00:03:15,066
+我们可以做新的一批合成
+
+181
+00:03:15,666 --> 00:03:18,500
+要确保到目前为止一切正常
+
+182
+00:03:18,500 --> 00:03:21,200
+我们已经可以尝试制作一些东西
+
+183
+00:03:21,666 --> 00:03:22,800
+如你所见
+
+184
+00:03:22,800 --> 00:03:25,400
+主要的物品已经放在中间了
+
+185
+00:03:25,400 --> 00:03:27,600
+
+其他的物品呈现对称的样式放置
+
+
+186
+00:03:28,033 --> 00:03:30,233
+要自动开始注魔
+
+187
+00:03:30,233 --> 00:03:31,666
+我们需要一个注魔爪
+
+188
+00:03:31,666 --> 00:03:34,433
+里面有一根有vis的魔杖
+
+189
+00:03:34,700 --> 00:03:36,466
+要让注魔爪工作
+
+190
+00:03:36,466 --> 00:03:39,766
+它需要红石信号开始注魔
+
+191
+00:03:39,900 --> 00:03:43,566
+
+所以我们添加了一个红石发射器，打上了一个合适的名字
+
+
+192
+00:03:43,966 --> 00:03:47,566
+为了控制它，我们在程序中添加了一个红石发射器模块
+
+193
+00:03:47,900 --> 00:03:49,166
+我们选择发射器
+
+194
+00:03:49,166 --> 00:03:51,766
+并将其设置为输出强信号
+
+195
+00:03:51,866 --> 00:03:55,466
+
+输出指令会在物品放到基座上后进行
+
+
+196
+00:03:56,066 --> 00:03:57,900
+然后我们添加第二个发射器模块
+
+197
+00:03:57,900 --> 00:04:00,400
+强度设置为0以关闭它
+
+198
+00:04:00,500 --> 00:04:06,800
+目前，一旦填充过基座并且开始了注魔，我们将关闭注魔爪
+
+199
+00:04:07,366 --> 00:04:10,566
+并避免红石发射器始终打开
+
+200
+00:04:10,566 --> 00:04:14,800
+我们添加了一个条件，仅当有物品准备好时才会启动该过程
+
+201
+00:04:14,800 --> 00:04:18,033
+否则它会关闭启动信号
+
+202
+00:04:19,366 --> 00:04:22,233
+现在是时候测试这是否有效了
+
+203
+00:04:22,433 --> 00:04:25,500
+开始注魔的红石信号几乎没有进入视频
+
+204
+00:04:25,500 --> 00:04:28,466
+因为我一关闭终端它的强度就被设置成0了
+
+205
+00:04:28,466 --> 00:04:30,366
+但这个过程正在开始
+
+206
+00:04:30,500 --> 00:04:32,800
+在注魔爪的漫长动画之后
+
+207
+00:04:32,800 --> 00:04:35,633
+注魔的漫长动画开始了
+
+208
+00:04:36,433 --> 00:04:39,866
+在收集到所有的源质和物品后
+
+209
+00:04:39,866 --> 00:04:41,166
+我们得到了注魔输出
+
+210
+00:04:41,300 --> 00:04:45,433
+
+现在我们只需要加几个指令来取出产品
+
+
+211
+00:04:45,766 --> 00:04:48,266
+但在取回任何物品之前
+
+212
+00:04:48,266 --> 00:04:51,166
+我们必须确保注魔完成
+
+213
+00:04:51,300 --> 00:04:53,233
+为此，我们用一个条件模块
+
+214
+00:04:53,233 --> 00:04:56,900
+检查除中间基座外的任何基座是否含有物品
+
+215
+00:04:57,433 --> 00:05:00,400
+我们将在检查所有基座之后再进行该检查
+
+216
+00:05:00,433 --> 00:05:05,033
+如果输出是假，就说明没有次要物品
+
+217
+00:05:05,033 --> 00:05:08,400
+然后我们可以把中间底座上合成好的东西拿出来
+
+218
+00:05:08,866 --> 00:05:11,266
+所以我们把中间基座作为输入
+
+219
+00:05:11,266 --> 00:05:15,833
+输出到ME接口，以完成AE正在等待的合成
+
+220
+00:05:16,266 --> 00:05:18,266
+现在我们可以试运行了
+
+221
+00:05:18,266 --> 00:05:20,966
+一切正常
+
+222
+00:05:21,066 --> 00:05:24,200
+或许物品提取得太快了
+
+223
+00:05:24,766 --> 00:05:29,900
+现在的主要问题是，这速度对于自动化来说难以接受
+
+224
+00:05:30,433 --> 00:05:34,566
+所以我们添加了几个方块实体模式的世界加速器
+
+225
+00:05:35,066 --> 00:05:37,966
+这些将使用12 A的机器所在电压的电
+
+226
+00:05:38,000 --> 00:05:40,033
+这对某些人来说可能很多
+
+227
+00:05:40,200 --> 00:05:42,800
+所以我们可以添加一个机器控制覆盖板
+
+228
+00:05:42,800 --> 00:05:45,100
+仅在需要时打开加速器
+
+229
+00:05:45,566 --> 00:05:48,300
+我们在开始注魔时打开它们
+
+230
+00:05:48,300 --> 00:05:52,366
+然后在取出注魔好的物品时关闭它们
+
+231
+00:05:52,466 --> 00:05:54,900
+我们此时也关闭注魔爪
+
+232
+00:05:54,900 --> 00:05:58,800
+因为我们必须确保它打开和关闭以正常工作
+
+233
+00:05:59,166 --> 00:06:02,066
+现在是时候看看这是否足够快了
+
+234
+00:06:02,433 --> 00:06:04,266
+
+这样就差不多了
+
+
+235
+00:06:04,966 --> 00:06:07,366
+最后我们做一个更持久的测试
+
+236
+00:06:07,366 --> 00:06:09,500
+检查是否一切正常
+
+237
+00:06:09,500 --> 00:06:11,900
+经过一点调试
+
+238
+00:06:11,900 --> 00:06:13,466
+它工作得很好
+
+239
+00:06:14,100 --> 00:06:19,166
+唯一要做的就是确保合成时不缺乏源质
+
+240
+00:06:19,266 --> 00:06:22,200
+我们可以通过使用高级注魔供应器来做到这一点
+
+241
+00:06:22,200 --> 00:06:23,866
+
+但我从没研究过这东西
+
+
+242
+00:06:24,200 --> 00:06:27,533
+或者，另一种方法是设置稍高的定时器延迟
+
+243
+00:06:27,533 --> 00:06:31,233
+不管流程进行到哪，强制取出中间基座的物品
+
+244
+00:06:31,233 --> 00:06:33,566
+阻止任何可能出错的事情
+
+245
+00:06:33,966 --> 00:06:38,100
+你还可以输入红石信号来暂停自动化
+
+246
+00:06:38,100 --> 00:06:44,366
+并在需要进行手动注魔的罕见场合打开世界加速器
+
+247
+00:02:20,066 --> 00:02:29,233
+（这一步可以通过变量模块来简化，创建一个包含所有基座的变量，这样就只需要在一个输入模块里选择这个变量作为输出）
+
+248
+00:05:00,433 --> 00:05:08,400
+（任何一个基座有物品为真，除中间基座外的任何基座有物品为假，推断出只有中间基座有物品）
+

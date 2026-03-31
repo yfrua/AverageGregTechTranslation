@@ -1,0 +1,2998 @@
+1
+00:00:00,300 --> 00:00:01,533
+welcome back
+
+2
+00:00:01,533 --> 00:00:06,600
+today we are going to work on the stuff we had left over in the past episodes
+
+3
+00:00:06,766 --> 00:00:09,833
+since this stuff is also covered by quests
+
+4
+00:00:09,833 --> 00:00:13,033
+let's start by opening the next chapter of our book
+
+5
+00:00:13,266 --> 00:00:17,166
+after being reminded that we are entering the work in progress area
+
+6
+00:00:17,166 --> 00:00:20,600
+we find a quest that remind us of our hypogen needs
+
+7
+00:00:20,900 --> 00:00:22,200
+we quickly complete it
+
+8
+00:00:22,200 --> 00:00:24,866
+and then we get reminded on our main objective
+
+9
+00:00:24,866 --> 00:00:27,566
+a hypogen coil plasma forge
+
+10
+00:00:27,866 --> 00:00:30,800
+making 16 coils for the quest is easy
+
+11
+00:00:30,800 --> 00:00:34,100
+but we have no use for such low amount of coils
+
+12
+00:00:34,233 --> 00:00:36,766
+we need 2000 for our DTPF
+
+13
+00:00:36,766 --> 00:00:39,433
+or 900 for a blast furnace
+
+14
+00:00:39,800 --> 00:00:43,033
+and the next quest requires us to make space time
+
+15
+00:00:43,033 --> 00:00:45,866
+which is made in an hypogen plasma forge
+
+16
+00:00:45,866 --> 00:00:47,700
+so this path is blocked
+
+17
+00:00:47,966 --> 00:00:49,233
+on the other side
+
+18
+00:00:49,233 --> 00:00:53,766
+after pulverizing one of the tesaracts we made to test our DTPF
+
+19
+00:00:53,766 --> 00:00:56,766
+we obtained some transcendent metal dust
+
+20
+00:00:56,933 --> 00:00:59,766
+cooking that stuff is incredibly expensive
+
+21
+00:00:59,900 --> 00:01:02,566
+the process also requires some tungsten
+
+22
+00:01:02,566 --> 00:01:05,633
+that ends up becoming celestial in the process
+
+23
+00:01:05,800 --> 00:01:07,766
+and to cool it down
+
+24
+00:01:07,766 --> 00:01:11,500
+we have to add super coolant and titan steel to the freezer
+
+25
+00:01:11,666 --> 00:01:14,400
+while the reason is explained by the quest book
+
+26
+00:01:14,400 --> 00:01:17,433
+what we care about is that we now have the spiny ingot
+
+27
+00:01:17,866 --> 00:01:22,666
+and that was one of the two materials we needed for our space elevator upgrade
+
+28
+00:01:22,766 --> 00:01:25,833
+the other one is dimensionally shifted superfluid
+
+29
+00:01:25,966 --> 00:01:27,900
+this requires a bunch of things
+
+30
+00:01:27,900 --> 00:01:32,300
+but the first ingredient we notice is the next grade of purified water
+
+31
+00:01:32,700 --> 00:01:38,100
+and before we can even start looking at how that new purification unit works
+
+32
+00:01:38,100 --> 00:01:40,100
+we notice a lack of quarks
+
+33
+00:01:40,266 --> 00:01:42,366
+those are made in a cyclotron
+
+34
+00:01:42,366 --> 00:01:47,066
+so let's repurpose our quantum anomaly set up to a quark isolator one
+
+35
+00:01:47,366 --> 00:01:49,633
+once we obtained enough quarks
+
+36
+00:01:49,633 --> 00:01:52,066
+we notice one slightly bigger issue
+
+37
+00:01:52,400 --> 00:01:55,266
+to craft the purification plant structure
+
+38
+00:01:55,266 --> 00:01:57,600
+we need quite some diamonds
+
+39
+00:01:57,766 --> 00:02:02,833
+which are mostly going into making 100,000 infinity ingots
+
+40
+00:02:02,833 --> 00:02:04,666
+since we have a DTPF
+
+41
+00:02:04,866 --> 00:02:08,100
+it is probably a better option to use that instead
+
+42
+00:02:08,566 --> 00:02:09,000
+however
+
+43
+00:02:09,000 --> 00:02:11,666
+while that recipe make a lot of infinity
+
+44
+00:02:11,666 --> 00:02:14,900
+it is also eating a lot of resplendent catalyst
+
+45
+00:02:15,000 --> 00:02:17,666
+and that was with a 50 fuel discount
+
+46
+00:02:17,666 --> 00:02:20,633
+thanks to having fully breached the dimensional boundaries
+
+47
+00:02:20,633 --> 00:02:24,400
+by making hypogen and neutronium for 8 hours straight
+
+48
+00:02:24,500 --> 00:02:32,066
+which means that our current DTPF fuel production plant running on 350 amps UHV is not enough
+
+49
+00:02:32,233 --> 00:02:33,766
+so we push it even further
+
+50
+00:02:33,766 --> 00:02:35,900
+by doubling the amount of machines
+
+51
+00:02:35,900 --> 00:02:39,000
+while also wall sharing the expensive laser
+
+52
+00:02:39,266 --> 00:02:43,200
+but the first thing we will want to do with our new Infinity source is
+
+53
+00:02:43,200 --> 00:02:45,966
+upgrade our component assembly line
+
+54
+00:02:45,966 --> 00:02:46,600
+that way
+
+55
+00:02:46,633 --> 00:02:48,466
+we will be able to use less Infinity
+
+56
+00:02:48,466 --> 00:02:52,233
+for the components required for our upcoming machines
+
+57
+00:02:52,466 --> 00:02:57,433
+such as the blocks we needed for the last tier of water purification plant
+
+58
+00:02:57,500 --> 00:03:00,100
+those expensive components are also needed
+
+59
+00:03:00,100 --> 00:03:02,666
+in the catalyst that this plant works with
+
+60
+00:03:02,666 --> 00:03:06,566
+so after a day of intensively staring at our infinity stonks
+
+61
+00:03:06,566 --> 00:03:11,300
+we managed to stock up enough materials to craft the required parts
+
+62
+00:03:11,666 --> 00:03:16,166
+and after also getting the specialized quark catalysts
+
+63
+00:03:16,166 --> 00:03:19,900
+we are ready to purify our water at subatomic levels
+
+64
+00:03:20,033 --> 00:03:20,566
+as usual
+
+65
+00:03:20,566 --> 00:03:23,233
+we have to solve some logistical puzzle
+
+66
+00:03:23,233 --> 00:03:25,266
+to make that machine work
+
+67
+00:03:25,266 --> 00:03:26,800
+after some tests
+
+68
+00:03:26,800 --> 00:03:27,766
+we figured out that
+
+69
+00:03:27,766 --> 00:03:31,366
+this machine only cares about the sequence of inserted stuff
+
+70
+00:03:31,366 --> 00:03:33,100
+so we did some math analysis
+
+71
+00:03:33,100 --> 00:03:35,866
+to find an optimal sequence of stuff to insert
+
+72
+00:03:35,866 --> 00:03:39,266
+to find the correct combination as fast as possible
+
+73
+00:03:39,300 --> 00:03:39,966
+with that
+
+74
+00:03:39,966 --> 00:03:43,166
+it was just a matter of doing a little bit of Redstone circuitry
+
+75
+00:03:43,166 --> 00:03:46,466
+to properly manage the sequence loading and insertion
+
+76
+00:03:46,866 --> 00:03:51,200
+and here you can see the train of quark releasing catalysts being loaded up
+
+77
+00:03:51,200 --> 00:03:53,366
+and then inserted in a fixed order
+
+78
+00:03:53,633 --> 00:03:54,966
+and with that
+
+79
+00:03:54,966 --> 00:03:58,200
+we managed to obtain the subatomically perfected water
+
+80
+00:03:58,200 --> 00:04:00,666
+and the baryonic stabilized matter
+
+81
+00:04:00,800 --> 00:04:04,000
+which we merge into the dimensionally shifted superfluid
+
+82
+00:04:04,000 --> 00:04:06,966
+required for our new space elevator motors
+
+83
+00:04:07,033 --> 00:04:07,733
+with those
+
+84
+00:04:07,733 --> 00:04:10,566
+we can now run the Mining Modules MK3
+
+85
+00:04:10,566 --> 00:04:15,100
+capable of sending drones far enough to collect draconic cores
+
+86
+00:04:15,100 --> 00:04:18,300
+but for the moment we only found trash
+
+87
+00:04:18,300 --> 00:04:20,100
+so you know the drill
+
+88
+00:04:20,200 --> 00:04:22,700
+while the new drills are being forged
+
+89
+00:04:22,700 --> 00:04:24,800
+we can do some new quests
+
+90
+00:04:24,800 --> 00:04:27,833
+and since we still haven't done the new components
+
+91
+00:04:27,833 --> 00:04:30,033
+let's see how those are made
+
+92
+00:04:30,100 --> 00:04:35,466
+the new weird material we have to use to handle the strength of 33 millions volts is
+
+93
+00:04:35,466 --> 00:04:37,466
+proto-halkonite steel
+
+94
+00:04:37,666 --> 00:04:39,066
+to get that material
+
+95
+00:04:39,066 --> 00:04:44,766
+we start by coating an Infinity fine wire with a special blend of expensive materials
+
+96
+00:04:44,766 --> 00:04:46,833
+once the first coating is done
+
+97
+00:04:46,833 --> 00:04:51,900
+we complete the material by freezing some dimensionally shifted superfluid around it
+
+98
+00:04:52,033 --> 00:04:56,233
+after using this new material for all of the UIV components
+
+99
+00:04:56,233 --> 00:04:58,000
+we move on to the next the quest
+
+100
+00:04:58,100 --> 00:04:59,766
+new superconductor
+
+101
+00:04:59,966 --> 00:05:01,866
+and here we face a new issue
+
+102
+00:05:01,866 --> 00:05:03,200
+to work that stuff
+
+103
+00:05:03,200 --> 00:05:07,266
+we need an internal coil EBF or a hypogen coil DTPF
+
+104
+00:05:07,633 --> 00:05:09,400
+so you know the drill
+
+105
+00:05:09,600 --> 00:05:11,400
+we go do something else
+
+106
+00:05:11,566 --> 00:05:12,366
+luckily
+
+107
+00:05:12,366 --> 00:05:18,666
+it looks like our mining drones managed to find one draconic core schematic between all of the space trash
+
+108
+00:05:18,800 --> 00:05:20,900
+now we can craft draconic cores
+
+109
+00:05:20,900 --> 00:05:23,866
+and thus unlock the tier 2 fusion crafter
+
+110
+00:05:24,000 --> 00:05:24,666
+by the way
+
+111
+00:05:24,666 --> 00:05:26,633
+to get the required ichorium
+
+112
+00:05:26,633 --> 00:05:31,000
+we can now send a mining drone on some far asteroids to collect some
+
+113
+00:05:31,066 --> 00:05:32,833
+and then we quickly infuse it
+
+114
+00:05:32,833 --> 00:05:35,166
+thus upgrading our Fusion Crafter
+
+115
+00:05:35,200 --> 00:05:38,300
+which we then upgrade again with the Wyvern stuff
+
+116
+00:05:38,366 --> 00:05:39,666
+and with that
+
+117
+00:05:39,666 --> 00:05:43,000
+we can finally craft Dragon blood out of cheap stuff
+
+118
+00:05:43,033 --> 00:05:45,700
+the reason we did that was to get more hypogen
+
+119
+00:05:45,766 --> 00:05:46,566
+however
+
+120
+00:05:46,566 --> 00:05:48,566
+getting there took us quite some time
+
+121
+00:05:48,566 --> 00:05:50,033
+and in the meanwhile
+
+122
+00:05:50,033 --> 00:05:53,466
+our DTPF kept making hypogen to keep warm
+
+123
+00:05:53,466 --> 00:05:56,800
+making already enough of for the new coils we needed
+
+124
+00:05:57,100 --> 00:05:58,400
+and I got to say
+
+125
+00:05:58,400 --> 00:06:01,866
+solidifying that material is a really hard task
+
+126
+00:06:02,066 --> 00:06:04,800
+and after hours of solidifying screws
+
+127
+00:06:04,800 --> 00:06:07,466
+we managed to complete our new DTPF
+
+128
+00:06:08,066 --> 00:06:09,366
+as with the old one
+
+129
+00:06:09,366 --> 00:06:10,700
+to keep it warmed up
+
+130
+00:06:10,700 --> 00:06:14,833
+we set it up to make hypogen whenever there are no craftings queued up
+
+131
+00:06:15,366 --> 00:06:17,433
+and this one with hypogen coils
+
+132
+00:06:17,433 --> 00:06:20,266
+can do the recipe that has twice the yield
+
+133
+00:06:20,566 --> 00:06:23,100
+and it can also do new materials
+
+134
+00:06:23,100 --> 00:06:24,566
+such as space time
+
+135
+00:06:24,900 --> 00:06:25,500
+with that
+
+136
+00:06:25,500 --> 00:06:28,366
+we can finally craft crafting input buffers
+
+137
+00:06:28,366 --> 00:06:32,200
+which will allow us to make better looking crafting setups
+
+138
+00:06:32,433 --> 00:06:35,966
+this input will indeed contain both solids and fluids
+
+139
+00:06:35,966 --> 00:06:37,000
+have infinite caching
+
+140
+00:06:37,000 --> 00:06:40,400
+and separate the materials of the various recipes
+
+141
+00:06:40,700 --> 00:06:46,033
+but running 2 DTPF is starting to put too much of a strain on our generators
+
+142
+00:06:46,300 --> 00:06:47,766
+to boost our production
+
+143
+00:06:47,766 --> 00:06:50,666
+we are going to throw some hypogen in our fuel
+
+144
+00:06:50,866 --> 00:06:56,433
+and then we also add some of the leftover heavy radox from the radox polymer setup
+
+145
+00:06:56,633 --> 00:07:00,200
+and now it is time to see how our new fuel does
+
+146
+00:07:00,366 --> 00:07:03,400
+and it looks like it can fill up our battery in 3 weeks
+
+147
+00:07:03,400 --> 00:07:05,666
+with that extra production
+
+148
+00:07:05,666 --> 00:07:09,366
+we can even do a bit of overclocking on our DTPFs
+
+149
+00:07:09,566 --> 00:07:10,466
+to do so
+
+150
+00:07:10,466 --> 00:07:15,766
+we can use a screwdriver to remove the throttle we previously applied to the power plug
+
+151
+00:07:16,466 --> 00:07:18,266
+going back to our progression
+
+152
+00:07:18,266 --> 00:07:23,000
+we can now use our new DTPF for making the new UIV superconductor
+
+153
+00:07:23,200 --> 00:07:25,900
+which we use for the new energy hatches
+
+154
+00:07:26,000 --> 00:07:29,366
+next we could work on the final tier of coils
+
+155
+00:07:29,433 --> 00:07:32,066
+however those look quite expensive
+
+156
+00:07:32,066 --> 00:07:32,833
+not to mention
+
+157
+00:07:32,833 --> 00:07:35,900
+we won't get them with our current space time production
+
+158
+00:07:36,066 --> 00:07:37,633
+looking for a solution
+
+159
+00:07:37,633 --> 00:07:40,300
+we can try moving to the other quest branch
+
+160
+00:07:40,300 --> 00:07:42,400
+making a UMV circuit
+
+161
+00:07:42,500 --> 00:07:46,666
+which basically means just adding a new layer to our circuit factory
+
+162
+00:07:46,800 --> 00:07:51,166
+and behind that circuits hides a solution to our problems
+
+163
+00:07:51,300 --> 00:07:54,633
+with more power we can get spacetime faster
+
+164
+00:07:54,700 --> 00:07:58,166
+and the way we have to resort to get enough power at that stage
+
+165
+00:07:58,166 --> 00:08:01,266
+is by harvesting all of the energy emitted by a whole star
+
+166
+00:08:01,266 --> 00:08:03,833
+by building a Dyson sphere around it
+
+167
+00:08:04,000 --> 00:08:08,000
+and while the expensive parts of the structure are being crafted
+
+168
+00:08:08,000 --> 00:08:14,200
+we can work on the long chain of recursive crafts for modules we will be constantly launching in space
+
+169
+00:08:14,200 --> 00:08:16,700
+and here the main issue is two materials
+
+170
+00:08:16,700 --> 00:08:18,633
+which are not easy to come by
+
+171
+00:08:18,833 --> 00:08:19,900
+to get those
+
+172
+00:08:19,900 --> 00:08:21,666
+we can kidnap a couple of mobs
+
+173
+00:08:21,666 --> 00:08:24,333
+and get some armors out of their clones
+
+174
+00:08:24,333 --> 00:08:24,833
+however
+
+175
+00:08:24,833 --> 00:08:26,766
+some of the dropped armors are damaged
+
+176
+00:08:26,766 --> 00:08:31,400
+and our macerater doesn't like to recycle stuff that is not brand new
+
+177
+00:08:31,500 --> 00:08:34,200
+so to make it accept those items
+
+178
+00:08:34,200 --> 00:08:37,600
+we first have to repair them using an energetic infuser
+
+179
+00:08:37,766 --> 00:08:39,900
+once we have tidied the wardrobe
+
+180
+00:08:39,900 --> 00:08:43,233
+we can send it through an industrial maceration stack
+
+181
+00:08:43,366 --> 00:08:44,366
+and with that
+
+182
+00:08:44,366 --> 00:08:46,633
+we can now start stocking up modules
+
+183
+00:08:46,633 --> 00:08:48,666
+for our upcoming Dyson Sphere
+
+184
+00:08:48,833 --> 00:08:49,633
+meanwhile
+
+185
+00:08:49,633 --> 00:08:53,033
+the structure to launch those is not crafting properly
+
+186
+00:08:53,233 --> 00:08:55,266
+the teseracts are not crafting
+
+187
+00:08:55,300 --> 00:08:57,500
+and our DTPF is not working
+
+188
+00:08:57,666 --> 00:09:00,500
+the issue seems to be that we run out of fuel
+
+189
+00:09:00,800 --> 00:09:04,466
+our fuel plant indeed can't process fuel fast enough
+
+190
+00:09:04,600 --> 00:09:09,466
+the recipe has a base crafting time of almost 1 hour at UHV voltage
+
+191
+00:09:09,633 --> 00:09:12,366
+not once, but on multiple steps
+
+192
+00:09:12,366 --> 00:09:13,800
+to fix that issue
+
+193
+00:09:13,800 --> 00:09:16,033
+we can now afford a plasma mixer
+
+194
+00:09:16,166 --> 00:09:20,900
+that thing will do all of the steps in 5 seconds and with parallelization
+
+195
+00:09:21,066 --> 00:09:24,433
+but there are no discounts on the amount of power used
+
+196
+00:09:24,700 --> 00:09:27,400
+indeed this machine is so power intensive
+
+197
+00:09:27,400 --> 00:09:29,900
+that no cable or laser can power it
+
+198
+00:09:30,233 --> 00:09:32,033
+how do we make it run then
+
+199
+00:09:32,233 --> 00:09:32,500
+well
+
+200
+00:09:32,500 --> 00:09:35,766
+we can give it energy from the wireless network
+
+201
+00:09:36,066 --> 00:09:37,566
+which is a virtual battery
+
+202
+00:09:37,566 --> 00:09:39,766
+with virtually infinite power capacity
+
+203
+00:09:39,766 --> 00:09:43,900
+that high tier laptonic capacitor banks can swap energy with
+
+204
+00:09:44,100 --> 00:09:47,433
+once the energy is rebalanced with the wireless battery
+
+205
+00:09:47,433 --> 00:09:49,100
+we can use our mixer
+
+206
+00:09:49,400 --> 00:09:51,566
+but that didn't really fix the issue
+
+207
+00:09:51,566 --> 00:09:54,500
+we just move it to our fusion reactors
+
+208
+00:09:54,666 --> 00:09:57,400
+they can't keep up with all of those plasmas
+
+209
+00:09:57,800 --> 00:10:00,400
+and that is not the only fusion issue
+
+210
+00:10:00,566 --> 00:10:04,166
+we are also having trouble with the metastable oganesson production
+
+211
+00:10:04,166 --> 00:10:07,400
+which is made by our smaller Mark 4 reactors
+
+212
+00:10:07,600 --> 00:10:09,266
+to fix those problems
+
+213
+00:10:09,266 --> 00:10:11,833
+we should do a Mark 4 compact reactor
+
+214
+00:10:12,200 --> 00:10:14,400
+which will do higher parallels and
+
+215
+00:10:14,400 --> 00:10:16,233
+unlike its predecessors
+
+216
+00:10:16,233 --> 00:10:17,966
+has perfect overclocking
+
+217
+00:10:18,000 --> 00:10:23,700
+meaning it will be more than 16 times faster than the compact 3 on tier 1 plasmas
+
+218
+00:10:24,033 --> 00:10:24,966
+to craft it
+
+219
+00:10:24,966 --> 00:10:28,033
+we only lack of platinum and one of the plastics
+
+220
+00:10:28,066 --> 00:10:30,500
+usually to fix those issues
+
+221
+00:10:30,500 --> 00:10:32,766
+we would upgrade our stocking storage
+
+222
+00:10:32,766 --> 00:10:35,266
+or find the bottleneck in our processing chain
+
+223
+00:10:35,266 --> 00:10:36,466
+and speed it up
+
+224
+00:10:36,766 --> 00:10:37,166
+however
+
+225
+00:10:37,166 --> 00:10:40,033
+that is a task which has become hard to manage
+
+226
+00:10:40,033 --> 00:10:41,966
+and is starting to cause lag
+
+227
+00:10:42,233 --> 00:10:44,366
+and we now have a better solution
+
+228
+00:10:44,366 --> 00:10:47,166
+for those early game long processing chains
+
+229
+00:10:47,233 --> 00:10:48,900
+the quantum force transformer
+
+230
+00:10:48,900 --> 00:10:51,666
+can do the whole platline as a single recipient
+
+231
+00:10:51,666 --> 00:10:54,766
+can be easily overclocked and parallelized
+
+232
+00:10:54,833 --> 00:10:58,633
+and we won't have to work with any of the involved fluids
+
+233
+00:10:58,633 --> 00:10:59,633
+for the plastic
+
+234
+00:10:59,633 --> 00:11:02,800
+it won't simply do polybenzimidazole at once
+
+235
+00:11:02,966 --> 00:11:06,900
+it will also do all of the other simpler polymers at the same time
+
+236
+00:11:06,966 --> 00:11:08,966
+and here we have our new machine
+
+237
+00:11:08,966 --> 00:11:11,833
+making a lot of plastics in a single step
+
+238
+00:11:11,966 --> 00:11:14,100
+while our plastics are stocking up
+
+239
+00:11:14,100 --> 00:11:17,400
+we can make a second machine for processing platinum
+
+240
+00:11:17,700 --> 00:11:19,866
+and since this machine is super fast
+
+241
+00:11:19,866 --> 00:11:22,566
+even with low amount of catalyst and power
+
+242
+00:11:22,566 --> 00:11:24,766
+we can clean up the old platline
+
+243
+00:11:25,100 --> 00:11:25,966
+meanwhile
+
+244
+00:11:25,966 --> 00:11:30,800
+we have managed to gather all the ingredients required for our new fusion reactor
+
+245
+00:11:30,966 --> 00:11:34,833
+and after building some more machines to process everything
+
+246
+00:11:34,833 --> 00:11:37,200
+we managed to complete our new reactor
+
+247
+00:11:37,400 --> 00:11:39,000
+this reactor is so fast
+
+248
+00:11:39,000 --> 00:11:41,866
+that the bottleneck is now our plasma mixer
+
+249
+00:11:42,066 --> 00:11:43,866
+but we can quickly fix that issue
+
+250
+00:11:43,866 --> 00:11:46,066
+by increasing its maximum parallel
+
+251
+00:11:46,066 --> 00:11:48,200
+and letting it eat our whole battery
+
+252
+00:11:48,533 --> 00:11:50,866
+while the mixer waits for the leftover energy
+
+253
+00:11:50,866 --> 00:11:53,033
+to be sent into the wireless network
+
+254
+00:11:53,033 --> 00:11:55,033
+we can work on building more machines
+
+255
+00:11:55,033 --> 00:11:58,033
+to speed up the crafting speed of our Dyson Sphere
+
+256
+00:11:58,366 --> 00:12:00,833
+and we can even build machines in parallel
+
+257
+00:12:00,833 --> 00:12:04,066
+by using Loki Ring from the Funny Flower mod
+
+258
+00:12:04,300 --> 00:12:06,666
+and with all of those new machines
+
+259
+00:12:06,666 --> 00:12:10,266
+we quickly complete all of the parts of our new source of power
+
+260
+00:12:10,266 --> 00:12:11,633
+the Dyson Sphere
+
+261
+00:12:11,800 --> 00:12:13,200
+the issue of that structure
+
+262
+00:12:13,200 --> 00:12:15,700
+is that the modules we use to encase a star
+
+263
+00:12:15,700 --> 00:12:17,966
+can end up gliding and thus break
+
+264
+00:12:18,066 --> 00:12:20,566
+so we have to constantly feed new modules
+
+265
+00:12:20,566 --> 00:12:24,666
+and some computation to better calculate the module trajectories
+
+266
+00:12:24,666 --> 00:12:27,000
+lowering the needed replacements
+
+267
+00:12:27,233 --> 00:12:30,266
+to move all of that energy back to our base
+
+268
+00:12:30,266 --> 00:12:33,000
+we could craft one more really ultimate battery
+
+269
+00:12:33,000 --> 00:12:36,166
+but I think a wormhole generator sounds cooler
+
+270
+00:12:36,433 --> 00:12:38,400
+with that we now have enough power
+
+271
+00:12:38,400 --> 00:12:41,000
+to further speed up our hypogen production
+
+272
+00:12:41,266 --> 00:12:44,166
+with the power of 40,000 UHV amps
+
+273
+00:12:44,166 --> 00:12:48,066
+our production went from half ingot to more than 2 every second
+
+274
+00:12:48,300 --> 00:12:51,233
+to further increase our plasma forging capacity
+
+275
+00:12:51,233 --> 00:12:54,766
+we use the hypogen to multiply our DTPFs
+
+276
+00:12:55,033 --> 00:12:58,566
+and even with 4 DTPFs running at that power
+
+277
+00:12:58,566 --> 00:13:02,500
+we are still making less than one ingot of space time each second
+
+278
+00:13:02,600 --> 00:13:05,700
+however if we manage to get eternal coils
+
+279
+00:13:05,700 --> 00:13:11,400
+we can use a recipe that will use less than half the ingredients to make four times as much
+
+280
+00:13:11,566 --> 00:13:14,033
+the main issue is that eternal coils
+
+281
+00:13:14,033 --> 00:13:16,433
+other than requiring quite some space time
+
+282
+00:13:16,433 --> 00:13:17,966
+and a UIV circuit
+
+283
+00:13:17,966 --> 00:13:20,766
+also require an eternal singularity
+
+284
+00:13:20,833 --> 00:13:22,600
+getting these is quite expensive
+
+285
+00:13:22,600 --> 00:13:24,500
+and also needs some stuff
+
+286
+00:13:24,500 --> 00:13:27,700
+such as Soul Sand which we haven't really automated
+
+287
+00:13:28,100 --> 00:13:31,466
+when we needed a couple of blocks for a single singularity
+
+288
+00:13:31,466 --> 00:13:32,466
+it was doable
+
+289
+00:13:32,466 --> 00:13:34,800
+now we have to find a better way
+
+290
+00:13:35,000 --> 00:13:38,666
+and I think the best way is to not use soul sand at all
+
+291
+00:13:38,666 --> 00:13:43,200
+we can get a singularity by compressing a little bit of space time
+
+292
+00:13:43,200 --> 00:13:43,700
+however
+
+293
+00:13:43,700 --> 00:13:46,300
+that requires a stabilized black hole
+
+294
+00:13:46,300 --> 00:13:49,166
+which is a whole new rabbit hole to explore
+
+295
+00:13:49,366 --> 00:13:51,466
+and I think that is a good moment to
+
+296
+00:13:51,466 --> 00:13:52,600
+start working on that
+
+297
+00:13:52,600 --> 00:13:55,666
+since this is the last main quest of the current tier
+
+298
+00:13:55,866 --> 00:13:59,033
+so after working millions of iron dusts
+
+299
+00:13:59,033 --> 00:14:00,600
+we managed to build a structure
+
+300
+00:14:00,600 --> 00:14:03,600
+strong enough to support and contain a black hole
+
+301
+00:14:03,766 --> 00:14:06,833
+this machine has some peculiar requirements
+
+302
+00:14:06,966 --> 00:14:07,266
+first
+
+303
+00:14:07,266 --> 00:14:10,200
+we need a black hole seed to open a black hole
+
+304
+00:14:10,200 --> 00:14:12,033
+so we can compress stuff
+
+305
+00:14:12,100 --> 00:14:15,066
+once the black hole becomes too unstable
+
+306
+00:14:15,066 --> 00:14:16,800
+we close it with a collapsar
+
+307
+00:14:17,300 --> 00:14:19,766
+so once everything is ready
+
+308
+00:14:19,766 --> 00:14:22,166
+we can throw a black hole seed into the machine
+
+309
+00:14:22,166 --> 00:14:23,833
+and admire our creation
+
+310
+00:14:24,300 --> 00:14:27,566
+which we use to craft eternal singularities
+
+311
+00:14:28,200 --> 00:14:31,400
+however our black hole is going to slowly decay
+
+312
+00:14:31,400 --> 00:14:33,966
+thus becoming unusable for the task
+
+313
+00:14:34,100 --> 00:14:35,500
+and in that state
+
+314
+00:14:35,500 --> 00:14:38,433
+it is going to void our ingredients
+
+315
+00:14:38,466 --> 00:14:41,466
+so we make it collapse to clean up the machine
+
+316
+00:14:41,633 --> 00:14:45,000
+and now it is time to fully automate that process
+
+317
+00:14:45,300 --> 00:14:47,200
+after doing a little bit of math
+
+318
+00:14:47,200 --> 00:14:48,400
+we find out that
+
+319
+00:14:48,400 --> 00:14:51,200
+by also adding some extra stabilizer
+
+320
+00:14:51,200 --> 00:14:56,500
+we can craft a batch of 2800 singularities with a single black hole
+
+321
+00:14:56,500 --> 00:14:59,600
+so we quickly build a custom AE2 pattern
+
+322
+00:14:59,600 --> 00:15:02,300
+with all of the stuff that we will have to use
+
+323
+00:15:02,666 --> 00:15:04,000
+the items will be split
+
+324
+00:15:04,000 --> 00:15:07,600
+so that a group of timers can properly manage the black hole
+
+325
+00:15:07,833 --> 00:15:12,266
+the first one is going to let the black hole get close to the end of its lifespan
+
+326
+00:15:12,466 --> 00:15:13,900
+during this phase
+
+327
+00:15:13,900 --> 00:15:18,233
+the black hole will allow us to do 88 singularities at a time
+
+328
+00:15:18,566 --> 00:15:19,200
+then
+
+329
+00:15:19,200 --> 00:15:21,000
+just before the critical point
+
+330
+00:15:21,000 --> 00:15:23,233
+the timer will trigger a second timer
+
+331
+00:15:23,233 --> 00:15:28,400
+which will halt the decay of our black hole by inserting liquid space time inside it
+
+332
+00:15:28,800 --> 00:15:31,400
+the material costs grows exponentially
+
+333
+00:15:31,400 --> 00:15:31,633
+so
+
+334
+00:15:31,633 --> 00:15:35,033
+we do not want to let this process go on for too much time
+
+335
+00:15:35,033 --> 00:15:36,633
+and at this stage
+
+336
+00:15:36,633 --> 00:15:41,866
+our black hole will compress 350 items at once
+
+337
+00:15:42,666 --> 00:15:46,033
+and once the stabilizer cost becomes too high
+
+338
+00:15:46,033 --> 00:15:47,600
+we collapse the hole
+
+339
+00:15:48,100 --> 00:15:50,633
+now that we have enough singularities
+
+340
+00:15:50,633 --> 00:15:54,200
+we can start working on the last tier of heating coils
+
+341
+00:15:54,600 --> 00:15:57,500
+and that required us to build a new set of solidifiers
+
+342
+00:15:57,500 --> 00:15:59,966
+to get all of the ingots and screws
+
+343
+00:16:00,266 --> 00:16:03,600
+then our array of wire factories prepared the cabling
+
+344
+00:16:03,900 --> 00:16:08,100
+finally with all of our 14 generic purpose assembly lines
+
+345
+00:16:08,100 --> 00:16:10,633
+we slowly crafted the new coils
+
+346
+00:16:10,800 --> 00:16:15,666
+while we craft the 7000 coils required for the DTPF upgrade
+
+347
+00:16:15,666 --> 00:16:20,166
+we can also use the singularities for upgrading our ore facility
+
+348
+00:16:20,433 --> 00:16:23,300
+the issue is that we can't let our ore facility run
+
+349
+00:16:23,300 --> 00:16:26,266
+because it will quickly clog our storage room
+
+350
+00:16:26,466 --> 00:16:29,200
+but now we can afford better storage
+
+351
+00:16:29,500 --> 00:16:35,433
+and we are going to use it to stock up the stuff we are making in unlimited amount right on the production site
+
+352
+00:16:35,700 --> 00:16:36,433
+meanwhile
+
+353
+00:16:36,433 --> 00:16:38,766
+after fixing the AFK counter
+
+354
+00:16:38,766 --> 00:16:42,700
+we stocked up enough coils to upgrade our DTPFs
+
+355
+00:16:42,833 --> 00:16:43,500
+with those
+
+356
+00:16:43,500 --> 00:16:45,866
+we can now make cheaper space time
+
+357
+00:16:45,866 --> 00:16:47,200
+cheaper hypogen
+
+358
+00:16:47,266 --> 00:16:49,966
+one stack of Infinity out of a single catalyst
+
+359
+00:16:49,966 --> 00:16:52,166
+and many other latter game recipes
+
+360
+00:16:52,166 --> 00:16:53,200
+and with that
+
+361
+00:16:53,200 --> 00:16:55,900
+I think we can close this chapter
+
+362
+00:16:55,933 --> 00:16:59,000
+so what was the lesson of today's episode
+
+363
+00:16:59,000 --> 00:17:01,833
+always build your fusion reactors in a tunnel
+
+364
+00:17:01,833 --> 00:17:03,266
+for nice visuals
+
+365
+00:17:03,400 --> 00:17:06,666
+see you next time for even bigger multi blocks
+
+366
+00:17:06,800 --> 00:17:07,666
+bye bye
+
+367
+00:00:00,300 --> 00:00:01,533
+欢迎回来！
+
+368
+00:00:01,533 --> 00:00:06,600
+今天要做的是前几集遗漏的东西
+
+369
+00:00:06,766 --> 00:00:09,833
+而它们也在任务中有提及
+
+370
+00:00:09,833 --> 00:00:13,033
+让我们从这本书的下一章开始
+
+371
+00:00:13,266 --> 00:00:17,166
+在被提醒我们进入半成品区后
+
+372
+00:00:17,166 --> 00:00:20,600
+这里有个任务需要海珀珍
+
+373
+00:00:20,900 --> 00:00:22,200
+我们快速完成它
+
+374
+00:00:22,200 --> 00:00:24,866
+然后我们想起了主要目标
+
+375
+00:00:24,866 --> 00:00:27,566
+海珀珍等离子锻炉
+
+376
+00:00:27,866 --> 00:00:30,800
+
+制作16个线圈完成任务很简单
+
+
+377
+00:00:30,800 --> 00:00:34,100
+但是这个量少得没用
+
+378
+00:00:34,233 --> 00:00:36,766
+我们的DTPF需要2112个
+
+379
+00:00:36,766 --> 00:00:39,433
+巨型高炉需要864个
+
+380
+00:00:39,800 --> 00:00:43,033
+下一个任务要求我们创造时空
+
+381
+00:00:43,033 --> 00:00:45,866
+它是在海珀珍DTPF中制造的
+
+382
+00:00:45,866 --> 00:00:47,700
+所以这条路行不通
+
+383
+00:00:47,966 --> 00:00:49,233
+
+另一方面
+
+
+384
+00:00:49,233 --> 00:00:53,766
+在粉碎了用来测试DTPF而制作的粗制超立方体后
+
+385
+00:00:53,766 --> 00:00:56,766
+我们得到了超时空金属粉
+
+386
+00:00:56,933 --> 00:00:59,766
+烧制那东西非常贵
+
+387
+00:00:59,900 --> 00:01:02,566
+这个过程还需要一些钨
+
+388
+00:01:02,566 --> 00:01:05,633
+在这个过程中最终变成了天体钨等离子体
+
+389
+00:01:05,800 --> 00:01:07,766
+而想让它冷却下来
+
+390
+00:01:07,766 --> 00:01:11,500
+我们得往冰箱里加超级冷却剂和泰坦精钢
+
+391
+00:01:11,666 --> 00:01:14,400
+虽然任务书解释了原因
+
+392
+00:01:14,400 --> 00:01:17,433
+我们关心的是有转转锭了
+
+393
+00:01:17,866 --> 00:01:22,666
+那是我们升级太空电梯所需的两种材料之一
+
+394
+00:01:22,766 --> 00:01:25,833
+另一个是纬度偏移超流体
+
+395
+00:01:25,966 --> 00:01:27,900
+这需要一堆材料
+
+396
+00:01:27,900 --> 00:01:32,300
+但是我们注意到的第一种成分是级八水
+
+397
+00:01:32,700 --> 00:01:38,100
+在我们开始研究新的净化装置如何工作之前
+
+398
+00:01:38,100 --> 00:01:40,100
+我们发现缺少夸克
+
+399
+00:01:40,266 --> 00:01:42,366
+这些都是用回旋加速器制造的
+
+400
+00:01:42,366 --> 00:01:47,066
+所以让我们把量子异常设备改成夸克分离器
+
+401
+00:01:47,366 --> 00:01:49,633
+一旦得到足够的夸克
+
+402
+00:01:49,633 --> 00:01:52,066
+
+我们又发现更严重一点的问题
+
+
+403
+00:01:52,400 --> 00:01:55,266
+要制作净化工厂的结构方块
+
+404
+00:01:55,266 --> 00:01:57,600
+我们需要相当多的钻石
+
+405
+00:01:57,766 --> 00:02:02,833
+主要用于制造十万个无限锭
+
+406
+00:02:02,833 --> 00:02:04,666
+既然我们有DTPF
+
+407
+00:02:04,866 --> 00:02:08,100
+使用它可能是一个更好的选择
+
+408
+00:02:08,566 --> 00:02:09,000
+然而
+
+409
+00:02:09,000 --> 00:02:11,666
+虽然这个配方产出大量的无尽
+
+410
+00:02:11,666 --> 00:02:14,900
+它也在吞噬大量的光辉催化剂
+
+411
+00:02:15,000 --> 00:02:17,666
+这甚至是在有50%的燃料折扣下发生的
+
+412
+00:02:17,666 --> 00:02:21,900
+这折扣是通过连续8小时制造海珀珍和中子
+
+413
+00:02:21,900 --> 00:02:24,366
+成功突破维度界限带来的
+
+414
+00:02:24,500 --> 00:02:32,066
+这意味着350A UHV耗能的燃料生产是远远不够的
+
+415
+00:02:32,233 --> 00:02:33,766
+所以我们更进一步
+
+416
+00:02:33,766 --> 00:02:35,900
+通过将机器数量增加一倍
+
+417
+00:02:35,900 --> 00:02:39,000
+同时共用昂贵的激光仓
+
+418
+00:02:39,266 --> 00:02:43,200
+
+不过有了更快更好的无限来源后的第一件事
+
+
+419
+00:02:43,200 --> 00:02:45,966
+是升级部件装配线
+
+420
+00:02:45,966 --> 00:02:46,600
+这样子
+
+421
+00:02:46,633 --> 00:02:48,466
+我们能用更少的无限锭
+
+422
+00:02:48,466 --> 00:02:52,233
+来生产即将到来的机器所需的组件
+
+423
+00:02:52,466 --> 00:02:57,433
+比如最后一级净水厂所需的方块
+
+424
+00:02:57,500 --> 00:03:00,100
+这净水厂的催化剂
+
+425
+00:03:00,100 --> 00:03:02,666
+也这需要价值高昂的材料
+
+426
+00:03:02,666 --> 00:03:06,566
+在密切关注无尽的库存后
+
+427
+00:03:06,566 --> 00:03:11,300
+我们储备了足够制作所需的部件的材料
+
+428
+00:03:11,666 --> 00:03:16,166
+
+在得到了特定的夸克催化剂后
+
+
+429
+00:03:16,166 --> 00:03:19,900
+
+我们已经准备好在亚原子层面上净化我们的水
+
+
+430
+00:03:20,033 --> 00:03:20,566
+像往常一样
+
+431
+00:03:20,566 --> 00:03:23,233
+
+我们必须解决一些物流问题
+
+
+432
+00:03:23,233 --> 00:03:25,266
+来让那台机器工作
+
+433
+00:03:25,266 --> 00:03:26,800
+经过一些测试
+
+434
+00:03:26,800 --> 00:03:27,766
+我们发现
+
+435
+00:03:27,766 --> 00:03:31,366
+这台机器只关心物品输入的序列
+
+436
+00:03:31,366 --> 00:03:33,100
+所以我们做了一些数学分析
+
+437
+00:03:33,100 --> 00:03:35,866
+找到一个最佳的输入序列
+
+438
+00:03:35,866 --> 00:03:39,266
+用来尽快找到正确的组合
+
+439
+00:03:39,300 --> 00:03:39,966
+有了那个
+
+440
+00:03:39,966 --> 00:03:43,166
+
+这不过是搭一些红石线缆
+
+
+441
+00:03:43,166 --> 00:03:46,466
+
+来管理序列正确加载和插入的问题
+
+
+442
+00:03:46,866 --> 00:03:51,200
+你可以看到一列夸克释放催化剂被装载起来
+
+443
+00:03:51,200 --> 00:03:53,366
+然后按固定顺序插入
+
+444
+00:03:53,633 --> 00:03:54,966
+有了这个
+
+445
+00:03:54,966 --> 00:03:58,200
+我们就得到了理想微粒水（八级水）
+
+446
+00:03:58,200 --> 00:04:00,666
+以及重子稳定物质
+
+447
+00:04:00,800 --> 00:04:04,000
+我们将其合并成维度偏移超流体
+
+448
+00:04:04,000 --> 00:04:06,966
+用来制作新的太空电梯加速轨道
+
+449
+00:04:07,033 --> 00:04:07,733
+用那些
+
+450
+00:04:07,733 --> 00:04:10,566
+我们现在可以运行采矿模块MK3
+
+451
+00:04:10,566 --> 00:04:15,100
+将无人机送到足够远的地方收集龙芯
+
+452
+00:04:15,100 --> 00:04:18,300
+但目前我们只找到垃圾
+
+453
+00:04:18,300 --> 00:04:20,100
+
+现在你知道下一步怎么“钻”了
+
+
+454
+00:04:20,200 --> 00:04:22,700
+当新钻头被锻造时
+
+455
+00:04:22,700 --> 00:04:24,800
+我们可以做一些新的任务
+
+456
+00:04:24,800 --> 00:04:27,833
+由于我们还没有完成新的组件
+
+457
+00:04:27,833 --> 00:04:30,033
+让我们看看这些是如何制作的
+
+458
+00:04:30,100 --> 00:04:35,466
+
+这种能够承载3300万伏的神必新材料是
+
+
+459
+00:04:35,466 --> 00:04:37,466
+原初恒坚钢
+
+460
+00:04:37,666 --> 00:04:39,066
+想获得它的话
+
+461
+00:04:39,066 --> 00:04:44,766
+我们首先用一种昂贵的材料涂抹细无尽导线
+
+462
+00:04:44,766 --> 00:04:46,833
+一旦涂层完成
+
+463
+00:04:46,833 --> 00:04:51,900
+我们通过在附近冻结超维度偏移超流体来完成材料
+
+464
+00:04:52,033 --> 00:04:56,233
+在将这种新材料用于所有UIV组件后
+
+465
+00:04:56,233 --> 00:04:58,000
+我们继续下一个任务
+
+466
+00:04:58,100 --> 00:04:59,766
+新的超导体
+
+467
+00:04:59,966 --> 00:05:01,866
+现在我们面临一个新问题
+
+468
+00:05:01,866 --> 00:05:03,200
+去生产那东西
+
+469
+00:05:03,200 --> 00:05:07,266
+我们需要一个永恒高炉或者海珀珍DTPF
+
+470
+00:05:07,633 --> 00:05:09,400
+
+接下来怎么办就很明白了
+
+
+471
+00:05:09,600 --> 00:05:11,400
+我们去做点别的
+
+472
+00:05:11,566 --> 00:05:12,366
+幸运地
+
+473
+00:05:12,366 --> 00:05:16,466
+看来我们的采矿无人机在所有太空垃圾之间
+
+474
+00:05:16,466 --> 00:05:18,666
+找到了一个龙芯示意图
+
+475
+00:05:18,800 --> 00:05:20,900
+现在我们可以制作龙芯了
+
+476
+00:05:20,900 --> 00:05:23,866
+从而解锁二级聚合机械方块
+
+477
+00:05:24,000 --> 00:05:24,666
+顺便说一下
+
+478
+00:05:24,666 --> 00:05:26,633
+为了获得所需的灵宝
+
+479
+00:05:26,633 --> 00:05:31,000
+我们可以通过太空钻机来挖一点
+
+480
+00:05:31,066 --> 00:05:32,833
+然后我们快速注魔
+
+481
+00:05:32,833 --> 00:05:35,166
+从而升级我们的龙研聚合
+
+482
+00:05:35,200 --> 00:05:38,300
+然后我们用双足飞龙再次升级
+
+483
+00:05:38,366 --> 00:05:39,666
+有了这个
+
+484
+00:05:39,666 --> 00:05:43,000
+我们终于可以用便宜的东西制作龙血了
+
+485
+00:05:43,033 --> 00:05:45,700
+我们这样做的原因是获得更多的海珀珍
+
+486
+00:05:45,766 --> 00:05:46,566
+然而
+
+487
+00:05:46,566 --> 00:05:48,566
+做出那些东西花了我们不少时间
+
+488
+00:05:48,566 --> 00:05:50,033
+与此同时
+
+489
+00:05:50,033 --> 00:05:53,466
+我们的DTPF一直在制造海珀珍来保持维度超越
+
+490
+00:05:53,466 --> 00:05:56,800
+新线圈材料已经足够
+
+491
+00:05:57,100 --> 00:05:58,400
+我不得不说
+
+492
+00:05:58,400 --> 00:06:01,866
+固化这种材料是一项非常艰巨的任务
+
+493
+00:06:02,066 --> 00:06:04,800
+
+经过数小时的固化螺丝
+
+
+494
+00:06:04,800 --> 00:06:07,466
+我们设法完成了新的DTPF
+
+495
+00:06:08,066 --> 00:06:09,366
+和旧的一样
+
+496
+00:06:09,366 --> 00:06:10,700
+让它保持运作
+
+497
+00:06:10,700 --> 00:06:12,766
+只要没有主动下单
+
+498
+00:06:12,766 --> 00:06:14,833
+就让它制作海珀珍
+
+499
+00:06:15,366 --> 00:06:17,433
+有了海珀珍线圈
+
+500
+00:06:17,433 --> 00:06:20,266
+可以用两倍产量的配方了
+
+501
+00:06:20,566 --> 00:06:23,100
+它还可以制造新材料
+
+502
+00:06:23,100 --> 00:06:24,566
+比如时空
+
+503
+00:06:24,900 --> 00:06:25,500
+有了那个
+
+504
+00:06:25,500 --> 00:06:28,366
+我们终于可以制作样板输入总成了
+
+505
+00:06:28,366 --> 00:06:32,200
+这让我们做出更好看的自动化方案
+
+506
+00:06:32,433 --> 00:06:35,966
+这个输入包含固体和液体
+
+507
+00:06:35,966 --> 00:06:37,000
+有无限缓存
+
+508
+00:06:37,000 --> 00:06:40,400
+并将各种配方的材料分开
+
+509
+00:06:40,700 --> 00:06:46,033
+但运行2个DTPF给发电机上太多压力了
+
+510
+00:06:46,300 --> 00:06:47,766
+为了提高发电量
+
+511
+00:06:47,766 --> 00:06:50,666
+我们要往燃料里加点海珀珍
+
+512
+00:06:50,866 --> 00:06:53,433
+我们还往燃料里勾兑了一些
+
+513
+00:06:53,433 --> 00:06:56,433
+从拉多聚合物中提取的重拉多X
+
+514
+00:06:56,633 --> 00:07:00,200
+现在是时候看看新燃料的能耐
+
+515
+00:07:00,366 --> 00:07:03,400
+看起来它可以在3周内充满我们的电池
+
+516
+00:07:03,400 --> 00:07:05,666
+有了这额外的发电
+
+517
+00:07:05,666 --> 00:07:09,366
+我们甚至可以在DTPF上做一点超频
+
+518
+00:07:09,566 --> 00:07:10,466
+为此
+
+519
+00:07:10,466 --> 00:07:15,766
+我们可以用螺丝刀移除之前在激光仓设置的上限
+
+520
+00:07:16,466 --> 00:07:18,266
+回到主线
+
+521
+00:07:18,266 --> 00:07:23,000
+我们现在可以使用新DTPF来制造新的UIV超导
+
+522
+00:07:23,200 --> 00:07:25,900
+将其用于新能源仓
+
+523
+00:07:26,000 --> 00:07:29,366
+接下来做最后一级线圈
+
+524
+00:07:29,433 --> 00:07:32,066
+然而，这些看起来很贵
+
+525
+00:07:32,066 --> 00:07:32,833
+更不用说
+
+526
+00:07:32,833 --> 00:07:35,900
+以我们现在的时空产量是远远不够的
+
+527
+00:07:36,066 --> 00:07:37,633
+寻找解决方案
+
+528
+00:07:37,633 --> 00:07:40,300
+我们可以尝试转移到另一个任务分支
+
+529
+00:07:40,300 --> 00:07:42,400
+制作UMV电路
+
+530
+00:07:42,500 --> 00:07:46,666
+这基本上意味着在我们的电路工厂中新添加一层
+
+531
+00:07:46,800 --> 00:07:51,166
+在电路的背后隐藏着解决问题的方法
+
+532
+00:07:51,300 --> 00:07:52,566
+有了更多的能量
+
+533
+00:07:52,566 --> 00:07:54,633
+我们可以更快地制造时空
+
+534
+00:07:54,700 --> 00:07:58,166
+在此阶段获得能量的最佳方法
+
+535
+00:07:58,166 --> 00:08:01,266
+是收集整个恒星发出的所有能量
+
+536
+00:08:01,266 --> 00:08:03,833
+通过在它周围建造一个戴森球
+
+537
+00:08:04,000 --> 00:08:08,000
+在昂贵的结构方块制作的同时
+
+538
+00:08:08,000 --> 00:08:14,200
+我们给将不断送入太空的模块的套娃合成自动化
+
+539
+00:08:14,200 --> 00:08:16,700
+主要问题是两种材料
+
+540
+00:08:16,700 --> 00:08:18,633
+这并不容易获得
+
+541
+00:08:18,833 --> 00:08:19,900
+
+为了获得它们
+
+
+542
+00:08:19,900 --> 00:08:21,666
+我们可以绑架几个怪
+
+543
+00:08:21,666 --> 00:08:24,333
+从他们的克隆体中得到一些盔甲
+
+544
+00:08:24,333 --> 00:08:24,833
+然而
+
+545
+00:08:24,833 --> 00:08:26,766
+一些掉落的盔甲损坏了
+
+546
+00:08:26,766 --> 00:08:31,400
+我们的粉碎机不喜欢回收旧物品
+
+547
+00:08:31,500 --> 00:08:34,200
+所以为了让它接受这些物品
+
+548
+00:08:34,200 --> 00:08:37,600
+我们首先得用能量注入器修复它们
+
+549
+00:08:37,766 --> 00:08:39,900
+一旦我们整理好衣柜
+
+550
+00:08:39,900 --> 00:08:43,233
+我们把它送入工业粉碎机
+
+551
+00:08:43,366 --> 00:08:44,366
+有了这个
+
+552
+00:08:44,366 --> 00:08:46,633
+对于即将到来的戴森球
+
+553
+00:08:46,633 --> 00:08:48,666
+我们可以开始储备模块了
+
+554
+00:08:48,833 --> 00:08:49,633
+同时
+
+555
+00:08:49,633 --> 00:08:53,033
+戴森球的结构方块并没有被正确制造
+
+556
+00:08:53,233 --> 00:08:55,266
+粗制超立方体并没有在制作
+
+557
+00:08:55,300 --> 00:08:57,500
+而且我们的DTPF也停止工作了
+
+558
+00:08:57,666 --> 00:09:00,500
+问题似乎是燃料用完了
+
+559
+00:09:00,800 --> 00:09:04,466
+我们的燃料工厂确实不够快
+
+560
+00:09:04,600 --> 00:09:09,466
+该配方在UHV下的基础制作时间大概是1小时
+
+561
+00:09:09,633 --> 00:09:12,366
+
+不止一步，好几步都这样
+
+
+562
+00:09:12,366 --> 00:09:13,800
+
+为了解决这个问题
+
+
+563
+00:09:13,800 --> 00:09:16,033
+我们可以推出等离子搅拌机了
+
+564
+00:09:16,166 --> 00:09:20,900
+它可以并行地在五秒内完成所有配方
+
+565
+00:09:21,066 --> 00:09:24,433
+但耗电量没有折扣
+
+566
+00:09:24,700 --> 00:09:27,400
+确实，这台机器是如此耗电
+
+567
+00:09:27,400 --> 00:09:29,900
+没有电缆或激光可以为它供电
+
+568
+00:09:30,233 --> 00:09:32,033
+那么我们如何让它运行呢？
+
+569
+00:09:32,233 --> 00:09:32,766
+实际上
+
+570
+00:09:32,766 --> 00:09:35,766
+我们可以从无线网络中为它提供能量
+
+571
+00:09:36,066 --> 00:09:37,566
+这是一个虚拟电网
+
+572
+00:09:37,566 --> 00:09:39,766
+具有几乎无限的功率容量
+
+573
+00:09:39,766 --> 00:09:43,900
+能够与高级电容交换电量
+
+574
+00:09:44,100 --> 00:09:47,433
+一旦能量与无线电网重新平衡
+
+575
+00:09:47,433 --> 00:09:49,100
+搅拌机便可以使用了
+
+576
+00:09:49,400 --> 00:09:51,566
+但这并没有真正解决问题
+
+577
+00:09:51,566 --> 00:09:54,500
+
+我们只是把问题转移到了聚变反应堆上
+
+
+578
+00:09:54,666 --> 00:09:57,400
+而它们生产等离子的速度跟不上了
+
+579
+00:09:57,800 --> 00:10:00,400
+这不是唯一的核聚变问题
+
+580
+00:10:00,566 --> 00:10:04,166
+我们也遇到了亚稳态鿫的生产问题
+
+581
+00:10:04,166 --> 00:10:07,400
+它们由小MK4反应堆制作的
+
+582
+00:10:07,600 --> 00:10:09,266
+为解决这些问题
+
+583
+00:10:09,266 --> 00:10:11,833
+我们应该做一个压缩聚变MK4
+
+584
+00:10:12,200 --> 00:10:14,400
+它拥有更高的并行
+
+585
+00:10:14,400 --> 00:10:16,233
+不同于前者
+
+586
+00:10:16,233 --> 00:10:17,966
+它能执行无损超频
+
+587
+00:10:18,000 --> 00:10:23,700
+在t1配方上，压聚4将比压聚3快16倍
+
+588
+00:10:24,033 --> 00:10:24,966
+要制作它
+
+589
+00:10:24,966 --> 00:10:28,033
+我们只缺铂金和一种塑料
+
+590
+00:10:28,066 --> 00:10:30,500
+这些问题的常规解法
+
+591
+00:10:30,500 --> 00:10:32,766
+是升级对应的缓存
+
+592
+00:10:32,766 --> 00:10:35,266
+或者是找到产线中的瓶颈
+
+593
+00:10:35,266 --> 00:10:36,466
+并加快速度
+
+594
+00:10:36,766 --> 00:10:37,166
+然而
+
+595
+00:10:37,166 --> 00:10:40,033
+这是一项已变得难以管理的任务
+
+596
+00:10:40,033 --> 00:10:41,966
+并且开始导致卡顿
+
+597
+00:10:42,233 --> 00:10:44,366
+我们现在有一个更好的解决方案
+
+598
+00:10:44,366 --> 00:10:47,166
+来处理那些前期的长产线
+
+599
+00:10:47,233 --> 00:10:48,900
+量子操纵者
+
+600
+00:10:48,900 --> 00:10:51,666
+它可以一步完成整条铂处理
+
+601
+00:10:51,666 --> 00:10:54,766
+可以轻松超频和并行
+
+602
+00:10:54,833 --> 00:10:58,633
+我们再也不用处理这些流体了
+
+603
+00:10:58,633 --> 00:10:59,633
+对于塑料
+
+604
+00:10:59,633 --> 00:11:02,800
+一次性不会只制作聚苯并咪唑
+
+605
+00:11:02,966 --> 00:11:06,900
+它也会同时做所有其他更简单的聚合物
+
+606
+00:11:06,966 --> 00:11:08,966
+这就是我们的新机器
+
+607
+00:11:08,966 --> 00:11:11,833
+一步就能产出大量塑料
+
+608
+00:11:11,966 --> 00:11:14,100
+当我们的塑料在囤积
+
+609
+00:11:14,100 --> 00:11:17,400
+我们可以制造第二台加工铂金的机器
+
+610
+00:11:17,700 --> 00:11:19,866
+由于这台机器速度非常快
+
+611
+00:11:19,866 --> 00:11:22,566
+即使催化剂很少、耗能很低
+
+612
+00:11:22,566 --> 00:11:24,766
+我们可以清理旧产线了
+
+613
+00:11:25,100 --> 00:11:25,966
+同时
+
+614
+00:11:25,966 --> 00:11:30,800
+我们已经收集到新聚变反应堆所需的所有材料
+
+615
+00:11:30,966 --> 00:11:34,833
+在建造更多机器来处理所有东西之后
+
+616
+00:11:34,833 --> 00:11:37,200
+我们完成了新的反应堆
+
+617
+00:11:37,400 --> 00:11:39,000
+这个反应堆可太快了
+
+618
+00:11:39,000 --> 00:11:41,866
+瓶颈现在已经是搅拌机了
+
+619
+00:11:42,066 --> 00:11:43,866
+但我们可以快速解决这个问题
+
+620
+00:11:43,866 --> 00:11:46,066
+通过增加其最大并行
+
+621
+00:11:46,066 --> 00:11:48,200
+让其使用我们所有的电力
+
+622
+00:11:48,533 --> 00:11:50,866
+当搅拌机等待剩余能量
+
+623
+00:11:50,866 --> 00:11:53,033
+被发送进无线网络时
+
+624
+00:11:53,033 --> 00:11:55,033
+我们可以制造更多的机器
+
+625
+00:11:55,033 --> 00:11:58,033
+加快戴森球的制作速度
+
+626
+00:11:58,366 --> 00:12:00,833
+通过使用植物魔法中的洛基戒指
+
+627
+00:12:00,833 --> 00:12:04,066
+我们甚至可以并行制造机器
+
+628
+00:12:04,300 --> 00:12:06,666
+有了这些新机器
+
+629
+00:12:06,666 --> 00:12:10,266
+我们很快就完成了新能源的所有部分
+
+630
+00:12:10,266 --> 00:12:11,633
+戴森球
+
+631
+00:12:11,800 --> 00:12:13,200
+
+这个结构的问题是
+
+
+632
+00:12:13,200 --> 00:12:15,700
+我们用来包裹恒星的模块
+
+633
+00:12:15,700 --> 00:12:17,966
+最终会滑行，从而破裂
+
+634
+00:12:18,066 --> 00:12:20,566
+所以我们必须不断地发射新模块
+
+635
+00:12:20,566 --> 00:12:24,666
+和更多算力来更好地计算模块轨迹
+
+636
+00:12:24,666 --> 00:12:27,000
+降低所需的替代品
+
+637
+00:12:27,233 --> 00:12:30,266
+要把所有的能量转移回基地
+
+638
+00:12:30,266 --> 00:12:33,000
+我们可以再制造一个真·终极电池
+
+639
+00:12:33,000 --> 00:12:36,166
+但我觉得虫洞发生器听起来更酷
+
+640
+00:12:36,433 --> 00:12:38,400
+这样我们就有了足够的能量
+
+641
+00:12:38,400 --> 00:12:41,000
+进一步加快海珀珍的生产
+
+642
+00:12:41,266 --> 00:12:44,166
+有了40000A的UHV电
+
+643
+00:12:44,166 --> 00:12:48,066
+产量从每秒半个锭上升至超过两个锭
+
+644
+00:12:48,300 --> 00:12:51,233
+为了进一步提高DTPF产能
+
+645
+00:12:51,233 --> 00:12:54,766
+
+我们用海珀珍来增加DTPF的数量
+
+
+646
+00:12:55,033 --> 00:12:58,566
+即使在该功率下运行4个DTPF
+
+647
+00:12:58,566 --> 00:13:02,500
+每秒时空产量也不到一个锭
+
+648
+00:13:02,600 --> 00:13:05,700
+但是如果我们能得到永恒线圈
+
+649
+00:13:05,700 --> 00:13:11,400
+我们可以用不到一半的原料做四倍的量
+
+650
+00:13:11,566 --> 00:13:14,033
+主要问题是永恒线圈
+
+651
+00:13:14,033 --> 00:13:16,433
+除了需要相当多的时空
+
+652
+00:13:16,433 --> 00:13:17,966
+和UIV电路
+
+653
+00:13:17,966 --> 00:13:20,766
+也需要一个永恒奇点
+
+654
+00:13:20,833 --> 00:13:22,600
+做这些东西很贵
+
+655
+00:13:22,600 --> 00:13:24,500
+而且还需要一些东西
+
+656
+00:13:24,500 --> 00:13:27,700
+比如我们还没有真正自动化的灵魂沙
+
+657
+00:13:28,100 --> 00:13:31,466
+只用几块灵魂沙做一个奇点
+
+658
+00:13:31,466 --> 00:13:32,466
+是完全可以接受的
+
+659
+00:13:32,466 --> 00:13:34,800
+现在我们必须找到更好的方法
+
+660
+00:13:35,000 --> 00:13:38,666
+我认为最好的方法是完全不使用灵魂沙
+
+661
+00:13:38,666 --> 00:13:43,200
+我们可以通过压缩一点时空得到奇点
+
+662
+00:13:43,200 --> 00:13:43,700
+然而
+
+663
+00:13:43,700 --> 00:13:46,300
+这需要一个稳定的黑洞
+
+664
+00:13:46,300 --> 00:13:49,166
+这又是一条不归路
+
+665
+00:13:49,366 --> 00:13:51,466
+我认为这是一个很好的时机……
+
+666
+00:13:51,466 --> 00:13:52,600
+来开始研究它
+
+667
+00:13:52,600 --> 00:13:55,666
+因为这是当前电压的最后一个主要任务
+
+668
+00:13:55,866 --> 00:13:59,033
+所以在处理了数百万个铁粉后
+
+669
+00:13:59,033 --> 00:14:00,600
+我们建立了一个结构
+
+670
+00:14:00,600 --> 00:14:03,600
+强大到足以支撑和容纳黑洞
+
+671
+00:14:03,766 --> 00:14:06,833
+这台机器有一些特殊要求
+
+672
+00:14:06,966 --> 00:14:07,266
+第一
+
+673
+00:14:07,266 --> 00:14:10,200
+我们需要黑洞种子来打开黑洞
+
+674
+00:14:10,200 --> 00:14:12,033
+这样我们就可以压缩东西了
+
+675
+00:14:12,100 --> 00:14:15,066
+一旦黑洞变得不稳定
+
+676
+00:14:15,066 --> 00:14:16,800
+我们用黑洞坍缩器来关闭它
+
+677
+00:14:17,300 --> 00:14:19,766
+所以一旦一切准备就绪
+
+678
+00:14:19,766 --> 00:14:22,166
+我们可以把黑洞种子扔进机器里
+
+679
+00:14:22,166 --> 00:14:23,833
+欣赏我们所创造的东西
+
+680
+00:14:24,300 --> 00:14:27,566
+我们用它来制造永恒奇点
+
+681
+00:14:28,200 --> 00:14:31,400
+然而我们的黑洞将慢慢衰变
+
+682
+00:14:31,400 --> 00:14:33,966
+
+逐渐无法继续生产
+
+
+683
+00:14:34,100 --> 00:14:35,500
+在那种状态下
+
+684
+00:14:35,500 --> 00:14:38,433
+它会吞噬我们的材料
+
+685
+00:14:38,466 --> 00:14:41,466
+所以我们让它坍缩来重置机器
+
+686
+00:14:41,633 --> 00:14:45,000
+现在是时候完全自动化这个过程了
+
+687
+00:14:45,300 --> 00:14:47,200
+在做了一点数学运算之后
+
+688
+00:14:47,200 --> 00:14:48,400
+我们发现
+
+689
+00:14:48,400 --> 00:14:51,200
+通过添加一些额外的稳定剂
+
+690
+00:14:51,200 --> 00:14:56,500
+我们可以用一个黑洞制造出2800个奇点
+
+691
+00:14:56,500 --> 00:14:59,600
+所以我们快速编写一个样板
+
+692
+00:14:59,600 --> 00:15:02,300
+包含了所有需要的东西
+
+693
+00:15:02,666 --> 00:15:04,000
+材料将被拆分
+
+694
+00:15:04,000 --> 00:15:07,600
+这样一组计时器就能妥善管理黑洞
+
+695
+00:15:07,833 --> 00:15:12,266
+第一个是让黑洞接近其寿命的终点
+
+696
+00:15:12,466 --> 00:15:13,900
+在此阶段
+
+697
+00:15:13,900 --> 00:15:18,233
+黑洞可以让我们一次产生88个奇点
+
+698
+00:15:18,566 --> 00:15:19,200
+然后
+
+699
+00:15:19,200 --> 00:15:21,000
+就在临界点之前
+
+700
+00:15:21,000 --> 00:15:23,233
+计时器将触发第二个计时器
+
+701
+00:15:23,233 --> 00:15:28,400
+它将通过在黑洞中插入熔融时空来阻止黑洞的衰变
+
+702
+00:15:28,800 --> 00:15:31,400
+材料成本指数增长
+
+703
+00:15:31,400 --> 00:15:31,633
+所以
+
+704
+00:15:31,633 --> 00:15:35,033
+我们不想让这个过程持续太久
+
+705
+00:15:35,033 --> 00:15:36,633
+而在这个阶段
+
+706
+00:15:36,633 --> 00:15:41,866
+我们的黑洞将一次压缩350个物品
+
+707
+00:15:42,666 --> 00:15:46,033
+一旦稳定器成本过高
+
+708
+00:15:46,033 --> 00:15:47,600
+我们就把黑洞坍塌
+
+709
+00:15:48,100 --> 00:15:50,633
+现在我们有足够的奇点了
+
+710
+00:15:50,633 --> 00:15:54,200
+我们可以开始研究最后一级线圈了
+
+711
+00:15:54,600 --> 00:15:57,500
+这要求我们建造一套新的固化器
+
+712
+00:15:57,500 --> 00:15:59,966
+来获得所有的锭和螺丝
+
+713
+00:16:00,266 --> 00:16:03,600
+然后我们的线缆厂准备好了电缆
+
+714
+00:16:03,900 --> 00:16:08,100
+最后是我们所有的14条通用装配线
+
+715
+00:16:08,100 --> 00:16:10,633
+我们慢慢制作新的线圈
+
+716
+00:16:10,800 --> 00:16:15,666
+当我们制作DTPF升级所需的7000个线圈时
+
+717
+00:16:15,666 --> 00:16:20,166
+我们也可以利用奇点来升级矿处
+
+718
+00:16:20,433 --> 00:16:23,300
+问题是我们不能让矿处运转
+
+719
+00:16:23,300 --> 00:16:26,266
+因为它会很快塞满存储元件
+
+720
+00:16:26,466 --> 00:16:29,200
+但现在我们可以负担得起更好的存储
+
+721
+00:16:29,500 --> 00:16:35,433
+我们将用它来储存产线中出产的近乎无穷的物品
+
+722
+00:16:35,700 --> 00:16:36,433
+同时
+
+723
+00:16:36,433 --> 00:16:38,766
+修好AFK计时器后
+
+724
+00:16:38,766 --> 00:16:42,700
+我们储备了足够的线圈来升级DTPF
+
+725
+00:16:42,833 --> 00:16:43,500
+用那些
+
+726
+00:16:43,500 --> 00:16:45,866
+我们现在可以制造更便宜的时空
+
+727
+00:16:45,866 --> 00:16:47,200
+廉价的海珀珍
+
+728
+00:16:47,266 --> 00:16:49,966
+从单一催化剂中取出一堆无尽
+
+729
+00:16:49,966 --> 00:16:52,166
+以及许多其他后期游戏配方
+
+730
+00:16:52,166 --> 00:16:53,200
+有了这个
+
+731
+00:16:53,200 --> 00:16:55,900
+我想我们可以结束这一章了
+
+732
+00:16:55,933 --> 00:16:59,000
+那么今天的教训是什么？
+
+733
+00:16:59,000 --> 00:17:01,833
+聚变反应堆应该造在隧道中
+
+734
+00:17:01,833 --> 00:17:03,266
+这可太好看了
+
+735
+00:17:03,400 --> 00:17:06,666
+下次见就会见到更多更大的多方块了
+
+736
+00:17:06,800 --> 00:17:07,666
+拜拜
+
+737
+00:01:42,366 --> 00:01:47,066
+（由于强相互作用的性质，实际上夸克是禁闭的，也就是无法分离出单个夸克）
+
+738
+00:03:02,666 --> 00:03:06,566
+（stonk是外网对stock的戏称）
+
+739
+00:04:18,300 --> 00:04:20,100
+（you know the drill 是双关：
+常规用法 ： 你知道规矩 / 老套路了吧
+字面意思 ： 钻头）
+

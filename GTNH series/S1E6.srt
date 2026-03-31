@@ -1,0 +1,1294 @@
+1
+00:00:00,300 --> 00:00:01,933
+welcome back everyone
+
+2
+00:00:02,333 --> 00:00:04,633
+today with the help of gigachad
+
+3
+00:00:04,800 --> 00:00:07,100
+we are going to make an eye of Harmony
+
+4
+00:00:07,666 --> 00:00:12,466
+Eye of harmony is one quite complex and expensive endgame multi block
+
+5
+00:00:12,466 --> 00:00:16,533
+which is required for making UXV parts and progress further
+
+6
+00:00:16,933 --> 00:00:21,500
+the first thing we are going to do with it is condensed raw stellar plasma mixture
+
+7
+00:00:21,500 --> 00:00:26,700
+
+which is used for making magnetohydrodynamical constrained star matter
+
+
+8
+00:00:27,500 --> 00:00:30,200
+which is used in every UXV item
+
+9
+00:00:30,733 --> 00:00:34,266
+however making such machine is no easy task
+
+10
+00:00:34,266 --> 00:00:39,433
+here you can see just a few of the crafting step of just a few of its structure
+
+11
+00:00:39,500 --> 00:00:42,466
+and we also had to expand our crypto farm
+
+12
+00:00:42,466 --> 00:00:44,933
+and the power capacity of our research station
+
+13
+00:00:44,933 --> 00:00:47,200
+for researching such machinery
+
+14
+00:00:47,300 --> 00:00:49,233
+but this was still not enough
+
+15
+00:00:49,466 --> 00:00:53,933
+we had to tweak almost every part of our base to handle such task
+
+16
+00:00:53,933 --> 00:00:57,300
+and we moved to wireless energy almost everywhere
+
+17
+00:00:57,666 --> 00:01:01,100
+we upgraded multiple times our circuitry setups
+
+18
+00:01:02,400 --> 00:01:06,266
+we had to find and work around different kinds of bottlenecks
+
+19
+00:01:06,433 --> 00:01:10,200
+and we reached really high circuit production speeds
+
+20
+00:01:10,466 --> 00:01:12,866
+we built some more space elevators
+
+21
+00:01:12,866 --> 00:01:17,266
+for all the required materials and space processing required
+
+22
+00:01:17,333 --> 00:01:20,400
+we did some tinkering with our new computers
+
+23
+00:01:20,866 --> 00:01:23,200
+to lose less Dyson modules
+
+24
+00:01:23,600 --> 00:01:26,133
+and made a few more Dyson spheres
+
+25
+00:01:26,733 --> 00:01:29,333
+we unlocked the glowing fusion reactors
+
+26
+00:01:30,266 --> 00:01:34,133
+and also added some glitter to the mega blast furnaces
+
+27
+00:01:35,033 --> 00:01:38,133
+and we must not forget about our nanites production
+
+28
+00:01:38,133 --> 00:01:40,133
+let's have more nano forges
+
+29
+00:01:40,800 --> 00:01:44,066
+anyways now that the preparations are ready
+
+30
+00:01:44,100 --> 00:01:46,933
+it's time to start working on that beast
+
+31
+00:01:47,333 --> 00:01:48,600
+as you can see
+
+32
+00:01:48,600 --> 00:01:52,666
+its structure requires a lot of slow assembly line recipes
+
+33
+00:01:54,466 --> 00:01:58,233
+and thus we have started making more assembly lines
+
+34
+00:02:00,600 --> 00:02:02,800
+and we finally have completed it
+
+35
+00:02:03,100 --> 00:02:06,600
+this may not look that big when compared to other multi blocks
+
+36
+00:02:06,600 --> 00:02:10,400
+but if we get close and go inside it
+
+37
+00:02:10,400 --> 00:02:15,300
+we can realize it contains a pocket of space time large enough to fit a planet
+
+38
+00:02:15,933 --> 00:02:17,700
+however fear not
+
+39
+00:02:17,933 --> 00:02:23,133
+
+this multi-block is compliant with Time Lords' regulations and certifications
+
+
+40
+00:02:24,500 --> 00:02:29,300
+the thing we should be worrying about is the astounding amount of stuff it can output
+
+41
+00:02:30,466 --> 00:02:33,633
+and since this one has been overclocked too much
+
+42
+00:02:33,633 --> 00:02:35,466
+we now have two issues
+
+43
+00:02:36,000 --> 00:02:39,466
+as you can see we have a lot of buffered resources
+
+44
+00:02:39,633 --> 00:02:41,233
+too many resources
+
+45
+00:02:42,300 --> 00:02:47,500
+and the reason why these are not being taken is because we clogged our AE2 system
+
+46
+00:02:47,933 --> 00:02:52,200
+normal disks can only contain up to 140 million items
+
+47
+00:02:52,200 --> 00:02:56,833
+and the output bus seems to not like outputting into quantum chests
+
+48
+00:02:57,266 --> 00:03:01,500
+and thus we had to start using digital singularity cells
+
+49
+00:03:02,100 --> 00:03:04,433
+and so we are stocking up items
+
+50
+00:03:05,066 --> 00:03:07,333
+the second issue is the power eating
+
+51
+00:03:08,300 --> 00:03:12,733
+we have been forced into turning on out backup generator
+
+52
+00:03:12,733 --> 00:03:18,000
+and even though the first time the issue was just the excessive overclock amount
+
+53
+00:03:18,000 --> 00:03:22,633
+we still wanted to make sure we could safely afford a second eye of harmony
+
+54
+00:03:22,633 --> 00:03:25,333
+so we made a few more Dyson Spheres
+
+55
+00:03:26,066 --> 00:03:28,266
+and here we have the second eye
+
+56
+00:03:29,833 --> 00:03:34,100
+this time the structure has been built to support tier 4 planets
+
+57
+00:03:34,100 --> 00:03:36,866
+so that we can produce black dwarf matter
+
+58
+00:03:37,933 --> 00:03:42,000
+this time we also had to do some more tinkering with the fluids
+
+59
+00:03:43,633 --> 00:03:47,400
+the next tiers of eye of harmony are going to take a lot of time
+
+60
+00:03:47,433 --> 00:03:51,300
+so let's use this time to do some cleaning of our base
+
+61
+00:04:41,000 --> 00:04:42,266
+and in that time
+
+62
+00:04:42,300 --> 00:04:45,033
+we have managed to build a 7th tier of eye
+
+63
+00:04:45,800 --> 00:04:49,266
+which now contains one whole solar system
+
+64
+00:04:49,533 --> 00:04:52,333
+and it can produce molten universium
+
+65
+00:04:53,033 --> 00:04:56,400
+which is one of the components of UXV parts
+
+66
+00:04:57,100 --> 00:05:02,333
+the other component is the magneto hydrodynamical constrained star matter parts
+
+67
+00:05:02,333 --> 00:05:07,133
+which are made in an implosion compressor with weird things like an hologram projector
+
+68
+00:05:07,666 --> 00:05:09,433
+but before that
+
+69
+00:05:09,433 --> 00:05:12,300
+let's unlock the last tier of eye of harmony
+
+70
+00:05:12,300 --> 00:05:14,333
+the research is going super fast
+
+71
+00:05:14,333 --> 00:05:19,700
+thanks both to the video speed up and our new Accelerated Processing units
+
+72
+00:05:20,500 --> 00:05:22,900
+and after one more fix
+
+73
+00:05:24,333 --> 00:05:30,066
+we have finally managed to serialize the block for the most powerful version of eye of harmony
+
+74
+00:05:30,666 --> 00:05:34,000
+it might looks like this crafting is going super fast
+
+75
+00:05:34,000 --> 00:05:36,700
+and that's because we have done a lot of overclocks
+
+76
+00:05:36,700 --> 00:05:40,400
+other than the 16x bonus of the parallelization
+
+77
+00:05:41,266 --> 00:05:45,300
+however, we run out of universium for completing the project
+
+78
+00:05:46,533 --> 00:05:49,266
+and making more takes either a lot of time
+
+79
+00:05:50,033 --> 00:05:51,300
+or a lot of energy
+
+80
+00:05:51,633 --> 00:05:57,033
+so the way to make that recipe feasible is to reduce the overclocking settings
+
+81
+00:05:57,533 --> 00:06:00,966
+and replace the time dilatation fields generators
+
+82
+00:06:00,966 --> 00:06:06,433
+that will decrease the time taken by magnitudes at the cost of success chance
+
+83
+00:06:07,400 --> 00:06:10,666
+and thus we are capable of producing some universium
+
+84
+00:06:10,733 --> 00:06:14,800
+however we only succeed once every four times
+
+85
+00:06:15,200 --> 00:06:19,266
+so we are going to make some stabilization field generators
+
+86
+00:06:19,733 --> 00:06:23,733
+these will increase the odds and the energy output at the cost of yield
+
+87
+00:06:24,833 --> 00:06:27,666
+and it was then that we run into an old issue
+
+88
+00:06:28,433 --> 00:06:31,233
+our ae2 system is clogged again
+
+89
+00:06:31,866 --> 00:06:35,333
+so we made even more singularity storage cells
+
+90
+00:06:35,333 --> 00:06:38,500
+these are the only way to manage an eye of harmony
+
+91
+00:06:39,133 --> 00:06:42,433
+and thanks to the new field generators
+
+92
+00:06:42,433 --> 00:06:46,233
+we have finally managed to make a power positive eye of harmony
+
+93
+00:06:46,233 --> 00:06:48,633
+which also produces resources
+
+94
+00:06:49,633 --> 00:06:51,433
+now that we have universium
+
+95
+00:06:51,466 --> 00:06:56,400
+we can finally craft the last tier of field generators - Gallifreyan
+
+96
+00:06:57,700 --> 00:07:00,633
+so that we can finally harness the deep dark
+
+97
+00:07:01,433 --> 00:07:03,033
+and this is the result
+
+98
+00:07:03,433 --> 00:07:06,200
+we now have 10 planets spinning inside
+
+99
+00:07:06,633 --> 00:07:08,666
+and with 8 overclocks
+
+100
+00:07:09,133 --> 00:07:13,866
+it takes 90 seconds and 61 teraEU per tick
+
+101
+00:07:13,866 --> 00:07:19,100
+to make an average of 13,000 molten universium
+
+102
+00:07:19,933 --> 00:07:22,466
+or 2 petaEU for instant
+
+103
+00:07:24,400 --> 00:07:31,500
+next we made a 2700 million CPU to craft the Gallifreyan stabilization fields
+
+104
+00:07:33,533 --> 00:07:37,533
+meanwhile we run out of space and energy again
+
+105
+00:07:38,466 --> 00:07:41,400
+but fear not that was for a good cause
+
+106
+00:07:41,400 --> 00:07:48,533
+since we managed to finally make one eye of harmony which makes power and also resources at the same time
+
+107
+00:07:48,933 --> 00:07:51,066
+we get our cake and to eat it too
+
+108
+00:07:52,066 --> 00:07:58,533
+next we swiftly craft each UXV part to have access to every part that can currently be crafted
+
+109
+00:07:59,900 --> 00:08:02,133
+now that we have unlocked everything
+
+110
+00:08:02,133 --> 00:08:06,200
+it is time to finally start working on the final destination
+
+111
+00:08:06,833 --> 00:08:09,300
+for the quest, we need just one plate
+
+112
+00:08:09,300 --> 00:08:11,400
+but we are going to need way more
+
+113
+00:08:12,233 --> 00:08:14,266
+and just by looking at the recipe
+
+114
+00:08:14,266 --> 00:08:18,533
+we start to realize that we might need to do some more preparations
+
+115
+00:08:19,866 --> 00:08:24,333
+still let's start working on it just to see how it goes
+
+116
+00:08:25,133 --> 00:08:27,666
+the first thing is going to be the research
+
+117
+00:08:29,066 --> 00:08:31,633
+and since this will take some time
+
+118
+00:08:31,633 --> 00:08:36,500
+let's see how ae2 handles the materials for the actual crafting
+
+119
+00:08:37,466 --> 00:08:40,733
+it looks like we have everything required for the task
+
+120
+00:08:40,733 --> 00:08:45,433
+however with the current state of our factory that would take way too long
+
+121
+00:08:46,066 --> 00:08:49,400
+so instead of slowly building one piece
+
+122
+00:08:49,400 --> 00:08:53,200
+we shall not do that, and focus on first improving our base
+
+123
+00:08:53,233 --> 00:08:54,833
+we have not enough machines
+
+124
+00:08:54,833 --> 00:08:58,200
+and they are too much mixed around and on various tiers
+
+125
+00:08:58,200 --> 00:09:01,200
+we want to have them all sorted out and at the max tier
+
+126
+00:09:01,266 --> 00:09:03,700
+so let's do some tidying
+
+127
+00:09:53,633 --> 00:09:56,300
+and now we can do our first test run
+
+128
+00:09:56,833 --> 00:09:59,466
+and once all the parts are ready
+
+129
+00:09:59,500 --> 00:10:02,900
+we can start the dedicated advanced assembly line
+
+130
+00:10:03,233 --> 00:10:08,500
+we are going to use the first plate we made to research the next part we are going to need
+
+131
+00:10:08,600 --> 00:10:10,733
+and after a lot of time
+
+132
+00:10:10,733 --> 00:10:13,000
+we have the next recipe unlocked
+
+133
+00:10:13,800 --> 00:10:16,533
+however our base is still not ready
+
+134
+00:10:16,600 --> 00:10:20,233
+since we drained all of our energy just for this test run
+
+135
+00:10:21,566 --> 00:10:24,033
+so we added a bunch more of them
+
+136
+00:10:24,700 --> 00:10:27,466
+and now we have a positive energy production
+
+137
+00:10:27,933 --> 00:10:32,233
+all we have to do now is make circuits in bulks of 1 million
+
+138
+00:10:32,233 --> 00:10:35,466
+then we do a bunch more of craftings with ae2
+
+139
+00:10:36,200 --> 00:10:39,000
+we do some occasional debugging and plumbing
+
+140
+00:10:39,066 --> 00:10:45,233
+such as the dtpf getting stuck due to reaching the limit of catalyst accumulated by the discounts
+
+141
+00:10:45,800 --> 00:10:49,400
+and once everything is working nicely and fine
+
+142
+00:10:49,400 --> 00:10:51,300
+after some AFK time
+
+143
+00:10:51,300 --> 00:10:54,066
+we can manually craft the Stargate base
+
+144
+00:10:54,266 --> 00:10:57,400
+we do that manually to increase the value of the block
+
+145
+00:10:57,600 --> 00:11:01,533
+who wants an artifact such as that to be made in an industrial way
+
+146
+00:11:02,100 --> 00:11:05,666
+I'm not going to show you all the crazy work that ae2 did
+
+147
+00:11:05,666 --> 00:11:08,000
+but that's the leftovers
+
+148
+00:11:08,933 --> 00:11:11,933
+and after about 4 months of AFK
+
+149
+00:11:11,933 --> 00:11:14,900
+we have finally managed to get the last part
+
+150
+00:11:16,333 --> 00:11:21,800
+now we can finally claim the reward for the highest task one can do in this pack
+
+151
+00:11:21,800 --> 00:11:24,333
+4 iron ingots and 3 sticks
+
+152
+00:11:24,833 --> 00:11:28,466
+the only task left to do is to find out how to assemble it
+
+153
+00:11:28,466 --> 00:11:31,500
+since there isn't much documentation on it
+
+154
+00:11:31,633 --> 00:11:36,233
+and after many trials, we managed to make it work finally
+
+155
+00:11:36,300 --> 00:11:41,066
+and it turns out that with only one Stargate we are going nowhere
+
+156
+00:11:41,066 --> 00:11:42,866
+time to get back to work
+
+157
+00:00:00,300 --> 00:00:01,933
+欢迎回来，各位
+
+158
+00:00:02,333 --> 00:00:04,633
+今天在gigachad的帮助下
+
+159
+00:00:04,800 --> 00:00:07,100
+我们要做鸿蒙之眼
+
+160
+00:00:07,666 --> 00:00:12,466
+鸿蒙之眼是一个相当复杂和昂贵的大后期多方块
+
+161
+00:00:12,466 --> 00:00:16,533
+而它是制造UXV部件和进一步发展所必需的
+
+162
+00:00:16,933 --> 00:00:21,500
+我们要做的第一件东西是浓缩原始恒星等离子体混合物
+
+163
+00:00:21,500 --> 00:00:26,700
+用于制造磁流体约束恒星物质
+
+164
+00:00:27,500 --> 00:00:30,200
+它将用于每个UXV物品的制造
+
+165
+00:00:30,733 --> 00:00:34,266
+然而制造这样的机器并非易事
+
+166
+00:00:34,266 --> 00:00:39,433
+
+你欣赏一下它的几个结构方块的制作步骤
+
+
+167
+00:00:39,500 --> 00:00:42,466
+我们还必须升级算力
+
+168
+00:00:42,466 --> 00:00:44,933
+以及研究站的发电能力
+
+169
+00:00:44,933 --> 00:00:47,200
+才能研究这种机器
+
+170
+00:00:47,300 --> 00:00:49,233
+但这还不够
+
+171
+00:00:49,466 --> 00:00:53,933
+我们不得不调整基地几乎
+每一个部分来处理这样的任务
+
+172
+00:00:53,933 --> 00:00:57,300
+
+我们几乎给所有机器用上了无线能源
+ 
+
+173
+00:00:57,666 --> 00:01:01,100
+我们多次升级电路板自动化
+
+174
+00:01:02,400 --> 00:01:06,266
+
+我们发现各种瓶颈问题，解决它们
+
+
+175
+00:01:06,433 --> 00:01:10,200
+我们达到了很高的电路生产速度
+
+176
+00:01:10,466 --> 00:01:12,866
+我们又造了一些太空电梯
+
+177
+00:01:12,866 --> 00:01:17,266
+用于所有所需的材料和太空处理
+
+178
+00:01:17,333 --> 00:01:20,400
+我们对新电脑做了些修补
+
+179
+00:01:20,866 --> 00:01:23,200
+以损失更少的戴森模块
+
+180
+00:01:23,600 --> 00:01:26,133
+并多做了几个戴森球
+
+181
+00:01:26,733 --> 00:01:29,333
+我们解锁了发光的聚变反应堆
+
+182
+00:01:30,266 --> 00:01:34,133
+并在巨高炉中添加了一些闪光
+
+183
+00:01:35,033 --> 00:01:38,133
+
+纳米蜂群的生产也不能忘
+
+
+184
+00:01:38,133 --> 00:01:40,133
+让我们造更多的纳米锻炉
+
+185
+00:01:40,800 --> 00:01:44,066
+不管怎样，现在准备工作已经好了
+
+186
+00:01:44,100 --> 00:01:46,933
+是时候开始对付那只野兽了
+
+187
+00:01:47,333 --> 00:01:48,600
+如你所见
+
+188
+00:01:48,600 --> 00:01:52,666
+它的结构需要很多缓慢的装配线配方
+
+189
+00:01:54,466 --> 00:01:58,233
+因此我们开始制造更多的装配线
+
+190
+00:02:00,600 --> 00:02:02,800
+我们终于完成了它
+
+191
+00:02:03,100 --> 00:02:06,600
+与其他多方块相比，这可能看起来没那么大
+
+192
+00:02:06,600 --> 00:02:10,400
+但如果我们飞进去
+
+193
+00:02:10,400 --> 00:02:15,300
+我们意识到它能装下一整颗行星
+
+194
+00:02:15,933 --> 00:02:17,700
+但不要害怕
+
+195
+00:02:17,933 --> 00:02:23,133
+
+此多方块符合时间领主的规定和认证
+
+
+196
+00:02:24,500 --> 00:02:29,300
+我们应该担心的是
+它输出的惊人数量的东西
+
+197
+00:02:30,466 --> 00:02:33,633
+由于它超频了太多
+
+198
+00:02:33,633 --> 00:02:35,466
+我们现在有两个问题
+
+199
+00:02:36,000 --> 00:02:39,466
+如你所见，它缓存了很多东西
+
+200
+00:02:39,633 --> 00:02:41,233
+过于多的东西
+
+201
+00:02:42,300 --> 00:02:47,500
+这些东西没有进AE的原因是
+AE系统已经爆满
+
+202
+00:02:47,933 --> 00:02:52,200
+普通磁盘最多只能装下1.40亿个东西
+
+203
+00:02:52,200 --> 00:02:56,833
+输出总线似乎不喜欢输出到量子箱
+
+204
+00:02:57,266 --> 00:03:01,500
+因此，我们必须开始使用数字奇点单元
+
+205
+00:03:02,100 --> 00:03:04,433
+
+这样我们就能存下很多东西了
+
+
+206
+00:03:05,066 --> 00:03:07,333
+第二个问题是电力消耗
+
+207
+00:03:08,300 --> 00:03:12,733
+我们被迫打开备用发电机
+
+208
+00:03:12,733 --> 00:03:18,000
+尽管第一次的问题只是超频量过大
+
+209
+00:03:18,000 --> 00:03:22,633
+
+我们仍然想确保我们能安全地
+负担起第二只鸿蒙之眼的消耗
+
+
+210
+00:03:22,633 --> 00:03:25,333
+所以我们又做了几个戴森球
+
+211
+00:03:26,066 --> 00:03:28,266
+这就是第二个EoH
+
+212
+00:03:29,833 --> 00:03:34,100
+
+这次建造的结构能容纳四级行星
+
+
+213
+00:03:34,100 --> 00:03:36,866
+这样我们才能产生黑矮星物质
+
+214
+00:03:37,933 --> 00:03:42,000
+这一次，我们还必须对液体进行更多的处理
+
+215
+00:03:43,633 --> 00:03:47,400
+鸿蒙之眼的下一级要花很多时间
+
+216
+00:03:47,433 --> 00:03:51,300
+所以让我们利用这段时间来清理基地
+
+217
+00:04:41,000 --> 00:04:42,266
+在这段时间里
+
+218
+00:04:42,300 --> 00:04:45,033
+我们成功建造了第7级的EoH
+
+219
+00:04:45,800 --> 00:04:49,266
+现在它包含了一个完整的太阳系
+
+220
+00:04:49,533 --> 00:04:52,333
+它可以产生熔融宇宙素
+
+221
+00:04:53,033 --> 00:04:56,400
+这是UXV零件的一部分
+
+222
+00:04:57,100 --> 00:05:02,333
+另一部分是磁流体约束恒星物质
+
+223
+00:05:02,333 --> 00:05:07,133
+
+它们是在聚爆压缩机中放入
+类似全息投影仪这种奇怪的东西制造的
+
+
+224
+00:05:07,666 --> 00:05:09,433
+但在那之前
+
+225
+00:05:09,433 --> 00:05:12,300
+让我们解锁最后一级的鸿蒙之眼
+
+226
+00:05:12,300 --> 00:05:14,333
+研究进展得非常快
+
+227
+00:05:14,333 --> 00:05:19,700
+这得感谢剪辑加速和新的APU
+
+228
+00:05:20,500 --> 00:05:22,900
+再经过一次修复后
+
+229
+00:05:24,333 --> 00:05:30,066
+我们终于成功并行制造了
+满级鸿蒙之眼的结构方块
+
+230
+00:05:30,666 --> 00:05:34,000
+这个合成看起来似乎非常快
+
+231
+00:05:34,000 --> 00:05:37,733
+那是因为除了并行的16倍加成
+
+232
+00:05:37,733 --> 00:05:40,400
+我们还做了很多超频
+
+233
+00:05:41,266 --> 00:05:45,300
+然而，我们用完了这个项目所需的宇宙素
+
+234
+00:05:46,533 --> 00:05:49,266
+制造更多的宇宙素需要很多时间
+
+235
+00:05:50,033 --> 00:05:51,300
+或者很多能量
+
+236
+00:05:51,633 --> 00:05:57,033
+因此，使该配方可行的方法是减少超频设置
+
+237
+00:05:57,533 --> 00:06:00,966
+并更换时间膨胀场发生器
+
+238
+00:06:00,966 --> 00:06:06,433
+这将以成功概率为代价减少大量时间
+
+239
+00:06:07,400 --> 00:06:10,666
+这样，我们就有能力生产宇宙素
+
+240
+00:06:10,733 --> 00:06:14,800
+然而我们的配方每四次才成功一次
+
+241
+00:06:15,200 --> 00:06:19,266
+所以我们要做一些稳定场发生器
+
+242
+00:06:19,733 --> 00:06:23,733
+这些将增加配方成功几率
+和能量输出，但代价是产量降低
+
+243
+00:06:24,833 --> 00:06:27,666
+就在这时，我们遇到了老问题
+
+244
+00:06:28,433 --> 00:06:31,233
+我们的AE系统又堵塞了
+
+245
+00:06:31,866 --> 00:06:35,333
+所以我们制造了更多的奇点存储单元
+
+246
+00:06:35,333 --> 00:06:38,500
+这些是管理鸿蒙之眼输出的唯一方法
+
+247
+00:06:39,133 --> 00:06:42,433
+多亏了新的稳定场发生器
+
+248
+00:06:42,433 --> 00:06:46,233
+我们总算成功创造了一个能发电的鸿蒙之眼
+
+249
+00:06:46,233 --> 00:06:48,633
+它也产生了很多资源
+
+250
+00:06:49,633 --> 00:06:51,433
+现在我们有宇宙素了
+
+251
+00:06:51,466 --> 00:06:56,400
+我们终于可以制造最后一级的场发生器了
+
+252
+00:06:57,700 --> 00:07:00,633
+
+这样我们就能收获深暗世界的资源
+
+
+253
+00:07:01,433 --> 00:07:03,033
+这就是做出来的样子
+
+254
+00:07:03,433 --> 00:07:06,200
+我们现在有10颗行星在里面旋转
+
+255
+00:07:06,633 --> 00:07:08,666
+并带有8次超频
+
+256
+00:07:09,133 --> 00:07:13,866
+它将花费90秒和61万亿EU/t
+
+257
+00:07:13,866 --> 00:07:19,100
+平均制造1.3万L的熔融宇宙素
+
+258
+00:07:19,933 --> 00:07:22,466
+或者一口气用 2e15 EU
+
+259
+00:07:24,400 --> 00:07:31,500
+接下来，我们制作一个27亿容量
+的CPU来制作鸿蒙稳定场
+
+260
+00:07:33,533 --> 00:07:37,533
+与此同时，我们又耗尽了主网空间和电量
+
+261
+00:07:38,466 --> 00:07:41,400
+别慌，这可是个好兆头
+
+262
+00:07:41,400 --> 00:07:48,533
+因为这个EoH同时产出电量与资源
+
+263
+00:07:48,933 --> 00:07:51,066
+我们真正地“自食其果”
+
+264
+00:07:52,066 --> 00:07:58,533
+接下来，我们快速制作当前可获得的所有UXV部件
+
+265
+00:07:59,900 --> 00:08:02,133
+既然我们已经解锁了一切
+
+266
+00:08:02,133 --> 00:08:06,200
+是时候开始研究最终目的地了
+
+267
+00:08:06,833 --> 00:08:09,300
+为了任务，我们只需要一个盘子
+
+268
+00:08:09,300 --> 00:08:11,400
+但我们还会需要更多
+
+269
+00:08:12,233 --> 00:08:14,266
+只要看看配方
+
+270
+00:08:14,266 --> 00:08:18,533
+此时便可以意识到需要更多的准备
+
+271
+00:08:19,866 --> 00:08:24,333
+还是让我们开始研究它，看看进展如何
+
+272
+00:08:25,133 --> 00:08:27,666
+第一件事是研究
+
+273
+00:08:29,066 --> 00:08:31,633
+因为这需要一些时间
+
+274
+00:08:31,633 --> 00:08:36,500
+让我们看看AE如何处理实际制作的材料
+
+275
+00:08:37,466 --> 00:08:40,733
+看起来任务所需的东西我们都有了
+
+276
+00:08:40,733 --> 00:08:45,433
+然而，以我们工厂的现状，这需要太长时间
+
+277
+00:08:46,066 --> 00:08:49,400
+所以与其慢慢地磨出一套来
+
+278
+00:08:49,400 --> 00:08:53,200
+我们更倾向于升级基建
+
+279
+00:08:53,233 --> 00:08:54,833
+我们机器太少
+
+280
+00:08:54,833 --> 00:08:58,200
+
+它们各种电压都有
+
+
+281
+00:08:58,200 --> 00:09:01,200
+让我们将其整理出来，全部换成最高电压
+
+282
+00:09:01,266 --> 00:09:03,700
+所以让我们整理一下
+
+283
+00:09:53,633 --> 00:09:56,300
+现在我们可以进行第一次试运行了
+
+284
+00:09:56,833 --> 00:09:59,466
+一旦所有部件都准备好了
+
+285
+00:09:59,500 --> 00:10:02,900
+我们可以启动专用的进阶装配线
+
+286
+00:10:03,233 --> 00:10:08,500
+我们将使用我们制作的第一个盘子
+来研究我们需要的下一个零件
+
+287
+00:10:08,600 --> 00:10:10,733
+经过很长时间
+
+288
+00:10:10,733 --> 00:10:13,000
+我们解锁了下一个配方
+
+289
+00:10:13,800 --> 00:10:16,533
+然而我们的基地还没有准备好
+
+290
+00:10:16,600 --> 00:10:20,233
+因为我们为了这次测试耗尽了所有的电量
+
+291
+00:10:21,566 --> 00:10:24,033
+所以我们又加了一堆
+
+292
+00:10:24,700 --> 00:10:27,466
+现在我们有一个正的能量产出
+
+293
+00:10:27,933 --> 00:10:32,233
+
+我们现在只需要以100万为单位下单电路板
+
+
+294
+00:10:32,233 --> 00:10:35,466
+
+然后借助AE再多做一些合成工作
+
+
+295
+00:10:36,200 --> 00:10:39,000
+我们偶尔做一些调试和疏通管道
+
+296
+00:10:39,066 --> 00:10:45,233
+如dtpf因达到折扣累积的催化剂极限而卡住
+
+297
+00:10:45,800 --> 00:10:49,400
+一旦一切正常
+
+298
+00:10:49,400 --> 00:10:51,300
+挂机一段时间后
+
+299
+00:10:51,300 --> 00:10:54,066
+我们可以手动合成星门基座
+
+300
+00:10:54,266 --> 00:10:57,400
+
+手搓这个方块以增加它的价值
+
+
+301
+00:10:57,600 --> 00:11:01,533
+谁会希望这样的神器以工业化的方式制造出来
+
+302
+00:11:02,100 --> 00:11:05,666
+我不会向你展示AE所做的所有疯狂工作
+
+303
+00:11:05,666 --> 00:11:08,000
+但那是剩下的东西了
+
+304
+00:11:08,933 --> 00:11:11,933
+挂机4个月后
+
+305
+00:11:11,933 --> 00:11:14,900
+我们终于设法完成了最后一部分
+
+306
+00:11:16,333 --> 00:11:21,800
+现在我们终于可以领取
+这个整合包终极任务的奖励了
+
+307
+00:11:21,800 --> 00:11:24,333
+4个铁锭和3根棍子
+
+308
+00:11:24,833 --> 00:11:28,466
+剩下的唯一任务就是找出如何组装它
+
+309
+00:11:28,466 --> 00:11:31,500
+因为没有多少操作说明
+
+310
+00:11:31,633 --> 00:11:36,233
+经过多次试验我们终于成功了
+
+311
+00:11:36,300 --> 00:11:41,066
+结果发现只有一个星门我们无处可去
+
+312
+00:11:41,066 --> 00:11:42,866
+该回去工作了
+
+313
+00:07:48,933 --> 00:07:51,066
+（上期the cake is a lie的callback）
+

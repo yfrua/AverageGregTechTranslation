@@ -1,0 +1,4148 @@
+1
+00:00:00,166 --> 00:00:01,266
+hello everyone
+
+2
+00:00:01,266 --> 00:00:04,666
+today we are going to start our journey on TerraFirmGreg
+
+3
+00:00:04,666 --> 00:00:06,666
+as the name suggests
+
+4
+00:00:06,666 --> 00:00:10,200
+
+this is a modpack focused around Terrafirma and gregtech
+
+
+5
+00:00:10,200 --> 00:00:12,633
+but it also has a lot of create in it
+
+6
+00:00:12,700 --> 00:00:14,266
+as a Terraform pack
+
+7
+00:00:14,266 --> 00:00:17,100
+the world generation is completely customized
+
+8
+00:00:17,100 --> 00:00:19,966
+and there are a lot of things we should worry about
+
+9
+00:00:20,033 --> 00:00:21,833
+the first one is food
+
+10
+00:00:22,000 --> 00:00:26,300
+while it is easy to find it also has an expiration date
+
+11
+00:00:26,300 --> 00:00:29,366
+also we can't keep eating the same thing
+
+12
+00:00:29,500 --> 00:00:31,500
+we have to keep our diet balanced
+
+13
+00:00:31,500 --> 00:00:33,500
+to avoid running into issues
+
+14
+00:00:33,500 --> 00:00:39,400
+and we must also remember to drink some fluids if we do not want to pass out due to dehydration
+
+15
+00:00:39,400 --> 00:00:39,800
+finally
+
+16
+00:00:39,800 --> 00:00:44,300
+one other thing we have to keep track of is temperature and seasons
+
+17
+00:00:44,333 --> 00:00:47,366
+and since we spawned in a rather cold climate
+
+18
+00:00:47,366 --> 00:00:51,433
+we shall start our journey by migrating towards a more warm climate
+
+19
+00:00:51,433 --> 00:00:53,666
+so we start heading towards South
+
+20
+00:00:53,666 --> 00:00:55,500
+and while we do so
+
+21
+00:00:55,500 --> 00:00:57,866
+we shall also get prepared for the night
+
+22
+00:00:57,866 --> 00:00:59,900
+there won't be any weird creatures
+
+23
+00:00:59,900 --> 00:01:01,433
+but it will be quite dark
+
+24
+00:01:01,433 --> 00:01:06,333
+so we gather some sticks and polish them into a kit to start fires
+
+25
+00:01:06,400 --> 00:01:08,300
+then we make sure it works
+
+26
+00:01:08,300 --> 00:01:11,433
+but a random wildfire won't be much useful
+
+27
+00:01:11,433 --> 00:01:14,666
+so we start working on some tools to help us
+
+28
+00:01:14,800 --> 00:01:18,433
+we nap some of the rocks we gathered earlier on onto an axe head
+
+29
+00:01:18,433 --> 00:01:20,366
+which we attach to a broom
+
+30
+00:01:20,433 --> 00:01:21,966
+now that we have an axe
+
+31
+00:01:21,966 --> 00:01:25,066
+we can chop down the tree to gather some proper lumber
+
+32
+00:01:25,066 --> 00:01:29,000
+but doing so on a huge tree is going to take a lot of time
+
+33
+00:01:29,000 --> 00:01:32,833
+so we instead look around for an already fallen and dry tree
+
+34
+00:01:33,033 --> 00:01:35,066
+and this old tree is now so rotten
+
+35
+00:01:35,066 --> 00:01:38,100
+that it basically chops down itself on its own
+
+36
+00:01:38,233 --> 00:01:39,066
+with that lumber
+
+37
+00:01:39,066 --> 00:01:42,233
+we can now try to start a proper controlled fire
+
+38
+00:01:42,400 --> 00:01:44,400
+we must also add a couple of twigs
+
+39
+00:01:44,400 --> 00:01:46,300
+to help the fire catch on
+
+40
+00:01:46,433 --> 00:01:47,633
+and even then
+
+41
+00:01:47,666 --> 00:01:51,100
+we still have to try a couple of times to get the fire up
+
+42
+00:01:51,100 --> 00:01:53,433
+now that we have a proper managed fire
+
+43
+00:01:53,433 --> 00:01:56,600
+we can use it to slowly ignite the tip of some sticks
+
+44
+00:01:56,600 --> 00:01:58,033
+making torches
+
+45
+00:01:58,066 --> 00:01:59,066
+and with those
+
+46
+00:01:59,066 --> 00:02:03,466
+we can now keep going on our journey even during the darkest nights
+
+47
+00:02:18,300 --> 00:02:20,500
+and after a couple of days of walking
+
+48
+00:02:20,500 --> 00:02:24,866
+we found ourselves stuck on an island surrounded only by the ocean
+
+49
+00:02:25,000 --> 00:02:28,166
+and while we managed to find a better climate
+
+50
+00:02:28,166 --> 00:02:31,366
+this place isn't too good for setting up our settlement
+
+51
+00:02:31,533 --> 00:02:34,233
+so we are going to walk back a little bit
+
+52
+00:02:34,233 --> 00:02:36,000
+where the climate isn't too harsh
+
+53
+00:02:36,000 --> 00:02:37,666
+but the flora is great
+
+54
+00:02:37,666 --> 00:02:40,900
+now that we have found a nice place for our settlement
+
+55
+00:02:40,900 --> 00:02:44,600
+we have to find a nice place for all of the junk in our inventory
+
+56
+00:02:44,800 --> 00:02:45,433
+to do so
+
+57
+00:02:45,433 --> 00:02:49,166
+we start by gathering some clay by a Riverside
+
+58
+00:02:49,200 --> 00:02:50,333
+and in this pack
+
+59
+00:02:50,333 --> 00:02:52,800
+clay doesn't simply fall like sand
+
+60
+00:02:52,800 --> 00:02:56,400
+it even falls sideways when you move stuff close to it
+
+61
+00:02:56,400 --> 00:02:59,433
+anyways to speed up our gathering process
+
+62
+00:02:59,433 --> 00:03:01,266
+we are going to nap some stones
+
+63
+00:03:01,266 --> 00:03:03,066
+to make a rudimentary shovel
+
+64
+00:03:03,066 --> 00:03:04,500
+once we have enough
+
+65
+00:03:04,500 --> 00:03:08,400
+we can spend the night molding the clay into all kinds of shapes
+
+66
+00:03:08,400 --> 00:03:10,600
+and as you can probably tell
+
+67
+00:03:10,600 --> 00:03:14,633
+the thing we need the most right now is a vessel to store some items
+
+68
+00:03:14,633 --> 00:03:17,633
+but a clay vessel is too soft to be used
+
+69
+00:03:17,800 --> 00:03:19,566
+to harden it into ceramic
+
+70
+00:03:19,566 --> 00:03:21,633
+we put it in a hole in the ground
+
+71
+00:03:21,633 --> 00:03:23,766
+cover it with straw, some logs
+
+72
+00:03:23,766 --> 00:03:24,766
+and fire it up
+
+73
+00:03:24,766 --> 00:03:27,000
+the process will take 8 minutes
+
+74
+00:03:27,000 --> 00:03:30,800
+and we probably shouldn't have started it close to burnable stuff
+
+75
+00:03:30,800 --> 00:03:33,400
+the rain can't put off the pottery process
+
+76
+00:03:33,400 --> 00:03:36,333
+but it may helps us without mistake
+
+77
+00:03:36,333 --> 00:03:36,766
+maybe
+
+78
+00:03:37,000 --> 00:03:39,400
+and while we wait for our pottery to be done
+
+79
+00:03:39,400 --> 00:03:42,166
+we can prepare some more for the next task
+
+80
+00:03:42,200 --> 00:03:43,233
+moulding metal
+
+81
+00:03:43,300 --> 00:03:48,433
+thus we prepare clay moulds for the main tools we will want to be made out of bronze
+
+82
+00:03:48,566 --> 00:03:49,800
+and once again
+
+83
+00:03:49,800 --> 00:03:53,033
+we bury those in a hole in the ground under burnable stuff
+
+84
+00:03:53,033 --> 00:03:55,233
+then we pitch everything on fire
+
+85
+00:03:55,233 --> 00:03:57,800
+and we start making even more molds
+
+86
+00:03:57,800 --> 00:04:00,000
+and while those are ceramifying
+
+87
+00:04:00,000 --> 00:04:03,666
+we can start scouting around our base for metal rich pebbles
+
+88
+00:04:03,700 --> 00:04:06,833
+we mainly look for tin and copper rich stones
+
+89
+00:04:06,833 --> 00:04:08,366
+after collecting some
+
+90
+00:04:08,400 --> 00:04:09,600
+we go back home
+
+91
+00:04:09,600 --> 00:04:11,566
+where our first vessel is now ready
+
+92
+00:04:11,566 --> 00:04:14,766
+and can finally help us free up some of our inventory
+
+93
+00:04:14,866 --> 00:04:16,833
+and one nice feature is that
+
+94
+00:04:16,833 --> 00:04:18,066
+if we close the lid
+
+95
+00:04:18,066 --> 00:04:20,766
+it will double the food preservation time
+
+96
+00:04:21,033 --> 00:04:24,100
+next we take out of the Kiln our smaller vessels
+
+97
+00:04:24,300 --> 00:04:26,900
+those can be used as small backpacks
+
+98
+00:04:26,900 --> 00:04:29,100
+but the main use is melting metals
+
+99
+00:04:29,200 --> 00:04:32,700
+we could just melt some tetrahedrite to get some copper
+
+100
+00:04:32,700 --> 00:04:34,366
+but we want bronze
+
+101
+00:04:34,366 --> 00:04:34,933
+to get it
+
+102
+00:04:34,933 --> 00:04:37,500
+we have to melt it with some cassiterite
+
+103
+00:04:37,600 --> 00:04:39,366
+the ratio is not strict
+
+104
+00:04:39,366 --> 00:04:42,900
+so we can just go with something in the working range
+
+105
+00:04:43,066 --> 00:04:49,033
+and we can see if it works and how much we get just by hovering over the vessel after filling it with rocks
+
+106
+00:04:49,100 --> 00:04:50,200
+once satisfied
+
+107
+00:04:50,200 --> 00:04:52,800
+we fire it up to melt the metals
+
+108
+00:04:52,833 --> 00:04:55,633
+then as soon as the fires goes out
+
+109
+00:04:55,633 --> 00:04:59,433
+we retrieve it while it's still hot enough for the metal to be molten
+
+110
+00:04:59,433 --> 00:05:02,433
+and the first thing we want to use it for is a saw
+
+111
+00:05:02,433 --> 00:05:05,000
+we also manage to make a prospector pickaxe
+
+112
+00:05:05,000 --> 00:05:06,600
+and a normal pickaxe
+
+113
+00:05:06,666 --> 00:05:08,833
+once the metal cooled down
+
+114
+00:05:08,833 --> 00:05:10,366
+we take it out of its molds
+
+115
+00:05:10,366 --> 00:05:13,033
+and use it to craft an usable tool
+
+116
+00:05:13,100 --> 00:05:17,100
+then we use our new saw to cut some lumber out of the logs we have
+
+117
+00:05:17,100 --> 00:05:20,400
+which we work into a crafting table and a proper chest
+
+118
+00:05:20,400 --> 00:05:22,400
+and now that I look at those
+
+119
+00:05:22,400 --> 00:05:25,066
+I think we couldn't have picked a worse looking wood
+
+120
+00:05:25,066 --> 00:05:28,100
+so we recraft everything with a better looking one
+
+121
+00:05:28,133 --> 00:05:29,866
+but to continue our adventure
+
+122
+00:05:29,866 --> 00:05:31,266
+we will need more metal
+
+123
+00:05:31,266 --> 00:05:34,033
+and the pebbles on the surface do not suffice
+
+124
+00:05:34,033 --> 00:05:35,866
+to find bigger deposits of metal
+
+125
+00:05:35,866 --> 00:05:41,200
+we use prospector pick by metal rich pebbles to locate surface ore deposits
+
+126
+00:05:41,400 --> 00:05:42,933
+once we locate some
+
+127
+00:05:42,933 --> 00:05:45,166
+we start digging towards it
+
+128
+00:05:45,433 --> 00:05:47,033
+but this is Terra firma
+
+129
+00:05:47,100 --> 00:05:50,633
+so even digging a tunnel is not as easy as you'd hope
+
+130
+00:05:50,766 --> 00:05:52,300
+if we are not careful
+
+131
+00:05:52,300 --> 00:05:54,500
+even solid rock can fall on us
+
+132
+00:05:54,666 --> 00:05:55,900
+to prevent that
+
+133
+00:05:55,900 --> 00:05:57,633
+we need support beams
+
+134
+00:05:57,633 --> 00:06:00,866
+each one will safeguard the nearby rocks from falling
+
+135
+00:06:00,866 --> 00:06:04,366
+and we have to build one every fixed amount of blocks
+
+136
+00:06:04,366 --> 00:06:06,366
+now we can just keep looking around
+
+137
+00:06:06,366 --> 00:06:09,033
+until we find the ores we are looking for
+
+138
+00:06:09,033 --> 00:06:12,100
+and we get a better yield by breaking those with a hammer
+
+139
+00:06:12,133 --> 00:06:13,966
+and during our mining operation
+
+140
+00:06:13,966 --> 00:06:16,800
+we found one more hazard we weren't ready for
+
+141
+00:06:16,800 --> 00:06:19,833
+some minerals are toxic and will poison us
+
+142
+00:06:19,833 --> 00:06:22,600
+and it looks like the poison was strong enough that
+
+143
+00:06:22,600 --> 00:06:25,300
+even after getting rid of the hazardous material
+
+144
+00:06:25,300 --> 00:06:26,866
+we still pass out
+
+145
+00:06:26,900 --> 00:06:29,600
+this lead us to an even more annoying issue
+
+146
+00:06:29,666 --> 00:06:33,000
+we respawned almost 4000 blocks away
+
+147
+00:06:33,066 --> 00:06:38,233
+and having to walk all the way to our settlement every time this happens is not a good thing
+
+148
+00:06:38,233 --> 00:06:41,266
+so after walking all the way back to the mine
+
+149
+00:06:41,266 --> 00:06:42,366
+making a backup
+
+150
+00:06:42,366 --> 00:06:44,066
+isolating the toxic stuff
+
+151
+00:06:44,066 --> 00:06:45,700
+and retrieving our stuff
+
+152
+00:06:45,700 --> 00:06:47,466
+we start working on a bed
+
+153
+00:06:47,466 --> 00:06:49,700
+this will need some soft material
+
+154
+00:06:49,700 --> 00:06:52,800
+and the easiest way is to just roughly mold a sword
+
+155
+00:06:52,800 --> 00:06:55,766
+to collect some sheepskin from some alpackers
+
+156
+00:06:55,800 --> 00:06:58,500
+we can separate the wool from the leather with a knife
+
+157
+00:06:58,500 --> 00:07:00,966
+but it's still too rough to be used
+
+158
+00:07:00,966 --> 00:07:04,266
+so we use a spindle to make it into yarns
+
+159
+00:07:04,300 --> 00:07:05,833
+then with the help of a loom
+
+160
+00:07:05,833 --> 00:07:06,966
+we make some cloth
+
+161
+00:07:06,966 --> 00:07:09,200
+which we can finally use for our bed
+
+162
+00:07:09,200 --> 00:07:11,900
+now we will respawn at our base
+
+163
+00:07:11,966 --> 00:07:14,000
+the next issue we should worry about is
+
+164
+00:07:14,000 --> 00:07:16,266
+stocking up some food for the winter
+
+165
+00:07:16,300 --> 00:07:19,633
+the main issue is that most food expires quickly
+
+166
+00:07:19,700 --> 00:07:23,866
+but we can work around that by for example cooking it
+
+167
+00:07:23,900 --> 00:07:26,666
+and now that we have meet our basic needs
+
+168
+00:07:26,666 --> 00:07:30,500
+we shall work on meeting the basic needs of our upcoming factory
+
+169
+00:07:30,600 --> 00:07:34,100
+thus we start gathering a lot of copper rich stones
+
+170
+00:07:34,100 --> 00:07:37,166
+and to melt it we will need a lot of wood
+
+171
+00:07:37,233 --> 00:07:43,766
+and here chopping down a whole tree into logs, sticks and saplings takes probably more time than doing it IRL
+
+172
+00:07:43,766 --> 00:07:46,300
+luckily for whatever reason
+
+173
+00:07:46,300 --> 00:07:48,833
+we can speed up the process by crouching
+
+174
+00:07:48,833 --> 00:07:51,566
+thus leaving aside the small branches
+
+175
+00:07:51,566 --> 00:07:55,666
+however while the lumber we obtained is good enough for a pottery Kiln
+
+176
+00:07:55,666 --> 00:07:58,166
+it's not optimal for proper metal working
+
+177
+00:07:58,200 --> 00:08:01,600
+so we make a charcoal pit to turn it into better stuff
+
+178
+00:08:01,633 --> 00:08:04,500
+to do so, we simply bury some log piles
+
+179
+00:08:04,500 --> 00:08:06,400
+and then pitch those on fire
+
+180
+00:08:06,566 --> 00:08:08,100
+we must be very careful
+
+181
+00:08:08,100 --> 00:08:10,200
+the wood must not be in contact with air
+
+182
+00:08:10,200 --> 00:08:12,566
+or it will only leave ash behind
+
+183
+00:08:12,600 --> 00:08:14,500
+and after a day or so
+
+184
+00:08:14,500 --> 00:08:16,033
+the process completed
+
+185
+00:08:16,033 --> 00:08:17,633
+turning the logs into charcoal
+
+186
+00:08:17,633 --> 00:08:19,400
+which we can now dig out
+
+187
+00:08:19,433 --> 00:08:22,000
+then we stick some in a hole surrounded by rocks
+
+188
+00:08:22,000 --> 00:08:23,466
+and pitch it on fire
+
+189
+00:08:23,466 --> 00:08:25,700
+making a rudimentary forge
+
+190
+00:08:25,833 --> 00:08:28,400
+we fill it with more charcoal, some molds
+
+191
+00:08:28,400 --> 00:08:31,700
+and then we throw in the raw minerals we want to melt
+
+192
+00:08:32,000 --> 00:08:33,433
+after enough time
+
+193
+00:08:33,433 --> 00:08:35,266
+the metal will flow out of the rocks
+
+194
+00:08:35,266 --> 00:08:37,100
+and fall into the molds
+
+195
+00:08:37,166 --> 00:08:39,666
+from which we can then extract ingots
+
+196
+00:08:40,000 --> 00:08:41,266
+to work with those ingots
+
+197
+00:08:41,266 --> 00:08:44,266
+we will need some hard material to smash those on
+
+198
+00:08:44,266 --> 00:08:47,033
+but the rocks we have here are too soft
+
+199
+00:08:47,300 --> 00:08:50,233
+we found a rock hard enough for the task in our cave
+
+200
+00:08:50,233 --> 00:08:53,200
+but bringing it back home is no easy task
+
+201
+00:08:53,300 --> 00:08:54,866
+if we use our pickaxe
+
+202
+00:08:54,866 --> 00:08:57,033
+the rocks breaks into pebbles
+
+203
+00:08:57,166 --> 00:08:59,200
+same things happens with a hammer
+
+204
+00:08:59,366 --> 00:09:02,166
+the way we can actually extract a whole cube of rock
+
+205
+00:09:02,166 --> 00:09:05,300
+is by breaking all of the connected blocks that touch it
+
+206
+00:09:05,300 --> 00:09:07,566
+leaving it almost floating into air
+
+207
+00:09:07,566 --> 00:09:10,366
+at which point it falls as a single piece
+
+208
+00:09:10,700 --> 00:09:13,666
+we bring that piece of Hard Rock next to our forge
+
+209
+00:09:13,666 --> 00:09:15,800
+and turn it into a primitive anvil
+
+210
+00:09:16,200 --> 00:09:18,233
+the first thing we will want to do with it
+
+211
+00:09:18,233 --> 00:09:20,800
+is meld together two copper ingots
+
+212
+00:09:21,000 --> 00:09:22,000
+but of course
+
+213
+00:09:22,000 --> 00:09:24,600
+no matter how much we smash those together
+
+214
+00:09:24,600 --> 00:09:26,466
+we first have to heat them up
+
+215
+00:09:26,700 --> 00:09:28,566
+so we fire up our forge
+
+216
+00:09:28,566 --> 00:09:32,100
+and wait for the ingots to become hot enough to glow orange
+
+217
+00:09:32,433 --> 00:09:34,966
+then before they melt or cool down
+
+218
+00:09:34,966 --> 00:09:36,600
+we take those to the anvil
+
+219
+00:09:36,833 --> 00:09:41,500
+but moving glowing hot ingots with our bare hands wasn't our brightest idea
+
+220
+00:09:41,700 --> 00:09:43,366
+to help us with the task
+
+221
+00:09:43,366 --> 00:09:45,166
+we get a couple of sticks
+
+222
+00:09:45,266 --> 00:09:46,700
+but in the meantime
+
+223
+00:09:46,700 --> 00:09:49,100
+the ingots cooled down too much
+
+224
+00:09:49,100 --> 00:09:51,200
+so we heat up those again
+
+225
+00:09:51,433 --> 00:09:56,200
+and we better have some molds to safeguard eventual molten metal spills
+
+226
+00:09:56,366 --> 00:09:58,133
+once we reach temperature
+
+227
+00:09:58,133 --> 00:10:00,000
+we try again to weld those
+
+228
+00:10:00,000 --> 00:10:01,433
+and this time
+
+229
+00:10:01,433 --> 00:10:04,800
+we realize we also need some fluxing material
+
+230
+00:10:04,966 --> 00:10:05,700
+luckily
+
+231
+00:10:05,700 --> 00:10:08,500
+the soft stone we have here is a sedimentary rock
+
+232
+00:10:08,500 --> 00:10:10,666
+which can be smashed into flux
+
+233
+00:10:10,666 --> 00:10:14,000
+and with that we can finally get a double ingot
+
+234
+00:10:14,266 --> 00:10:16,266
+don't mind the missing texture
+
+235
+00:10:16,433 --> 00:10:17,766
+with enough of those
+
+236
+00:10:17,766 --> 00:10:19,800
+we can make a slightly better anvil
+
+237
+00:10:20,033 --> 00:10:21,833
+this one not only looks better
+
+238
+00:10:21,833 --> 00:10:25,233
+but it will also allow us to work harder materials
+
+239
+00:10:25,233 --> 00:10:26,700
+such as bronze
+
+240
+00:10:26,700 --> 00:10:27,933
+long story short
+
+241
+00:10:27,933 --> 00:10:29,966
+we now have a bronze anvil
+
+242
+00:10:30,166 --> 00:10:32,766
+but a proper anvil is made at least of iron
+
+243
+00:10:32,900 --> 00:10:34,400
+but at the moment
+
+244
+00:10:34,400 --> 00:10:37,866
+we do not have the tools to melt the iron out of rocks
+
+245
+00:10:37,866 --> 00:10:40,466
+instead we have to work it in a bloomery
+
+246
+00:10:40,566 --> 00:10:43,633
+and that machine requires quite a lot of bronze
+
+247
+00:10:43,633 --> 00:10:45,400
+and that means a lot of copper
+
+248
+00:10:45,533 --> 00:10:46,700
+to save on copper
+
+249
+00:10:46,700 --> 00:10:48,866
+we can use a different kind of bronze
+
+250
+00:10:48,866 --> 00:10:50,566
+which can be made with less copper
+
+251
+00:10:50,566 --> 00:10:54,600
+and instead uses some less useful and more abundant minerals
+
+252
+00:10:54,633 --> 00:10:56,166
+bismuth bronze
+
+253
+00:10:56,200 --> 00:10:59,266
+and we can also increase the yield of our copper ores
+
+254
+00:10:59,266 --> 00:11:02,233
+by first cleaning some of the impurities in a river
+
+255
+00:11:02,233 --> 00:11:04,366
+and then smashing it into a finer powder
+
+256
+00:11:04,366 --> 00:11:06,633
+to ease the extraction of molten metal
+
+257
+00:11:06,633 --> 00:11:09,300
+finally we wash off the soluble dust
+
+258
+00:11:09,300 --> 00:11:11,500
+and we are left with pure mineral dust
+
+259
+00:11:11,500 --> 00:11:14,300
+which will yield almost twice as much metal
+
+260
+00:11:14,600 --> 00:11:16,500
+allowing us to overflow a vessel
+
+261
+00:11:16,500 --> 00:11:20,066
+thus turning all of our precious minerals into trash
+
+262
+00:11:20,100 --> 00:11:22,700
+and now we have to gather more and start over
+
+263
+00:11:22,800 --> 00:11:25,300
+paying attention not to overflow the vessel
+
+264
+00:11:25,433 --> 00:11:26,533
+for the next task
+
+265
+00:11:26,533 --> 00:11:28,966
+having a double ingot won't be enough
+
+266
+00:11:29,066 --> 00:11:31,466
+we have to hammer it into a proper plate
+
+267
+00:11:31,466 --> 00:11:33,366
+and it must be done properly
+
+268
+00:11:33,433 --> 00:11:35,566
+this means we have to keep hitting the thing 
+
+269
+00:11:35,566 --> 00:11:37,033
+until it's flat enough
+
+270
+00:11:37,033 --> 00:11:38,633
+but without any hole
+
+271
+00:11:38,700 --> 00:11:40,100
+after enough hammering
+
+272
+00:11:40,100 --> 00:11:42,266
+we managed to get our first plate
+
+273
+00:11:42,566 --> 00:11:44,166
+but that was too thin
+
+274
+00:11:44,200 --> 00:11:46,366
+so we made a second one
+
+275
+00:11:46,366 --> 00:11:47,833
+heated both of those up
+
+276
+00:11:47,833 --> 00:11:49,833
+and hammered them into a thicker one
+
+277
+00:11:50,466 --> 00:11:51,466
+14 plates later
+
+278
+00:11:51,466 --> 00:11:53,433
+we managed to make a bloomery
+
+279
+00:11:53,800 --> 00:11:55,200
+but to use that
+
+280
+00:11:55,200 --> 00:11:57,466
+we also need some bricks
+
+281
+00:11:57,566 --> 00:12:00,266
+so we dissolve some lime in water
+
+282
+00:12:00,266 --> 00:12:01,100
+add some sand
+
+283
+00:12:01,100 --> 00:12:03,833
+and let it in for a couple of hours to get mortar
+
+284
+00:12:04,200 --> 00:12:07,466
+next we take some of the pebbles we made while gathering ores
+
+285
+00:12:07,466 --> 00:12:09,400
+and chisel those into bricks
+
+286
+00:12:09,400 --> 00:12:11,566
+which we then turn into blocks
+
+287
+00:12:11,666 --> 00:12:14,566
+we used those to build a chimney for our broomery
+
+288
+00:12:14,800 --> 00:12:17,766
+and since those bricks are cheap and nice looking
+
+289
+00:12:17,766 --> 00:12:21,400
+we also used them to made the walls of our future house
+
+290
+00:12:21,466 --> 00:12:26,000
+next we throw some iron rich minerals with some charcoal in our broomery
+
+291
+00:12:26,000 --> 00:12:27,600
+and pitch it on fire
+
+292
+00:12:27,833 --> 00:12:29,833
+this process will take a long time
+
+293
+00:12:29,833 --> 00:12:32,466
+and it will leave us with some iron blooms
+
+294
+00:12:32,600 --> 00:12:34,766
+we dig those out using a pickaxe
+
+295
+00:12:34,766 --> 00:12:36,833
+then with the help of an anvil
+
+296
+00:12:36,900 --> 00:12:39,666
+we hammer those into wrought iron ingots
+
+297
+00:12:39,800 --> 00:12:42,066
+which we use to upgrade our anvil
+
+298
+00:12:42,366 --> 00:12:43,966
+the next tier is steel
+
+299
+00:12:43,966 --> 00:12:47,033
+but to get it we have a longer road ahead
+
+300
+00:12:47,133 --> 00:12:49,200
+we will need a couple of new machinery
+
+301
+00:12:49,200 --> 00:12:53,000
+but it all starts from a basic material we don't even have
+
+302
+00:12:53,000 --> 00:12:53,766
+pink clay
+
+303
+00:12:53,800 --> 00:12:55,000
+the main issue is that
+
+304
+00:12:55,000 --> 00:12:59,433
+this material can only be found in the humid and hot tropical biomes
+
+305
+00:12:59,433 --> 00:13:01,000
+which are far from us
+
+306
+00:13:01,000 --> 00:13:05,266
+and it looks like we have to find a way around the ocean if we want to get there
+
+307
+00:13:05,266 --> 00:13:08,233
+the best way to achieve so is probably to get a boat
+
+308
+00:13:08,233 --> 00:13:10,100
+and we have many choices
+
+309
+00:13:10,166 --> 00:13:12,233
+but not all of them are available
+
+310
+00:13:12,233 --> 00:13:15,433
+some are expensive and require steel
+
+311
+00:13:15,433 --> 00:13:16,066
+anyways
+
+312
+00:13:16,066 --> 00:13:19,500
+the first step for making a good enough boat is some scaffolding
+
+313
+00:13:19,500 --> 00:13:21,900
+to hold it in place while we build it
+
+314
+00:13:22,100 --> 00:13:23,600
+next we need the planks
+
+315
+00:13:23,600 --> 00:13:26,366
+that will actually constitute the structure
+
+316
+00:13:26,433 --> 00:13:27,900
+and to stick everything together
+
+317
+00:13:27,900 --> 00:13:30,266
+we can use some copper bolts
+
+318
+00:13:30,400 --> 00:13:33,400
+which we can make by first hammering an ingot into a rod
+
+319
+00:13:33,400 --> 00:13:35,100
+and then cutting it with a saw
+
+320
+00:13:35,100 --> 00:13:37,066
+and while working on the anvils
+
+321
+00:13:37,066 --> 00:13:39,600
+we also smite a couple of oar locks
+
+322
+00:13:39,600 --> 00:13:41,466
+finally we get a couple of ore
+
+323
+00:13:41,466 --> 00:13:44,000
+so that we can start assembling the thing
+
+324
+00:13:44,033 --> 00:13:47,366
+we start by building a structure with the scaffolds
+
+325
+00:13:47,366 --> 00:13:49,766
+then we fill it up using the planks
+
+326
+00:13:49,766 --> 00:13:51,600
+next with the help of a hammer
+
+327
+00:13:51,600 --> 00:13:53,966
+we insert the copper bolts into the structure
+
+328
+00:13:53,966 --> 00:13:55,666
+to keep everything in place
+
+329
+00:13:55,700 --> 00:13:57,833
+and to complete our new boat
+
+330
+00:13:57,833 --> 00:13:59,366
+we add the oar locks
+
+331
+00:13:59,433 --> 00:14:02,266
+to use it we add the oars and jump on it
+
+332
+00:14:02,600 --> 00:14:04,800
+this ship is powered by the magical oars
+
+333
+00:14:04,800 --> 00:14:06,700
+that work whenever you stare at them
+
+334
+00:14:06,900 --> 00:14:09,200
+and before we take off to the sea
+
+335
+00:14:09,200 --> 00:14:10,866
+with our hunger for adventures
+
+336
+00:14:10,866 --> 00:14:14,233
+we add some chests for extra inventory for our loot
+
+337
+00:14:14,366 --> 00:14:16,400
+we should have probably took some food
+
+338
+00:14:16,400 --> 00:14:18,366
+some water and a backpack
+
+339
+00:14:18,366 --> 00:14:20,566
+but I think a backup will suffice
+
+340
+00:14:20,700 --> 00:14:23,666
+and after a really long adventure across the ocean
+
+341
+00:14:23,666 --> 00:14:25,400
+we finally found land
+
+342
+00:14:25,833 --> 00:14:28,666
+but after the first phase of happiness
+
+343
+00:14:28,666 --> 00:14:30,666
+the long chain of despair came
+
+344
+00:14:30,833 --> 00:14:32,466
+this was just an island
+
+345
+00:14:32,833 --> 00:14:35,400
+next to it another volcanic island
+
+346
+00:14:35,400 --> 00:14:37,033
+and Big Sandy shore island
+
+347
+00:14:37,033 --> 00:14:38,700
+with nothing interesting on them
+
+348
+00:14:39,033 --> 00:14:42,000
+luckily not too far we found again land
+
+349
+00:14:42,000 --> 00:14:44,366
+this time a continent made of hills
+
+350
+00:14:44,366 --> 00:14:46,366
+we found many new plants there
+
+351
+00:14:46,366 --> 00:14:48,966
+but not luck with the clay we were looking for
+
+352
+00:14:49,200 --> 00:14:52,100
+so we started circum navigating it
+
+353
+00:14:52,100 --> 00:14:54,066
+but to avoid a swamp
+
+354
+00:14:54,066 --> 00:14:57,300
+we moved inside the continent in a river to check it out
+
+355
+00:14:57,466 --> 00:15:00,800
+and it was then that we spotted a suspicious red flower
+
+356
+00:15:01,233 --> 00:15:02,866
+upon closer inspection
+
+357
+00:15:02,866 --> 00:15:04,766
+it actually was the blood Lily
+
+358
+00:15:04,766 --> 00:15:07,633
+which only spawns above the clay we are looking for
+
+359
+00:15:07,966 --> 00:15:11,400
+however after digging we didn't find anything
+
+360
+00:15:11,866 --> 00:15:13,766
+and the flower now lost it petals
+
+361
+00:15:13,766 --> 00:15:16,000
+and looks like normal grass
+
+362
+00:15:16,233 --> 00:15:18,566
+but after a few more steps
+
+363
+00:15:18,566 --> 00:15:20,566
+we finally found the pink clay
+
+364
+00:15:20,566 --> 00:15:25,666
+just below another flower which decided to unbloom to make the search harder for us
+
+365
+00:15:25,866 --> 00:15:29,566
+we fill our inventory and our ship with all of that pink gold
+
+366
+00:15:29,566 --> 00:15:31,200
+then we head back home
+
+367
+00:15:31,433 --> 00:15:32,900
+and when we park our ship
+
+368
+00:15:32,900 --> 00:15:36,000
+we notice the wind was pushing it to the open sea
+
+369
+00:15:36,100 --> 00:15:39,366
+since we do not have the steel for a pole to keep it leashed
+
+370
+00:15:39,366 --> 00:15:41,366
+we enclose it in our new pool
+
+371
+00:15:41,400 --> 00:15:43,000
+now that we have the clay
+
+372
+00:15:43,000 --> 00:15:44,866
+we have to dry it into powder
+
+373
+00:15:45,000 --> 00:15:46,133
+to heat it up
+
+374
+00:15:46,133 --> 00:15:47,900
+we fire up our forge
+
+375
+00:15:48,033 --> 00:15:50,033
+however after not much
+
+376
+00:15:50,033 --> 00:15:53,500
+we realize this process is rather slow and tedious
+
+377
+00:15:53,666 --> 00:15:55,433
+to make it easier to manage
+
+378
+00:15:55,433 --> 00:15:58,033
+instead of heating single pieces of clay
+
+379
+00:15:58,033 --> 00:16:00,433
+we fill up a vessel and heat that instead
+
+380
+00:16:00,566 --> 00:16:04,100
+after a long time and a lot of charcoal it worked
+
+381
+00:16:04,233 --> 00:16:07,000
+but our vessel is now too hot to be opened
+
+382
+00:16:07,066 --> 00:16:09,433
+so we cool it down in a water bath
+
+383
+00:16:09,566 --> 00:16:12,466
+with that we now have our kaolinite clay powder
+
+384
+00:16:12,600 --> 00:16:14,666
+but that wasn't really enough
+
+385
+00:16:14,666 --> 00:16:16,166
+so repeat the process
+
+386
+00:16:16,266 --> 00:16:20,066
+and this time we use a Kiln pit instead of the forge
+
+387
+00:16:20,066 --> 00:16:21,100
+while we wait
+
+388
+00:16:21,100 --> 00:16:25,133
+we can work on the other ingredient required for the next step
+
+389
+00:16:25,133 --> 00:16:25,666
+graphite
+
+390
+00:16:25,966 --> 00:16:27,066
+and to locate it
+
+391
+00:16:27,066 --> 00:16:29,033
+we can follow our best buddy
+
+392
+00:16:29,033 --> 00:16:29,966
+Diamond buds
+
+393
+00:16:29,966 --> 00:16:33,200
+those indicate and underneath carbon vein
+
+394
+00:16:33,200 --> 00:16:37,666
+and we can already gather some tiny amounts of graphite on the surface
+
+395
+00:16:37,933 --> 00:16:39,066
+after some digging
+
+396
+00:16:39,066 --> 00:16:39,966
+we found a cave
+
+397
+00:16:39,966 --> 00:16:43,166
+which also exposed the mineral we were looking for
+
+398
+00:16:43,166 --> 00:16:44,266
+we collect some of it
+
+399
+00:16:44,266 --> 00:16:46,700
+and then we process it into pure dust
+
+400
+00:16:46,700 --> 00:16:48,633
+but it wasn't dusty enough
+
+401
+00:16:48,633 --> 00:16:52,433
+so we use our new quern to grind it down into a finer powder
+
+402
+00:16:52,433 --> 00:16:54,633
+we mix it with the other two kinds of clay
+
+403
+00:16:54,633 --> 00:16:55,766
+into fire clay
+
+404
+00:16:55,766 --> 00:16:58,033
+which we can mold into a crucible
+
+405
+00:16:58,133 --> 00:17:00,233
+and as with normal clay
+
+406
+00:17:00,233 --> 00:17:02,100
+we have to fire it up in the forge
+
+407
+00:17:02,100 --> 00:17:03,966
+to turn it into ceramic
+
+408
+00:17:03,966 --> 00:17:05,566
+but after a long wait
+
+409
+00:17:05,566 --> 00:17:08,033
+we figured out this wasn't going to work
+
+410
+00:17:08,033 --> 00:17:10,233
+we have to heat it up at yellow white 4
+
+411
+00:17:10,633 --> 00:17:14,366
+however our charcoal burns at yellow white 2
+
+412
+00:17:14,466 --> 00:17:17,033
+one solution could be using a better fuel
+
+413
+00:17:17,033 --> 00:17:20,500
+such as the coal we found in the diamond graphite vein
+
+414
+00:17:20,500 --> 00:17:22,433
+but we don't have much of it
+
+415
+00:17:22,433 --> 00:17:24,800
+so we keep it for better purposes
+
+416
+00:17:24,900 --> 00:17:26,966
+instead we work on the new tool
+
+417
+00:17:26,966 --> 00:17:30,800
+which start from taking the hide left over from processing wool
+
+418
+00:17:30,866 --> 00:17:33,200
+this one is too rough and dirty
+
+419
+00:17:33,200 --> 00:17:34,900
+so we start the cleaning process
+
+420
+00:17:34,900 --> 00:17:36,966
+by sinking it into lime water
+
+421
+00:17:37,033 --> 00:17:39,266
+then to get a sturdy table
+
+422
+00:17:39,266 --> 00:17:41,700
+we get a lumber and clean it from it bark
+
+423
+00:17:41,866 --> 00:17:44,066
+now we can lay the prepared hide on it
+
+424
+00:17:44,066 --> 00:17:46,366
+and start the scratching process
+
+425
+00:17:46,366 --> 00:17:48,700
+once we finish scratching the hide
+
+426
+00:17:48,700 --> 00:17:50,633
+we put it in a barrel with fresh water
+
+427
+00:17:50,633 --> 00:17:52,666
+to clean up all the residues
+
+428
+00:17:52,666 --> 00:17:55,700
+finally after preparing some tanning agent
+
+429
+00:17:55,700 --> 00:17:58,466
+we soak the cleaned hide in it to get proper leather
+
+430
+00:17:58,466 --> 00:18:01,100
+with this we can now craft our new tool
+
+431
+00:18:01,100 --> 00:18:03,433
+to boost the temperature of our forge
+
+432
+00:18:03,433 --> 00:18:04,300
+bellow
+
+433
+00:18:04,366 --> 00:18:07,266
+and it was then that we realized it's already winter
+
+434
+00:18:07,266 --> 00:18:09,266
+and we still don't have a roof
+
+435
+00:18:09,266 --> 00:18:13,366
+so after quickly using our new toy to complete the crucible
+
+436
+00:18:13,366 --> 00:18:15,366
+we also complete our roof
+
+437
+00:18:15,366 --> 00:18:19,233
+and this place not only is cold enough for icicles to form
+
+438
+00:18:19,233 --> 00:18:21,000
+it is also quite dark
+
+439
+00:18:21,000 --> 00:18:24,000
+and torches here burn out after two days
+
+440
+00:18:24,000 --> 00:18:26,600
+we can nap a pumpkin to obtain a decoration
+
+441
+00:18:26,600 --> 00:18:28,200
+that will double the duration
+
+442
+00:18:28,200 --> 00:18:29,900
+but it's still not much
+
+443
+00:18:29,900 --> 00:18:32,200
+another cool option is to make lamps
+
+444
+00:18:32,633 --> 00:18:36,033
+but those are cool to make only the first time
+
+445
+00:18:36,066 --> 00:18:38,766
+the first step is to get the metal frame
+
+446
+00:18:38,766 --> 00:18:40,366
+which we can do in the anvil
+
+447
+00:18:40,500 --> 00:18:42,300
+and then we need the glass
+
+448
+00:18:42,300 --> 00:18:44,000
+we prepare the base compound
+
+449
+00:18:44,000 --> 00:18:46,866
+by mixing a couple of easy to gather materials
+
+450
+00:18:46,866 --> 00:18:50,300
+then we apply that over a ceramic blowpipe and heat it up
+
+451
+00:18:50,300 --> 00:18:52,200
+once we get it in our hands
+
+452
+00:18:52,266 --> 00:18:55,433
+it's too hot so we instinctively throw it away
+
+453
+00:18:55,433 --> 00:18:57,233
+after getting a second blowpipe
+
+454
+00:18:57,233 --> 00:18:59,300
+to prevent burns from the first one
+
+455
+00:18:59,300 --> 00:19:04,966
+we start trying to figure out how to manage all the tools we have to use to do our glasswork
+
+456
+00:19:04,966 --> 00:19:05,900
+as usual
+
+457
+00:19:05,900 --> 00:19:09,433
+we can find a better explanation in the TerraFirm guide book
+
+458
+00:19:09,433 --> 00:19:13,100
+so with the help of a blowpipe in one hand
+
+459
+00:19:13,100 --> 00:19:15,833
+we take the hot blowpipe with the other hand
+
+460
+00:19:15,833 --> 00:19:16,766
+we swap tools
+
+461
+00:19:16,766 --> 00:19:19,433
+and then we blow in the pipe with the hot glass
+
+462
+00:19:19,666 --> 00:19:21,000
+then we pinch it
+
+463
+00:19:21,300 --> 00:19:25,366
+and before it gets too cold to the point it can no longer be worked
+
+464
+00:19:25,366 --> 00:19:27,566
+we put it back in the forge
+
+465
+00:19:27,833 --> 00:19:29,266
+once we get it back
+
+466
+00:19:29,266 --> 00:19:31,766
+we hit it with a paddle and then blow again
+
+467
+00:19:31,966 --> 00:19:38,233
+finally we heat it up one last time before we cut out the molded glass sphere for our lantern
+
+468
+00:19:38,466 --> 00:19:41,500
+we can combine it with the metal frame to get a lantern
+
+469
+00:19:41,500 --> 00:19:44,600
+but of course that still needs fuel
+
+470
+00:19:44,766 --> 00:19:47,466
+for that we can use creosote oil
+
+471
+00:19:47,466 --> 00:19:50,666
+which we can feed with pipes from our new coke oven
+
+472
+00:19:50,900 --> 00:19:54,933
+the only thing left to do is to light it up using an already lit torch
+
+473
+00:19:54,966 --> 00:19:57,633
+with that touch of light and technology
+
+474
+00:19:57,633 --> 00:19:59,366
+our shelter looks a new
+
+475
+00:19:59,633 --> 00:20:01,833
+but while this is nice and all
+
+476
+00:20:01,833 --> 00:20:04,300
+there are other issues we have to face
+
+477
+00:20:04,433 --> 00:20:06,700
+the lake nearby our house is icing
+
+478
+00:20:06,766 --> 00:20:09,166
+thus making water more of an issue
+
+479
+00:20:09,266 --> 00:20:10,500
+to help with that
+
+480
+00:20:10,500 --> 00:20:11,900
+we craft an iron flask
+
+481
+00:20:11,900 --> 00:20:14,766
+that will help us bring water wherever we go
+
+482
+00:20:14,833 --> 00:20:18,000
+and we fill it with the water leftover from working leather
+
+483
+00:20:18,166 --> 00:20:21,633
+now we can sip fresh clean water wherever we want
+
+484
+00:20:21,766 --> 00:20:23,266
+but other than water
+
+485
+00:20:23,266 --> 00:20:25,466
+we also need some better food
+
+486
+00:20:25,633 --> 00:20:30,366
+we can get some by grinding into finer powder some of our wheat leftovers
+
+487
+00:20:30,466 --> 00:20:34,166
+then we take some water and make a dough with that flour
+
+488
+00:20:34,400 --> 00:20:35,800
+we make some bread loaves
+
+489
+00:20:35,800 --> 00:20:39,400
+and cook those with the help of grill to better control the cooking
+
+490
+00:20:39,500 --> 00:20:42,000
+finally we add some veggies and meat
+
+491
+00:20:42,000 --> 00:20:44,266
+to make some nice sandwiches
+
+492
+00:20:44,366 --> 00:20:47,933
+but one other food we can make more ideal for this climate is soup
+
+493
+00:20:47,933 --> 00:20:50,966
+we put a pot on the fire and fill it with water
+
+494
+00:20:50,966 --> 00:20:54,233
+then we add some ingredients and make it boil
+
+495
+00:20:54,233 --> 00:20:55,266
+once it's done
+
+496
+00:20:55,266 --> 00:20:56,666
+we fill some bowls
+
+497
+00:20:56,666 --> 00:20:58,300
+and have a nice feast
+
+498
+00:20:58,366 --> 00:20:59,700
+the only thing we need now 
+
+499
+00:20:59,700 --> 00:21:02,800
+is a better way to carry all of those new things
+
+500
+00:21:02,800 --> 00:21:04,400
+and to carry all of that weight
+
+501
+00:21:04,400 --> 00:21:07,066
+we shall use something made of a strong material
+
+502
+00:21:07,066 --> 00:21:08,633
+such as jute fibre
+
+503
+00:21:08,866 --> 00:21:11,233
+which we loom into burlap cloth
+
+504
+00:21:11,233 --> 00:21:13,833
+with that we can assemble a backpack
+
+505
+00:21:13,833 --> 00:21:17,766
+finally we can bring our anvils with us wherever we go
+
+506
+00:21:17,766 --> 00:21:19,600
+without getting slowed down
+
+507
+00:21:19,600 --> 00:21:21,700
+and this is going to be our new best friend
+
+508
+00:21:21,700 --> 00:21:25,400
+when we will be gathering more iron for the upcoming episode
+
+509
+00:21:25,566 --> 00:21:27,100
+see you next time
+
+510
+00:21:27,300 --> 00:21:28,233
+bye bye
+
+511
+00:00:00,166 --> 00:00:01,266
+大家好
+
+512
+00:00:01,266 --> 00:00:04,666
+今天我们要开始TerrafirmaGreg旅程了
+
+513
+00:00:04,666 --> 00:00:06,666
+正如这个整合包名
+
+514
+00:00:06,666 --> 00:00:10,166
+这是一个围绕群峦传说和给格雷科技的整合包
+
+515
+00:00:10,200 --> 00:00:12,600
+但同时也有很多机械动力内容
+
+516
+00:00:12,700 --> 00:00:14,266
+作为一个群峦包
+
+517
+00:00:14,266 --> 00:00:17,066
+世界生成被大改了
+
+518
+00:00:17,100 --> 00:00:19,966
+
+而且还有更多事要担心
+
+
+519
+00:00:20,000 --> 00:00:21,800
+首先是食物
+
+520
+00:00:22,000 --> 00:00:24,133
+尽管食物遍地都是
+
+521
+00:00:24,133 --> 00:00:26,300
+但它们都有保质期
+
+522
+00:00:26,300 --> 00:00:29,366
+而且我们不能只吃一种食物
+
+523
+00:00:29,500 --> 00:00:31,500
+我们必须保证营养均衡
+
+524
+00:00:31,500 --> 00:00:33,500
+来避免引发问题
+
+525
+00:00:33,500 --> 00:00:36,933
+而且为了避免因为脱水而晕过去
+
+526
+00:00:36,933 --> 00:00:39,400
+我们必须记得补充液体
+
+527
+00:00:39,400 --> 00:00:39,800
+最后
+
+528
+00:00:39,800 --> 00:00:44,300
+
+我们也要关注温度和季节
+
+
+529
+00:00:44,300 --> 00:00:47,333
+既然我们出生在了一个很冷的地方
+
+530
+00:00:47,366 --> 00:00:51,400
+我们应该启程去到一个更温暖的地带
+
+531
+00:00:51,400 --> 00:00:53,633
+所以我们开始向南进发
+
+532
+00:00:53,666 --> 00:00:55,466
+与此同时
+
+533
+00:00:55,500 --> 00:00:57,866
+我们应该开始准备过夜
+
+534
+00:00:57,866 --> 00:00:59,866
+tfc的夜晚不会有什么危险生物
+
+535
+00:00:59,900 --> 00:01:01,400
+但仍然会很黑
+
+536
+00:01:01,400 --> 00:01:03,566
+所以我们捡几根树枝
+
+537
+00:01:03,566 --> 00:01:06,266
+做了一把钻木取火的工具
+
+538
+00:01:06,400 --> 00:01:08,300
+随后我们确保这东西可用
+
+539
+00:01:08,300 --> 00:01:11,400
+但这样随手点的火没什么用
+
+540
+00:01:11,400 --> 00:01:14,633
+所以我们开始做一些有用的工具
+
+541
+00:01:14,800 --> 00:01:18,400
+我们把先前收集的石头打制成斧头
+
+542
+00:01:18,400 --> 00:01:20,333
+并把它绑在一个斧柄上
+
+543
+00:01:20,400 --> 00:01:21,933
+现在我们有了把斧头
+
+544
+00:01:21,966 --> 00:01:25,066
+可以砍树来收集点木材
+
+545
+00:01:25,066 --> 00:01:28,966
+但砍这些大树很耗时
+
+546
+00:01:29,000 --> 00:01:32,800
+所以我们转而寻找一些已经倒下的树
+
+547
+00:01:33,000 --> 00:01:35,033
+这些干枯朽木腐朽到了
+
+548
+00:01:35,066 --> 00:01:38,066
+会自己倒下
+
+549
+00:01:38,200 --> 00:01:39,033
+有了这些木材
+
+550
+00:01:39,066 --> 00:01:42,200
+我们可以做一个可控的篝火
+
+551
+00:01:42,400 --> 00:01:44,400
+除此之外还需要加两个树枝
+
+552
+00:01:44,400 --> 00:01:46,300
+来辅助点火
+
+553
+00:01:46,400 --> 00:01:47,600
+尽管如此
+
+554
+00:01:47,666 --> 00:01:51,066
+我们仍然要花时间尝试几次才能点起火
+
+555
+00:01:51,100 --> 00:01:53,400
+现在我们有了篝火
+
+556
+00:01:53,400 --> 00:01:56,566
+可以用来缓慢地点燃一些木棍
+
+557
+00:01:56,600 --> 00:01:58,000
+来做火把
+
+558
+00:01:58,066 --> 00:01:59,066
+有了这些
+
+559
+00:01:59,066 --> 00:02:03,466
+我们现在可以昼夜兼行了
+
+560
+00:02:18,300 --> 00:02:20,500
+几天几夜的徒步后
+
+561
+00:02:20,500 --> 00:02:24,866
+我们发现自己被困在了被海洋环绕的一个大岛上
+
+562
+00:02:25,000 --> 00:02:28,166
+尽管我们找到了还不错的气候区
+
+563
+00:02:28,166 --> 00:02:31,366
+但那地方并不适合定居
+
+564
+00:02:31,500 --> 00:02:34,200
+所以我们决定往回走一点
+
+565
+00:02:34,200 --> 00:02:35,966
+到一个气候不算恶劣
+
+566
+00:02:36,000 --> 00:02:37,666
+但植被很丰富的地区
+
+567
+00:02:37,666 --> 00:02:40,866
+现在我们找到了一片建家的好地方
+
+568
+00:02:40,900 --> 00:02:44,600
+也得给我们背包里的这堆破烂找个家
+
+569
+00:02:44,800 --> 00:02:45,400
+为此
+
+570
+00:02:45,400 --> 00:02:49,133
+我们在河边收集一些黏土
+
+571
+00:02:49,200 --> 00:02:50,300
+在这个整合包里
+
+572
+00:02:50,300 --> 00:02:52,766
+黏土不仅会像沙子一样有重力
+
+573
+00:02:52,800 --> 00:02:56,400
+在你挖掉它旁边的方块时它还会向侧边滑落
+
+574
+00:02:56,400 --> 00:02:59,400
+总之为了加快收集黏土的速度
+
+575
+00:02:59,400 --> 00:03:01,233
+我们又打了一些石头
+
+576
+00:03:01,266 --> 00:03:03,066
+来做铲子
+
+577
+00:03:03,066 --> 00:03:04,466
+一旦我们收集了足够多
+
+578
+00:03:04,500 --> 00:03:08,400
+我们就花一整晚来将它们捏成各种形状
+
+579
+00:03:08,400 --> 00:03:10,600
+你可能看出来了
+
+580
+00:03:10,600 --> 00:03:14,600
+要存下这些物品，我们最需要的是大缸
+
+581
+00:03:14,600 --> 00:03:17,600
+但是刚捏出来的黏土缸还太软
+
+582
+00:03:17,800 --> 00:03:19,566
+为了将它烧成能用的陶罐
+
+583
+00:03:19,566 --> 00:03:21,600
+我们把它放进坑里
+
+584
+00:03:21,600 --> 00:03:23,733
+覆盖上干草和木材
+
+585
+00:03:23,766 --> 00:03:24,766
+并将其点燃
+
+586
+00:03:24,766 --> 00:03:26,966
+烧制需要8分钟
+
+587
+00:03:27,000 --> 00:03:30,800
+而且我们最好保证旁边没有可燃物
+
+588
+00:03:30,800 --> 00:03:33,400
+下雨不会影响烧陶器的进度
+
+589
+00:03:33,400 --> 00:03:36,300
+但雨也许能帮我们灭一灭火
+
+590
+00:03:36,300 --> 00:03:36,733
+也许吧
+
+591
+00:03:37,000 --> 00:03:39,400
+等待它完成的时候
+
+592
+00:03:39,400 --> 00:03:42,166
+我们可以为下个任务做更多准备
+
+593
+00:03:42,200 --> 00:03:43,200
+也就是冶金
+
+594
+00:03:43,300 --> 00:03:48,400
+
+因此我们为青铜工具制作了铸模
+
+
+595
+00:03:48,566 --> 00:03:49,766
+再一次地
+
+596
+00:03:49,800 --> 00:03:53,000
+我们挖了坑，并用燃料把铸模埋进坑里
+
+597
+00:03:53,000 --> 00:03:55,200
+随后点火
+
+598
+00:03:55,200 --> 00:03:57,766
+我们又制作了更多模具
+
+599
+00:03:57,800 --> 00:04:00,000
+等待烧制的时间里
+
+600
+00:04:00,000 --> 00:04:02,033
+我们可以在家周围逛逛
+
+601
+00:04:02,033 --> 00:04:03,666
+找一些地表的矿粒
+
+602
+00:04:03,700 --> 00:04:06,800
+现在我们主要找锡和铜
+
+603
+00:04:06,800 --> 00:04:08,333
+收集了一些矿粒之后
+
+604
+00:04:08,400 --> 00:04:09,600
+我们回家
+
+605
+00:04:09,600 --> 00:04:11,566
+我们的第一个大缸已经准备好了
+
+606
+00:04:11,566 --> 00:04:14,766
+终于可以用它来释放一些背包空间
+
+607
+00:04:14,866 --> 00:04:16,800
+大缸还有一个很好的特性
+
+608
+00:04:16,800 --> 00:04:18,033
+关上缸盖后
+
+609
+00:04:18,066 --> 00:04:20,766
+其中的食物保质期会延长一倍
+
+610
+00:04:21,000 --> 00:04:24,066
+接着我们拿出小缸
+
+611
+00:04:24,300 --> 00:04:26,900
+它们可以当成小背包用
+
+612
+00:04:26,900 --> 00:04:29,100
+但它的主要功能是熔化金属
+
+613
+00:04:29,200 --> 00:04:32,700
+我们可以熔化一些黝铜矿来获得铜
+
+614
+00:04:32,700 --> 00:04:34,366
+但我们想要的是青铜
+
+615
+00:04:34,366 --> 00:04:34,900
+要获得青铜
+
+616
+00:04:34,900 --> 00:04:37,466
+我们需要在冶炼时加入一些锡石
+
+617
+00:04:37,600 --> 00:04:39,366
+合金的比例不是特别严格
+
+618
+00:04:39,366 --> 00:04:42,866
+将它保持在那个区间里就可以
+
+619
+00:04:43,066 --> 00:04:45,633
+我们只需要将指针悬停在物品上
+
+620
+00:04:45,633 --> 00:04:49,000
+看tooltip里的生成物提示就好了
+
+621
+00:04:49,100 --> 00:04:50,200
+
+一但我们觉得满意
+
+
+622
+00:04:50,200 --> 00:04:52,800
+我们就点燃坑窑来熔炼它们
+
+623
+00:04:52,800 --> 00:04:55,600
+等火一灭
+
+624
+00:04:55,600 --> 00:04:59,400
+我们在它还热得让金属保持液态的时候就立刻拿起小缸
+
+625
+00:04:59,400 --> 00:05:02,400
+我们用它做的第一个东西是锯片
+
+626
+00:05:02,400 --> 00:05:04,966
+我们又设法做了探矿镐
+
+627
+00:05:05,000 --> 00:05:06,600
+和一把普通镐子
+
+628
+00:05:06,666 --> 00:05:08,800
+一旦金属冷却
+
+629
+00:05:08,800 --> 00:05:10,333
+我们就将其脱模
+
+630
+00:05:10,366 --> 00:05:13,000
+
+并用来合成一些可使用的工具
+
+
+631
+00:05:13,100 --> 00:05:17,100
+我们用新锯子从原木中切出木材
+
+632
+00:05:17,100 --> 00:05:20,400
+好用来做工作台和箱子
+
+633
+00:05:20,400 --> 00:05:22,400
+做完我们才发现
+
+634
+00:05:22,400 --> 00:05:25,066
+我们选的木头太难看了
+
+635
+00:05:25,066 --> 00:05:28,066
+所以我们将它们全部换成了更好看的材质
+
+636
+00:05:28,100 --> 00:05:29,833
+但接下来的冒险中
+
+637
+00:05:29,866 --> 00:05:31,266
+我们还需要更多金属
+
+638
+00:05:31,266 --> 00:05:34,000
+而地表的金属粒完全不够用‘
+
+639
+00:05:34,000 --> 00:05:35,833
+为了找到更大的矿脉
+
+640
+00:05:35,866 --> 00:05:38,833
+我们在金属粒周围使用勘矿镐
+
+641
+00:05:38,833 --> 00:05:41,166
+来确定地表的矿物分布
+
+642
+00:05:41,400 --> 00:05:42,900
+一旦我们定位到一些矿石
+
+643
+00:05:42,900 --> 00:05:45,133
+我们就向下挖掘
+
+644
+00:05:45,400 --> 00:05:47,000
+但这里是群峦
+
+645
+00:05:47,100 --> 00:05:50,600
+就算挖洞也比想象中难
+
+646
+00:05:50,766 --> 00:05:52,266
+如果我们不够小心
+
+647
+00:05:52,300 --> 00:05:54,500
+就连硬质岩石也会砸在我们身上
+
+648
+00:05:54,666 --> 00:05:55,866
+为了防止坍塌
+
+649
+00:05:55,900 --> 00:05:57,600
+我们需要支撑梁
+
+650
+00:05:57,600 --> 00:06:00,833
+每一根支撑梁都会防止周围的方块坠落
+
+651
+00:06:00,866 --> 00:06:04,366
+我们每隔一段距离就放一些
+
+652
+00:06:04,366 --> 00:06:06,366
+现在我们可以在矿道里寻找
+
+653
+00:06:06,366 --> 00:06:09,000
+直到找到我们需要的矿物
+
+654
+00:06:09,000 --> 00:06:12,066
+用锤子采矿可以增产
+
+655
+00:06:12,100 --> 00:06:13,933
+在采矿的过程中
+
+656
+00:06:13,966 --> 00:06:16,766
+我们遇到了未预料的危险
+
+657
+00:06:16,800 --> 00:06:19,800
+一些矿物是有毒的，会毒害我们
+
+658
+00:06:19,800 --> 00:06:22,566
+且似乎这种毒性强到
+
+659
+00:06:22,600 --> 00:06:25,300
+即便我们丢掉这些有毒矿物
+
+660
+00:06:25,300 --> 00:06:26,866
+我们仍然被毒死了
+
+661
+00:06:26,900 --> 00:06:29,600
+这给我们带来了一个更烦人的问题
+
+662
+00:06:29,666 --> 00:06:32,966
+
+我们重生在了4000格外的位置
+
+
+663
+00:06:33,066 --> 00:06:38,200
+每次我们死亡后都要跑这么远不是一件好事
+
+664
+00:06:38,200 --> 00:06:41,233
+所以在长途跋涉回到矿道后
+
+665
+00:06:41,266 --> 00:06:42,366
+我们存了一个备份
+
+666
+00:06:42,366 --> 00:06:44,066
+挑出有毒矿物
+
+667
+00:06:44,066 --> 00:06:45,666
+并捡回了我们的尸体
+
+668
+00:06:45,700 --> 00:06:47,466
+我们开始准备做床
+
+669
+00:06:47,466 --> 00:06:49,666
+这需要一些柔软的材料
+
+670
+00:06:49,700 --> 00:06:52,800
+最简单的方法就是随便做一把剑
+
+671
+00:06:52,800 --> 00:06:55,766
+然后去找羊驼们借一点羊皮
+
+672
+00:06:55,800 --> 00:06:58,500
+用小刀把羊毛从羊皮上弄下来
+
+673
+00:06:58,500 --> 00:07:00,966
+但这样的羊毛还是粗制的不能直接用
+
+674
+00:07:00,966 --> 00:07:04,266
+所以我们用纺锤将其纺成羊毛纱
+
+675
+00:07:04,300 --> 00:07:05,800
+随后在织布机的帮助下
+
+676
+00:07:05,800 --> 00:07:06,933
+我们获得了一些羊毛布
+
+677
+00:07:06,966 --> 00:07:09,166
+可以用来做床
+
+678
+00:07:09,200 --> 00:07:11,900
+现在我们就可以重生在家里了
+
+679
+00:07:11,966 --> 00:07:13,966
+我们要关心的第二件事是
+
+680
+00:07:14,000 --> 00:07:16,266
+为过冬而准备的食物
+
+681
+00:07:16,300 --> 00:07:19,600
+问题在于大多数食物过期得很快
+
+682
+00:07:19,700 --> 00:07:23,866
+但我们有办法解决，比如将它烤熟
+
+683
+00:07:23,900 --> 00:07:26,666
+而现在我们已经满足了生存的基本需求
+
+684
+00:07:26,666 --> 00:07:30,466
+是时候着手于即将到来的工业化了
+
+685
+00:07:30,600 --> 00:07:34,100
+于是我们开始收集大量的铜矿石
+
+686
+00:07:34,100 --> 00:07:37,166
+将其熔炼，我们还需要很多木头
+
+687
+00:07:37,200 --> 00:07:40,066
+然而在这里砍树花的时间
+
+688
+00:07:40,066 --> 00:07:43,733
+大概比现实里砍倒一棵树还要久
+
+689
+00:07:43,766 --> 00:07:46,266
+不过幸运的是，不知出于什么原因
+
+690
+00:07:46,300 --> 00:07:48,800
+蹲下的同时砍树会获得加速
+
+691
+00:07:48,800 --> 00:07:51,533
+同时还不会产生副产的木棍
+
+692
+00:07:51,566 --> 00:07:55,666
+我们费劲获得的木材烧陶器还不错
+
+693
+00:07:55,666 --> 00:07:58,166
+但并不适合金属加工
+
+694
+00:07:58,200 --> 00:08:01,600
+所以我们做了一个木炭坑来制炭
+
+695
+00:08:01,600 --> 00:08:04,466
+只需要在坑里埋一些原木
+
+696
+00:08:04,500 --> 00:08:06,400
+然后点火
+
+697
+00:08:06,566 --> 00:08:08,066
+我们必须小心
+
+698
+00:08:08,100 --> 00:08:10,200
+不能让燃烧的木头和空气接触
+
+699
+00:08:10,200 --> 00:08:12,566
+否则它们会烧成灰烬
+
+700
+00:08:12,600 --> 00:08:14,500
+过一天左右
+
+701
+00:08:14,500 --> 00:08:16,000
+烧制完成了
+
+702
+00:08:16,000 --> 00:08:17,600
+木头被烧成了木炭
+
+703
+00:08:17,600 --> 00:08:19,366
+我们现在可以把它们挖下来
+
+704
+00:08:19,400 --> 00:08:21,966
+随后我们把木炭摆进由石头环绕的坑里
+
+705
+00:08:22,000 --> 00:08:23,466
+点上火
+
+706
+00:08:23,466 --> 00:08:25,666
+获得了一个基础的木炭炉
+
+707
+00:08:25,800 --> 00:08:28,366
+我们添加一些木炭和铸模
+
+708
+00:08:28,400 --> 00:08:31,700
+再放入我们想熔炼的矿石
+
+709
+00:08:32,000 --> 00:08:33,400
+足够长时间后
+
+710
+00:08:33,400 --> 00:08:35,233
+熔融金属会流出矿石
+
+711
+00:08:35,266 --> 00:08:37,066
+再流进铸模里
+
+712
+00:08:37,166 --> 00:08:39,666
+之后我们就可以从中取出金属锭
+
+713
+00:08:40,000 --> 00:08:41,266
+要加工这些金属锭
+
+714
+00:08:41,266 --> 00:08:44,266
+我们需要一些足够硬的材料来将锭放在上面锤锻
+
+715
+00:08:44,266 --> 00:08:47,000
+但这里的石头都太软了
+
+716
+00:08:47,300 --> 00:08:50,200
+我们在矿洞里找到了足够硬的石头
+
+717
+00:08:50,200 --> 00:08:53,166
+但把它们带回家不是件容易的事情
+
+718
+00:08:53,300 --> 00:08:54,866
+如果我们用镐子挖掉
+
+719
+00:08:54,866 --> 00:08:57,000
+它会碎成石子
+
+720
+00:08:57,166 --> 00:08:59,166
+就算用锤子也一样
+
+721
+00:08:59,366 --> 00:09:02,166
+要完整取得一块石头
+
+722
+00:09:02,166 --> 00:09:05,266
+我们需要破坏与目标相连的所有方块
+
+723
+00:09:05,300 --> 00:09:07,566
+使之几乎悬空
+
+724
+00:09:07,566 --> 00:09:10,366
+随后它会以一整个方块掉落
+
+725
+00:09:10,700 --> 00:09:13,666
+我们把这块坚硬的石头带回到木炭炉旁边
+
+726
+00:09:13,666 --> 00:09:15,766
+用锤子将其变成石砧
+
+727
+00:09:16,200 --> 00:09:18,200
+我们要用它做的第一件事
+
+728
+00:09:18,200 --> 00:09:20,766
+是焊接一个铜双锭
+
+729
+00:09:21,000 --> 00:09:22,000
+不过当然
+
+730
+00:09:22,000 --> 00:09:24,600
+不管我们如何敲打
+
+731
+00:09:24,600 --> 00:09:26,466
+都得先把它们加热
+
+732
+00:09:26,700 --> 00:09:28,566
+所以我们点起木炭炉
+
+733
+00:09:28,566 --> 00:09:32,066
+等铜锭烧到橙温度
+
+734
+00:09:32,400 --> 00:09:34,933
+在它熔化或冷却之前
+
+735
+00:09:34,966 --> 00:09:36,566
+我们将其放在砧上
+
+736
+00:09:36,800 --> 00:09:41,466
+但空手转移红热的金属锭不是个好主意
+
+737
+00:09:41,700 --> 00:09:43,366
+为了完成任务
+
+738
+00:09:43,366 --> 00:09:45,166
+我们用一对木棍夹取它们
+
+739
+00:09:45,266 --> 00:09:46,666
+但与此同时
+
+740
+00:09:46,700 --> 00:09:49,100
+它们已经冷却了
+
+741
+00:09:49,100 --> 00:09:51,200
+所以我们重新加热它们
+
+742
+00:09:51,400 --> 00:09:54,100
+我们最好放几个铸模做保险
+
+743
+00:09:54,100 --> 00:09:56,166
+以防金属熔化消失掉
+
+744
+00:09:56,366 --> 00:09:58,100
+一旦到达可焊接温度
+
+745
+00:09:58,100 --> 00:09:59,966
+我们再试一次焊接
+
+746
+00:10:00,000 --> 00:10:01,400
+而这一次
+
+747
+00:10:01,400 --> 00:10:04,766
+我们意识到还需要一些助焊剂
+
+748
+00:10:04,966 --> 00:10:05,666
+幸运的是
+
+749
+00:10:05,700 --> 00:10:08,500
+我们周围的石头是沉积岩
+
+750
+00:10:08,500 --> 00:10:10,666
+它们可以被打碎成助焊剂
+
+751
+00:10:10,666 --> 00:10:13,966
+有了这些，我们终于获得了双锭
+
+752
+00:10:14,266 --> 00:10:16,266
+不要在意这个贴图丢失
+
+753
+00:10:16,400 --> 00:10:17,733
+有足够多的双锭后
+
+754
+00:10:17,766 --> 00:10:19,766
+我们可以做出更好一点的砧
+
+755
+00:10:20,000 --> 00:10:21,800
+铜砧不只更好看
+
+756
+00:10:21,800 --> 00:10:25,200
+我们还可以用它处理更硬的金属
+
+757
+00:10:25,200 --> 00:10:26,666
+比如青铜
+
+758
+00:10:26,700 --> 00:10:27,900
+总之
+
+759
+00:10:27,900 --> 00:10:29,933
+我们现在有了青铜砧
+
+760
+00:10:30,166 --> 00:10:32,766
+但一个合格的砧起码得是铁做的
+
+761
+00:10:32,900 --> 00:10:34,400
+但暂时
+
+762
+00:10:34,400 --> 00:10:37,866
+我们没有能够从矿石中熔炼铁的工具
+
+763
+00:10:37,866 --> 00:10:40,466
+相反，我们需要用锻铁炉进行加工
+
+764
+00:10:40,566 --> 00:10:43,600
+而锻铁炉又需要相当多的青铜
+
+765
+00:10:43,600 --> 00:10:45,366
+也意味着相当多的铜
+
+766
+00:10:45,500 --> 00:10:46,666
+为了节约铜
+
+767
+00:10:46,700 --> 00:10:48,866
+我们可以换一种青铜
+
+768
+00:10:48,866 --> 00:10:50,566
+它需求更少的铜
+
+769
+00:10:50,566 --> 00:10:54,566
+取而代之的是一些不那么有用但储量更丰富的矿物
+
+770
+00:10:54,600 --> 00:10:56,133
+也就是铋青铜
+
+771
+00:10:56,200 --> 00:10:59,266
+我们还可以对铜矿进行增产
+
+772
+00:10:59,266 --> 00:11:02,200
+首先用水洗去杂质
+
+773
+00:11:02,200 --> 00:11:04,333
+然后把它敲成更细的粉末
+
+774
+00:11:04,366 --> 00:11:06,600
+使得熔炼更加容易
+
+775
+00:11:06,600 --> 00:11:09,266
+随后我们洗掉其中的可溶部分
+
+776
+00:11:09,300 --> 00:11:11,500
+只剩下纯净的矿粉
+
+777
+00:11:11,500 --> 00:11:14,300
+相比之下可以几乎增产一倍
+
+778
+00:11:14,600 --> 00:11:16,500
+这也使得产物溢出了小缸
+
+779
+00:11:16,500 --> 00:11:20,066
+让我们的珍贵矿石变成了垃圾
+
+780
+00:11:20,100 --> 00:11:22,700
+现在我们只能再多收集一些
+
+781
+00:11:22,800 --> 00:11:25,300
+且注意不要让产量溢出容器
+
+782
+00:11:25,400 --> 00:11:26,500
+为了下一个任务
+
+783
+00:11:26,500 --> 00:11:28,933
+仅有双锭还不够
+
+784
+00:11:29,066 --> 00:11:31,466
+我们必须将其锤锻成合格的板材
+
+785
+00:11:31,466 --> 00:11:33,366
+而锤锻的过程必须适当
+
+786
+00:11:33,400 --> 00:11:35,533
+这意味着我们必须不停敲击
+
+787
+00:11:35,566 --> 00:11:37,000
+使其足够平整
+
+788
+00:11:37,000 --> 00:11:38,600
+且没有孔洞
+
+789
+00:11:38,700 --> 00:11:40,100
+经历了足够的锤锻后
+
+790
+00:11:40,100 --> 00:11:42,266
+我们获得了第一块板
+
+791
+00:11:42,566 --> 00:11:44,166
+但它太单薄了
+
+792
+00:11:44,200 --> 00:11:46,366
+所以我们锻造了第二块
+
+793
+00:11:46,366 --> 00:11:47,800
+将二者加热
+
+794
+00:11:47,800 --> 00:11:49,800
+并焊接在一起
+
+795
+00:11:50,466 --> 00:11:51,466
+再做出14块板后
+
+796
+00:11:51,466 --> 00:11:53,400
+我们最终做出了锻铁炉
+
+797
+00:11:53,800 --> 00:11:55,200
+但是，要使用它
+
+798
+00:11:55,200 --> 00:11:57,466
+我们还需要一些砖块
+
+799
+00:11:57,566 --> 00:12:00,266
+我们将一些石灰溶入水中
+
+800
+00:12:00,266 --> 00:12:01,066
+加入一些沙子
+
+801
+00:12:01,100 --> 00:12:03,800
+并封存几个小时来获得砂浆
+
+802
+00:12:04,200 --> 00:12:07,466
+接下来我们拿一些挖矿时收集的石子
+
+803
+00:12:07,466 --> 00:12:09,366
+用凿子将其凿成砖块
+
+804
+00:12:09,400 --> 00:12:11,566
+最后制成石砖方块
+
+805
+00:12:11,666 --> 00:12:14,566
+我们用这些石砖建造了锻铁炉的烟囱
+
+806
+00:12:14,800 --> 00:12:17,766
+且这些砖块便宜又好看
+
+807
+00:12:17,766 --> 00:12:21,366
+我们也将用它们来做我们未来的家的墙壁
+
+808
+00:12:21,466 --> 00:12:25,966
+我们往锻铁炉里丟一些铁矿石和木炭
+
+809
+00:12:26,000 --> 00:12:27,600
+并点着火
+
+810
+00:12:27,800 --> 00:12:29,800
+冶炼需要花费很长时间
+
+811
+00:12:29,800 --> 00:12:32,433
+它会留下生铁方坯
+
+812
+00:12:32,600 --> 00:12:34,766
+我们用镐将它们挖出来
+
+813
+00:12:34,766 --> 00:12:36,800
+接下来借助青铜砧
+
+814
+00:12:36,900 --> 00:12:39,666
+我们将它们锤锻成锻铁锭
+
+815
+00:12:39,800 --> 00:12:42,066
+随后用这些锻铁升级了砧
+
+816
+00:12:42,366 --> 00:12:43,966
+下一阶段是钢
+
+817
+00:12:43,966 --> 00:12:47,000
+但要获得它，我们还有很长的路要走
+
+818
+00:12:47,100 --> 00:12:49,166
+我们需要一些新设备
+
+819
+00:12:49,200 --> 00:12:53,000
+但这些都要从一种我们尚未获得的材料开始
+
+820
+00:12:53,000 --> 00:12:53,766
+高岭土
+
+821
+00:12:53,800 --> 00:12:55,000
+最大的问题是
+
+822
+00:12:55,000 --> 00:12:59,400
+高岭土只能在潮湿又炎热的群系中找到
+
+823
+00:12:59,400 --> 00:13:00,966
+离我们很远
+
+824
+00:13:01,000 --> 00:13:05,266
+要到达那的话，我们必须想办法跨越这片海洋
+
+825
+00:13:05,266 --> 00:13:08,200
+最好的办法是做一艘船
+
+826
+00:13:08,200 --> 00:13:10,066
+并且在船的种类上我们还有不少选择
+
+827
+00:13:10,166 --> 00:13:12,200
+但目前并不所有的都可选
+
+828
+00:13:12,200 --> 00:13:15,400
+有些船造价很贵且需要钢
+
+829
+00:13:15,400 --> 00:13:16,033
+总之
+
+830
+00:13:16,066 --> 00:13:19,466
+
+做一艘足够好的船的第一步是做一些船架
+
+
+831
+00:13:19,500 --> 00:13:21,900
+好让我们在搭建时固定船体
+
+832
+00:13:22,100 --> 00:13:23,600
+接下来是一些木板
+
+833
+00:13:23,600 --> 00:13:26,366
+用来构成船体结构
+
+834
+00:13:26,400 --> 00:13:27,866
+为了钉住所有方块
+
+835
+00:13:27,900 --> 00:13:30,266
+我们可以做一些铜螺栓
+
+836
+00:13:30,400 --> 00:13:33,400
+我们先将锭锤锻成杆
+
+837
+00:13:33,400 --> 00:13:35,100
+随后用锯子将其切断
+
+838
+00:13:35,100 --> 00:13:37,066
+与此同时
+
+839
+00:13:37,066 --> 00:13:39,566
+我们还做了一对桨座
+
+840
+00:13:39,600 --> 00:13:41,466
+最后再做一对船桨
+
+841
+00:13:41,466 --> 00:13:43,966
+我们就可以开始组装船了
+
+842
+00:13:44,000 --> 00:13:47,333
+第一步用脚手架搭出结构
+
+843
+00:13:47,366 --> 00:13:49,766
+再用木板填充
+
+844
+00:13:49,766 --> 00:13:51,566
+接下来借助锤子的力量
+
+845
+00:13:51,600 --> 00:13:53,966
+我们将铜螺栓钉进船体结构
+
+846
+00:13:53,966 --> 00:13:55,666
+好保证船不散架
+
+847
+00:13:55,700 --> 00:13:57,800
+为了完成我们的新船
+
+848
+00:13:57,800 --> 00:13:59,333
+我们为之加上桨座
+
+849
+00:13:59,400 --> 00:14:02,233
+装上船桨，跳上去来使用这艘船
+
+850
+00:14:02,600 --> 00:14:04,800
+这艘船的动力源是魔法船桨
+
+851
+00:14:04,800 --> 00:14:06,700
+只要你盯着它们看，它们就会转起来
+
+852
+00:14:06,900 --> 00:14:09,200
+在我们怀着探险的渴望
+
+853
+00:14:09,200 --> 00:14:10,866
+出海之前
+
+854
+00:14:10,866 --> 00:14:14,200
+我们加装了一些箱子来作为储存战利品的额外空间
+
+855
+00:14:14,366 --> 00:14:16,366
+我们还应该够带些食物
+
+856
+00:14:16,400 --> 00:14:18,366
+以及水和背包
+
+857
+00:14:18,366 --> 00:14:20,566
+不过我觉得保存一个备份就足够了
+
+858
+00:14:20,700 --> 00:14:23,666
+在跨海的长途跋涉后
+
+859
+00:14:23,666 --> 00:14:25,366
+我们终于发现了新大陆
+
+860
+00:14:25,800 --> 00:14:28,633
+但最初的喜悦过后
+
+861
+00:14:28,666 --> 00:14:30,666
+接踵而至的是更多的失望
+
+862
+00:14:30,800 --> 00:14:32,433
+我们发现的只是座岛
+
+863
+00:14:32,800 --> 00:14:35,366
+紧挨着的是一个火山岛
+
+864
+00:14:35,400 --> 00:14:37,000
+和另一个只有沙滩的大岛
+
+865
+00:14:37,000 --> 00:14:38,666
+同样什么都没有
+
+866
+00:14:39,000 --> 00:14:39,733
+但幸运的是
+
+867
+00:14:39,733 --> 00:14:41,966
+在不远的地方我们再次发现了陆地
+
+868
+00:14:42,000 --> 00:14:44,366
+这次是一块由丘陵构成的大陆
+
+869
+00:14:44,366 --> 00:14:46,366
+在这里我们找到了许多新植被
+
+870
+00:14:46,366 --> 00:14:48,966
+但不幸的是并没有高岭土
+
+871
+00:14:49,200 --> 00:14:52,100
+所以我们开始绕海岸线航行
+
+872
+00:14:52,100 --> 00:14:54,066
+然而为了避开一片沼泽
+
+873
+00:14:54,066 --> 00:14:57,266
+我们驶入一条从内陆流出来的河流来一探究竟
+
+874
+00:14:57,466 --> 00:15:00,766
+就在那时我们发现了一种可疑的红色花
+
+875
+00:15:01,200 --> 00:15:02,833
+仔细观察后
+
+876
+00:15:02,866 --> 00:15:04,766
+我们发现这是火球花
+
+877
+00:15:04,766 --> 00:15:07,600
+而这种花只会长在高岭土之上
+
+878
+00:15:07,966 --> 00:15:11,366
+然而挖掘后我们却什么都没找到
+
+879
+00:15:11,866 --> 00:15:13,766
+而且那花此时也失去了花瓣
+
+880
+00:15:13,766 --> 00:15:15,966
+看起来和普通的草没什么两样
+
+881
+00:15:16,200 --> 00:15:18,533
+但就在周围
+
+882
+00:15:18,566 --> 00:15:20,566
+我们终于找到了高岭土
+
+883
+00:15:20,566 --> 00:15:25,666
+就在那个决定谢掉花瓣来增添我们寻找难度的那朵花旁边
+
+884
+00:15:25,866 --> 00:15:29,566
+我们用这些高岭土填满了背包
+
+885
+00:15:29,566 --> 00:15:31,166
+随后回家
+
+886
+00:15:31,400 --> 00:15:32,866
+停好船后
+
+887
+00:15:32,900 --> 00:15:36,000
+我们意识到风在把我们的船推向大海
+
+888
+00:15:36,100 --> 00:15:39,366
+而我们还没有钢来制作柱子拴住船
+
+889
+00:15:39,366 --> 00:15:41,366
+只好把它围在小水泊里
+
+890
+00:15:41,400 --> 00:15:43,000
+既然有了高岭土
+
+891
+00:15:43,000 --> 00:15:44,866
+我们就把它们烘干烤成粉末
+
+892
+00:15:45,000 --> 00:15:46,100
+为了加热它们
+
+893
+00:15:46,100 --> 00:15:47,866
+我们点燃了木炭炉
+
+894
+00:15:48,000 --> 00:15:50,000
+然而没过多久
+
+895
+00:15:50,000 --> 00:15:53,466
+我们就意识到这样处理又慢又无聊
+
+896
+00:15:53,666 --> 00:15:55,400
+为了简化流程
+
+897
+00:15:55,400 --> 00:15:58,000
+我们不再一个一个烧
+
+898
+00:15:58,000 --> 00:16:00,400
+取而代之的是用小缸装满后一起加热
+
+899
+00:16:00,566 --> 00:16:04,066
+经过很长时间，耗费了很多木炭后，它终于完成了
+
+900
+00:16:04,200 --> 00:16:06,966
+但此时还太热，不能打开
+
+901
+00:16:07,066 --> 00:16:09,400
+所以我们在水坑里冷却它
+
+902
+00:16:09,566 --> 00:16:12,466
+现在我们有了高岭石粉
+
+903
+00:16:12,600 --> 00:16:14,666
+但这些实际上还不够
+
+904
+00:16:14,666 --> 00:16:16,166
+所以我们重复这个过程
+
+905
+00:16:16,266 --> 00:16:20,066
+这次我们换用坑窑代替木炭炉
+
+906
+00:16:20,066 --> 00:16:21,066
+等待的时候
+
+907
+00:16:21,100 --> 00:16:25,100
+我们可以着手于下一个任务所需的材料
+
+908
+00:16:25,100 --> 00:16:25,633
+石墨
+
+909
+00:16:25,966 --> 00:16:27,066
+要找到它
+
+910
+00:16:27,066 --> 00:16:29,000
+我们可以先找到我们最好的朋友
+
+911
+00:16:29,000 --> 00:16:29,933
+钻石芽
+
+912
+00:16:29,966 --> 00:16:33,166
+它们指示着底下的含碳矿脉
+
+913
+00:16:33,200 --> 00:16:37,666
+并且我们已经可以在地表收集少量的石墨粉了
+
+914
+00:16:37,900 --> 00:16:39,033
+向下挖掘一会后
+
+915
+00:16:39,066 --> 00:16:39,966
+我们发现了一个矿洞
+
+916
+00:16:39,966 --> 00:16:43,166
+其中有着裸露的石墨矿
+
+917
+00:16:43,166 --> 00:16:44,266
+我们挖了一些原矿
+
+918
+00:16:44,266 --> 00:16:46,666
+将它们处理成纯净粉末
+
+919
+00:16:46,700 --> 00:16:48,600
+但它还粉碎得不够细
+
+920
+00:16:48,600 --> 00:16:52,400
+所以我们用新的手推磨将其磨得更细
+
+921
+00:16:52,400 --> 00:16:54,600
+再将其与高岭石粉和黏土混合
+
+922
+00:16:54,600 --> 00:16:55,733
+得到了耐火黏土
+
+923
+00:16:55,766 --> 00:16:58,000
+我们可以将其捏成坩埚
+
+924
+00:16:58,100 --> 00:17:00,200
+和普通黏土一样
+
+925
+00:17:00,200 --> 00:17:02,066
+我们必须将它在放在木炭炉里烧制
+
+926
+00:17:02,100 --> 00:17:03,966
+来制成陶器
+
+927
+00:17:03,966 --> 00:17:05,566
+但经过很长时间后
+
+928
+00:17:05,566 --> 00:17:08,000
+我们意识到这样行不通
+
+929
+00:17:08,000 --> 00:17:10,200
+我们必须将其加热到黄白****(4)才行
+
+930
+00:17:10,600 --> 00:17:14,333
+然而我们的木炭最多只能烧到黄白**(2)
+
+931
+00:17:14,466 --> 00:17:17,000
+一种解决方案是使用更好的燃料
+
+932
+00:17:17,000 --> 00:17:20,466
+比如我们在钻石石墨矿脉里收集到的煤炭
+
+933
+00:17:20,500 --> 00:17:22,400
+但我们的存量很少
+
+934
+00:17:22,400 --> 00:17:24,766
+所以我们把它留下以备更好的用途
+
+935
+00:17:24,900 --> 00:17:26,966
+取而代之的是，我们制作一种新工具
+
+936
+00:17:26,966 --> 00:17:30,766
+从处理获取羊毛而留下的兽皮开始
+
+937
+00:17:30,866 --> 00:17:33,166
+这些兽皮还太粗糙太脏
+
+938
+00:17:33,200 --> 00:17:34,900
+所以我们开始清洁
+
+939
+00:17:34,900 --> 00:17:36,966
+首先将其浸泡在石灰水中
+
+940
+00:17:37,000 --> 00:17:39,233
+接下来为了获得一张足够结实的桌子
+
+941
+00:17:39,266 --> 00:17:41,666
+我们放下一块原木并剥掉树皮
+
+942
+00:17:41,866 --> 00:17:44,066
+现在我们可以把准备好的兽皮铺在上面
+
+943
+00:17:44,066 --> 00:17:46,366
+开始进行刮制
+
+944
+00:17:46,366 --> 00:17:48,666
+一旦我们完成了刮制皮革
+
+945
+00:17:48,700 --> 00:17:50,600
+我们将其封存在装有淡水的大桶里
+
+946
+00:17:50,600 --> 00:17:52,633
+清理掉所有残留
+
+947
+00:17:52,666 --> 00:17:55,666
+最后再准备一些鞣酸
+
+948
+00:17:55,700 --> 00:17:58,466
+将预制皮革在其中浸泡来得到真正的皮革
+
+949
+00:17:58,466 --> 00:18:01,066
+有了它，我们现在就可以合成我们的新工具
+
+950
+00:18:01,100 --> 00:18:03,400
+来提高木炭炉温度
+
+951
+00:18:03,400 --> 00:18:04,266
+也就是风箱
+
+952
+00:18:04,366 --> 00:18:07,266
+而这时我们才意识到已经入了冬季
+
+953
+00:18:07,266 --> 00:18:09,266
+而我们的家还没有屋顶
+
+954
+00:18:09,266 --> 00:18:13,366
+
+所以在用我们的新玩具来做出坩埚后
+
+
+955
+00:18:13,366 --> 00:18:15,366
+我们很快也做好了屋顶
+
+956
+00:18:15,366 --> 00:18:19,200
+这地方不仅冷到会产生冰溜子
+
+957
+00:18:19,200 --> 00:18:20,966
+还很黑
+
+958
+00:18:21,000 --> 00:18:24,000
+然而火把在tfc里只能烧两天
+
+959
+00:18:24,000 --> 00:18:26,600
+我们可以塑形一个南瓜来做装饰
+
+960
+00:18:26,600 --> 00:18:28,200
+它还会让火把的燃烧时间加倍
+
+961
+00:18:28,200 --> 00:18:29,900
+但这仍然不够
+
+962
+00:18:29,900 --> 00:18:32,200
+另一个不错的选择是灯
+
+963
+00:18:32,600 --> 00:18:36,000
+但大概只有第一次做的时候会觉得有趣
+
+964
+00:18:36,066 --> 00:18:40,466
+
+第一步是在砧上制作灯的金属框架
+
+
+965
+00:18:40,500 --> 00:18:42,300
+随后我们需要玻璃
+
+966
+00:18:42,300 --> 00:18:44,000
+我们准备了一种
+
+967
+00:18:44,000 --> 00:18:46,866
+由几种很容易获得的材料混合而成的混合物
+
+968
+00:18:46,866 --> 00:18:50,266
+将混合物置于陶瓷吹风管上，再加热它
+
+969
+00:18:50,300 --> 00:18:52,200
+但刚拿出来时它还太热
+
+970
+00:18:52,266 --> 00:18:55,400
+我们本能地将其丢掉了
+
+971
+00:18:55,400 --> 00:18:57,200
+在使用第二根吹风管
+
+972
+00:18:57,200 --> 00:18:59,266
+来避免我们被前一根烫伤后
+
+973
+00:18:59,300 --> 00:19:04,966
+我们开始琢磨如何操作我们的这些工具来完成玻璃
+
+974
+00:19:04,966 --> 00:19:05,866
+照例
+
+975
+00:19:05,900 --> 00:19:09,400
+我们可以在群峦手册里找到说明
+
+976
+00:19:09,400 --> 00:19:13,066
+所以我们在一只手上拿吹风管
+
+977
+00:19:13,100 --> 00:19:15,800
+另一只手拿上带有熔融玻璃的热吹风管
+
+978
+00:19:15,800 --> 00:19:16,733
+交换主副手
+
+979
+00:19:16,766 --> 00:19:19,400
+向吹风管内吹气
+
+980
+00:19:19,666 --> 00:19:20,966
+接下来挤压它
+
+981
+00:19:21,300 --> 00:19:25,366
+在玻璃冷到无法继续处理之前
+
+982
+00:19:25,366 --> 00:19:27,566
+我们将其放回木炭炉重新加热
+
+983
+00:19:27,800 --> 00:19:29,233
+一旦将其取出
+
+984
+00:19:29,266 --> 00:19:31,766
+我们用压板挤压它，随后再次吹气
+
+985
+00:19:31,966 --> 00:19:35,800
+最后，在我们切下处理完成的灯罩前
+
+986
+00:19:35,800 --> 00:19:38,200
+我们最后一次地加热它
+
+987
+00:19:38,466 --> 00:19:40,266
+将灯罩和框架组合在一起后
+
+988
+00:19:40,266 --> 00:19:41,466
+我们最终获得了灯
+
+989
+00:19:41,500 --> 00:19:44,600
+不过它仍然需要燃料
+
+990
+00:19:44,766 --> 00:19:47,466
+为此我们可以用杂酚油
+
+991
+00:19:47,466 --> 00:19:50,666
+通过管道从我们的新焦炉来供给它
+
+992
+00:19:50,900 --> 00:19:52,366
+最后一件事就是
+
+993
+00:19:52,366 --> 00:19:54,933
+用已经点燃了的火把点燃灯
+
+994
+00:19:54,933 --> 00:19:57,633
+有了这么一丝光明和初步的科技发展
+
+995
+00:19:57,666 --> 00:19:59,333
+我们的火柴盒看起来焕然一新
+
+996
+00:19:59,600 --> 00:20:01,800
+虽然现在一切都好起来了
+
+997
+00:20:01,800 --> 00:20:04,266
+我们仍然需要面对不少问题
+
+998
+00:20:04,400 --> 00:20:06,666
+我们家旁边的湖正在封冻
+
+999
+00:20:06,766 --> 00:20:09,166
+这使得水成为了一个问题
+
+1000
+00:20:09,266 --> 00:20:10,466
+为了解决它
+
+1001
+00:20:10,500 --> 00:20:11,900
+我们做了一个铁水壶
+
+1002
+00:20:11,900 --> 00:20:14,766
+这可以让我们把水带在身上
+
+1003
+00:20:14,800 --> 00:20:17,966
+我们用之前处理皮革剩下的水来填满水壶
+
+1004
+00:20:18,166 --> 00:20:21,600
+现在我们可以随时随地喝上干净的水了
+
+1005
+00:20:21,766 --> 00:20:23,266
+但除此之外
+
+1006
+00:20:23,266 --> 00:20:25,466
+我们还需要更好的食物
+
+1007
+00:20:25,600 --> 00:20:30,333
+我们先把一些剩下的小麦磨成更细的粉末
+
+1008
+00:20:30,466 --> 00:20:34,166
+随后我们加入水来做成面团
+
+1009
+00:20:34,400 --> 00:20:37,400
+在能更好地控制的烤架的帮助下
+
+1010
+00:20:37,400 --> 00:20:39,366
+我们做出了几条面包
+
+1011
+00:20:39,500 --> 00:20:42,000
+最后我们加入一些蔬菜和肉
+
+1012
+00:20:42,000 --> 00:20:44,266
+来做出一些美味的三明治
+
+1013
+00:20:44,366 --> 00:20:47,900
+除此之外更加适合这个寒冷气候的食物是汤
+
+1014
+00:20:47,900 --> 00:20:50,933
+我们将陶锅架在火上并加入水
+
+1015
+00:20:50,966 --> 00:20:54,200
+接着加入食材后将其煮沸
+
+1016
+00:20:54,200 --> 00:20:55,233
+一旦完成
+
+1017
+00:20:55,266 --> 00:20:56,666
+我们用一些碗来盛汤
+
+1018
+00:20:56,666 --> 00:20:58,266
+饱餐了一顿
+
+1019
+00:20:58,366 --> 00:20:59,666
+现在我们唯一缺少的
+
+1020
+00:20:59,700 --> 00:21:02,800
+是一个能装下这些新东西的更好办法
+
+1021
+00:21:02,800 --> 00:21:04,400
+为了能承担这些重量
+
+1022
+00:21:04,400 --> 00:21:07,066
+我们需要一些由坚固材料制成的东西
+
+1023
+00:21:07,066 --> 00:21:08,600
+比如黄麻纤维
+
+1024
+00:21:08,866 --> 00:21:11,200
+我们可以将它制成粗麻布
+
+1025
+00:21:11,200 --> 00:21:13,800
+有了它，我们现在可以做一个背包
+
+1026
+00:21:13,800 --> 00:21:17,733
+而现在我们就可以随身带着砧
+
+1027
+00:21:17,766 --> 00:21:19,566
+同时也不会拖慢我们的速度
+
+1028
+00:21:19,600 --> 00:21:21,700
+这个背包也将成为
+
+1029
+00:21:21,700 --> 00:21:23,700
+我们收集更多铁矿时的好朋友
+
+1030
+00:21:23,700 --> 00:21:25,400
+不过那是下一集的故事了
+
+1031
+00:21:25,566 --> 00:21:27,066
+下次见
+
+1032
+00:21:27,300 --> 00:21:28,200
+拜拜
+

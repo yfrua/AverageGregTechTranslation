@@ -1,0 +1,1436 @@
+1
+00:00:00,100 --> 00:00:01,300
+welcome back
+
+2
+00:00:01,300 --> 00:00:06,400
+today we are going to work on the Infinity infrastructure required to enter the UEV tier
+
+3
+00:00:06,400 --> 00:00:08,866
+completing the Relative Quest was easy
+
+4
+00:00:08,866 --> 00:00:11,800
+but I think we are still not ready for the next tier
+
+5
+00:00:11,966 --> 00:00:16,000
+there are a lot of things we should fix in our base before going on
+
+6
+00:00:16,200 --> 00:00:18,233
+starting from our lack of fuel
+
+7
+00:00:18,366 --> 00:00:19,600
+after fixing that
+
+8
+00:00:19,600 --> 00:00:24,500
+ae2 still doesn't have enough power for high speed item transfers
+
+9
+00:00:24,800 --> 00:00:27,300
+but instead of a better power plug
+
+10
+00:00:27,300 --> 00:00:30,900
+I think it's time to craft the neutronium energy cell
+
+11
+00:00:30,966 --> 00:00:35,566
+and that reminded us that we should probably fix our AE2 cable mess
+
+12
+00:00:35,700 --> 00:00:37,166
+if that looked clean
+
+13
+00:00:37,166 --> 00:00:40,433
+it is only because that was the peer to peer network
+
+14
+00:00:40,600 --> 00:00:42,433
+we can't really fix that
+
+15
+00:00:42,433 --> 00:00:44,566
+but we can make it more manageable
+
+16
+00:00:44,833 --> 00:00:47,866
+messing with that controller could halt our whole base
+
+17
+00:00:47,866 --> 00:00:49,700
+so we shall build a new one
+
+18
+00:00:50,000 --> 00:00:51,200
+the issue is that
+
+19
+00:00:51,200 --> 00:00:53,966
+if we were to use wireless cables like that
+
+20
+00:00:53,966 --> 00:00:57,233
+we would waste about half of the connections we can have
+
+21
+00:00:57,233 --> 00:01:00,633
+so we will still have peer to peer connections
+
+22
+00:01:00,700 --> 00:01:01,266
+however
+
+23
+00:01:01,266 --> 00:01:05,400
+instead of managing those with cables and a huge subnetwork
+
+24
+00:01:05,400 --> 00:01:10,433
+we just bring those where we have enough space to build a wall of wireless connectors
+
+25
+00:01:10,466 --> 00:01:14,366
+and there we have the first half of our poorly designed new controller
+
+26
+00:01:14,366 --> 00:01:17,666
+not only it's not the optimal Hilbert curve version
+
+27
+00:01:17,666 --> 00:01:21,100
+it also has a whole wasting 900 channels
+
+28
+00:01:21,100 --> 00:01:21,566
+anyways
+
+29
+00:01:21,566 --> 00:01:25,900
+we now have a nice wall of wireless connectors ready for use
+
+30
+00:01:25,900 --> 00:01:28,666
+to which we have to reconnect our whole base
+
+31
+00:01:28,800 --> 00:01:32,033
+each peer to peer segment we had one by one
+
+32
+00:01:32,033 --> 00:01:35,300
+and we are going to remove as many cables as possible
+
+33
+00:01:35,300 --> 00:01:38,066
+since those increase the game loading time
+
+34
+00:01:38,066 --> 00:01:41,000
+after reconnecting everything to the new controller
+
+35
+00:01:41,033 --> 00:01:43,766
+we can check how much of a mess it looks like
+
+36
+00:01:44,000 --> 00:01:48,033
+and the power usage seems to not even reach 1 ZPM amp
+
+37
+00:01:48,033 --> 00:01:51,566
+we didn't even need the neutronium energy cell
+
+38
+00:01:51,700 --> 00:01:54,966
+the next thing we are going to need is more circuits
+
+39
+00:01:55,000 --> 00:01:57,066
+and it looks like our vats can't produce
+
+40
+00:01:57,233 --> 00:01:57,966
+also
+
+41
+00:01:57,966 --> 00:02:01,500
+we can switch to a recipe that has 8 times more yield
+
+42
+00:02:01,900 --> 00:02:02,633
+however
+
+43
+00:02:02,633 --> 00:02:05,866
+that requires a bacteria which is rather hard to get
+
+44
+00:02:06,033 --> 00:02:09,800
+it takes 3 minutes with a 7% success rate
+
+45
+00:02:10,000 --> 00:02:13,633
+but we had 8 labs running that stuff for the whole last episode
+
+46
+00:02:13,633 --> 00:02:15,400
+so we got our back covered
+
+47
+00:02:15,633 --> 00:02:16,600
+by the way
+
+48
+00:02:16,600 --> 00:02:20,166
+there was a better way to duplicate bacteria cultures
+
+49
+00:02:20,200 --> 00:02:21,533
+but we are lazy
+
+50
+00:02:21,533 --> 00:02:24,400
+now we just have to build a new set of vats
+
+51
+00:02:24,400 --> 00:02:28,200
+stuff some of the fluid we already have in the output to kick start it
+
+52
+00:02:28,200 --> 00:02:29,433
+and we are done
+
+53
+00:02:29,600 --> 00:02:30,233
+however
+
+54
+00:02:30,233 --> 00:02:32,766
+we also want faster circuits
+
+55
+00:02:32,833 --> 00:02:35,600
+so we built some more assembly lines
+
+56
+00:02:35,700 --> 00:02:36,566
+luckily
+
+57
+00:02:36,566 --> 00:02:40,233
+we can now copy the input bus settings with a data orb
+
+58
+00:02:40,366 --> 00:02:43,666
+and then we just expand the input sub network
+
+59
+00:02:43,733 --> 00:02:46,600
+since we can now mass produce bio circuits
+
+60
+00:02:46,600 --> 00:02:50,500
+we shall also review what kind of circuit we use for each tier
+
+61
+00:02:50,666 --> 00:02:54,433
+making bio stuff with that recipe used quite some infinity
+
+62
+00:02:54,433 --> 00:02:55,766
+and we run out of it
+
+63
+00:02:55,866 --> 00:02:58,766
+so we made three more space mining modules
+
+64
+00:02:58,766 --> 00:03:01,066
+with a filter to only gather that stuff
+
+65
+00:03:01,200 --> 00:03:02,900
+to provide the computation
+
+66
+00:03:02,900 --> 00:03:05,400
+instead of making three more computers
+
+67
+00:03:05,400 --> 00:03:06,966
+we expanded the old one
+
+68
+00:03:06,966 --> 00:03:08,433
+and added a network switch
+
+69
+00:03:08,433 --> 00:03:12,066
+to split the computation between the six mining modules
+
+70
+00:03:12,300 --> 00:03:13,766
+and of course
+
+71
+00:03:13,766 --> 00:03:18,033
+our ore processing plant couldn't keep up with a single mining module
+
+72
+00:03:18,033 --> 00:03:20,033
+so we overclocked it further
+
+73
+00:03:20,033 --> 00:03:21,833
+and we added a bunch more
+
+74
+00:03:22,566 --> 00:03:26,500
+crafting all of that stuff clogged our extruder and our wire mill
+
+75
+00:03:26,833 --> 00:03:30,200
+but instead of improving our extruding capacity
+
+76
+00:03:30,200 --> 00:03:33,500
+we instead worked on a proper component assembly line
+
+77
+00:03:33,800 --> 00:03:35,200
+this will save materials
+
+78
+00:03:35,200 --> 00:03:37,633
+and skip most of the extruding part
+
+79
+00:03:37,900 --> 00:03:43,433
+also doing this will free a lot of space from our general purpose assembly lines
+
+80
+00:03:43,766 --> 00:03:45,833
+that machine looks really cool
+
+81
+00:03:45,833 --> 00:03:48,766
+but we will make it vertical to fit a single chunk
+
+82
+00:03:49,300 --> 00:03:52,100
+but this machine could not keep up with our needs
+
+83
+00:03:52,100 --> 00:03:54,266
+so we overclocked it a bit more
+
+84
+00:03:54,766 --> 00:03:58,833
+just to the point where it uses as much as one of our blast furnaces
+
+85
+00:03:59,100 --> 00:04:00,233
+speaking of which
+
+86
+00:04:00,233 --> 00:04:02,866
+after fixing the pollution issue once for all
+
+87
+00:04:03,033 --> 00:04:05,000
+we shall also upgrade
+
+88
+00:04:05,200 --> 00:04:08,066
+once we have enough to match our power generation
+
+89
+00:04:08,066 --> 00:04:13,033
+we notice that our battery won't act as a buffer any more than the laser connectors do
+
+90
+00:04:13,300 --> 00:04:19,700
+so after getting a CPU with 160 million capacity and 8,000 cores
+
+91
+00:04:19,700 --> 00:04:21,900
+we start working on a better battery
+
+92
+00:04:22,366 --> 00:04:25,100
+crafting such a thing will take a lot of time
+
+93
+00:04:25,100 --> 00:04:27,033
+but instead of waiting
+
+94
+00:04:27,033 --> 00:04:29,966
+we can use that time to improve our base
+
+95
+00:04:30,633 --> 00:04:33,366
+the first thing that got clogged was our mixer
+
+96
+00:04:33,966 --> 00:04:38,600
+so we started working on some extra mixers that will share the same inputs
+
+97
+00:04:38,833 --> 00:04:41,000
+and we pushed those a little bit more
+
+98
+00:04:41,700 --> 00:04:45,366
+next our EBFs stopped working due to lack of oganesson
+
+99
+00:04:45,833 --> 00:04:48,833
+so we built a couple more matter fabricators
+
+100
+00:04:49,200 --> 00:04:51,700
+and only after the build was complete
+
+101
+00:04:51,700 --> 00:04:52,633
+we realized that
+
+102
+00:04:52,633 --> 00:04:55,100
+we could have pushed for a double overvolt
+
+103
+00:04:55,666 --> 00:04:59,000
+or maybe we should have added even more energy hatches
+
+104
+00:04:59,100 --> 00:05:01,500
+we should do more testing next time
+
+105
+00:05:02,000 --> 00:05:05,900
+the next thing we notice is that our cable covering machine is slow
+
+106
+00:05:06,466 --> 00:05:09,266
+this machine for sure does not lack speed
+
+107
+00:05:09,400 --> 00:05:12,966
+what it lacks of is polyphenylene sulfide sheets
+
+108
+00:05:13,233 --> 00:05:17,400
+those are passively produced by one of our oldest chemical reactors
+
+109
+00:05:17,400 --> 00:05:19,433
+which is still running in HV
+
+110
+00:05:20,000 --> 00:05:23,200
+luckily we had a ZPM cable close by
+
+111
+00:05:23,200 --> 00:05:26,266
+which can make it go 200 times faster
+
+112
+00:05:26,666 --> 00:05:28,800
+the next bottleneck is Electrum
+
+113
+00:05:28,800 --> 00:05:32,300
+here the issue is the speed at which we send it to the furnace
+
+114
+00:05:32,833 --> 00:05:36,100
+1000 items buffer is simply too small
+
+115
+00:05:36,800 --> 00:05:39,666
+so we upgrade to an input crafting buffer
+
+116
+00:05:39,666 --> 00:05:42,466
+and by the time we complete the operation
+
+117
+00:05:42,466 --> 00:05:46,700
+we can already see how many items has been queued up inside it
+
+118
+00:05:47,033 --> 00:05:51,233
+but it shouldn't take too much to complete the task for our current furnace
+
+119
+00:05:51,833 --> 00:05:54,500
+the next bottleneck is the bending machine
+
+120
+00:05:54,500 --> 00:05:56,300
+which has the same issue
+
+121
+00:05:56,600 --> 00:05:59,300
+and it was also having issues with the output
+
+122
+00:05:59,466 --> 00:06:02,100
+that is due to the buffer limitation of the bus
+
+123
+00:06:02,100 --> 00:06:04,833
+which can be increased with a storage cell
+
+124
+00:06:05,100 --> 00:06:07,466
+now it can unleash its true potential
+
+125
+00:06:07,700 --> 00:06:10,433
+the next thing we notice is crystal SoC
+
+126
+00:06:10,600 --> 00:06:14,233
+we used to make those with a lot of emeralds in a convoluted way
+
+127
+00:06:14,233 --> 00:06:16,766
+but we can now switch to a better recipe
+
+128
+00:06:17,033 --> 00:06:19,866
+and we can fix that with our wireless terminal
+
+129
+00:06:19,866 --> 00:06:22,066
+but after modifying a pattern
+
+130
+00:06:22,066 --> 00:06:24,566
+we must also restart the crafting
+
+131
+00:06:24,833 --> 00:06:26,566
+the next thing we notice is that
+
+132
+00:06:26,566 --> 00:06:29,266
+we are making no progress with circuits
+
+133
+00:06:29,433 --> 00:06:31,966
+that is due to lack of circuit boards
+
+134
+00:06:32,100 --> 00:06:34,833
+after inspecting our PCB factories
+
+135
+00:06:34,833 --> 00:06:37,966
+we remember that we do not have the perfect overclock upgrade
+
+136
+00:06:37,966 --> 00:06:41,633
+and that nanites will make those work 10 times faster at best
+
+137
+00:06:41,633 --> 00:06:43,100
+so we change plan
+
+138
+00:06:43,100 --> 00:06:45,600
+and revert back to using LCR
+
+139
+00:06:45,900 --> 00:06:48,466
+but that requires a lot of extra acids
+
+140
+00:06:48,833 --> 00:06:50,100
+those are passively made
+
+141
+00:06:50,100 --> 00:06:52,766
+and the issue here is about the amount we are stocking
+
+142
+00:06:53,266 --> 00:06:55,566
+so we increase the size of the tank
+
+143
+00:06:55,800 --> 00:06:58,466
+however filling it will take some time
+
+144
+00:06:58,466 --> 00:07:01,433
+due to the many steps required for that fluid
+
+145
+00:07:01,666 --> 00:07:05,900
+so since that is required for the thousands of HV circuits
+
+146
+00:07:05,900 --> 00:07:10,966
+we can instead do a manual batch of a different circuit that does not use epoxy
+
+147
+00:07:11,566 --> 00:07:15,700
+and we right away notice the speed at which we make the plastic bars
+
+148
+00:07:15,866 --> 00:07:18,233
+that was an almost unused recipe
+
+149
+00:07:18,233 --> 00:07:21,900
+so it was left inside the old HV Fluid solidifier
+
+150
+00:07:22,133 --> 00:07:24,766
+thanks to our wireless universal terminal
+
+151
+00:07:24,766 --> 00:07:26,700
+we can quickly multiply the pattern
+
+152
+00:07:26,700 --> 00:07:28,866
+and move it to the bigger solidifier
+
+153
+00:07:29,233 --> 00:07:30,100
+and with that
+
+154
+00:07:30,100 --> 00:07:33,233
+we have completed our batch of surrogate circuits
+
+155
+00:07:33,433 --> 00:07:36,500
+but we have to convert those into the generic version
+
+156
+00:07:36,500 --> 00:07:38,766
+possibly without editing patterns
+
+157
+00:07:38,866 --> 00:07:41,566
+so we add a stocking bus on our press
+
+158
+00:07:41,800 --> 00:07:43,900
+once we get back to our battery
+
+159
+00:07:43,900 --> 00:07:47,466
+we notice that our laser and our cutting machines are not working
+
+160
+00:07:47,666 --> 00:07:51,166
+that is due to lack of extreme temperature treated water
+
+161
+00:07:51,400 --> 00:07:53,800
+the issue here was the production speed
+
+162
+00:07:53,800 --> 00:07:56,266
+so we increased the parallel count
+
+163
+00:07:56,433 --> 00:07:59,433
+and that made the machine need a little bit more of power
+
+164
+00:07:59,433 --> 00:08:02,033
+so we started using lasers there too
+
+165
+00:08:02,200 --> 00:08:04,666
+but our cutting machine still didn't cut it
+
+166
+00:08:04,666 --> 00:08:08,300
+so we started working on an ugly convoluted mess to help it
+
+167
+00:08:08,600 --> 00:08:11,300
+and finally we completed our new battery
+
+168
+00:08:11,466 --> 00:08:12,033
+to use it
+
+169
+00:08:12,033 --> 00:08:13,700
+we have to put it in a box
+
+170
+00:08:13,700 --> 00:08:16,466
+and place it inside our battery multi block
+
+171
+00:08:16,666 --> 00:08:19,433
+that new battery has quite some capacity
+
+172
+00:08:19,433 --> 00:08:21,633
+and with our current power production
+
+173
+00:08:21,633 --> 00:08:24,266
+filling it up will take a couple of years
+
+174
+00:08:24,333 --> 00:08:26,700
+so what did we learn today
+
+175
+00:08:26,866 --> 00:08:27,133
+yeah
+
+176
+00:08:27,133 --> 00:08:32,466
+let's not spend too much time trying to craft some weird ancient device
+
+177
+00:00:00,100 --> 00:00:01,300
+欢迎回来！
+
+178
+00:00:01,300 --> 00:00:06,400
+今天我们将建设进入UEV所需的无尽基础
+
+179
+00:00:06,400 --> 00:00:08,866
+完成对应的任务很容易
+
+180
+00:00:08,866 --> 00:00:11,800
+但我想我们还没准备好进入UEV
+
+181
+00:00:11,966 --> 00:00:13,133
+在继续之前
+
+182
+00:00:13,133 --> 00:00:16,000
+基地仍有许多事情等着修缮
+
+183
+00:00:16,200 --> 00:00:18,233
+从缺乏的燃料开始
+
+184
+00:00:18,366 --> 00:00:19,600
+修复后
+
+185
+00:00:19,600 --> 00:00:24,500
+AE仍然没有足够的能量进行高速物品传输
+
+186
+00:00:24,800 --> 00:00:27,300
+并非使用更多电力输入
+
+187
+00:00:27,300 --> 00:00:30,900
+我想是时候制造中子能源元件了
+
+188
+00:00:30,966 --> 00:00:35,566
+这提醒了我们要解决AE频道的问题
+
+189
+00:00:35,700 --> 00:00:37,166
+如果这看起来很简洁
+
+190
+00:00:37,166 --> 00:00:40,433
+只是因为那是 p2p 网络
+
+191
+00:00:40,600 --> 00:00:42,433
+真正解决这个问题很难
+
+192
+00:00:42,433 --> 00:00:44,566
+但可以让它更易管理
+
+193
+00:00:44,833 --> 00:00:47,866
+在原来的控制器上搞事情会让整个基地瘫痪
+
+194
+00:00:47,866 --> 00:00:49,700
+所以我们应该造个新的
+
+195
+00:00:50,000 --> 00:00:51,200
+问题是
+
+196
+00:00:51,200 --> 00:00:53,966
+如果我们像这样使用无线连接器
+
+197
+00:00:53,966 --> 00:00:57,233
+一半的频道将被浪费
+
+198
+00:00:57,233 --> 00:01:00,633
+所以还是要用 p2p 通道
+
+199
+00:01:00,700 --> 00:01:01,266
+然而
+
+200
+00:01:01,266 --> 00:01:05,400
+不再是用线缆和庞大的子网来管理
+
+201
+00:01:05,400 --> 00:01:10,433
+我们只需要把这些频道送去一堵无线连接器墙
+
+202
+00:01:10,466 --> 00:01:14,366
+这是我们不佳设计的控制器的前半
+
+203
+00:01:14,366 --> 00:01:17,666
+（希尔伯特曲线：能填充满一个平面正方形的分形曲线，如下图所示）
+
+204
+00:01:17,666 --> 00:01:21,100
+还整整浪费了 900 个频道
+
+205
+00:01:21,100 --> 00:01:21,566
+不管怎样
+
+206
+00:01:21,566 --> 00:01:25,900
+我们现在有一堵漂亮的无线连接器墙可以使用了
+
+207
+00:01:25,900 --> 00:01:28,666
+我们要把它连到整个基地
+
+208
+00:01:28,800 --> 00:01:32,033
+一个一个地替换之前的 p2p
+
+209
+00:01:32,033 --> 00:01:35,300
+我们尽可能多的移除线缆
+
+210
+00:01:35,300 --> 00:01:38,066
+因为这会让游戏变卡
+
+211
+00:01:38,066 --> 00:01:41,000
+将所有东西重新连接到新控制器后
+
+212
+00:01:41,033 --> 00:01:43,766
+我们可以看看它有多乱
+
+213
+00:01:44,000 --> 00:01:48,033
+用电量似乎连 1A ZPM 都没有
+
+214
+00:01:48,033 --> 00:01:51,566
+我们甚至不需要中子能源元件
+
+215
+00:01:51,700 --> 00:01:54,966
+接下来，我们需要更多的电路板
+
+216
+00:01:55,000 --> 00:01:57,066
+看起来我们的培养缸停止生产了
+
+217
+00:01:57,233 --> 00:01:57,966
+不过
+
+218
+00:01:57,966 --> 00:02:01,500
+我们可以换成产量高 8 倍的配方
+
+219
+00:02:01,900 --> 00:02:02,633
+然而
+
+220
+00:02:02,633 --> 00:02:05,866
+这需要一种相当难以获得的细菌
+
+221
+00:02:06,033 --> 00:02:09,800
+用时 3 分钟成功率却仅有 7%
+
+222
+00:02:10,000 --> 00:02:13,633
+但是上一集已有 8 个实验室在运行
+
+223
+00:02:13,633 --> 00:02:15,400
+我们后顾无忧
+
+224
+00:02:15,633 --> 00:02:16,600
+顺便说一下
+
+225
+00:02:16,600 --> 00:02:20,166
+有更好的方法来复制菌群
+
+226
+00:02:20,200 --> 00:02:21,533
+但我们很懒
+
+227
+00:02:21,533 --> 00:02:24,400
+现在我们只需要建造一套新的培养缸
+
+228
+00:02:24,400 --> 00:02:28,200
+填充一些已有液体来启动它
+
+229
+00:02:28,200 --> 00:02:29,433
+完工
+
+230
+00:02:29,600 --> 00:02:30,233
+然而
+
+231
+00:02:30,233 --> 00:02:32,766
+我们还想要更快地制作电路
+
+232
+00:02:32,833 --> 00:02:35,600
+所以我们建了更多的装配线
+
+233
+00:02:35,700 --> 00:02:36,566
+幸运地
+
+234
+00:02:36,566 --> 00:02:40,233
+我们现在可以使用数据球复制输入总线设置
+
+235
+00:02:40,366 --> 00:02:43,666
+然后扩展输入子网
+
+236
+00:02:43,733 --> 00:02:46,600
+既然我们可以大量生产生物电路
+
+237
+00:02:46,600 --> 00:02:50,500
+应该斟酌各电压使用的电路板
+
+238
+00:02:50,666 --> 00:02:52,533
+用那个配方制作生物电路
+
+239
+00:02:52,533 --> 00:02:54,433
+用了相当多的无尽催化剂
+
+240
+00:02:54,433 --> 00:02:55,766
+库存已经告急
+
+241
+00:02:55,866 --> 00:02:58,766
+所以我们又做了三个太空采矿模块
+
+242
+00:02:58,766 --> 00:03:01,066
+并过滤要收集的物品
+
+243
+00:03:01,200 --> 00:03:02,900
+为了提供算力
+
+244
+00:03:02,900 --> 00:03:05,400
+不需要额外三台计算机
+
+245
+00:03:05,400 --> 00:03:06,966
+扩展一下旧的即可
+
+246
+00:03:06,966 --> 00:03:08,433
+通过添加网络交换机
+
+247
+00:03:08,433 --> 00:03:12,066
+来均分六个挖掘模块间的算力
+
+248
+00:03:12,300 --> 00:03:13,766
+当然还有
+
+249
+00:03:13,766 --> 00:03:18,033
+我们的矿石处理厂连一个采矿模块都跟不上
+
+250
+00:03:18,033 --> 00:03:20,033
+所以我们给它进一步超频
+
+251
+00:03:20,033 --> 00:03:21,833
+再堆一些机器
+
+252
+00:03:22,566 --> 00:03:24,066
+为了做这些材料
+
+253
+00:03:24,066 --> 00:03:26,500
+压模机和线缆轧机都跟不上了
+
+254
+00:03:26,833 --> 00:03:30,200
+但我们不用提升压模产能
+
+255
+00:03:30,200 --> 00:03:33,500
+隆重请出部件装配线
+
+256
+00:03:33,800 --> 00:03:35,200
+这将节省材料
+
+257
+00:03:35,200 --> 00:03:37,633
+并跳过大部分压模部分
+
+258
+00:03:37,900 --> 00:03:43,433
+这样做也将释放大量通用装配线的空间
+
+259
+00:03:43,766 --> 00:03:45,833
+那台机器看起来真的很酷
+
+260
+00:03:45,833 --> 00:03:47,200
+但是为了塞进单个区块
+
+261
+00:03:47,200 --> 00:03:48,766
+我们把它做成垂直的
+
+262
+00:03:49,300 --> 00:03:52,100
+但是这台机器跟不上我们的需求
+
+263
+00:03:52,100 --> 00:03:54,266
+所以我们超频了一点
+
+264
+00:03:54,766 --> 00:03:58,833
+让它和高炉的用电一样多
+
+265
+00:03:59,100 --> 00:04:00,233
+说到高炉
+
+266
+00:04:00,233 --> 00:04:02,866
+在彻底解决污染问题后
+
+267
+00:04:03,033 --> 00:04:05,000
+我们接着升级高炉
+
+268
+00:04:05,200 --> 00:04:08,066
+一旦高炉耗电比得上发电机发电
+
+269
+00:04:08,066 --> 00:04:13,033
+我们发现电池的容量还没激光仓的大
+
+270
+00:04:13,300 --> 00:04:19,700
+在获得1.6亿容量和8000核的CPU后
+
+271
+00:04:19,700 --> 00:04:21,900
+我们开始研究更好的电池
+
+272
+00:04:22,366 --> 00:04:25,100
+制作这东西需要很多时间
+
+273
+00:04:25,100 --> 00:04:27,033
+但与其等待
+
+274
+00:04:27,033 --> 00:04:29,966
+我们利用这段时间来做基建
+
+275
+00:04:30,633 --> 00:04:33,366
+首先，产能不够的是搅拌机
+
+276
+00:04:33,966 --> 00:04:38,600
+所以我们做了些共享输入样板的搅拌机阵列
+
+277
+00:04:38,833 --> 00:04:41,000
+我们用8仓供电
+
+278
+00:04:41,700 --> 00:04:42,433
+接下来
+
+279
+00:04:42,433 --> 00:04:45,366
+高炉由于缺乏鿫而停止工作
+
+280
+00:04:45,833 --> 00:04:48,833
+所以我们又造了几个物质发生器
+
+281
+00:04:49,200 --> 00:04:51,700
+但我们在造完后
+
+282
+00:04:51,700 --> 00:04:52,633
+才意识到
+
+283
+00:04:52,633 --> 00:04:55,100
+我们可以升压两次
+
+284
+00:04:55,666 --> 00:04:59,000
+或许我们应该增加更多的能源仓
+
+285
+00:04:59,100 --> 00:05:01,500
+下次应该做更多的测试
+
+286
+00:05:02,000 --> 00:05:05,900
+接下来是给电缆套皮的组装机
+
+287
+00:05:06,466 --> 00:05:09,266
+这台机器肯定不缺速度
+
+288
+00:05:09,400 --> 00:05:12,966
+它缺少的是聚苯硫醚箔
+
+289
+00:05:13,233 --> 00:05:17,400
+它是由我们最古老的化反被动产生的
+
+290
+00:05:17,400 --> 00:05:19,433
+它仍在HV电压下运行
+
+291
+00:05:20,000 --> 00:05:20,733
+幸运的是
+
+292
+00:05:20,733 --> 00:05:23,200
+附近有一条ZPM电缆
+
+293
+00:05:23,200 --> 00:05:26,266
+这可以让它快200倍
+
+294
+00:05:26,666 --> 00:05:28,800
+下一个瓶颈是琥珀金
+
+295
+00:05:28,800 --> 00:05:32,300
+问题是发配速度
+
+296
+00:05:32,833 --> 00:05:36,100
+1000个物品的缓存简直太小了
+
+297
+00:05:36,800 --> 00:05:39,666
+所以我们将其升级至样板输入总线
+
+298
+00:05:39,666 --> 00:05:42,466
+在完成置换后
+
+299
+00:05:42,466 --> 00:05:46,700
+便可以看到有多少材料等待处理
+
+300
+00:05:47,033 --> 00:05:51,233
+但现在的熔炉应该花不了多长时间就能完成任务
+
+301
+00:05:51,833 --> 00:05:54,500
+下一个瓶颈是卷板机
+
+302
+00:05:54,500 --> 00:05:56,300
+它也有同样的问题
+
+303
+00:05:56,600 --> 00:05:59,300
+它的输出也有问题
+
+304
+00:05:59,466 --> 00:06:02,100
+这是由于输出总线ME的缓存限制
+
+305
+00:06:02,100 --> 00:06:04,833
+而增加存储单元即可
+
+306
+00:06:05,100 --> 00:06:07,466
+现在它可以释放它真正的潜力了
+
+307
+00:06:07,700 --> 00:06:10,433
+接下来我们注意到的是晶体SoC
+
+308
+00:06:10,600 --> 00:06:14,233
+当时我们大量使用绿宝石配方
+
+309
+00:06:14,233 --> 00:06:16,766
+但现在我们可以换一个更好的
+
+310
+00:06:17,033 --> 00:06:19,866
+无线终端可以解决这个问题
+
+311
+00:06:19,866 --> 00:06:22,066
+但在修改样板后
+
+312
+00:06:22,066 --> 00:06:24,566
+制作进程也必须重新开始
+
+313
+00:06:24,833 --> 00:06:26,566
+接下来我们注意到的是
+
+314
+00:06:26,566 --> 00:06:29,266
+我们在电路方面没有任何进展
+
+315
+00:06:29,433 --> 00:06:31,966
+那是由于缺乏电路基板
+
+316
+00:06:32,100 --> 00:06:34,833
+在检查了我们的PCB工厂后
+
+317
+00:06:34,833 --> 00:06:37,966
+我们记得它没有无损超频
+
+318
+00:06:37,966 --> 00:06:41,633
+纳米蜂群最多能让它们工作快10倍
+
+319
+00:06:41,633 --> 00:06:43,100
+所以我们改变计划
+
+320
+00:06:43,100 --> 00:06:45,600
+重新使用大化反
+
+321
+00:06:45,900 --> 00:06:48,466
+但那需要很多额外的酸
+
+322
+00:06:48,833 --> 00:06:50,100
+它们是被动制造的
+
+323
+00:06:50,100 --> 00:06:52,766
+问题在于缓存的数量
+
+324
+00:06:53,266 --> 00:06:55,566
+所以我们增加超级缸容量
+
+325
+00:06:55,800 --> 00:06:58,466
+但是填充需要一些时间
+
+326
+00:06:58,466 --> 00:07:01,433
+由于该流体需要许多步骤
+
+327
+00:07:01,666 --> 00:07:05,900
+由于终极电池需要上千的HV电路板
+
+328
+00:07:05,900 --> 00:07:10,966
+我们可以手动批量生产不使用环氧树脂的电路板
+
+329
+00:07:11,566 --> 00:07:15,700
+我们马上注意到制作塑料的速度
+
+330
+00:07:15,866 --> 00:07:18,233
+那是一个几乎没有用过的配方
+
+331
+00:07:18,233 --> 00:07:21,900
+所以它被留在了旧的HV流体固化器中
+
+332
+00:07:22,133 --> 00:07:24,766
+感谢我们的无线通用终端
+
+333
+00:07:24,766 --> 00:07:26,700
+我们可以快速倍增样板
+
+334
+00:07:26,700 --> 00:07:28,866
+并将其移动到大固化
+
+335
+00:07:29,233 --> 00:07:30,100
+有了这个
+
+336
+00:07:30,100 --> 00:07:33,233
+我们已经完成了一批代理电路
+
+337
+00:07:33,433 --> 00:07:36,500
+但我们必须将它们转换为通用版本
+
+338
+00:07:36,500 --> 00:07:38,766
+最好不要动已有的样板
+
+339
+00:07:38,866 --> 00:07:41,566
+所以我们在冲压机床上增加一个存储总线
+
+340
+00:07:41,800 --> 00:07:43,900
+一旦我们重新查看终极电池
+
+341
+00:07:43,900 --> 00:07:47,466
+我们注意到激光蚀刻和切割机不工作
+
+342
+00:07:47,666 --> 00:07:51,166
+这是由于缺乏五级水
+
+343
+00:07:51,400 --> 00:07:53,800
+这里的问题是生产速度
+
+344
+00:07:53,800 --> 00:07:56,266
+所以我们增加了并行数
+
+345
+00:07:56,433 --> 00:07:59,433
+这使得机器需要更多的能量
+
+346
+00:07:59,433 --> 00:08:02,033
+所以我们也使用激光仓
+
+347
+00:08:02,200 --> 00:08:04,666
+但是我们的切割机还是不工作
+
+348
+00:08:04,666 --> 00:08:08,300
+于是我们动手搞了个丑陋繁琐的怪东西来帮它
+
+349
+00:08:08,600 --> 00:08:11,300
+我们最终完成了新电池
+
+350
+00:08:11,466 --> 00:08:12,033
+要使用它
+
+351
+00:08:12,033 --> 00:08:13,700
+我们必须把它放在盒子里
+
+352
+00:08:13,700 --> 00:08:16,466
+并将其放入兰波顿电容库中
+
+353
+00:08:16,666 --> 00:08:19,433
+那个新电容有相当大的容量
+
+354
+00:08:19,433 --> 00:08:21,633
+以我们目前的电力生产
+
+355
+00:08:21,633 --> 00:08:24,266
+填满它需要几年时间
+
+356
+00:08:24,333 --> 00:08:26,700
+那么我们今天学到了什么？
+
+357
+00:08:26,866 --> 00:08:27,133
+是呀
+
+358
+00:08:27,133 --> 00:08:32,466
+不要花太多时间尝试制造奇异的古代装置
+
+359
+00:01:14,366 --> 00:01:17,666
+它不仅不是最佳希尔伯特曲线版本
+

@@ -1,0 +1,1249 @@
+1
+00:00:00,066 --> 00:00:01,066
+hello everyone
+
+2
+00:00:01,066 --> 00:00:03,900
+and welcome to yet another ae2 tutorial
+
+3
+00:00:03,900 --> 00:00:07,433
+to get started, we need to connect our system to a power source
+
+4
+00:00:07,433 --> 00:00:09,466
+we can do that via an energy acceptor
+
+5
+00:00:09,466 --> 00:00:11,566
+which will bridge power from other mods
+
+6
+00:00:11,566 --> 00:00:15,400
+in GTNH, AE2 power consumption can be quite relevant
+
+7
+00:00:15,433 --> 00:00:19,166
+so I suggest placing the energy acceptor close to your generators
+
+8
+00:00:19,166 --> 00:00:22,300
+and possibly have some dedicated energy buffer for it
+
+9
+00:00:22,600 --> 00:00:24,400
+now that our system is powered
+
+10
+00:00:24,400 --> 00:00:27,433
+we can start giving it a purpose by adding some parts
+
+11
+00:00:27,600 --> 00:00:28,900
+we start with a drive
+
+12
+00:00:28,900 --> 00:00:33,166
+which will host up to 10 storage cells to have some inventory capacity
+
+13
+00:00:33,166 --> 00:00:34,500
+to access this inventory
+
+14
+00:00:34,500 --> 00:00:37,100
+we can expand our system with a terminal
+
+15
+00:00:37,200 --> 00:00:40,633
+but that's not the only way of interacting with this inventory
+
+16
+00:00:40,933 --> 00:00:42,666
+to passively move around items
+
+17
+00:00:42,666 --> 00:00:44,666
+we have import and export buses
+
+18
+00:00:44,700 --> 00:00:49,800
+but better yet, we have interfaces, which will keep set amounts of items in place
+
+19
+00:00:49,900 --> 00:00:51,500
+we also have storage buses
+
+20
+00:00:51,500 --> 00:00:55,033
+which will allow to directly interact with external storages
+
+21
+00:00:55,166 --> 00:00:57,300
+but we will see those better later on
+
+22
+00:00:57,600 --> 00:01:00,633
+the next thing we have to talk about is cables and channels
+
+23
+00:01:00,633 --> 00:01:04,900
+without a controller, we can only attach up to 8 parts to our system
+
+24
+00:01:05,266 --> 00:01:08,000
+adding one extra will cause it to collapse
+
+25
+00:01:08,233 --> 00:01:09,633
+to avoid this limitation
+
+26
+00:01:09,633 --> 00:01:14,033
+we need to sort out the communication between those parts with the help of a controller
+
+27
+00:01:14,466 --> 00:01:19,233
+every part we add to our network will require to be connected to our central controller
+
+28
+00:01:19,266 --> 00:01:22,300
+but cables can only carry a limited amount of connections
+
+29
+00:01:22,300 --> 00:01:23,566
+more precisely
+
+30
+00:01:23,866 --> 00:01:26,900
+32 for dense cables and 8 for normal cables
+
+31
+00:01:26,900 --> 00:01:28,666
+glass cable is the cheapest one
+
+32
+00:01:28,666 --> 00:01:30,000
+but it can't be painted
+
+33
+00:01:30,000 --> 00:01:31,000
+which could be a problem
+
+34
+00:01:31,000 --> 00:01:34,100
+since cable loops can cause unpredictable behaviors
+
+35
+00:01:34,333 --> 00:01:36,433
+finally we have smart cables
+
+36
+00:01:36,500 --> 00:01:37,700
+those are more expensive
+
+37
+00:01:37,700 --> 00:01:41,366
+but will allow you to see the amount of used channels without using any tool
+
+38
+00:01:41,666 --> 00:01:43,000
+to connect all of your base
+
+39
+00:01:43,000 --> 00:01:45,566
+you will probably have to reach far places
+
+40
+00:01:45,566 --> 00:01:47,966
+but long cables could become expensive
+
+41
+00:01:48,066 --> 00:01:51,433
+to cheap out we can use point to point connections
+
+42
+00:01:51,566 --> 00:01:56,066
+those things will bridge a cable across two points while using only one channel
+
+43
+00:01:56,200 --> 00:01:59,766
+meaning they can shrink channel usage by a factor of 32
+
+44
+00:02:00,033 --> 00:02:01,766
+to set up the P2P bridge
+
+45
+00:02:01,766 --> 00:02:05,666
+we have to use a memory card to link the input side to the output side
+
+46
+00:02:06,100 --> 00:02:09,166
+p2ps will however require a channel to work
+
+47
+00:02:09,233 --> 00:02:12,033
+so we set up a second network just for those
+
+48
+00:02:12,300 --> 00:02:14,033
+to power that extra network
+
+49
+00:02:14,033 --> 00:02:18,400
+we can draw some energy from our main network using a piece of quartz fiber
+
+50
+00:02:18,866 --> 00:02:22,900
+next, we can see how to make our system craft complex items on its own
+
+51
+00:02:22,900 --> 00:02:25,900
+to do that we start with a pattern terminal
+
+52
+00:02:25,900 --> 00:02:29,100
+where we can teach the system how to do each crafting step
+
+53
+00:02:29,100 --> 00:02:34,000
+for example, we can say that one iron dust can be turned into one iron ingot
+
+54
+00:02:34,300 --> 00:02:36,300
+we encode that recipe into a pattern
+
+55
+00:02:36,300 --> 00:02:38,500
+which we then move to an interface
+
+56
+00:02:38,666 --> 00:02:41,200
+that way when the system will need an iron ingot
+
+57
+00:02:41,200 --> 00:02:44,500
+it will move an iron dust to an inventory near that interface
+
+58
+00:02:44,500 --> 00:02:46,700
+and accept an iron ingot back
+
+59
+00:02:46,800 --> 00:02:49,000
+to make the process faster most of the time
+
+60
+00:02:49,000 --> 00:02:51,400
+you will want NEI to fill up your patterns
+
+61
+00:02:51,400 --> 00:02:55,633
+and your interfaces to be more compact and dedicated to a single machine
+
+62
+00:02:56,033 --> 00:02:58,400
+and when using gregtech single blocks
+
+63
+00:02:58,400 --> 00:03:02,033
+you have to remember to correctly set the machine inputs and outputs
+
+64
+00:03:02,233 --> 00:03:05,100
+with that I think I covered most of the basic stuff
+
+65
+00:03:05,200 --> 00:03:09,100
+now let's get into some more advanced stuff typical to GTNH
+
+66
+00:03:09,600 --> 00:03:12,766
+when dealing with multi blocks, if you don't have unlocked the CIBs
+
+67
+00:03:12,766 --> 00:03:16,666
+you'll have to split your solids and fluids into two different inventories
+
+68
+00:03:16,766 --> 00:03:19,900
+a cheap way of doing that is with ingredients buffers
+
+69
+00:03:20,033 --> 00:03:23,633
+but that solution will cause all sort of issues when scaling up
+
+70
+00:03:23,633 --> 00:03:26,800
+to fix the speed issues we can use a subnetwork
+
+71
+00:03:26,866 --> 00:03:30,300
+our interface will drop ingredients into the subnetwork interface
+
+72
+00:03:30,300 --> 00:03:34,966
+which can only store those inside the storage buses that are attached to the multi block
+
+73
+00:03:35,100 --> 00:03:37,200
+if you are working with a more expensive machine
+
+74
+00:03:37,200 --> 00:03:39,300
+and want it to work with different circuits
+
+75
+00:03:39,566 --> 00:03:43,466
+you can use paint to make sure that ingredients won't react with each other
+
+76
+00:03:43,700 --> 00:03:46,266
+if instead the issue is that the machine is too slow
+
+77
+00:03:46,266 --> 00:03:49,300
+you can use P2P interfaces to split the load
+
+78
+00:03:49,466 --> 00:03:53,033
+to do that, we simply upgrade the interface on our first machine
+
+79
+00:03:53,066 --> 00:03:54,566
+then like a P2P
+
+80
+00:03:54,633 --> 00:03:57,633
+we link it to a P2P interface on a second machine
+
+81
+00:03:57,733 --> 00:04:01,500
+that way we can split craftings across all of the machines we could want
+
+82
+00:04:01,566 --> 00:04:04,800
+to split the load even better and avoid recipe conflicts
+
+83
+00:04:04,800 --> 00:04:08,100
+we can add an advanced blocking card to the receiving interface
+
+84
+00:04:08,100 --> 00:04:10,566
+and turn on blocking mode on the main network one
+
+85
+00:04:10,833 --> 00:04:14,433
+that will ensure that no items will build up in the input bus
+
+86
+00:04:14,466 --> 00:04:17,100
+but it could also prevent parallel crafting
+
+87
+00:04:17,300 --> 00:04:20,266
+we can avoid this side effect by multiplying patterns
+
+88
+00:04:20,266 --> 00:04:22,600
+or allowing same recipe insertion
+
+89
+00:04:22,700 --> 00:04:25,000
+and now we can jump to some more complex stuff
+
+90
+00:04:25,000 --> 00:04:26,266
+assembly lines
+
+91
+00:04:26,500 --> 00:04:31,500
+as you know the main issue here is splitting all of the ingredients across all of the inputs
+
+92
+00:04:31,500 --> 00:04:34,466
+to do that you simply use ULV input buses
+
+93
+00:04:34,466 --> 00:04:36,633
+which can only hold one item stack
+
+94
+00:04:36,833 --> 00:04:40,633
+and then have decreasing priority on the crafting subnetworks buses
+
+95
+00:04:40,833 --> 00:04:45,000
+and nowadays this can be easily achieved with a new priority card
+
+96
+00:04:45,233 --> 00:04:49,866
+in this setup, enabling blocking mode with blocking cards is mandatory to avoid clogging
+
+97
+00:04:51,100 --> 00:04:56,166
+the only weak point of this setup is recipes that needed the same item in different spots
+
+98
+00:04:56,766 --> 00:05:01,966
+the mainstream way of fixing that issue is by creating some renamed copies of said item
+
+99
+00:05:02,100 --> 00:05:05,100
+which can be automated with a rename mold in a press
+
+100
+00:05:05,500 --> 00:05:08,033
+and now we can move on to more interesting stuff
+
+101
+00:05:08,033 --> 00:05:11,000
+such as the general purpose advance assembly line
+
+102
+00:05:11,266 --> 00:05:12,366
+to break it down
+
+103
+00:05:12,366 --> 00:05:18,033
+let's start by saying that those are 10 identical setups fed by point to point interfaces
+
+104
+00:05:18,100 --> 00:05:21,100
+so we should focus on just one of those lines
+
+105
+00:05:21,166 --> 00:05:22,966
+if we check one of those setups
+
+106
+00:05:22,966 --> 00:05:30,866
+we can see that each row is just an assembly line where each slice is fed whatever item is present in a dedicated subnetwork for this slice
+
+107
+00:05:31,266 --> 00:05:34,600
+I wanted to highlight that this is just a modular assembly line
+
+108
+00:05:34,600 --> 00:05:41,633
+where each slice is taking items from an external inventory, shared between all of the assembly lines in the same group
+
+109
+00:05:41,633 --> 00:05:46,666
+with that you should get that the only challenge is getting each item in a different subnetwork
+
+110
+00:05:46,666 --> 00:05:51,233
+to do that we create a set of sub networks that can only contain one item type
+
+111
+00:05:51,266 --> 00:05:54,433
+which can be easily achieved with digital singularity cells
+
+112
+00:05:55,233 --> 00:05:58,933
+then we place those networks in a way that resembles an assembly line
+
+113
+00:05:58,933 --> 00:06:02,566
+and feed the that setup the way we will feed an assembly line
+
+114
+00:06:02,966 --> 00:06:04,133
+to get a better view
+
+115
+00:06:04,133 --> 00:06:06,566
+here we have our main network interface
+
+116
+00:06:06,733 --> 00:06:09,533
+dropping into a distribution network interface
+
+117
+00:06:09,566 --> 00:06:13,833
+which will split ingredients into storage buses according to priority
+
+118
+00:06:13,933 --> 00:06:18,566
+also every interface must have blocking cards inside and blocking mode enabled
+
+119
+00:06:18,866 --> 00:06:23,766
+the next thing we should see is how to build a controller with a lot of usable channels
+
+120
+00:06:23,933 --> 00:06:25,100
+before we get started
+
+121
+00:06:25,100 --> 00:06:27,633
+I would like to tell you that this is not required
+
+122
+00:06:27,700 --> 00:06:31,500
+I have used about 100 controller faces to complete the stargate
+
+123
+00:06:31,500 --> 00:06:34,400
+and that can be easily achieved by basic layouts
+
+124
+00:06:34,700 --> 00:06:40,166
+with that I mean that this simple controller here is already providing as many channels as I used to build a star gate
+
+125
+00:06:40,166 --> 00:06:43,066
+and there is still plenty of unused space
+
+126
+00:06:43,500 --> 00:06:47,266
+anyways the way I built my controller is more or less like this
+
+127
+00:06:47,333 --> 00:06:49,700
+we start with a controller shell done like that
+
+128
+00:06:49,700 --> 00:06:52,500
+and then we add P2P all over the inner side
+
+129
+00:06:52,500 --> 00:06:56,066
+we add two wireless connectors to take out those P2P connection
+
+130
+00:06:56,066 --> 00:06:58,333
+and complete the controller cell like that
+
+131
+00:06:58,333 --> 00:07:01,666
+we take out each one of the wireless connector to an open space
+
+132
+00:07:01,666 --> 00:07:05,066
+where we build a wall for all of the P2P that will be bridged
+
+133
+00:07:05,400 --> 00:07:09,366
+connect all of the P2Ps of the controller with the P2Ps on the wall
+
+134
+00:07:09,500 --> 00:07:14,966
+finally, we add the easily accessible wireless connector that we will be using for our base
+
+135
+00:07:15,666 --> 00:07:17,466
+I didn't go much into the details
+
+136
+00:07:17,466 --> 00:07:20,966
+because I think I should first figure out a proper way of editing videos
+
+137
+00:07:21,100 --> 00:07:25,666
+and I think there are already plenty of good tutorials on YouTube on how to do those things
+
+138
+00:07:26,033 --> 00:07:29,766
+so I just try to showcase the most useful or interesting stuff
+
+139
+00:07:29,766 --> 00:07:31,100
+before I do anything else
+
+140
+00:07:31,100 --> 00:07:35,500
+I'd first want to know if I should go back to the text to speech or keep using my voice
+
+141
+00:07:35,600 --> 00:07:36,366
+but ideally
+
+142
+00:07:36,366 --> 00:07:38,966
+to ease editing and be closer to my preferred style
+
+143
+00:07:38,966 --> 00:07:42,066
+I would like to not have to type a script, and just improvise
+
+144
+00:07:42,166 --> 00:07:47,700
+but most importantly, I think that you should just test out whatever you want instead of blindly following a tutorial
+
+145
+00:07:47,700 --> 00:07:53,800
+and for that reason I will often reply "why" questions with "why not?" or "go and try yourself to find out"
+
+146
+00:07:53,866 --> 00:07:55,100
+I don't want to be mean
+
+147
+00:07:55,100 --> 00:07:58,900
+I just want to say that the best way of learning is by trial and error
+
+148
+00:07:59,366 --> 00:08:00,066
+for the next video
+
+149
+00:08:00,066 --> 00:08:03,866
+I will probably try to show answer to whatever questions I get in the comments
+
+150
+00:08:03,900 --> 00:08:05,166
+see you next time
+
+151
+00:08:05,166 --> 00:08:05,700
+bye bye
+
+152
+00:00:00,066 --> 00:00:01,066
+大家好
+
+153
+00:00:01,066 --> 00:00:03,900
+欢迎来到又一个 AE 教程
+
+154
+00:00:03,900 --> 00:00:07,433
+首先，我们需要给 AE 系统供电
+
+155
+00:00:07,433 --> 00:00:09,466
+我们可以通过能源接收器来做到这一点
+
+156
+00:00:09,466 --> 00:00:11,566
+它能将其他mod的电源转换为AE电
+
+157
+00:00:11,566 --> 00:00:15,400
+在GTNH中，给AE供电相当重要
+
+158
+00:00:15,433 --> 00:00:19,166
+所以我建议把能源接收器放在靠近发电机的地方
+
+159
+00:00:19,166 --> 00:00:22,300
+并且尽量放一些专门的能量缓存
+
+160
+00:00:22,600 --> 00:00:24,400
+现在我们的系统通电了
+
+161
+00:00:24,400 --> 00:00:27,433
+我们可以通过添加一些部分给它事干
+
+162
+00:00:27,600 --> 00:00:28,900
+我们从驱动器开始
+
+163
+00:00:28,900 --> 00:00:33,166
+它将容纳多达10个存储单元以具有库存容量
+
+164
+00:00:33,166 --> 00:00:34,500
+要访问此库存
+
+165
+00:00:34,500 --> 00:00:37,100
+我们可以用终端扩展我们的系统
+
+166
+00:00:37,200 --> 00:00:40,633
+但这并不是与库存交互的唯一方式
+
+167
+00:00:40,933 --> 00:00:42,666
+要被动地移动物品
+
+168
+00:00:42,666 --> 00:00:44,666
+我们有输入总线和输出总线
+
+169
+00:00:44,700 --> 00:00:49,800
+但更好的是，我们有ME接口，它将维持一定数量的物品
+
+170
+00:00:49,900 --> 00:00:51,500
+我们还有存储总线
+
+171
+00:00:51,500 --> 00:00:55,033
+这将允许与外部存储直接交互
+
+172
+00:00:55,166 --> 00:00:57,300
+但我们最好稍后再看它们
+
+173
+00:00:57,600 --> 00:01:00,633
+接下来我们要谈的是线缆和频道
+
+174
+00:01:00,633 --> 00:01:04,900
+如果没有控制器，我们最多只能将8个部件连接到AE上
+
+175
+00:01:05,266 --> 00:01:08,000
+再添加一个部件会导致系统崩溃
+
+176
+00:01:08,233 --> 00:01:09,633
+
+为了避免这种局限
+
+
+177
+00:01:09,633 --> 00:01:14,033
+
+我们需要在ME控制器的帮助下解决这些部分之间的通信
+
+
+178
+00:01:14,466 --> 00:01:19,233
+我们添加到网络中的每个部分都需要连接到中央控制器
+
+179
+00:01:19,266 --> 00:01:22,300
+但是线缆只能承载有限数量的连接
+
+180
+00:01:22,300 --> 00:01:23,566
+更准确地说
+
+181
+00:01:23,866 --> 00:01:26,900
+密集线缆能承载32个频道，普通线缆8个
+
+182
+00:01:26,900 --> 00:01:28,666
+玻璃线是最便宜的
+
+183
+00:01:28,666 --> 00:01:30,000
+但是无法被染色
+
+184
+00:01:30,000 --> 00:01:31,000
+这可能是个问题
+
+185
+00:01:31,000 --> 00:01:34,100
+因为线缆环路会导致不可预测的行为
+
+186
+00:01:34,333 --> 00:01:36,433
+最后是智能线缆
+
+187
+00:01:36,500 --> 00:01:37,700
+那玩意很贵
+
+188
+00:01:37,700 --> 00:01:41,366
+但可以让你在不使用任何工具的情况下查看使用的频道数量
+
+189
+00:01:41,666 --> 00:01:43,000
+要连接整个基地
+
+190
+00:01:43,000 --> 00:01:45,566
+你可能拉线缆到很远的地方
+
+191
+00:01:45,566 --> 00:01:47,966
+但长线缆可能会变得昂贵
+
+192
+00:01:48,066 --> 00:01:51,433
+为了省钱，我们可以使用p2p
+
+193
+00:01:51,566 --> 00:01:56,066
+这东西只用一个通道就能将两条线缆连接
+
+194
+00:01:56,200 --> 00:01:59,766
+这意味着他们可以将频道使用量减少32倍
+
+195
+00:02:00,033 --> 00:02:01,766
+要建立P2P连接
+
+196
+00:02:01,766 --> 00:02:05,666
+我们必须使用内存卡将输入端链接到输出端
+
+197
+00:02:06,100 --> 00:02:09,166
+然而，p2p需要一个通道才能工作
+
+198
+00:02:09,233 --> 00:02:12,033
+所以我们为此建立了第二个网络
+
+199
+00:02:12,300 --> 00:02:14,033
+为了给这个额外的网络供电
+
+200
+00:02:14,033 --> 00:02:18,400
+我们可以用一个石英纤维从主网络中汲取一些能量
+
+201
+00:02:18,866 --> 00:02:22,900
+接下来，我们可以看看如何让系统自己制作复杂的物品
+
+202
+00:02:22,900 --> 00:02:25,900
+为此，我们从样板终端开始
+
+203
+00:02:25,900 --> 00:02:29,100
+在那里我们可以教系统如何完成每个制作步骤
+
+204
+00:02:29,100 --> 00:02:34,000
+例如，我们可以说一个铁粉可以变成一个铁锭
+
+205
+00:02:34,300 --> 00:02:36,300
+我们将配方编码为样板
+
+206
+00:02:36,300 --> 00:02:38,500
+然后我们把它放到ME接口
+
+207
+00:02:38,666 --> 00:02:41,200
+这样当系统需要一个铁锭时
+
+208
+00:02:41,200 --> 00:02:44,500
+它会将铁粉移动到ME接口附近的库存中
+
+209
+00:02:44,500 --> 00:02:46,700
+并接受一个铁锭的返回
+
+210
+00:02:46,800 --> 00:02:49,000
+多数情况下，要让处理的速度更快
+
+211
+00:02:49,000 --> 00:02:51,400
+一般会用NEI写样板
+
+212
+00:02:51,400 --> 00:02:55,633
+并且让ME接口更加紧凑并专用于单台机器
+
+213
+00:02:56,033 --> 00:02:58,400
+在使用GT单方块机器时
+
+214
+00:02:58,400 --> 00:03:02,033
+你必须记住正确设置机器输入和输出
+
+215
+00:03:02,233 --> 00:03:05,100
+有了这个，我想我涵盖了大部分基本的东西
+
+216
+00:03:05,200 --> 00:03:09,100
+现在让我们进入一些GTNH特有的更高级的东西
+
+217
+00:03:09,600 --> 00:03:12,766
+在自动化多方块时，如果你没有解锁样板输入总成
+
+218
+00:03:12,766 --> 00:03:16,666
+你必须把物品和流体分别输入两个不同的仓室
+
+219
+00:03:16,766 --> 00:03:19,900
+一种便宜的方法是使用原材料缓存仓
+
+220
+00:03:20,033 --> 00:03:23,633
+但该解决方案在扩展时会导致各种问题
+
+221
+00:03:23,633 --> 00:03:26,800
+为了解决速度问题，我们可以使用子网
+
+222
+00:03:26,866 --> 00:03:30,300
+主网的ME接口会将材料送入子网的ME接口
+
+223
+00:03:30,300 --> 00:03:34,966
+子网的ME接口只能将那些材料存储在
+贴着多方块机器的仓室的存储总线内
+
+224
+00:03:35,100 --> 00:03:37,200
+如果你使用的是更昂贵的机器
+
+225
+00:03:37,200 --> 00:03:39,300
+并希望它能同时使用不同的编程电路
+
+226
+00:03:39,566 --> 00:03:43,466
+你可以给仓室染色以确保不会串配方
+
+227
+00:03:43,700 --> 00:03:46,266
+如果问题是机器太慢了
+
+228
+00:03:46,266 --> 00:03:49,300
+你可以使用P2P接口来分配负载
+
+229
+00:03:49,466 --> 00:03:53,033
+为此，我们只需把一台机器上的ME接口升级成p2p的
+
+230
+00:03:53,066 --> 00:03:54,566
+然后像P2P一样
+
+231
+00:03:54,633 --> 00:03:57,633
+我们将其连接到第二台机器上的P2P接口
+
+232
+00:03:57,733 --> 00:04:01,500
+这样我们就可以把合成均摊到我们想要的所有机器
+
+233
+00:04:01,566 --> 00:04:04,800
+为了更好地分配负载并避免配方冲突
+
+234
+00:04:04,800 --> 00:04:08,100
+我们可以在接收端的ME接口中添加高级阻挡卡
+
+235
+00:04:08,100 --> 00:04:10,566
+并在主网的ME接口里打开阻挡模式
+
+236
+00:04:10,833 --> 00:04:14,433
+这将确保输入总线中不会堆积任何物品
+
+237
+00:04:14,466 --> 00:04:17,100
+但它也会限制机器并行
+
+238
+00:04:17,300 --> 00:04:20,266
+我们可以通过倍增样板来避免这个副作用
+
+239
+00:04:20,266 --> 00:04:22,600
+或允许输入相同的配方
+
+240
+00:04:22,700 --> 00:04:25,000
+现在我们可以跳到一些更复杂的东西
+
+241
+00:04:25,000 --> 00:04:26,266
+也就是——装配线
+
+242
+00:04:26,500 --> 00:04:31,500
+如你所知，这里的主要问题是在所有输入中均分材料
+
+243
+00:04:31,500 --> 00:04:34,466
+为此，你只需使用ULV输入总线
+
+244
+00:04:34,466 --> 00:04:36,633
+它只能容纳一组的物品
+
+245
+00:04:36,833 --> 00:04:40,633
+然后在子网的存储总线上逐渐降低优先级
+
+246
+00:04:40,833 --> 00:04:45,000
+如今，这操作可以通过优先卡轻松实现
+
+247
+00:04:45,233 --> 00:04:49,866
+在这套自动化中，必须使用阻挡卡
+并启用阻挡模式，以避免原料堆积
+
+248
+00:04:51,100 --> 00:04:56,166
+这个设置的唯一弱点是
+在不同的地方需要相同物品的配方
+
+249
+00:04:56,766 --> 00:05:01,966
+解决这个问题的主流方法是创建
+所述物品的一些重命名副本
+
+250
+00:05:02,100 --> 00:05:05,100
+重命名可以通过压模机中的重命名模具实现自动化
+
+251
+00:05:05,500 --> 00:05:08,033
+现在我们可以继续更有趣的事情了
+
+252
+00:05:08,033 --> 00:05:11,000
+比如通用高级装配线
+
+253
+00:05:11,266 --> 00:05:12,366
+要拆开、揉碎了讲
+
+254
+00:05:12,366 --> 00:05:18,033
+首先，这是由p2p接口提供的10个相同的设置
+
+255
+00:05:18,100 --> 00:05:21,100
+所以我们应该只关注其中一条装配线
+
+256
+00:05:21,166 --> 00:05:22,966
+如果我们检查其中一个设置
+
+257
+00:05:22,966 --> 00:05:30,866
+
+我们可以看到，这就是个常规的装配线
+其中每一层都在被动抽取该层的专用子网中存在的东西
+
+
+258
+00:05:31,266 --> 00:05:34,600
+我想强调的是，这就是一条模块化的装配线
+
+259
+00:05:34,600 --> 00:05:41,633
+其中每一层从外部库存中取出物品
+这个库存是在同组的所有装配线之间共享的
+
+260
+00:05:41,633 --> 00:05:46,666
+这样说完，你应该明白唯一的挑战是
+将每个物品放在不同的子网中
+
+261
+00:05:46,666 --> 00:05:51,233
+为此，我们创建了一系列只能包含一种物品的子网
+
+262
+00:05:51,266 --> 00:05:54,433
+这可以通过数字奇点元件轻松实现
+
+263
+00:05:55,233 --> 00:05:58,933
+然后我们将这些网络以类似于装配线的方式放置
+
+264
+00:05:58,933 --> 00:06:02,566
+并按照之前自动化装配线的方式给该设置输入物品
+
+265
+00:06:02,966 --> 00:06:04,133
+为了看得更清楚
+
+266
+00:06:04,133 --> 00:06:06,566
+这是我们的主网ME接口
+
+267
+00:06:06,733 --> 00:06:09,533
+输入物品到用于分配原料的子网的ME接口
+
+268
+00:06:09,566 --> 00:06:13,833
+子网ME接口会根据优先级将原料输入存储总线
+
+269
+00:06:13,933 --> 00:06:18,566
+存储总线对着的ME接口内部
+都必须有阻挡卡并启用阻挡模式
+
+270
+00:06:18,866 --> 00:06:23,766
+接下来我们看看如何构建一个
+具有大量可用频道的ME控制器
+
+271
+00:06:23,933 --> 00:06:25,100
+在我们开始之前
+
+272
+00:06:25,100 --> 00:06:27,633
+我想告诉你这不是必须的
+
+273
+00:06:27,700 --> 00:06:31,500
+我用了大约100个ME控制器的面来完成星门
+
+274
+00:06:31,500 --> 00:06:34,400
+这可以通过基本布局轻松实现
+
+275
+00:06:34,700 --> 00:06:40,166
+我的意思是这个简单的控制器已经提供了
+和我用来建造星门一样多的频道
+
+276
+00:06:40,166 --> 00:06:43,066
+而且还有大量未使用的空间
+
+277
+00:06:43,500 --> 00:06:47,266
+无论如何，我构建控制器的方式大概是这样的：
+
+278
+00:06:47,333 --> 00:06:49,700
+我们从这样的控制器外壳开始
+
+279
+00:06:49,700 --> 00:06:52,500
+然后在内侧添加P2P
+
+280
+00:06:52,500 --> 00:06:56,066
+添加两个无线连接器来引出那些P2P通道
+
+281
+00:06:56,066 --> 00:06:58,333
+并像那样完成控制器单元
+
+282
+00:06:58,333 --> 00:07:01,666
+我们将无线连接器连到到一个开放空间
+
+283
+00:07:01,666 --> 00:07:05,066
+为所有被桥接的P2P建立一堵墙
+
+284
+00:07:05,400 --> 00:07:09,366
+将控制器的所有P2P与墙上的P2P连接起来
+
+285
+00:07:09,500 --> 00:07:14,966
+最后，我们添加易于访问的无线连接器
+我们用它们联通整个基地
+
+286
+00:07:15,666 --> 00:07:17,466
+我没说太多细节
+
+287
+00:07:17,466 --> 00:07:20,966
+因为我想我做得合适视频剪辑
+
+288
+00:07:21,100 --> 00:07:25,666
+我认为YouTube上已经有很多关于AE的好教程
+
+289
+00:07:26,033 --> 00:07:29,766
+所以我只是想展示最有用或最有趣的东西
+
+290
+00:07:29,766 --> 00:07:31,100
+在我做其他事情之前
+
+291
+00:07:31,100 --> 00:07:35,500
+我首先想知道我是应该回到ai配音还是继续使用我的声音
+
+292
+00:07:35,600 --> 00:07:36,366
+但理想情况下
+
+293
+00:07:36,366 --> 00:07:38,966
+为了简化剪辑并更接近我喜欢的风格
+
+294
+00:07:38,966 --> 00:07:42,066
+我希望不写剧本，就即兴发挥
+
+295
+00:07:42,166 --> 00:07:47,700
+但最重要的是，我认为对于任何你想做的事情
+应该先去试一试，而不是盲目地跟教程走
+
+296
+00:07:47,700 --> 00:07:53,800
+出于这个原因，我经常会用"为什么不呢"
+或者"去试试看"来回答"为什么"的问题
+
+297
+00:07:53,866 --> 00:07:55,100
+我没有任何贬低的意思
+
+298
+00:07:55,100 --> 00:07:58,900
+我只想说最好的学习方法是通过试验和排除错误
+
+299
+00:07:59,366 --> 00:08:00,066
+对于下一个视频
+
+300
+00:08:00,066 --> 00:08:03,866
+我可能会试着回答评论区中的问题
+
+301
+00:08:03,900 --> 00:08:05,166
+下次见
+
+302
+00:08:05,166 --> 00:08:05,700
+拜拜
+
+303
+00:01:00,633 --> 00:01:04,900
+（一个部件占用一个频道）
+
+304
+00:03:16,766 --> 00:03:19,900
+(它能同时存储物品和流体）
+
+305
+00:06:27,700 --> 00:06:31,500
+（一个面能提供32个频道）
+
+306
+00:07:31,100 --> 00:07:35,500
+（现在他决定给速通类的视频三个音轨
+口播英语、口播意大利、ai英语
+其他类型的视频应该就只有口播英语）
+
+307
+00:08:00,066 --> 00:08:03,866
+（他之后并没有做这个）
+

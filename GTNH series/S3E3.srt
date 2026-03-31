@@ -1,0 +1,896 @@
+1
+00:00:00,133 --> 00:00:02,666
+the first two things we will want to automate are
+
+2
+00:00:02,666 --> 00:00:04,133
+silicon and plastic
+
+3
+00:00:04,533 --> 00:00:07,400
+we can start with the more streamlined one silicon
+
+4
+00:00:07,400 --> 00:00:10,400
+which can easily be produced with a simple chain of machines
+
+5
+00:00:10,400 --> 00:00:11,900
+with no input at all
+
+6
+00:00:12,233 --> 00:00:14,633
+the first part of this chain is rather easy
+
+7
+00:00:14,633 --> 00:00:17,100
+so we can just skip to the last step
+
+8
+00:00:17,333 --> 00:00:18,833
+the issue with that step is that
+
+9
+00:00:18,833 --> 00:00:21,333
+an addition of magnesium is required
+
+10
+00:00:21,633 --> 00:00:23,700
+it will be given back in form of magnesia
+
+11
+00:00:23,700 --> 00:00:25,900
+which has to be sorted out from silicon
+
+12
+00:00:25,900 --> 00:00:28,333
+and electrolyzed to get magnesium back
+
+13
+00:00:28,466 --> 00:00:29,833
+to sort apart those items
+
+14
+00:00:29,833 --> 00:00:31,400
+we can use drawers or barrels
+
+15
+00:00:31,400 --> 00:00:33,833
+and lock the item we want to sort out
+
+16
+00:00:34,200 --> 00:00:37,233
+once we have isolated the dust we wanted to reprocess
+
+17
+00:00:37,233 --> 00:00:40,466
+we can use conveyor to import it inside our electrolyzer
+
+18
+00:00:40,733 --> 00:00:44,233
+with that we have finished the logistic part of producing silicon
+
+19
+00:00:44,466 --> 00:00:46,400
+now let's see the power part
+
+20
+00:00:46,433 --> 00:00:48,800
+the main power sink here is the arc furnace
+
+21
+00:00:48,800 --> 00:00:51,066
+with its 3 amps of MV power
+
+22
+00:00:51,400 --> 00:00:54,066
+however that consumption will last just 1 second
+
+23
+00:00:54,066 --> 00:00:55,700
+and will yield the two outputs
+
+24
+00:00:55,900 --> 00:00:57,633
+this will cause an interesting effect 
+
+25
+00:00:57,633 --> 00:01:00,200
+which we'll be using but I do not advise
+
+26
+00:01:00,200 --> 00:01:01,833
+when a machine runs out of power
+
+27
+00:01:01,833 --> 00:01:03,266
+it will halt for a little bit
+
+28
+00:01:03,266 --> 00:01:06,300
+and fill up its internal buffer before trying again
+
+29
+00:01:06,333 --> 00:01:10,533
+and this recipe is quick enough to be run even without a proper power source
+
+30
+00:01:10,566 --> 00:01:13,200
+furthermore, this machine is not going to work constantly
+
+31
+00:01:13,200 --> 00:01:16,500
+but it's going to have to wait for the slower ones in this chain
+
+32
+00:01:16,833 --> 00:01:20,866
+which means it's going to use a constant average of 32 EU per tick
+
+33
+00:01:21,000 --> 00:01:23,866
+that doesn't mean it can be powered with LV power
+
+34
+00:01:23,866 --> 00:01:28,600
+but it allows us to power everything in this chain with just a single MV turbine
+
+35
+00:01:28,933 --> 00:01:31,500
+finally we add two more chemical reactors
+
+36
+00:01:31,500 --> 00:01:34,033
+to refine our silicon to solar grade
+
+37
+00:01:34,433 --> 00:01:36,400
+next we have to make polyethylene
+
+38
+00:01:36,466 --> 00:01:39,233
+the main issue here is deciding in which way
+
+39
+00:01:39,600 --> 00:01:42,100
+we can either set up a new farm for the plant way
+
+40
+00:01:42,100 --> 00:01:44,500
+or set up a pump and refine some oil
+
+41
+00:01:45,400 --> 00:01:47,200
+the plant way is more renewable
+
+42
+00:01:47,200 --> 00:01:49,500
+but oil is more synthetically interesting
+
+43
+00:01:49,500 --> 00:01:51,633
+so we will be seeing the oil way
+
+44
+00:01:52,033 --> 00:01:54,266
+after setting up a pump over a deposit
+
+45
+00:01:54,266 --> 00:01:58,000
+we move the oil to our base using a long distance fluid pipeline
+
+46
+00:01:58,433 --> 00:02:01,100
+the first step will be to distill our oil
+
+47
+00:02:01,200 --> 00:02:06,233
+and here we'll already start to get lost between all of the recipes in the distillery page
+
+48
+00:02:06,233 --> 00:02:11,333
+a better way to deal with all of those recipes is to instead look at the distillation tower recipes
+
+49
+00:02:11,500 --> 00:02:13,666
+while we can't craft that machine yet
+
+50
+00:02:13,666 --> 00:02:16,300
+the outputs are in most of the cases the same
+
+51
+00:02:16,300 --> 00:02:21,866
+the circuit required in the distillery represents the layer at which the fluid will come out of the tower
+
+52
+00:02:21,933 --> 00:02:27,033
+and yes by using a single block we will be losing all of the fluids outside of the chosen one
+
+53
+00:02:27,133 --> 00:02:30,233
+the issue is now deciding which fluid we want to keep
+
+54
+00:02:30,500 --> 00:02:32,500
+and things quickly get convoluted
+
+55
+00:02:32,500 --> 00:02:40,233
+because to make plastic each one of those fluids can be working a slightly different way to get different ratios in a second distillation process
+
+56
+00:02:40,433 --> 00:02:43,200
+anyways we start by moving the oil into a distillery
+
+57
+00:02:43,200 --> 00:02:45,100
+and then we select one fluid
+
+58
+00:02:45,266 --> 00:02:47,333
+this fluid will have some sulfur impurities
+
+59
+00:02:47,333 --> 00:02:51,300
+which must be removed with the help of some hydrogen in a chemical reactor
+
+60
+00:02:51,466 --> 00:02:55,600
+the main issue here is that one of the two fluids must be provided through cells
+
+61
+00:02:55,666 --> 00:02:58,700
+to help with that we can use some GregTech tanks
+
+62
+00:02:58,700 --> 00:03:01,000
+we pump in the fluid, add some cells
+
+63
+00:03:01,000 --> 00:03:04,100
+and then apply a conveyor belt to move the filled cells
+
+64
+00:03:04,133 --> 00:03:07,900
+
+this particular recipe will output two differently filled cells
+
+
+65
+00:03:07,933 --> 00:03:10,466
+for now we have to either manually manage those
+
+66
+00:03:10,466 --> 00:03:11,900
+or use the drawer trick
+
+67
+00:03:11,900 --> 00:03:14,333
+the next step is similar, but easier to loop
+
+68
+00:03:14,333 --> 00:03:18,000
+since it consists of just moving back and forth a cell to refill it
+
+69
+00:03:18,000 --> 00:03:18,733
+as before
+
+70
+00:03:18,733 --> 00:03:20,600
+we will have a tank to refill the cells
+
+71
+00:03:20,600 --> 00:03:24,633
+which are then pushed into the adjacent chemical reactor with a conveyor belt
+
+72
+00:03:24,633 --> 00:03:25,600
+but this time
+
+73
+00:03:25,600 --> 00:03:29,700
+we will also have a conveyor on the reactor to push back empty cells
+
+74
+00:03:29,800 --> 00:03:32,333
+however those conveyors will block each other
+
+75
+00:03:32,333 --> 00:03:35,133
+unless we select the allow input setting
+
+76
+00:03:35,400 --> 00:03:38,300
+and with that we have severely cracked refinery gas
+
+77
+00:03:38,333 --> 00:03:41,900
+one of the 12 different routes of making ethylene from oil
+
+78
+00:03:41,900 --> 00:03:45,466
+finally we add oxygen to obtain polyethylene
+
+79
+00:03:45,633 --> 00:03:47,800
+this process uses a little bit of hydrogen
+
+80
+00:03:47,800 --> 00:03:49,400
+and a huge amount of oxygen
+
+81
+00:03:49,400 --> 00:03:52,000
+to get the hydrogen we are electrolyzing water
+
+82
+00:03:52,000 --> 00:03:54,266
+and while this process makes some oxygen too
+
+83
+00:03:54,266 --> 00:03:56,266
+it's far from our requirements
+
+84
+00:03:56,333 --> 00:03:58,333
+the easiest way to make all of that oxygen
+
+85
+00:03:58,333 --> 00:04:01,733
+is to just use the waste one from our silicon processing
+
+86
+00:04:02,033 --> 00:04:05,600
+one other thing you could want to automate is ore processing
+
+87
+00:04:06,066 --> 00:04:07,733
+here we have an example of that
+
+88
+00:04:07,733 --> 00:04:10,200
+made using steam and logistic pipes
+
+89
+00:04:10,400 --> 00:04:12,066
+let's see how it works
+
+90
+00:04:12,133 --> 00:04:15,033
+in this test we drop all of the minerals we dig
+
+91
+00:04:15,433 --> 00:04:17,433
+if those are already sorted out
+
+92
+00:04:17,433 --> 00:04:21,433
+they will be moved to the machine we have designed for the next processing step
+
+93
+00:04:21,733 --> 00:04:22,633
+in this example
+
+94
+00:04:22,633 --> 00:04:25,933
+we are setting the destination filters with item sink modules
+
+95
+00:04:25,933 --> 00:04:30,433
+and extracting materials from the outputs with unfiltered extractor modules
+
+96
+00:04:30,533 --> 00:04:32,666
+every time we will be inserting a new ore
+
+97
+00:04:32,666 --> 00:04:34,366
+it will stick in the starting chest
+
+98
+00:04:34,366 --> 00:04:37,833
+that will be the signal that we have to decide how to process it
+
+99
+00:04:37,833 --> 00:04:41,300
+to do that we can use NEI bookmarks to Mark the path we decide
+
+100
+00:04:41,400 --> 00:04:45,100
+then we apply those bookmarks to the cards of the correct machines
+
+101
+00:04:45,100 --> 00:04:47,700
+another thing is that until we get into HV
+
+102
+00:04:47,700 --> 00:04:51,233
+we can't get the useful byproduct of the HV macerator
+
+103
+00:04:51,266 --> 00:04:54,200
+so we should be careful of what we process until then
+
+104
+00:04:54,433 --> 00:04:55,500
+on the opposite side
+
+105
+00:04:55,500 --> 00:04:59,800
+sometimes some useless byproduct processing is going to clog things up
+
+106
+00:05:00,133 --> 00:05:02,100
+to speed up things and save some energy
+
+107
+00:05:02,100 --> 00:05:04,200
+we can use some different machines
+
+108
+00:05:04,433 --> 00:05:06,666
+to finish off, I'd like to remind you that
+
+109
+00:05:06,666 --> 00:05:14,300
+you can quickly restrict flow direction of a long segment of pipes by setting the wrench in line mode by crouching and clicking on air
+
+110
+00:05:14,500 --> 00:05:16,400
+and for today that's it
+
+111
+00:05:16,400 --> 00:05:17,000
+bye bye
+
+112
+00:00:00,133 --> 00:00:02,666
+我们想要自动化的前两件事是
+
+113
+00:00:02,666 --> 00:00:04,133
+硅粉和塑料
+
+114
+00:00:04,533 --> 00:00:07,400
+我们可以从更线性的硅粉开始
+
+115
+00:00:07,400 --> 00:00:10,400
+它可以很容易地用简单的机器链生产
+
+116
+00:00:10,400 --> 00:00:11,900
+而几乎不需要输入
+
+117
+00:00:12,233 --> 00:00:14,633
+这条链的第一部分相当简单
+
+118
+00:00:14,633 --> 00:00:17,100
+所以我们可以跳到最后一步
+
+119
+00:00:17,333 --> 00:00:18,833
+这一步的问题是
+
+120
+00:00:18,833 --> 00:00:21,333
+需要额外添加镁
+
+121
+00:00:21,633 --> 00:00:23,700
+它将以氧化镁的形式返还
+
+122
+00:00:23,700 --> 00:00:25,900
+我们需要把它产物从硅中分离出来
+
+123
+00:00:25,900 --> 00:00:28,333
+并电解以取回镁
+
+124
+00:00:28,466 --> 00:00:29,833
+要分类产物
+
+125
+00:00:29,833 --> 00:00:31,400
+我们可以用抽屉或桶
+
+126
+00:00:31,400 --> 00:00:33,833
+并锁定我们要整理的物品
+
+127
+00:00:34,200 --> 00:00:37,233
+一旦我们分离了想要重新处理的粉
+
+128
+00:00:37,233 --> 00:00:40,466
+我们可以使用传送带将其导入电解机内
+
+129
+00:00:40,733 --> 00:00:44,233
+这样我们就完成了生产硅粉的物流部分
+
+130
+00:00:44,466 --> 00:00:46,400
+现在让我们看看电力部分
+
+131
+00:00:46,433 --> 00:00:48,800
+这里的主要用电器是电弧炉
+
+132
+00:00:48,800 --> 00:00:51,066
+它要用 3A MV
+
+133
+00:00:51,400 --> 00:00:54,066
+然而，耗电仅持续1秒
+
+134
+00:00:54,066 --> 00:00:55,700
+并将产生两个输出
+
+135
+00:00:55,900 --> 00:00:57,633
+这会引起有趣的效果
+
+136
+00:00:57,633 --> 00:01:00,200
+我们将使用它，但我不建议这样做
+
+137
+00:01:00,200 --> 00:01:01,833
+当机器没电时
+
+138
+00:01:01,833 --> 00:01:03,266
+它会停一会儿
+
+139
+00:01:03,266 --> 00:01:06,300
+并在再次尝试之前填满其内部缓冲区
+
+140
+00:01:06,333 --> 00:01:10,533
+这个配方足够快，即使没有合适的电源也能运行
+
+141
+00:01:10,566 --> 00:01:13,200
+此外，这台机器不会一直工作
+
+142
+00:01:13,200 --> 00:01:16,500
+因为它必须等待这个链条中较慢的那些
+
+143
+00:01:16,833 --> 00:01:20,866
+这意味着它平均来说，将使用 32 EU/t
+
+144
+00:01:21,000 --> 00:01:23,866
+这并不意味着它可以用LV电源供电。
+
+145
+00:01:23,866 --> 00:01:28,600
+但它允许我们用一个MV涡轮机
+为这个产线中的所有东西供电
+
+146
+00:01:28,933 --> 00:01:31,500
+最后我们再加两个化学反应釜
+
+147
+00:01:31,500 --> 00:01:34,033
+将我们的硅提炼成太阳能级硅
+
+148
+00:01:34,433 --> 00:01:36,400
+接下来我们要做聚乙烯
+
+149
+00:01:36,466 --> 00:01:39,233
+这里的主要问题是决定以哪种方式生产
+
+150
+00:01:39,600 --> 00:01:42,100
+我们可以建立一个新的农场，用植物来生产
+
+151
+00:01:42,100 --> 00:01:44,500
+或者建立一个泵并提炼石油
+
+152
+00:01:45,400 --> 00:01:47,200
+植物方式更具可再生性
+
+153
+00:01:47,200 --> 00:01:49,500
+但是石油综合来说更有趣
+
+154
+00:01:49,500 --> 00:01:51,633
+所以我们会看到石油产线
+
+155
+00:01:52,033 --> 00:01:54,266
+在油泉上安装泵后
+
+156
+00:01:54,266 --> 00:01:58,000
+我们用长距离输油管道把石油运到基地
+
+157
+00:01:58,433 --> 00:02:01,100
+第一步是提炼石油
+
+158
+00:02:01,200 --> 00:02:06,233
+在这里，我们已经在蒸馏页面的所有配方之间晕头转向了
+
+159
+00:02:06,233 --> 00:02:11,333
+处理所有这些配方的更好方法是查看蒸馏塔配方
+
+160
+00:02:11,500 --> 00:02:13,666
+虽然我们还不能制造那台机器
+
+161
+00:02:13,666 --> 00:02:16,300
+在大多数情况下，输出是相同的
+
+162
+00:02:16,300 --> 00:02:21,866
+小蒸馏所需的电路代表了蒸馏塔的流体产出层
+
+163
+00:02:21,933 --> 00:02:27,033
+是的，通过使用单方块
+我们将失去所选层之外的所有液体
+
+164
+00:02:27,133 --> 00:02:30,233
+现在的问题是决定我们要保留哪种液体
+
+165
+00:02:30,500 --> 00:02:32,500
+事情很快就会变得复杂
+
+166
+00:02:32,500 --> 00:02:40,233
+因为要制造塑料，每种液体都可以以稍微不同的方式
+在第二道蒸馏工序中获得不同的产率
+
+167
+00:02:40,433 --> 00:02:43,200
+不管怎样，我们从把石油搬进小蒸馏开始
+
+168
+00:02:43,200 --> 00:02:45,100
+然后我们选择一种流体
+
+169
+00:02:45,266 --> 00:02:47,333
+这种液体会有一些硫杂质
+
+170
+00:02:47,333 --> 00:02:51,300
+必须在化学反应釜中借助氢移除
+
+171
+00:02:51,466 --> 00:02:55,600
+这里的主要问题是两种液体中的一种必须通过单元提供
+
+172
+00:02:55,666 --> 00:02:58,700
+为了解决这个问题，我们可以使用GT缸
+
+173
+00:02:58,700 --> 00:03:01,000
+我们注入液体，加入一些空单元
+
+174
+00:03:01,000 --> 00:03:04,100
+然后使用传送带移动填满的单元
+
+175
+00:03:04,133 --> 00:03:07,900
+
+此特定配方将输出两个不同填充的单元
+
+
+176
+00:03:07,933 --> 00:03:10,466
+现在我们要么手动管理这些
+
+177
+00:03:10,466 --> 00:03:11,900
+或者使用抽屉技巧
+
+178
+00:03:11,900 --> 00:03:14,333
+下一步类似，但更容易循环
+
+179
+00:03:14,333 --> 00:03:18,000
+因为它只包括来回移动一个单元来重新填充它
+
+180
+00:03:18,000 --> 00:03:18,733
+和以前一样
+
+181
+00:03:18,733 --> 00:03:20,600
+我们用一个缸来装满单元
+
+182
+00:03:20,600 --> 00:03:24,633
+然后用传送带将其输入相邻的化学反应器
+
+183
+00:03:24,633 --> 00:03:25,600
+但这一次
+
+184
+00:03:25,600 --> 00:03:29,700
+我们还将在反应釜上安装传送带，将空单元推回
+
+185
+00:03:29,800 --> 00:03:32,333
+然而，这些传送带会相互阻挡
+
+186
+00:03:32,333 --> 00:03:35,133
+除非我们选择允许输入
+
+187
+00:03:35,400 --> 00:03:38,300
+这样我们就有了重度裂化的炼油气
+
+188
+00:03:38,333 --> 00:03:41,900
+石油制乙烯的12种不同方法之一
+
+189
+00:03:41,900 --> 00:03:45,466
+最后我们加入氧气得到聚乙烯
+
+190
+00:03:45,633 --> 00:03:47,800
+这个过程需要一点氢气
+
+191
+00:03:47,800 --> 00:03:49,400
+和大量的氧气
+
+192
+00:03:49,400 --> 00:03:52,000
+为了得到氢，我们电解水
+
+193
+00:03:52,000 --> 00:03:54,266
+虽然这个过程也会产生一些氧气
+
+194
+00:03:54,266 --> 00:03:56,266
+这与我们的要求相差甚远
+
+195
+00:03:56,333 --> 00:03:58,333
+制造所有氧气的最简单方法
+
+196
+00:03:58,333 --> 00:04:01,733
+就是用我们硅加工的废料
+
+197
+00:04:02,033 --> 00:04:05,600
+你可能想要自动化的另一件事是矿石处理
+
+198
+00:04:06,066 --> 00:04:07,733
+这里我们有一个例子
+
+199
+00:04:07,733 --> 00:04:10,200
+使用蒸汽和物流管道制造
+
+200
+00:04:10,400 --> 00:04:12,066
+让我们看看它是如何工作的
+
+201
+00:04:12,133 --> 00:04:15,033
+在这个测试中，我们放入挖掘的所有矿物
+
+202
+00:04:15,433 --> 00:04:17,433
+如果这些已经被标记过了
+
+203
+00:04:17,433 --> 00:04:21,433
+它们将被转移到我们为下一步加工设计的机器上
+
+204
+00:04:21,733 --> 00:04:22,633
+在这个例子中
+
+205
+00:04:22,633 --> 00:04:25,933
+我们正在使用物品收纳模块设置目标过滤器
+
+206
+00:04:25,933 --> 00:04:30,433
+并使用未经过滤的提取模块从输出中提取材料
+
+207
+00:04:30,533 --> 00:04:32,666
+每次我们都会放入新矿石
+
+208
+00:04:32,666 --> 00:04:34,366
+它会一直呆在初始箱子里
+
+209
+00:04:34,366 --> 00:04:37,833
+这将是我们必须决定如何处理它的信号
+
+210
+00:04:37,833 --> 00:04:41,300
+为此，我们可以使用NEI书签来标记我们决定的路径
+
+211
+00:04:41,400 --> 00:04:45,100
+然后我们将这些书签应用到正确机器的模块上
+
+212
+00:04:45,100 --> 00:04:47,700
+另一件事是在我们进入HV之前
+
+213
+00:04:47,700 --> 00:04:51,233
+我们无法得到HV研磨机的有用副产品
+
+214
+00:04:51,266 --> 00:04:54,200
+所以在那之前我们应该注意我们处理的东西
+
+215
+00:04:54,433 --> 00:04:55,500
+在另一边
+
+216
+00:04:55,500 --> 00:04:59,800
+有时一些无用的副产品加工会堵塞东西
+
+217
+00:05:00,133 --> 00:05:02,100
+为了加快速度并节省一些电量
+
+218
+00:05:02,100 --> 00:05:04,200
+我们可以使用一些不同的机器
+
+219
+00:05:04,433 --> 00:05:06,666
+最后，我想提醒你
+
+220
+00:05:06,666 --> 00:05:14,300
+你可以通过蹲下并单击空气将扳手设置为直线模式
+来快速限制长管道的流动方向
+
+221
+00:05:14,500 --> 00:05:16,400
+今天就这样了
+
+222
+00:05:16,400 --> 00:05:17,000
+拜拜
+

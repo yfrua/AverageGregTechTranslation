@@ -1,0 +1,3342 @@
+1
+00:00:00,100 --> 00:00:01,366
+hello everyone
+
+2
+00:00:01,366 --> 00:00:04,033
+today we will do a quick GT:NH run
+
+3
+00:00:04,266 --> 00:00:09,766
+to get started, we build a small shelter with the basic storage and survival stuff
+
+4
+00:00:09,900 --> 00:00:11,300
+next we make a new room
+
+5
+00:00:11,300 --> 00:00:14,266
+where we can place our first steam machines
+
+6
+00:00:14,266 --> 00:00:16,900
+and once we get bigger steam machines
+
+7
+00:00:16,900 --> 00:00:19,766
+we can also build a couple of blast furnaces
+
+8
+00:00:19,766 --> 00:00:24,366
+this will allow us to produce the steel required for our low voltage workshop
+
+9
+00:00:24,366 --> 00:00:27,300
+which can be used to craft an electric blast furnace
+
+10
+00:00:27,300 --> 00:00:30,500
+to make the aluminium for the new MV machines
+
+11
+00:00:30,766 --> 00:00:33,833
+all of that progression is taking a lot of resources
+
+12
+00:00:33,833 --> 00:00:35,866
+which we are processing in the basement
+
+13
+00:00:35,866 --> 00:00:39,100
+where we automated raw mineral sorting and processing
+
+14
+00:00:39,466 --> 00:00:40,966
+to power all of that
+
+15
+00:00:40,966 --> 00:00:48,133
+we are using four railcraft boilers fueled with charcoal blocks made from the wood produced by a spruce bonsai farm
+
+16
+00:00:48,133 --> 00:00:52,233
+this setup will be enough for our additional blast furnaces
+
+17
+00:00:52,233 --> 00:00:57,466
+and the new HV machines which can be used to assemble the parts for a rocket
+
+18
+00:00:57,833 --> 00:00:59,266
+now that we have a rocket
+
+19
+00:00:59,266 --> 00:01:02,966
+we can take off to new far places, such as the moon
+
+20
+00:01:03,266 --> 00:01:07,500
+here we can find some rare materials that weren't abundant on earth
+
+21
+00:01:07,500 --> 00:01:09,766
+like Bauxite and neodymium
+
+22
+00:01:09,900 --> 00:01:11,700
+but most importantly
+
+23
+00:01:11,700 --> 00:01:15,033
+we can now move to the garden dimension, a builder's heaven
+
+24
+00:01:15,033 --> 00:01:18,600
+where there are no hostile creatures, and it's always sunny
+
+25
+00:01:18,666 --> 00:01:22,100
+the first thing we build here is a complete oil refinery
+
+26
+00:01:22,100 --> 00:01:24,866
+which will yield all sorts of products
+
+27
+00:01:24,866 --> 00:01:27,566
+after using those for our chemistry industry
+
+28
+00:01:27,566 --> 00:01:30,300
+we use the leftover to fuel our new factory
+
+29
+00:01:30,633 --> 00:01:37,700
+with that we can now power 16 blast furnaces and our new workshop equipped with all kinds of small machines
+
+30
+00:01:37,700 --> 00:01:41,200
+that will allow us to craft anything we could possibly want
+
+31
+00:01:41,200 --> 00:01:44,300
+and to quickly process hundreds of items at once
+
+32
+00:01:44,300 --> 00:01:48,400
+we also have a workshop section with some powerful multi blocks
+
+33
+00:01:48,400 --> 00:01:52,433
+the only issue left is to find a way of collecting enough raw materials
+
+34
+00:01:52,433 --> 00:01:55,466
+to do so, we tried a different approach
+
+35
+00:01:55,466 --> 00:01:57,433
+we did all sorts of weird rituals
+
+36
+00:01:57,433 --> 00:02:02,766
+until we found a way of gathering materials that is easier than flying into space
+
+37
+00:02:02,833 --> 00:02:05,066
+we make space rocks fly to us
+
+38
+00:02:05,066 --> 00:02:08,566
+that way we can easily collect valuable materials
+
+39
+00:02:08,566 --> 00:02:10,600
+without having to leave our base
+
+40
+00:02:10,800 --> 00:02:13,466
+to process all of those raw minerals
+
+41
+00:02:13,466 --> 00:02:17,966
+we built an ore processing plant right next to the meteor crashing site
+
+42
+00:02:18,033 --> 00:02:22,100
+next we do some further refinement in our chemical processing plant
+
+43
+00:02:22,100 --> 00:02:26,500
+and for those materials that still aren't ready for blast smelting
+
+44
+00:02:26,500 --> 00:02:30,466
+we have a place where can build longer refinement processing lines
+
+45
+00:02:30,466 --> 00:02:32,800
+starting from the platinum line
+
+46
+00:02:32,800 --> 00:02:36,000
+however as you can see it's not working
+
+47
+00:02:36,200 --> 00:02:39,000
+and the issue seems to be a lack of hydrogen
+
+48
+00:02:39,500 --> 00:02:41,700
+since we need a planetary amount
+
+49
+00:02:41,700 --> 00:02:44,700
+the only solution is to go back to space again
+
+50
+00:02:45,033 --> 00:02:50,133
+this time the target is the only place with enough hydrogen to satisfy our needs
+
+51
+00:02:50,133 --> 00:02:50,766
+Jupiter
+
+52
+00:02:50,966 --> 00:02:55,700
+to get the hydrogen, we build a space station equipped with a planetary gas siphon
+
+53
+00:02:55,700 --> 00:03:00,200
+and start slowly pumping the whole gaseous planet towards our base
+
+54
+00:03:00,300 --> 00:03:03,966
+with that, our platinum line is starting to work again
+
+55
+00:03:04,100 --> 00:03:10,166
+however platinum is not the only material that requires processing from a chain of machines
+
+56
+00:03:10,366 --> 00:03:13,800
+we also had to set up a processing line for monazite
+
+57
+00:03:13,800 --> 00:03:17,466
+to obtain samarium cerium and other rare earth elements
+
+58
+00:03:17,466 --> 00:03:21,566
+which we used to build a processing line for purifying naquadah
+
+59
+00:03:21,566 --> 00:03:25,766
+finally, we also had to build a processing line for netherite
+
+60
+00:03:26,000 --> 00:03:28,466
+to power all of those new machines
+
+61
+00:03:28,466 --> 00:03:30,366
+we are using only clean energy
+
+62
+00:03:30,366 --> 00:03:35,466
+starting from a geothermal plant that produces steam from underground heat
+
+63
+00:03:35,500 --> 00:03:37,700
+next to our heat pumping station
+
+64
+00:03:37,700 --> 00:03:40,000
+we also have a hydro electric plant
+
+65
+00:03:40,000 --> 00:03:43,800
+built on the slice of river that passes underneath our base
+
+66
+00:03:43,866 --> 00:03:47,566
+but our main source of energy are eight wind turbines
+
+67
+00:03:47,633 --> 00:03:49,400
+depending on wind strength
+
+68
+00:03:49,400 --> 00:03:54,200
+
+those can reach a power output peak of 560 kEU per tick
+
+
+69
+00:03:54,400 --> 00:03:56,300
+and if we fly higher
+
+70
+00:03:56,300 --> 00:03:59,500
+we can see the start of our compressed solar panel array
+
+71
+00:03:59,500 --> 00:04:01,866
+which should outgrow our wind farm
+
+72
+00:04:02,100 --> 00:04:03,900
+finally moving to the nether
+
+73
+00:04:03,900 --> 00:04:06,433
+we are also using some nuclear reactors
+
+74
+00:04:06,433 --> 00:04:09,800
+to power our ancient debris collection process
+
+75
+00:04:09,833 --> 00:04:15,400
+those things are needed to build machines capable of withstanding temperatures higher than the sun
+
+76
+00:04:15,400 --> 00:04:17,500
+such as our new fusion reactor
+
+77
+00:04:17,500 --> 00:04:19,000
+but one was not enough
+
+78
+00:04:19,000 --> 00:04:20,633
+so we made another one
+
+79
+00:04:20,633 --> 00:04:21,800
+and another one
+
+80
+00:04:21,800 --> 00:04:22,966
+and another one
+
+81
+00:04:22,966 --> 00:04:25,266
+and then we scale those one tier up
+
+82
+00:04:25,266 --> 00:04:29,966
+and we can use the old fusion reactors to boost our energy production
+
+83
+00:04:29,966 --> 00:04:34,866
+but the real technological progress is that we can now get into quantum computing
+
+84
+00:04:34,900 --> 00:04:39,433
+after building our first small quantum computer and a research station
+
+85
+00:04:39,433 --> 00:04:42,066
+we can start working on wetware circuits
+
+86
+00:04:42,066 --> 00:04:45,600
+powerful enough to control UHV tier machines
+
+87
+00:04:45,600 --> 00:04:49,633
+but what we are actually going to want is a UV crops synthesizer
+
+88
+00:04:49,966 --> 00:04:54,133
+which can be used to bait one of the best meteorites that can be achieved
+
+89
+00:04:54,133 --> 00:04:58,966
+rich of all of the rarest minerals that normally don't even spawn in nature
+
+90
+00:04:59,066 --> 00:05:04,366
+however while this is a great source of metals that we can't easily obtain by other means
+
+91
+00:05:04,366 --> 00:05:06,366
+it has two huge downsides
+
+92
+00:05:06,366 --> 00:05:11,166
+the first one is that summoning this meteor took the life of some sentient circuits
+
+93
+00:05:11,400 --> 00:05:14,300
+the second issue is that we have to physically dig it
+
+94
+00:05:14,466 --> 00:05:15,866
+block by block
+
+95
+00:05:16,466 --> 00:05:18,033
+to fix all those problems
+
+96
+00:05:18,033 --> 00:05:21,266
+and also get a better selection of collected minerals
+
+97
+00:05:21,266 --> 00:05:23,400
+we can move to our mega apiary
+
+98
+00:05:23,600 --> 00:05:26,466
+here we can beekeep some special breeds of bees
+
+99
+00:05:26,466 --> 00:05:28,966
+that produce some high quality honeycombs
+
+100
+00:05:28,966 --> 00:05:32,033
+from which we can extract all sorts of delicacies
+
+101
+00:05:32,033 --> 00:05:34,000
+such as electric motors
+
+102
+00:05:34,633 --> 00:05:39,500
+but there are still some materials we can't obtain easily from bees or meteors
+
+103
+00:05:39,500 --> 00:05:44,466
+like awakened draconium required for our next blast furnace upgrade
+
+104
+00:05:45,100 --> 00:05:48,366
+we could obtain it by gambling on a new species of bee
+
+105
+00:05:48,366 --> 00:05:52,800
+but since we aren't lobotomizing ourselves by grinding in a closed garden
+
+106
+00:05:52,800 --> 00:05:56,633
+we will simply catch the first vega B rocket passing by
+
+107
+00:05:56,966 --> 00:05:59,700
+and once we get air dropped onto the new planet
+
+108
+00:05:59,700 --> 00:06:02,833
+we can quickly proceed into digging a hole to its core
+
+109
+00:06:02,833 --> 00:06:06,566
+where we will be able to find small amounts of the needed material
+
+110
+00:06:06,900 --> 00:06:12,966
+with that we can craft the royal bed required for the mutagen gene driven mating process of the Drake bee
+
+111
+00:06:13,233 --> 00:06:14,633
+and as soon as it's ready
+
+112
+00:06:14,633 --> 00:06:16,666
+we can move it to the mega apiary
+
+113
+00:06:16,766 --> 00:06:21,666
+where it will quickly produce enough honeycombs to upgrade all of our volcanoes
+
+114
+00:06:22,166 --> 00:06:23,833
+but even with that upgrade
+
+115
+00:06:23,833 --> 00:06:27,466
+we still struggle keeping up with all of the blast smelting needed
+
+116
+00:06:27,466 --> 00:06:30,033
+so we opted for a mega blast furnace
+
+117
+00:06:30,466 --> 00:06:34,900
+the issue is that this giant machine will use a giant amount of energy
+
+118
+00:06:34,900 --> 00:06:39,400
+to keep up with that we built a couple of XL-plasma turbines
+
+119
+00:06:39,500 --> 00:06:42,466
+and while those managed to produce enough power
+
+120
+00:06:42,466 --> 00:06:45,200
+the amount of fuel used became a new issue
+
+121
+00:06:45,466 --> 00:06:49,766
+at first we tried to fix that by building more fusion reactors
+
+122
+00:06:49,766 --> 00:06:52,966
+but this solution couldn't really match our consumption
+
+123
+00:06:53,000 --> 00:06:55,666
+so we designed a more compact solution
+
+124
+00:06:55,666 --> 00:06:59,966
+a single giant reactor that can match hundreds of the smaller ones
+
+125
+00:06:59,966 --> 00:07:02,033
+that solution worked really well
+
+126
+00:07:02,033 --> 00:07:08,200
+until we realized that producing all of that plasma was using an amount of hydrogen bigger than Jupiter
+
+127
+00:07:08,400 --> 00:07:11,566
+and if the biggest planet of our solar system isn't enough
+
+128
+00:07:11,566 --> 00:07:15,766
+the only thing left to do is pump fluids from all over the galaxy
+
+129
+00:07:15,833 --> 00:07:20,266
+but building space stations all over the galaxy is too much of a chore
+
+130
+00:07:20,266 --> 00:07:24,500
+so we opted for a single giant space elevator in our base
+
+131
+00:07:24,500 --> 00:07:29,866
+equipped with a super powerful pump capable of suction in gases from the whole universe
+
+132
+00:07:29,866 --> 00:07:33,900
+but building this pump requires some really strong materials
+
+133
+00:07:33,900 --> 00:07:37,000
+leaving aside all of the neutronium and infinity
+
+134
+00:07:37,000 --> 00:07:43,566
+the real issue lies in the magnetic material required for the inner shaft of a motor powerful enough to spin such pump
+
+135
+00:07:43,566 --> 00:07:44,366
+tengam
+
+136
+00:07:44,866 --> 00:07:47,400
+just to catch a meteor with traces of it
+
+137
+00:07:47,400 --> 00:07:49,433
+we need an ion thruster jet
+
+138
+00:07:49,566 --> 00:07:52,100
+but since this is quite expensive
+
+139
+00:07:52,100 --> 00:07:55,466
+instead of throwing it away for a dozen of tengam ores
+
+140
+00:07:55,500 --> 00:07:58,000
+we shall put it on our new improvised mother ship
+
+141
+00:07:58,000 --> 00:08:01,866
+to push it to a new galaxy where tengam spawns naturally
+
+142
+00:08:02,866 --> 00:08:04,633
+and after a long voyage
+
+143
+00:08:04,633 --> 00:08:07,100
+we got our mothership in the correct area
+
+144
+00:08:07,300 --> 00:08:09,633
+now we can prepare a smaller shuttle
+
+145
+00:08:09,633 --> 00:08:12,600
+which can be used to land on a tengam rich planet
+
+146
+00:08:12,600 --> 00:08:15,200
+where we quickly build a powerful void miner
+
+147
+00:08:15,200 --> 00:08:17,800
+with that we can conclude our space adventure
+
+148
+00:08:17,800 --> 00:08:19,800
+and relocate to our base
+
+149
+00:08:19,800 --> 00:08:23,233
+where we can start working on the powerful space pumps
+
+150
+00:08:23,266 --> 00:08:28,700
+and it was then that we run for the first time into the infinit issue of not having enough infinity
+
+151
+00:08:28,800 --> 00:08:30,900
+to make one ingot of that material
+
+152
+00:08:30,900 --> 00:08:34,566
+we currently need 11 stacks of Infinity catalyst dust
+
+153
+00:08:34,566 --> 00:08:37,633
+which we are mainly collecting with space drones
+
+154
+00:08:37,766 --> 00:08:38,500
+however
+
+155
+00:08:38,500 --> 00:08:43,800
+not only the collection is still too slow even though we have multiple drones working on it
+
+156
+00:08:43,800 --> 00:08:47,166
+we are also low on diamonds and nether stars
+
+157
+00:08:47,233 --> 00:08:50,566
+not to mention all of the cosmic neutronium required
+
+158
+00:08:50,566 --> 00:08:57,700
+which will be a hard task even for our mega blast furnaces and freezers running at 100 million EU per tick each
+
+159
+00:08:57,700 --> 00:09:01,266
+to fix all of those issues there is only one solution
+
+160
+00:09:01,500 --> 00:09:04,433
+a dimensionally transcendent Plasma Forge
+
+161
+00:09:04,433 --> 00:09:06,600
+or dtpf for the homies
+
+162
+00:09:06,666 --> 00:09:11,033
+this giant structure will melt pure infinity out of infinity catalyst
+
+163
+00:09:11,033 --> 00:09:14,833
+completely removing the cost for neutronium and diamonds
+
+164
+00:09:14,833 --> 00:09:16,433
+but don't be fooled
+
+165
+00:09:16,600 --> 00:09:18,766
+while the energy cost looks low
+
+166
+00:09:18,766 --> 00:09:22,500
+it needs some excited dimensionally transcendent fuel
+
+167
+00:09:22,566 --> 00:09:30,900
+and this innocent bucket of exotic material is a super high energy cost concentrate of a huge collection of nuclear fusion products
+
+168
+00:09:31,100 --> 00:09:33,000
+to produce enough of this fuel
+
+169
+00:09:33,000 --> 00:09:35,866
+we had to build a dedicated processing plant
+
+170
+00:09:35,866 --> 00:09:40,266
+which of course was using more energy than we were producing
+
+171
+00:09:40,266 --> 00:09:42,633
+so we upgraded our power plant
+
+172
+00:09:42,766 --> 00:09:48,866
+but all of those things running on fusion products started to overwhelm our compact fusion reactors
+
+173
+00:09:48,866 --> 00:09:50,766
+throttling our whole base
+
+174
+00:09:50,766 --> 00:09:53,866
+it was clear that we were going to need more and more plasma
+
+175
+00:09:53,866 --> 00:09:57,900
+and the Mark III reactor technology wasn't going to do it
+
+176
+00:09:57,900 --> 00:10:03,966
+so we started working on a prototype of fusion reactor capable of achieving perfect overclock
+
+177
+00:10:04,200 --> 00:10:05,433
+with this structure
+
+178
+00:10:05,433 --> 00:10:08,966
+we can now quickly craft millions of buckets of plasma
+
+179
+00:10:09,000 --> 00:10:10,766
+for all of our needs
+
+180
+00:10:10,800 --> 00:10:14,766
+which means that we have enough fuel to run a second dtpf
+
+181
+00:10:14,900 --> 00:10:17,466
+this one will be equipped with Infinity Coils
+
+182
+00:10:17,466 --> 00:10:19,166
+and run on higher power settings
+
+183
+00:10:19,166 --> 00:10:22,166
+to quickly and cheaply craft all sort of things
+
+184
+00:10:22,166 --> 00:10:24,100
+like neutronium from iron
+
+185
+00:10:24,233 --> 00:10:29,166
+but the real game changer is that this machine will be able to craft tesseracts
+
+186
+00:10:29,300 --> 00:10:32,866
+while the main usage for those is to produce transcendent metal
+
+187
+00:10:32,866 --> 00:10:36,500
+what we are after is the energized tesseract technology
+
+188
+00:10:36,500 --> 00:10:39,033
+capable of wirelessly linking machines
+
+189
+00:10:39,033 --> 00:10:44,833
+making it super easy for our matter manipulator to easily copy paste our production lines
+
+190
+00:10:45,000 --> 00:10:47,966
+building all of that was quite resource intensive
+
+191
+00:10:48,233 --> 00:10:54,600
+so after building a water purification plant capable of producing subatomically perfected water
+
+192
+00:10:54,600 --> 00:11:00,400
+we finally obtained the last ingredient required for the most energy intensive machine of the modpack
+
+193
+00:11:00,400 --> 00:11:03,266
+capable of making unlimited dtpf fuel
+
+194
+00:11:03,266 --> 00:11:06,000
+the dimensionally transcendent plasma mixer
+
+195
+00:11:06,366 --> 00:11:09,000
+this machine has unlimited mixing power
+
+196
+00:11:09,166 --> 00:11:11,300
+or to better specify
+
+197
+00:11:11,300 --> 00:11:13,600
+the only limit is our power production
+
+198
+00:11:13,900 --> 00:11:16,700
+indeed as soon as we turn it on 
+
+199
+00:11:16,700 --> 00:11:20,366
+in 5 seconds, it produced one day worth of dtpf fuel
+
+200
+00:11:20,366 --> 00:11:23,466
+and also used two days worth of energy backup
+
+201
+00:11:23,600 --> 00:11:28,366
+and that made us realize that we might have some major energy production issue
+
+202
+00:11:28,666 --> 00:11:32,100
+it was clear that we needed some better way of making energy
+
+203
+00:11:32,200 --> 00:11:35,700
+no matter how many more plasma turbines we will build
+
+204
+00:11:35,866 --> 00:11:40,666
+no matter what kind of exotic metal we use for the blades of our turbines
+
+205
+00:11:40,766 --> 00:11:42,033
+it won't be enough
+
+206
+00:11:42,100 --> 00:11:50,233
+and that's also because our Mark 4 fusion reactor barely keeps up with the plasma production with our current energy conversion rate
+
+207
+00:11:51,100 --> 00:11:53,166
+looking at the sky for a solution
+
+208
+00:11:53,166 --> 00:11:56,500
+we peeked at a fusion reactor which might be big enough
+
+209
+00:11:56,700 --> 00:12:01,066
+the only issue was figuring out a way of capturing all of that energy
+
+210
+00:12:01,233 --> 00:12:05,566
+we figured out we could achieve that by enclosing the sun in a sphere of mirrors
+
+211
+00:12:05,566 --> 00:12:08,200
+that will redirect all of its energy to our base
+
+212
+00:12:08,400 --> 00:12:10,966
+accomplishing such task was not easy
+
+213
+00:12:10,966 --> 00:12:17,300
+especially because placing so many mirrors at that scale required a precision which no normal motor could achieve
+
+214
+00:12:17,600 --> 00:12:20,100
+luckily using some tessaracts
+
+215
+00:12:20,100 --> 00:12:24,866
+we managed to create some four dimensional motors which were perfect for the task
+
+216
+00:12:25,366 --> 00:12:28,000
+and once the Dyson sphere was completed
+
+217
+00:12:28,000 --> 00:12:31,400
+we managed to produce 1/3 of a trillion EU per tick
+
+218
+00:12:31,666 --> 00:12:35,033
+since even superconductors couldn't move that much energy
+
+219
+00:12:35,033 --> 00:12:39,366
+we had to use laser pipes to focus all of that energy in light form
+
+220
+00:12:39,466 --> 00:12:40,966
+with that kind of power
+
+221
+00:12:40,966 --> 00:12:44,766
+we managed to push our DTPFs at the limits of the universe
+
+222
+00:12:44,766 --> 00:12:47,300
+synthesizing space time itself
+
+223
+00:12:47,433 --> 00:12:49,200
+with this revolutionary material
+
+224
+00:12:49,200 --> 00:12:54,566
+we managed to build motors and pistons strong enough to compress things into a black hole
+
+225
+00:12:55,066 --> 00:12:58,000
+and once we properly stabilized a black hole
+
+226
+00:12:58,000 --> 00:13:02,000
+we can use its gravitational field to compress whatever we want
+
+227
+00:13:02,200 --> 00:13:05,700
+thus we obtained unlimited amounts of super dense materials
+
+228
+00:13:05,700 --> 00:13:07,866
+such as eternal singularities
+
+229
+00:13:07,866 --> 00:13:10,400
+which we can now use for mundane tasks
+
+230
+00:13:10,400 --> 00:13:12,633
+such as showering or storage
+
+231
+00:13:13,066 --> 00:13:20,100
+one other usage for all of those singularities is the final tier of coils which will be with us for the rest of the game
+
+232
+00:13:20,100 --> 00:13:21,666
+eternal coils
+
+233
+00:13:21,866 --> 00:13:25,700
+with those we can unlock all of the dtpf recipes
+
+234
+00:13:25,700 --> 00:13:31,666
+and we shall start by making space time at 8 times the speed for 8 times less materials
+
+235
+00:13:31,866 --> 00:13:37,233
+meanwhile we can use our old hypogen dtpfs to passively produce Infinity
+
+236
+00:13:37,233 --> 00:13:40,100
+at the moderate speed of 4 million liters per hour
+
+237
+00:13:40,100 --> 00:13:45,966
+each with a recipe that uses only one Infinity catalyst for each stack of Infinity ingots
+
+238
+00:13:46,100 --> 00:13:49,633
+however that was also quickly draining all of our fuel
+
+239
+00:13:49,666 --> 00:13:54,933
+and the issue was that our fusion reactors couldn't produce the ingredients fast enough
+
+240
+00:13:54,933 --> 00:13:59,800
+it was obvious that we had to improve our fusion technology once again
+
+241
+00:13:59,866 --> 00:14:03,633
+so we started working on the final type of fusion coils
+
+242
+00:14:03,633 --> 00:14:07,233
+and after the initial examination of the crafting plan
+
+243
+00:14:07,233 --> 00:14:09,233
+between all of the missing ingredients
+
+244
+00:14:09,233 --> 00:14:11,300
+we noticed that once again
+
+245
+00:14:11,300 --> 00:14:14,233
+our platinum line is having trouble keeping up
+
+246
+00:14:14,366 --> 00:14:17,700
+this time we couldn't pinpoint a specific issue
+
+247
+00:14:17,866 --> 00:14:23,500
+this gigantic cluster of machines is just too convoluted and slow for our needs
+
+248
+00:14:23,533 --> 00:14:28,766
+so after quickly reanalyzing the design of our platline, looking for improvements
+
+249
+00:14:28,766 --> 00:14:31,200
+we realized we can just scratch all of that
+
+250
+00:14:31,200 --> 00:14:35,766
+and use force to quantum the platinum out of unrefined metal dusts
+
+251
+00:14:35,833 --> 00:14:37,833
+and there is our new platline
+
+252
+00:14:38,033 --> 00:14:42,233
+a single machine that can be speed up by simply tweaking the input power
+
+253
+00:14:42,433 --> 00:14:46,833
+and now that we are refining platinum at 100 times the speed
+
+254
+00:14:46,833 --> 00:14:50,900
+we can't help but want to improve our other processing lines
+
+255
+00:14:51,166 --> 00:14:52,666
+after quickly doing so
+
+256
+00:14:52,666 --> 00:14:58,100
+we realized that this incredible machine can also replace all of our bacterial vats
+
+257
+00:14:58,433 --> 00:15:01,466
+after reimagining all of our processing lines
+
+258
+00:15:01,466 --> 00:15:05,600
+the only thing missing for our new fusion reactor was dragon blood
+
+259
+00:15:05,600 --> 00:15:10,500
+now while hunting dragons is a nice activity to keep your body engaged
+
+260
+00:15:10,500 --> 00:15:13,233
+it's not a reliable source of dragon blood
+
+261
+00:15:13,400 --> 00:15:14,966
+considering our needs
+
+262
+00:15:14,966 --> 00:15:17,433
+even with the infinite world generation
+
+263
+00:15:17,433 --> 00:15:20,966
+we would still put this species at risk of extinction
+
+264
+00:15:21,400 --> 00:15:25,033
+looking for a solution we invited some friends over
+
+265
+00:15:25,233 --> 00:15:27,433
+they then proceeded into summoning a demon
+
+266
+00:15:27,433 --> 00:15:30,033
+who traded its heart for some emeralds
+
+267
+00:15:30,233 --> 00:15:32,766
+we used that to craft an infinity egg
+
+268
+00:15:32,766 --> 00:15:36,266
+capable of producing an infinite amount of dragon blood
+
+269
+00:15:36,966 --> 00:15:42,833
+with that, we finally managed to build our compact fusion reactor Mark 5 final type
+
+270
+00:15:43,366 --> 00:15:45,633
+and with all of that fusing power
+
+271
+00:15:45,633 --> 00:15:48,500
+our plasma fuel production skyrocketed
+
+272
+00:15:48,500 --> 00:15:52,100
+allowing for a huge expansion of our dtpf cluster
+
+273
+00:15:52,366 --> 00:15:54,400
+with so many plasma forges
+
+274
+00:15:54,400 --> 00:16:00,400
+we can now produce enough infinity, space time and shirabon to mass produce quantum circuits
+
+275
+00:16:00,400 --> 00:16:04,966
+the highest tier of circuit capable of controlling UXV machinery
+
+276
+00:16:05,400 --> 00:16:09,266
+and that means that we can now spam wireless energy hatches
+
+277
+00:16:09,600 --> 00:16:14,766
+now we can just press Ctrl C, Ctrl V and make our base grow exponentially
+
+278
+00:16:14,766 --> 00:16:17,000
+without having to connect any cable
+
+279
+00:16:17,266 --> 00:16:23,500
+however an exponential amount of new machines requires an exponential amount of extra energy production
+
+280
+00:16:23,866 --> 00:16:28,033
+and while building more Dyson Spheres doesn't require much effort
+
+281
+00:16:28,033 --> 00:16:32,066
+crafting all of the parts requires a lot of transcendent metal
+
+282
+00:16:32,800 --> 00:16:37,800
+currently we are blasting that material with the power of three Dyson spheres
+
+283
+00:16:37,800 --> 00:16:40,366
+but it seems to still be far from enough
+
+284
+00:16:40,900 --> 00:16:44,400
+and it was exactly when every hope was lost to darkness
+
+285
+00:16:44,400 --> 00:16:47,466
+that a new light brightened our blast's melting area
+
+286
+00:16:47,966 --> 00:16:50,600
+it was not our fusion reactor blowing up
+
+287
+00:16:50,600 --> 00:16:53,566
+but a forge sent directly from the gods
+
+288
+00:16:53,900 --> 00:16:55,766
+and in this gigantic machine
+
+289
+00:16:55,766 --> 00:17:01,166
+we found a module capable of quickly processing all of our transcendental materials
+
+290
+00:17:01,366 --> 00:17:03,433
+and to show the gods our gratitude
+
+291
+00:17:03,433 --> 00:17:06,766
+we decided to build the biggest pyramid ever in their honor
+
+292
+00:17:07,033 --> 00:17:10,366
+to do so we needed huge amounts of stone
+
+293
+00:17:10,366 --> 00:17:16,300
+and the best way of gathering it seems to be placing a whole planet inside something called eye of harmony
+
+294
+00:17:16,900 --> 00:17:21,400
+while crafting all of the parts for such a marvelous machine isn't too easy
+
+295
+00:17:21,466 --> 00:17:24,033
+putting everything together is the main issue
+
+296
+00:17:24,566 --> 00:17:26,666
+since we have no time to waste
+
+297
+00:17:26,666 --> 00:17:34,366
+we are going to shove the energy produced by six Dyson Spheres into our assembly lines to speed up the crafting process
+
+298
+00:17:34,733 --> 00:17:37,066
+and after not too much time
+
+299
+00:17:37,066 --> 00:17:39,866
+we managed to complete our first eye of harmony
+
+300
+00:17:40,166 --> 00:17:46,300
+that machine will take two hours to produce 240 millions units of stone dust
+
+301
+00:17:46,400 --> 00:17:48,233
+that sounds like a lot
+
+302
+00:17:48,233 --> 00:17:52,500
+but considering we already had 9 billions it's not
+
+303
+00:17:52,700 --> 00:17:54,900
+if we truly want to impress the gods
+
+304
+00:17:54,900 --> 00:17:57,866
+we have to improve our space time compression technology
+
+305
+00:17:57,866 --> 00:18:02,033
+to the point where our eye of harmony is capable of containing the deep♂dark
+
+306
+00:18:02,033 --> 00:18:05,900
+thus harnessing more than 1 billion stone dusts at once
+
+307
+00:18:06,033 --> 00:18:08,766
+however that won't fix the speed issue
+
+308
+00:18:08,766 --> 00:18:10,833
+if anything it will make it worse
+
+309
+00:18:11,000 --> 00:18:15,266
+so if we want the process to be done in a tolerable amount of time
+
+310
+00:18:15,266 --> 00:18:18,966
+we also have to improve our time dilation technology
+
+311
+00:18:19,300 --> 00:18:21,466
+doing so is no easy task
+
+312
+00:18:21,833 --> 00:18:25,700
+the first issue we noticed is the amount of infinity required
+
+313
+00:18:25,700 --> 00:18:34,433
+luckily, after 8 hours of working towards fully breaching dimensional boundaries, and with the help of a transdimensional alignment matrix
+
+314
+00:18:34,433 --> 00:18:36,766
+our dtpfs achieved full convergence
+
+315
+00:18:36,766 --> 00:18:39,166
+thus acquiring perfect overclock
+
+316
+00:18:39,166 --> 00:18:44,100
+that made our Infinity production skyrocket to 5 billions liters per hour
+
+317
+00:18:44,200 --> 00:18:47,900
+but this comes with a huge cost a lot of plasma fuel
+
+318
+00:18:47,966 --> 00:18:53,166
+so much that even a full tower of final type fusion reactors couldn't keep up with that
+
+319
+00:18:53,266 --> 00:18:54,366
+thanks god
+
+320
+00:18:54,366 --> 00:19:00,433
+his forge can be equipped with a plasma fabricator module which was just enough for our needs
+
+321
+00:19:00,600 --> 00:19:04,600
+with that, we finally managed to build our first eye of harmony
+
+322
+00:19:04,600 --> 00:19:07,633
+which however, was still too slow
+
+323
+00:19:07,833 --> 00:19:11,800
+we could speed it up with better time dilation field generators
+
+324
+00:19:11,800 --> 00:19:13,800
+but those cost dwarf matter
+
+325
+00:19:13,800 --> 00:19:16,766
+only produced by the eye of harmony itself
+
+326
+00:19:16,833 --> 00:19:19,900
+the only solution left was to overclock the machine
+
+327
+00:19:19,900 --> 00:19:23,566
+which means 4 times the energy for twice the speed
+
+328
+00:19:23,700 --> 00:19:27,233
+and that caused once again energy issues
+
+329
+00:19:27,233 --> 00:19:30,366
+this time the scale of the problem is huge
+
+330
+00:19:30,466 --> 00:19:33,300
+as large as the number of stars in the sky
+
+331
+00:19:33,300 --> 00:19:35,666
+since we built so many Dyson spheres
+
+332
+00:19:35,666 --> 00:19:38,100
+that there are no more stars to use
+
+333
+00:19:38,100 --> 00:19:41,466
+there was only one thing left to try, antimatter
+
+334
+00:19:42,033 --> 00:19:44,666
+after producing a decent amount of that stuff
+
+335
+00:19:44,666 --> 00:19:48,266
+we can slam it in the Slam to quickly charge up our batteries
+
+336
+00:19:48,266 --> 00:19:55,666
+all was left to do was to figure out the correct balance between antimatter production and eye of harmony overclocking
+
+337
+00:19:56,066 --> 00:20:01,500
+the correct solution turned out to be that we should just keep building more antimatter sequences
+
+338
+00:20:01,500 --> 00:20:05,266
+until our eye of harmony finally reached the gallifreyan tier
+
+339
+00:20:05,633 --> 00:20:08,500
+and of course, one was not enough
+
+340
+00:20:08,900 --> 00:20:14,233
+actually not even 20 eye of harmony were enough for our future projects
+
+341
+00:20:14,266 --> 00:20:16,100
+we needed more stone dust
+
+342
+00:20:16,100 --> 00:20:18,166
+and this approach was too slow
+
+343
+00:20:18,466 --> 00:20:23,866
+the solution we figured out was to compress an eye of harmony into an astral array fabricator
+
+344
+00:20:23,866 --> 00:20:26,666
+thus exponentially increasing production
+
+345
+00:20:26,900 --> 00:20:32,433
+and that reminded us that stone dust is not the only thing we are getting from this microverse
+
+346
+00:20:32,566 --> 00:20:35,833
+we are indeed getting a lot of raw stellar plasma mixture
+
+347
+00:20:35,833 --> 00:20:40,100
+which we can use to fuel and empower the gorgeous forge of the gods
+
+348
+00:20:40,566 --> 00:20:42,433
+by increasing the fuel we burn
+
+349
+00:20:42,433 --> 00:20:45,400
+we can indeed boost the power of its furnaces
+
+350
+00:20:45,433 --> 00:20:49,400
+but what really matters is that we are showing our devotion to the deities
+
+351
+00:20:49,400 --> 00:20:52,700
+helping us progress in our path of transcendence
+
+352
+00:20:52,966 --> 00:20:57,100
+and that reminded us that we should prepare our gift in a proper package
+
+353
+00:20:57,333 --> 00:21:00,000
+so after charging up an Error-tier battery
+
+354
+00:21:00,000 --> 00:21:04,800
+we started packaging our stone into an artificial universe storage cell
+
+355
+00:21:05,466 --> 00:21:08,833
+and only then we realized a fatal misunderstanding
+
+356
+00:21:09,200 --> 00:21:14,200
+we can't gift the greatest pyramid ever because we are constantly producing more of it
+
+357
+00:21:14,400 --> 00:21:17,666
+and since our production keeps growing exponentially
+
+358
+00:21:17,666 --> 00:21:21,700
+any gift would look like a joke compared to what we could do the day after
+
+359
+00:21:21,900 --> 00:21:26,433
+but after being lost in the labyrinth of our thoughts for a scary amount of time
+
+360
+00:21:26,433 --> 00:21:29,166
+we finally saw a light at the end of the tunnel
+
+361
+00:21:29,666 --> 00:21:32,066
+we don't have to make a single package
+
+362
+00:21:32,066 --> 00:21:34,200
+we can do a constant delivery
+
+363
+00:21:34,500 --> 00:21:35,500
+but of course
+
+364
+00:21:35,500 --> 00:21:40,200
+reaching the dimension beyond the stars will require a really strong portal
+
+365
+00:21:40,200 --> 00:21:41,233
+a star gate
+
+366
+00:21:41,233 --> 00:21:46,500
+the issue is that transcendent motors don't have the strength required to carry our gift
+
+367
+00:21:46,500 --> 00:21:53,600
+while space time motors don't have the extra dimensional capability to reach dimensions beyond our comprehension
+
+368
+00:21:53,833 --> 00:21:56,433
+we needed to design a new kind of motor
+
+369
+00:21:56,600 --> 00:22:03,600
+this time we started by mixing together the four basic substances of reality, obtaining primordial matter
+
+370
+00:22:03,866 --> 00:22:07,100
+with that and some other rather complicated materials
+
+371
+00:22:07,100 --> 00:22:09,800
+we create some universium nanites
+
+372
+00:22:10,066 --> 00:22:13,700
+then we move from the nanite forge to the implosion compressor
+
+373
+00:22:13,700 --> 00:22:21,666
+where we blow those nanites inside some condensed stelar plasma mixture magneto hydrodynamically constraining it
+
+374
+00:22:21,800 --> 00:22:24,900
+that material will be the foundation of our new motors
+
+375
+00:22:24,900 --> 00:22:28,433
+but we need something to properly mold such impossible fluid
+
+376
+00:22:28,433 --> 00:22:34,000
+and quantum forcing some eternity out of primordial matter seems to do the trick
+
+377
+00:22:34,000 --> 00:22:36,100
+but to properly meld everything together
+
+378
+00:22:36,100 --> 00:22:38,266
+we had to use an implosion compressor
+
+379
+00:22:38,266 --> 00:22:42,000
+and add some advanced technology to contain the new material
+
+380
+00:22:42,100 --> 00:22:44,166
+and after putting everything together
+
+381
+00:22:44,166 --> 00:22:49,366
+we finally obtained a motor strong enough for the delivery of the biggest ever growing pyramid
+
+382
+00:22:49,866 --> 00:22:53,066
+all was left to do was to produce enough of those motors
+
+383
+00:22:53,066 --> 00:22:56,433
+so we had to do several upgrades to our factory
+
+384
+00:22:56,566 --> 00:23:00,200
+we started by checking if our fusion tower was good enough
+
+385
+00:23:00,233 --> 00:23:03,833
+then we added more astral arrays to our eyes of harmony
+
+386
+00:23:04,100 --> 00:23:06,766
+next we built more assembly lines
+
+387
+00:23:06,933 --> 00:23:09,900
+then we added more astral arrays to our eyes of harmony
+
+388
+00:23:09,900 --> 00:23:10,966
+more assembly lines
+
+389
+00:23:30,500 --> 00:23:34,033
+and after going through every single side quest we were given
+
+390
+00:23:34,033 --> 00:23:37,000
+we are finally ready to defeat the final boss
+
+391
+00:23:37,166 --> 00:23:43,766
+to do so we first merge all of our eyes of harmony into a single one with 1000 Astral arrays
+
+392
+00:23:43,966 --> 00:23:49,600
+then we use a draconic reactor configuration that should not be seen by naked mortal eyes
+
+393
+00:23:49,600 --> 00:23:54,633
+to produce enough chaos shards to get a couple of singularity crafting storages
+
+394
+00:23:54,633 --> 00:23:57,466
+so that we can one step craft the Stargate
+
+395
+00:23:57,600 --> 00:24:03,500
+finally, we use the secret technique of the double matter manipulator to complete the final challenge
+
+396
+00:24:03,900 --> 00:24:06,300
+and exactly when we thought we were done
+
+397
+00:24:06,300 --> 00:24:11,066
+we realized that the real value here is not in the giant pile of stone dust
+
+398
+00:24:11,066 --> 00:24:13,500
+but in the machines we built along the way
+
+399
+00:24:13,833 --> 00:24:18,633
+so following the random comments coming from whatever place this gate leads to
+
+400
+00:24:18,633 --> 00:24:22,433
+we decided to take one extra step and make 10 more star gates
+
+401
+00:24:22,433 --> 00:24:30,566
+and after one week of pushing our factory at the limits of the computation capacity of the simulation we call reality
+
+402
+00:24:30,566 --> 00:24:33,300
+we finally managed to complete the task
+
+403
+00:24:33,833 --> 00:24:38,200
+and with that, I think our factory is now good enough to keep growing on its own
+
+404
+00:24:38,200 --> 00:24:41,466
+so we can fly away to the next adventure
+
+405
+00:24:41,666 --> 00:24:42,600
+bye bye
+
+406
+00:00:00,100 --> 00:00:01,366
+大家好
+
+407
+00:00:01,366 --> 00:00:04,033
+今天我们要速通GTNH
+
+408
+00:00:04,266 --> 00:00:09,766
+首先，我们建一个有基本的储物和生存用品的小庇护所
+
+409
+00:00:09,900 --> 00:00:11,300
+接下来我们做一个新房间
+
+410
+00:00:11,300 --> 00:00:14,266
+在那里我们可以放置第一台蒸汽机器
+
+411
+00:00:14,266 --> 00:00:16,900
+一旦我们有了更大的蒸汽机器
+
+412
+00:00:16,900 --> 00:00:19,766
+我们还可以建几个砖高炉
+
+413
+00:00:19,766 --> 00:00:24,366
+这将使我们能够生产 LV 车间所需的钢材
+
+414
+00:00:24,366 --> 00:00:27,300
+这些钢材可以用来制造一个电高炉
+
+415
+00:00:27,300 --> 00:00:30,500
+用来给新的 MV 机器制造铝
+
+416
+00:00:30,766 --> 00:00:33,833
+所有这些进展需要大量的资源
+
+417
+00:00:33,833 --> 00:00:35,866
+而我们正在地下室处理它们
+
+418
+00:00:35,866 --> 00:00:39,100
+我们在这自动化原矿分拣和加工
+
+419
+00:00:39,466 --> 00:00:40,966
+为了给这一切供能
+
+420
+00:00:40,966 --> 00:00:48,133
+我们使用四个RC锅炉，用云杉木农场
+生产的木材制成的木炭块作为燃料
+
+421
+00:00:48,133 --> 00:00:57,466
+这个装置对我们额外的高炉
+和能够用于组装火箭零件的新HV机器来说足够了
+
+422
+00:00:57,833 --> 00:00:59,266
+既然我们有了火箭
+
+423
+00:00:59,266 --> 00:01:02,966
+我们可以飞到新的地方，比如月球
+
+424
+00:01:03,266 --> 00:01:07,500
+
+我们可以在这里找到一些地球上比较稀少的矿物
+
+
+425
+00:01:07,500 --> 00:01:09,766
+像铝土矿和钕
+
+426
+00:01:09,900 --> 00:01:11,700
+但最重要的是
+
+427
+00:01:11,700 --> 00:01:15,033
+我们现在可以搬进"花园维度"，一个建筑师的天堂
+
+428
+00:01:15,033 --> 00:01:18,600
+那里没有敌对的生物，总是阳光明媚
+
+429
+00:01:18,666 --> 00:01:22,100
+我们首先要建的是一个完整的炼油厂
+
+430
+00:01:22,100 --> 00:01:24,866
+
+用于产出各类化工产品
+
+
+431
+00:01:24,866 --> 00:01:27,566
+
+在把这些产品投入化工生产后
+
+
+432
+00:01:27,566 --> 00:01:30,300
+我们把剩余的产物用来给新工厂供能
+
+433
+00:01:30,633 --> 00:01:37,700
+有了这些，我们现在可以驱动 16 座高炉
+还有一整间装满各种小型机器的新车间
+
+434
+00:01:37,700 --> 00:01:41,200
+这样我们几乎想做什么都能做出来了
+
+435
+00:01:41,200 --> 00:01:44,300
+为了一次性高速处理上百个物品
+
+436
+00:01:44,300 --> 00:01:48,400
+车间里还有一块摆满了各种强力多方块机器的区域
+
+437
+00:01:48,400 --> 00:01:52,433
+唯一剩下的问题是收集到足够的原材料
+
+438
+00:01:52,433 --> 00:01:55,466
+为此，我们尝试了不同的方法
+
+439
+00:01:55,466 --> 00:01:57,433
+我们做了各种稀奇古怪的"仪式"
+
+440
+00:01:57,433 --> 00:02:02,766
+直到我们找到了一种比亲自飞到太空还要轻松的收集方式
+
+441
+00:02:02,833 --> 00:02:05,066
+我们让太空里的石头自己飞过来
+
+442
+00:02:05,066 --> 00:02:08,566
+这样我们可以很容易地收集到有价值的材料
+
+443
+00:02:08,566 --> 00:02:10,600
+而且完全不用离开基地
+
+444
+00:02:10,800 --> 00:02:13,466
+为了处理这些粗矿
+
+445
+00:02:13,466 --> 00:02:17,966
+我们就在陨石坠落点旁边建了一座矿石处理工厂
+
+446
+00:02:18,033 --> 00:02:22,100
+接着再送到化工厂里做进一步的精炼
+
+447
+00:02:22,100 --> 00:02:26,500
+而对于那些还不适合丢进高炉冶炼的材料
+
+448
+00:02:26,500 --> 00:02:30,466
+我们还有一片地方可以搭建更长的精炼产线
+
+449
+00:02:30,466 --> 00:02:32,800
+从铂产线开始
+
+450
+00:02:32,800 --> 00:02:36,000
+不过如你所见，它现在并不在工作
+
+451
+00:02:36,200 --> 00:02:39,000
+看起来问题是氢气不够
+
+452
+00:02:39,500 --> 00:02:41,700
+毕竟我们需要的是行星级的用量
+
+453
+00:02:41,700 --> 00:02:44,700
+唯一的办法就是再上一次太空
+
+454
+00:02:45,033 --> 00:02:50,133
+这次的目标，是唯一能提供足够氢气来满足我们需求的地方
+
+455
+00:02:50,133 --> 00:02:50,766
+木星
+
+456
+00:02:50,966 --> 00:02:55,700
+为了得到氢气，我们建了一座装有行星气体钻机的空间站
+
+457
+00:02:55,700 --> 00:03:00,200
+慢慢把整颗气态行星抽到我们的基地
+
+458
+00:03:00,300 --> 00:03:03,966
+这样一来，我们的铂产线又开始运转起来了
+
+459
+00:03:04,100 --> 00:03:10,166
+不过，需要整条生产线来处理的可不止铂这一种材料
+
+460
+00:03:10,366 --> 00:03:13,800
+我们还得搭一条独居石处理线
+
+461
+00:03:13,800 --> 00:03:17,466
+用它来提炼钐、铈以及其他稀土元素
+
+462
+00:03:17,466 --> 00:03:21,566
+
+这些稀土元素又用于建造硅岩净化处理线
+
+
+463
+00:03:21,566 --> 00:03:25,766
+
+最后，我们还必须为下界合金建造一条处理线
+
+
+464
+00:03:26,000 --> 00:03:28,466
+为了给这一大堆新机器供电
+
+465
+00:03:28,466 --> 00:03:30,366
+我们只使用清洁能源
+
+466
+00:03:30,366 --> 00:03:35,466
+先是靠深地热泵，用地下热量来产蒸汽
+
+467
+00:03:35,500 --> 00:03:37,700
+在热泵旁边
+
+468
+00:03:37,700 --> 00:03:40,000
+我们还有一个水力发电厂
+
+469
+00:03:40,000 --> 00:03:43,800
+就修在穿过基地下方的那条河上
+
+470
+00:03:43,866 --> 00:03:47,566
+不过，我们的主力电源是八台风力涡轮机
+
+471
+00:03:47,633 --> 00:03:49,400
+输出则要看风力强弱
+
+472
+00:03:49,400 --> 00:03:54,200
+这些最多能做到 560 kEU/t 的峰值输出
+
+473
+00:03:54,400 --> 00:03:56,300
+如果我们飞得更高
+
+474
+00:03:56,300 --> 00:03:59,500
+
+就能看到我们压缩太阳能板阵列中建好的第一台设备
+
+
+475
+00:03:59,500 --> 00:04:01,866
+它以后的规模应该会超过风电场
+
+476
+00:04:02,100 --> 00:04:03,900
+最后我们来到下界
+
+477
+00:04:03,900 --> 00:04:06,433
+在那儿我们也用上了几座核反应堆
+
+478
+00:04:06,433 --> 00:04:09,800
+
+给远古残骸的采集供能
+
+
+479
+00:04:09,833 --> 00:04:15,400
+远古残骸是用来造"能承受比太阳
+还高温度的机器"的关键材料
+
+480
+00:04:15,400 --> 00:04:17,500
+比如我们新的聚变反应堆
+
+481
+00:04:17,500 --> 00:04:19,000
+但只造一台根本不够
+
+482
+00:04:19,000 --> 00:04:20,633
+所以我们又做了一台
+
+483
+00:04:20,633 --> 00:04:21,800
+双来一台
+
+484
+00:04:21,800 --> 00:04:22,966
+叒来一台
+
+485
+00:04:22,966 --> 00:04:25,266
+然后再把它们都提升一个等级
+
+486
+00:04:25,266 --> 00:04:29,966
+旧的聚变堆还能拿来增加发电量
+
+487
+00:04:29,966 --> 00:04:34,866
+不过真正的技术飞跃是我们终于可以踏入量子计算领域了
+
+488
+00:04:34,900 --> 00:04:39,433
+在造出第一台小型量子计算机和研究站之后
+
+489
+00:04:39,433 --> 00:04:42,066
+我们就可以着手研究湿件电路了
+
+490
+00:04:42,066 --> 00:04:45,600
+
+强到足以控制 UHV 电压的机器
+
+
+491
+00:04:45,600 --> 00:04:49,633
+但我们真正想要的是一台UV 作物合成机
+
+492
+00:04:49,966 --> 00:04:54,133
+它可以"钓"出游戏里能弄到的顶级陨石之一
+
+493
+00:04:54,133 --> 00:04:58,966
+里面有很多极其稀有、不会自然生成的矿石
+
+494
+00:04:59,066 --> 00:05:04,366
+尽管这是获得其他方式难以取得的金属的好方法
+
+495
+00:05:04,366 --> 00:05:06,366
+但它也有两个非常致命的缺点
+
+496
+00:05:06,366 --> 00:05:11,166
+
+第一，召唤这块陨石的时候，会牺牲几块有知觉的电路
+
+
+497
+00:05:11,400 --> 00:05:14,300
+第二，这玩意儿得我们自己上手挖
+
+498
+00:05:14,466 --> 00:05:15,866
+一格一格地挖
+
+499
+00:05:16,466 --> 00:05:18,033
+想把这些问题一起解决
+
+500
+00:05:18,033 --> 00:05:21,266
+顺便把产出的矿物搭配也优化一下
+
+501
+00:05:21,266 --> 00:05:23,400
+该巨型工业蜂箱出场了
+
+502
+00:05:23,600 --> 00:05:26,466
+在这里我们可以养一些特殊品种的蜜蜂
+
+503
+00:05:26,466 --> 00:05:28,966
+它们会产出各种高品质蜂巢
+
+504
+00:05:28,966 --> 00:05:32,033
+我们可以从中提取各种美味佳肴
+
+505
+00:05:32,033 --> 00:05:34,000
+比如电动马达
+
+506
+00:05:34,633 --> 00:05:39,500
+不过有些材料，靠蜜蜂和陨石依然不太好搞到
+
+507
+00:05:39,500 --> 00:05:44,466
+比如下一次高炉升级要用的觉醒龙锭
+
+508
+00:05:45,100 --> 00:05:48,366
+
+理论上我们可以搏一搏杂交出新蜜蜂品种
+
+
+509
+00:05:48,366 --> 00:05:52,800
+但我们又不打算在封闭花园里把自己无脑肝成植物人
+
+510
+00:05:52,800 --> 00:05:56,633
+
+我们赶一班路过的前往织女一的火箭就行
+
+
+511
+00:05:56,966 --> 00:05:59,700
+被空投到那颗新星球上之后
+
+512
+00:05:59,700 --> 00:06:02,833
+我们快速下挖，直至星核
+
+513
+00:06:02,833 --> 00:06:06,566
+在那附近就能找到少量我们需要的材料
+
+514
+00:06:06,900 --> 00:06:12,966
+拿这些材料就能做出皇家蜂床
+用来完成恶龙蜂那套靠诱变基因驱动的繁殖流程
+
+515
+00:06:13,233 --> 00:06:14,633
+东西一旦做好
+
+516
+00:06:14,633 --> 00:06:16,666
+我们立刻把它放入巨型工业蜂箱
+
+517
+00:06:16,766 --> 00:06:21,666
+很快就能产出一大批蜂巢，把我们所有的炽焱高炉统统升级
+
+518
+00:06:22,166 --> 00:06:23,833
+可就算有了这些升级
+
+519
+00:06:23,833 --> 00:06:27,466
+想跟上高炉冶炼的需求还是有点吃力
+
+520
+00:06:27,466 --> 00:06:30,033
+所以我们干脆上一个巨型高炉
+
+521
+00:06:30,466 --> 00:06:34,900
+问题是，这玩意儿吃电也巨离谱
+
+522
+00:06:34,900 --> 00:06:39,400
+为了喂饱它，我们造了几台特大等离子涡轮
+
+523
+00:06:39,500 --> 00:06:42,466
+这些机器的发电量倒是堪堪够用
+
+524
+00:06:42,466 --> 00:06:45,200
+但消耗的燃料量又变成新的大坑
+
+525
+00:06:45,466 --> 00:06:49,766
+一开始我们想多造点聚变堆把问题糊过去
+
+526
+00:06:49,766 --> 00:06:52,966
+但这套方案还是跟不上我们恐怖的用电量
+
+527
+00:06:53,000 --> 00:06:55,666
+
+于是我们又设计了一版紧凑的方案
+
+
+528
+00:06:55,666 --> 00:06:59,966
+一台顶得上几百台小号反应堆的巨型反应堆
+
+529
+00:06:59,966 --> 00:07:02,033
+一开始效果确实相当不错
+
+530
+00:07:02,033 --> 00:07:08,200
+直到我们发现，为了产出这么多等离子
+消耗的氢气量已经比一整颗木星还多
+
+531
+00:07:08,400 --> 00:07:11,566
+要是连太阳系里最大的行星都不够榨
+
+532
+00:07:11,566 --> 00:07:15,766
+那就只能去其他星系抽流体了
+
+533
+00:07:15,833 --> 00:07:20,266
+可在其他星系建空间站，这工作量也太离谱了
+
+534
+00:07:20,266 --> 00:07:24,500
+于是我们选择在基地里竖一根巨型太空电梯
+
+535
+00:07:24,500 --> 00:07:29,866
+
+加一台超级抽气泵，能把整个宇宙的气体都往这边吸
+
+
+536
+00:07:29,866 --> 00:07:33,900
+不过要造这玩意儿，需要的材料强度离谱
+
+537
+00:07:33,900 --> 00:07:37,000
+先不提那些中子、无尽之类的材料
+
+538
+00:07:37,000 --> 00:07:43,566
+真正卡人的，是能让这台泵转起来的马达内轴用的磁性材料
+
+539
+00:07:43,566 --> 00:07:44,366
+——纯镃
+
+540
+00:07:44,866 --> 00:07:47,400
+光是要抓一块带点纯镃的陨石
+
+541
+00:07:47,400 --> 00:07:49,433
+我们就得先造一台离子推进喷口
+
+542
+00:07:49,566 --> 00:07:52,100
+但因为那东西真的很贵
+
+543
+00:07:52,100 --> 00:07:55,466
+
+与其为了一些纯镃矿就扔掉这个喷口
+
+
+544
+00:07:55,500 --> 00:07:58,000
+那不如直接把它装到一艘我们临时凑出来的母舰上
+
+545
+00:07:58,000 --> 00:08:01,866
+把整艘母舰推进到一个能自然生成纯镃的新星系去
+
+546
+00:08:02,866 --> 00:08:04,633
+在太空里漂泊了好一阵之后
+
+547
+00:08:04,633 --> 00:08:07,100
+我们总算把母舰开到了目标星域
+
+548
+00:08:07,300 --> 00:08:09,633
+接下来就可以准备一艘小型穿梭机
+
+549
+00:08:09,633 --> 00:08:12,600
+坐它降落到一颗纯镃储量丰富的行星上
+
+550
+00:08:12,600 --> 00:08:15,200
+在那里快速架一台高配虚空采矿厂
+
+551
+00:08:15,200 --> 00:08:17,800
+搞定这些之后，这一趟太空冒险就可以收尾了
+
+552
+00:08:17,800 --> 00:08:19,800
+然后我们打道回府
+
+553
+00:08:19,800 --> 00:08:23,233
+回到基地，就能正式开工造那台真正的宇宙级气泵
+
+554
+00:08:23,266 --> 00:08:28,700
+就在此时，我们第一次遇到无尽的"无尽锭不够用"的问题
+
+555
+00:08:28,800 --> 00:08:30,900
+现在要做出一块无尽锭
+
+556
+00:08:30,900 --> 00:08:34,566
+光是无尽催化剂粉就要用掉 11 组
+
+557
+00:08:34,566 --> 00:08:37,633
+这些主要是靠各种太空无人机一点点搬回来的
+
+558
+00:08:37,766 --> 00:08:38,500
+然而
+
+559
+00:08:38,500 --> 00:08:43,800
+就算已经派了好几架无人机在干，收集速度还是太慢
+
+560
+00:08:43,800 --> 00:08:47,166
+我们手上的钻石和下界之星也库存见底
+
+561
+00:08:47,233 --> 00:08:50,566
+更别提还要准备一大堆宇宙中子态素
+
+562
+00:08:50,566 --> 00:08:57,700
+就算我们那几座巨高炉和冷冻机吃一亿 EU/t
+这任务还是难到爆炸
+
+563
+00:08:57,700 --> 00:09:01,266
+要把这些问题一网打尽，其实只有一个解法
+
+564
+00:09:01,500 --> 00:09:04,433
+那就是——超维度等离子锻炉
+
+565
+00:09:04,433 --> 00:09:06,600
+或者简称 DTPF
+
+566
+00:09:06,666 --> 00:09:11,033
+这座庞然大物可以把无尽催化剂直接熔成无尽
+
+567
+00:09:11,033 --> 00:09:14,833
+这样做就完全不用消耗中子和钻石了
+
+568
+00:09:14,833 --> 00:09:16,433
+不过别被表面数据骗了
+
+569
+00:09:16,600 --> 00:09:18,766
+从配方上看，它本身吃电其实不算多
+
+570
+00:09:18,766 --> 00:09:22,500
+关键是它需要激发的超维度燃料
+
+571
+00:09:22,566 --> 00:09:30,900
+这一小桶看起来人畜无害的异星催化剂
+是把一大堆能量密度高得离谱的核聚变产物经浓缩得到的
+
+572
+00:09:31,100 --> 00:09:33,000
+为了生产出足够多这种燃料
+
+573
+00:09:33,000 --> 00:09:35,866
+我们不得不专门给它建一整座加工厂
+
+574
+00:09:35,866 --> 00:09:40,266
+而这工厂自己吃的电，当然是比整个基地发的电还多
+
+575
+00:09:40,266 --> 00:09:42,633
+于是我们只好再把整个发电系统升级一轮
+
+576
+00:09:42,766 --> 00:09:48,866
+不过所有这些靠聚变产物运转的玩意儿
+已经快把那几台紧凑型聚变堆压垮了
+
+577
+00:09:48,866 --> 00:09:50,766
+限制了我们整个基地的产能
+
+578
+00:09:50,766 --> 00:09:53,866
+很明显，接下来我们只会需要越来越多的等离子体
+
+579
+00:09:53,866 --> 00:09:57,900
+而三阶反应堆已经完全撑不住了
+
+580
+00:09:57,900 --> 00:10:03,966
+所以我们开始研究一台可以实现完美超频的聚变原型机
+
+581
+00:10:04,200 --> 00:10:05,433
+有了这台机器后
+
+582
+00:10:05,433 --> 00:10:08,966
+我们现在可以非常快地造出几百万桶等离子体
+
+583
+00:10:09,000 --> 00:10:10,766
+基本能满足我们的需求了
+
+584
+00:10:10,800 --> 00:10:14,766
+这也意味着，燃料多到可以再养活第二台 DTPF 了
+
+585
+00:10:14,900 --> 00:10:17,466
+这一台会装上无尽线圈
+
+586
+00:10:17,466 --> 00:10:19,166
+并以更高功率运行
+
+587
+00:10:19,166 --> 00:10:22,166
+用来又快又省地合成各种材料
+
+588
+00:10:22,166 --> 00:10:24,100
+比如直接把普通铁炼成中子
+
+589
+00:10:24,233 --> 00:10:29,166
+但真正让游戏质变的是，这机器能直接做超立方体
+
+590
+00:10:29,300 --> 00:10:32,866
+尽管超立方体的主要用途是做超时空金属
+
+591
+00:10:32,866 --> 00:10:36,500
+不过我们真正看上的是充能超立方体解锁的科技
+
+592
+00:10:36,500 --> 00:10:39,033
+它可以在机器之间建立无线链接
+
+593
+00:10:39,033 --> 00:10:44,833
+让物质操纵者复制粘贴整条产线
+变得跟按 Ctrl+C／Ctrl+V 一样简单
+
+594
+00:10:45,000 --> 00:10:47,966
+把这一整套系统堆出来，资源消耗自然是夸张到不行
+
+595
+00:10:48,233 --> 00:10:54,600
+所以我们又建了一座净水厂，能生产出亚原子级纯净水
+
+596
+00:10:54,600 --> 00:11:00,400
+这才终于凑齐了整合包里那台
+最吃电力的机器所需要的最后一种材料
+
+597
+00:11:00,400 --> 00:11:03,266
+那台机器可以源源不断地制造 DTPF 用的燃料
+
+598
+00:11:03,266 --> 00:11:06,000
+它名叫超维度等离子搅拌机
+
+599
+00:11:06,366 --> 00:11:09,000
+理论上这玩意儿的混合能力是没有上限的
+
+600
+00:11:09,166 --> 00:11:11,300
+更确切地说
+
+601
+00:11:11,300 --> 00:11:13,600
+唯一的上限是我们能发多少电
+
+602
+00:11:13,900 --> 00:11:16,700
+实际上，这东西一旦开机
+
+603
+00:11:16,700 --> 00:11:20,366
+不到 5 秒就搅出了够 DTPF 用一整天的燃料
+
+604
+00:11:20,366 --> 00:11:23,466
+顺手把我们两天份的电力储备一口气榨干
+
+605
+00:11:23,600 --> 00:11:28,366
+于是我们不得不承认：
+在发电这一块，大抵是有严重问题的
+
+606
+00:11:28,666 --> 00:11:32,100
+很明显，我们必须找一套更靠谱的发电方案
+
+607
+00:11:32,200 --> 00:11:35,700
+无论再多造多少台等离子涡轮
+
+608
+00:11:35,866 --> 00:11:40,666
+更别提给涡轮叶片换上多离谱的稀有金属
+
+609
+00:11:40,766 --> 00:11:42,033
+最终都还是完全不够看
+
+610
+00:11:42,100 --> 00:11:50,233
+再加上以现在这点能量转换效率，
+就连四阶聚变堆都几乎跟不上等离子体的产量
+
+611
+00:11:51,100 --> 00:11:53,166
+于是我们只好抬头寻找答案
+
+612
+00:11:53,166 --> 00:11:56,500
+
+我们一眼瞟见一个可能够大的聚变反应堆
+
+
+613
+00:11:56,700 --> 00:12:01,066
+唯一的问题是想办法把那些能量全收集下来
+
+614
+00:12:01,233 --> 00:12:05,566
+
+我们想到可以通过用球状排列的镜子包住太阳来实现这一点
+
+
+615
+00:12:05,566 --> 00:12:08,200
+把太阳辐射出的能量全部反射到我们的基地
+
+616
+00:12:08,400 --> 00:12:10,966
+要做到这件事当然一点也不轻松
+
+617
+00:12:10,966 --> 00:12:17,300
+尤其是在那种尺度下摆这么多镜子
+需要普通马达根本做不到的精度
+
+618
+00:12:17,600 --> 00:12:20,100
+好在我们手里还有超立方体可以用
+
+619
+00:12:20,100 --> 00:12:24,866
+借助它们搞出了几台"四维马达"，刚好能胜任这活
+
+620
+00:12:25,366 --> 00:12:28,000
+等整套戴森球结构封装完成之后
+
+621
+00:12:28,000 --> 00:12:31,400
+我们的发电量直接拉到三千多亿 EU/t
+
+622
+00:12:31,666 --> 00:12:35,033
+但这么大的功率，就连超导线都扛不住
+
+623
+00:12:35,033 --> 00:12:39,366
+我们只好用激光管道，把所有能量转成光来传输
+
+624
+00:12:39,466 --> 00:12:40,966
+有了这样的发电量之后
+
+625
+00:12:40,966 --> 00:12:44,766
+我们的 DTPF 终于可以被推到接近"宇宙极限"的强度
+
+626
+00:12:44,766 --> 00:12:47,300
+甚至可以直接合成时空本身
+
+627
+00:12:47,433 --> 00:12:49,200
+有了这种划时代的新材料
+
+628
+00:12:49,200 --> 00:12:54,566
+我们造出了"强到能把东西压成黑洞"的马达和活塞
+
+629
+00:12:55,066 --> 00:12:58,000
+等黑洞被稳定下来之后
+
+630
+00:12:58,000 --> 00:13:02,000
+我们就能利用它的引力场，压任何想压的东西
+
+631
+00:13:02,200 --> 00:13:05,700
+于是我们就有了几乎无限量的超高密度物质
+
+632
+00:13:05,700 --> 00:13:07,866
+比如永恒奇点
+
+633
+00:13:07,866 --> 00:13:10,400
+现在这种东西多到可以拿来完成每日任务
+
+634
+00:13:10,400 --> 00:13:12,633
+
+比如用来冲澡或者储存
+
+
+635
+00:13:13,066 --> 00:13:20,100
+当然，它们最关键的用途是做
+之后游戏会一直用到的最高级线圈
+
+636
+00:13:20,100 --> 00:13:21,666
+永恒线圈
+
+637
+00:13:21,866 --> 00:13:25,700
+有了这些线圈，我们就能解锁所有 DTPF 的配方
+
+638
+00:13:25,700 --> 00:13:31,666
+先从时空物质开刀，做到八倍速度
+材料消耗只有原来的八分之一
+
+639
+00:13:31,866 --> 00:13:37,233
+与此同时，我们用旧的海珀珍 DTPF 被动生产无尽
+
+640
+00:13:37,233 --> 00:13:40,100
+速度也不算慢，大概是每小时四百万桶左右
+
+641
+00:13:40,100 --> 00:13:45,966
+而配方里每一组无尽锭只要用一个无尽催化剂
+
+642
+00:13:46,100 --> 00:13:49,633
+不过这样会很快把我们的燃料用完
+
+643
+00:13:49,666 --> 00:13:54,933
+问题在于聚变堆根本来不及产出这些燃料需要的前置材料
+
+644
+00:13:54,933 --> 00:13:59,800
+很明显，聚变技术还得再往上推一档
+
+645
+00:13:59,866 --> 00:14:03,633
+于是我们开始研究最终版本的聚变线圈
+
+646
+00:14:03,633 --> 00:14:07,233
+合成计划里粗略看了一圈之后
+
+647
+00:14:07,233 --> 00:14:09,233
+在那一长串缺的材料里面
+
+648
+00:14:09,233 --> 00:14:11,300
+我们又一次发现——
+
+649
+00:14:11,300 --> 00:14:14,233
+铂处理的速度跟不上需求
+
+650
+00:14:14,366 --> 00:14:17,700
+但这次我们无法确定是哪一台机器掉链子
+
+651
+00:14:17,866 --> 00:14:23,500
+整片机器群无比复杂的同时，效率还跟不上现在的需求
+
+652
+00:14:23,533 --> 00:14:27,266
+于是我们把整条铂处理的流程重新过了一遍
+
+
+653
+00:14:27,266 --> 00:14:28,766
+想看看哪里还能提速
+
+654
+00:14:28,766 --> 00:14:31,200
+结果发现：与其优化，不如全拆了重来
+
+655
+00:14:31,200 --> 00:14:35,766
+直接上量子科技，从一堆未精炼的金属粉里硬"抖"出铂
+
+656
+00:14:35,833 --> 00:14:37,833
+这就是我们新的铂处理产线
+
+657
+00:14:38,033 --> 00:14:42,233
+只靠一台机器，只要灌入电力就能一直往上提速
+
+658
+00:14:42,433 --> 00:14:46,833
+现在铂的精炼速度是以前的一百倍
+
+659
+00:14:46,833 --> 00:14:50,900
+我们自然也忍不住想顺手把其他几条产线也一并优化
+
+660
+00:14:51,166 --> 00:14:52,666
+简单折腾一圈之后
+
+661
+00:14:52,666 --> 00:14:58,100
+我们才发现这台牛逼的机器甚至
+可以把所有的细菌培养缸都给淘汰掉
+
+662
+00:14:58,433 --> 00:15:01,466
+在彻底重构完我们所有的产线之后
+
+663
+00:15:01,466 --> 00:15:05,600
+新的聚变反应堆只还缺最后一种材料：龙血
+
+664
+00:15:05,600 --> 00:15:10,500
+打龙本身倒是个不错的运动项目
+
+665
+00:15:10,500 --> 00:15:13,233
+但那绝对算不上龙血的稳定来源
+
+666
+00:15:13,400 --> 00:15:14,966
+尤其是考虑到我们这种夸张的用量
+
+667
+00:15:14,966 --> 00:15:17,433
+即使是有无限生成的世界
+
+668
+00:15:17,433 --> 00:15:20,966
+我们还是会让它濒临灭绝
+
+669
+00:15:21,400 --> 00:15:25,033
+为了解决这个问题，我们叫了几位朋友过来商量对策
+
+670
+00:15:25,233 --> 00:15:27,433
+结果商量变成了恶魔召唤
+
+671
+00:15:27,433 --> 00:15:30,033
+那只恶魔用自己的心脏跟我们交易了些绿宝石
+
+672
+00:15:30,233 --> 00:15:32,766
+我们则用这东西做出了一个无限之蛋
+
+673
+00:15:32,766 --> 00:15:36,266
+这个蛋可以源源不断地给我们提供龙血
+
+674
+00:15:36,966 --> 00:15:42,833
+有了稳定的龙血供应
+我们终于把紧凑型聚变堆升级到 MK-V 最终版
+
+675
+00:15:43,366 --> 00:15:45,633
+在这样离谱的聚变能力加持下
+
+676
+00:15:45,633 --> 00:15:48,500
+等离子燃料的产量直接起飞
+
+677
+00:15:48,500 --> 00:15:52,100
+这也让我们有资本把整片 DTPF 集群疯狂扩容
+
+678
+00:15:52,366 --> 00:15:54,400
+在这么多台等离子锻炉同时开工的情况下
+
+679
+00:15:54,400 --> 00:16:00,400
+我们现在能量产用来批量做量子电路的无尽时空和调律源金
+
+680
+00:16:00,400 --> 00:16:04,966
+
+量子电路是用来控制 UXV 机器的最高阶电路
+
+
+681
+00:16:05,400 --> 00:16:09,266
+这也意味着我们现在可以到处安装无线能量仓
+
+682
+00:16:09,600 --> 00:16:14,766
+现在我们只需要按下 Ctrl+C、Ctrl+V，基地就开始指数级长大
+
+683
+00:16:14,766 --> 00:16:17,000
+而且还不用到处拉电线
+
+684
+00:16:17,266 --> 00:16:23,500
+不过机器数量指数增长，发电量也得跟着指数级翻倍
+
+685
+00:16:23,866 --> 00:16:28,033
+虽然再多造几个戴森球倒也不算多麻烦
+
+686
+00:16:28,033 --> 00:16:32,066
+但做戴森球用的那些零件需要很多超时空金属
+
+687
+00:16:32,800 --> 00:16:37,800
+现在我们在"用了三套戴森球发电量的高炉"里烧这种金属
+
+688
+00:16:37,800 --> 00:16:40,366
+结果看下来，还是远远不够用
+
+689
+00:16:40,900 --> 00:16:44,400
+就在我们快要彻底绝望、感觉一切都陷入黑暗的时候
+
+690
+00:16:44,400 --> 00:16:47,466
+熔炼区域里突然亮起了一道全新的光
+
+691
+00:16:47,966 --> 00:16:50,600
+那并不是我们的聚变堆要炸了
+
+692
+00:16:50,600 --> 00:16:53,566
+而是一座由诸神亲手赐下的巨型锻炉
+
+693
+00:16:53,900 --> 00:16:55,766
+在这台巨无霸机器里
+
+694
+00:16:55,766 --> 00:17:01,166
+我们找到一个能把所有高阶材料
+统统高速处理完的专用模块
+
+695
+00:17:01,366 --> 00:17:03,433
+为了向诸神表达我们的感谢
+
+696
+00:17:03,433 --> 00:17:06,766
+我们决定亲手建一座史上最大的金字塔来敬仰他们
+
+697
+00:17:07,033 --> 00:17:10,366
+要搞出那座金字塔，我们需要海量的石头
+
+698
+00:17:10,366 --> 00:17:16,300
+最省事的收集方式是把整颗星球
+塞进一台叫鸿蒙之眼的机器里
+
+699
+00:17:16,900 --> 00:17:21,400
+当然，这么逆天的机器，它要的零件就已经够折腾了
+
+700
+00:17:21,466 --> 00:17:24,033
+真正麻烦的是把所有东西组装在一起的那一步
+
+701
+00:17:24,566 --> 00:17:26,666
+因为我们没有时间可供挥霍
+
+702
+00:17:26,666 --> 00:17:34,366
+我们要把六套戴森球的发电量全塞进装配线里
+把制造速度拉满
+
+703
+00:17:34,733 --> 00:17:37,066
+没过多久
+
+704
+00:17:37,066 --> 00:17:39,866
+第一台鸿蒙之眼总算是建成了
+
+705
+00:17:40,166 --> 00:17:46,300
+这台机器两个小时就能生产两亿四千万单位的石头粉
+
+706
+00:17:46,400 --> 00:17:48,233
+那听起来好像已经很多了
+
+707
+00:17:48,233 --> 00:17:52,500
+但考虑到我们一开始就已经攒了九十多亿，其实也就那回事
+
+708
+00:17:52,700 --> 00:17:54,900
+如果我们真想惊艳诸神
+
+709
+00:17:54,900 --> 00:17:57,866
+我们得升级自己的时空压缩技术
+
+710
+00:17:57,866 --> 00:18:02,033
+直到鸿蒙之眼的内部空间大到能整个塞下漆黑世界
+
+711
+00:18:02,033 --> 00:18:05,900
+这样一来，就能一次性榨出超过十亿单位的石头粉
+
+712
+00:18:06,033 --> 00:18:08,766
+不过，这并不能解决速度问题
+
+713
+00:18:08,766 --> 00:18:10,833
+说不定还会让问题变得更严重
+
+714
+00:18:11,000 --> 00:18:15,266
+所以如果我们想让这个流程在可以接受的时间内完成的话
+
+715
+00:18:15,266 --> 00:18:18,966
+我们还得继续升级自己的时间膨胀技术
+
+716
+00:18:19,300 --> 00:18:21,466
+想做到这一点可一点都不轻松
+
+717
+00:18:21,833 --> 00:18:25,700
+我们发现的第一个问题是需要的夸张的无尽数量
+
+718
+00:18:25,700 --> 00:18:34,433
+好在经过八个小时的不断运行，彻底打穿维度边界
+再加上跨维度对齐矩阵的加持
+
+719
+00:18:34,433 --> 00:18:36,766
+我们的 DTPF 终于实现了完全收敛
+
+720
+00:18:36,766 --> 00:18:39,166
+由此解锁了完美超频
+
+721
+00:18:39,166 --> 00:18:44,100
+于是我们的无尽产量直接暴涨到每小时五十亿桶
+
+722
+00:18:44,200 --> 00:18:47,900
+但代价是等离子燃料的巨量消耗
+
+723
+00:18:47,966 --> 00:18:53,166
+多到就算一整塔的终极聚变堆全开，照样跟不上这消耗速度
+
+724
+00:18:53,266 --> 00:18:54,366
+
+感谢诸神
+
+
+725
+00:18:54,366 --> 00:19:00,433
+它的煅炉可以装一个等离子制造模块
+刚好能补上我们燃料上的窟窿
+
+726
+00:19:00,600 --> 00:19:04,600
+有了这套配置，我们终于造出了第一台鸿蒙之眼
+
+727
+00:19:04,600 --> 00:19:07,633
+不过它还是太慢了
+
+728
+00:19:07,833 --> 00:19:11,800
+理论上可以靠更高级的时间膨胀场发生器给它提速
+
+729
+00:19:11,800 --> 00:19:13,800
+但那玩意儿要吃矮星物质
+
+730
+00:19:13,800 --> 00:19:16,766
+而矮星物质又只能靠鸿蒙之眼自己产
+
+731
+00:19:16,833 --> 00:19:19,900
+唯一的办法是把机器超频
+
+732
+00:19:19,900 --> 00:19:23,566
+也就是用四倍的能耗，换来两倍的速度
+
+733
+00:19:23,700 --> 00:19:27,233
+这再一次导致能源问题
+
+734
+00:19:27,233 --> 00:19:30,366
+而且这次的规模大得离谱
+
+735
+00:19:30,466 --> 00:19:33,300
+大到几乎和天上星星的数量一个量级
+
+736
+00:19:33,300 --> 00:19:35,666
+毕竟我们已经造了这么多戴森球
+
+737
+00:19:35,666 --> 00:19:38,100
+都快把能用的恒星用光了
+
+738
+00:19:38,100 --> 00:19:40,666
+最后只剩一个方向可试——
+
+739
+00:19:40,666 --> 00:19:41,466
+反物质
+
+740
+00:19:42,033 --> 00:19:44,666
+把反物质产量堆到一个像样的水平后
+
+741
+00:19:44,666 --> 00:19:48,266
+就把它们塞进湮灭矩阵，一口气把电池充满
+
+742
+00:19:48,266 --> 00:19:55,666
+接下来就是在"反物质产量"和"鸿蒙之眼的超频程度"之间
+找一个合适的平衡点
+
+743
+00:19:56,066 --> 00:20:01,500
+答案其实很直接，继续堆更多反物质就对了
+
+744
+00:20:01,500 --> 00:20:05,266
+一直堆到鸿蒙之眼升到鸿蒙层级
+
+745
+00:20:05,633 --> 00:20:08,500
+当然，造一台肯定不够
+
+746
+00:20:08,900 --> 00:20:14,233
+说实话，就算二十台鸿蒙之眼，对后面的计划也远远不够
+
+747
+00:20:14,266 --> 00:20:16,100
+我们还需要更多石头粉
+
+748
+00:20:16,100 --> 00:20:18,166
+可照现在这套做法，还是太慢
+
+749
+00:20:18,466 --> 00:20:23,866
+我们的方案是把一台鸿蒙之眼压缩成一个星阵
+
+750
+00:20:23,866 --> 00:20:26,666
+这样产能就能呈指数级飙升
+
+751
+00:20:26,900 --> 00:20:32,433
+同时也提醒了我们：从这个微宇宙里拿到的不止石头粉一种
+
+752
+00:20:32,566 --> 00:20:35,833
+我们还会获得大量浓缩原始恒星等离子体混合物
+
+753
+00:20:35,833 --> 00:20:40,100
+这些都能拿去给诸神之锻炉供能
+
+754
+00:20:40,566 --> 00:20:42,433
+只要把燃料投入继续拉满
+
+755
+00:20:42,433 --> 00:20:45,400
+它的熔炉功率就能再往上推
+
+756
+00:20:45,433 --> 00:20:49,400
+更关键的是，这是在向诸神展现我们的诚意
+
+757
+00:20:49,400 --> 00:20:52,700
+
+也能帮助我们在这条"超凡"路上继续前进
+
+
+758
+00:20:52,966 --> 00:20:57,100
+这也提醒我们：礼物要打包得体，才能拿得出手
+
+759
+00:20:57,333 --> 00:21:00,000
+在把一个"Error 级"电池充满后
+
+760
+00:21:00,000 --> 00:21:04,800
+我们把这些石头打包进人造宇宙存储元件
+
+761
+00:21:05,466 --> 00:21:08,833
+直到这一步我们才反应到：我们有个致命的理解错误
+
+762
+00:21:09,200 --> 00:21:14,200
+
+我们没法献上"这史上最大的金字塔"
+因为我们的工厂还在不断继续产出更多石头
+
+
+763
+00:21:14,400 --> 00:21:17,666
+而且产能还在指数级往上飙
+
+764
+00:21:17,666 --> 00:21:21,700
+今天送出去的规模，与明后天一比就像个笑话
+
+765
+00:21:21,900 --> 00:21:26,433
+
+在被自己之前的想法困了好久之后
+
+
+766
+00:21:26,433 --> 00:21:29,166
+我们总算看到了一点曙光
+
+767
+00:21:29,666 --> 00:21:32,066
+我们不必做一个"一次性礼包"
+
+768
+00:21:32,066 --> 00:21:34,200
+改成持续投递就行
+
+769
+00:21:34,500 --> 00:21:35,500
+但是当然
+
+770
+00:21:35,500 --> 00:21:40,200
+想把东西送到星辰之外的那个维度
+需要一扇非常强力的传送门
+
+771
+00:21:40,200 --> 00:21:41,233
+也就是星门
+
+772
+00:21:41,233 --> 00:21:46,500
+问题在于，"超时空马达"无法承载我们这份礼物
+
+773
+00:21:46,500 --> 00:21:53,600
+而"时空马达"又缺少跨越更高维度的能力，根本到不了那边
+
+774
+00:21:53,833 --> 00:21:56,433
+所以我们得另做一种全新的马达
+
+775
+00:21:56,600 --> 00:22:01,833
+这次从"把现实的四种基本物质混在一起"开始
+
+776
+00:22:01,833 --> 00:22:03,600
+合成出本源物质
+
+777
+00:22:03,866 --> 00:22:07,100
+然后再加上一些相当复杂的材料
+
+778
+00:22:07,100 --> 00:22:09,800
+我们做出了一批宇宙素纳米蜂群
+
+779
+00:22:10,066 --> 00:22:13,700
+我们把它从从纳米锻炉搬到聚爆压缩机
+
+780
+00:22:13,700 --> 00:22:21,666
+我们在这里把纳米蜂群压缩成磁流体约束恒星物质
+
+781
+00:22:21,800 --> 00:22:24,900
+这种材料将是我们新马达的基础
+
+782
+00:22:24,900 --> 00:22:28,433
+但我们还缺一些东西才把这种"不可能的流体"彻底定型
+
+783
+00:22:28,433 --> 00:22:34,000
+对本源物质进行量子操控，析出永恒物质，就能解决这个问题
+
+784
+00:22:34,000 --> 00:22:36,100
+不过要把全部材料彻底融合
+
+785
+00:22:36,100 --> 00:22:38,266
+还得借助聚爆压缩机
+
+786
+00:22:38,266 --> 00:22:42,000
+
+并加上一些高级技术来收容这份新材料
+
+
+787
+00:22:42,100 --> 00:22:44,166
+把整套工序跑完之后
+
+788
+00:22:44,166 --> 00:22:49,366
+我们终于造出了一种强度足够高、
+可以运输这座越长越大的巨型金字塔的新马达
+
+789
+00:22:49,866 --> 00:22:53,066
+接下来就是把这种马达量产出来
+
+790
+00:22:53,066 --> 00:22:56,433
+于是我们又对工厂进行了一轮升级改造
+
+791
+00:22:56,566 --> 00:23:00,200
+先是检查我们的聚变塔是否足够好
+
+792
+00:23:00,233 --> 00:23:03,833
+然后给鸿蒙之眼加装更多的星阵
+
+793
+00:23:04,100 --> 00:23:06,766
+接着再堆更多的装配线
+
+794
+00:23:06,933 --> 00:23:09,900
+继续给鸿蒙之眼叠星阵
+
+795
+00:23:09,900 --> 00:23:10,966
+再多上几条装配线
+
+796
+00:23:11,466 --> 00:23:29,833
+（字幕已阵亡）
+
+797
+00:23:30,500 --> 00:23:34,033
+把一路上给到的支线全都做完之后
+
+798
+00:23:34,033 --> 00:23:37,000
+我们总算准备好去打最终 Boss 了
+
+799
+00:23:37,166 --> 00:23:43,766
+为此，先把所有鸿蒙之眼合并成一台，堆到 1000 个星阵的规格
+
+800
+00:23:43,966 --> 00:23:49,600
+再用上一套凡胎肉眼无法直视的
+龙之研究反应堆配置
+
+801
+00:23:49,600 --> 00:23:51,900
+刷出足量的混沌碎片
+
+802
+00:23:51,900 --> 00:23:54,633
+做出几个奇点合成存储器
+
+803
+00:23:54,633 --> 00:23:57,466
+这样就能一口气把星门直接合成出来
+
+804
+00:23:57,600 --> 00:24:03,500
+最后再开秘技：双持物质操纵者完成最终挑战
+
+805
+00:24:03,900 --> 00:24:06,300
+正当我们以为彻底搞定的时候
+
+806
+00:24:06,300 --> 00:24:11,066
+才发现真正有价值的并不是那一大堆石头粉
+
+807
+00:24:11,066 --> 00:24:13,500
+而是我们一路建起来的机器们
+
+808
+00:24:13,833 --> 00:24:18,633
+于是顺着星门另一头飘来的评论
+
+809
+00:24:18,633 --> 00:24:22,433
+决定更进一步——再造 10 座星门
+
+810
+00:24:22,433 --> 00:24:30,566
+把这个所谓“现实”的模拟世界算力榨到极限
+又连续干了整整一周之后
+
+811
+00:24:30,566 --> 00:24:33,300
+这项任务终于宣告完成
+
+812
+00:24:33,833 --> 00:24:38,200
+到这一步，我觉得这座工厂已经强到可以自己继续成长了
+
+813
+00:24:38,200 --> 00:24:41,466
+那我们也可以放心奔赴下一段冒险了
+
+814
+00:24:41,666 --> 00:24:42,600
+拜拜
+
+815
+00:05:06,366 --> 00:05:11,166
+（*湿件电路）
+
+816
+00:14:31,200 --> 00:14:35,766
+（在neta量子操纵者的名字quantum force transfomer）
+

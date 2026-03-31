@@ -1,0 +1,2449 @@
+1
+00:00:00,633 --> 00:00:02,266
+welcome back everyone
+
+2
+00:00:03,233 --> 00:00:05,033
+today as usual
+
+3
+00:00:05,033 --> 00:00:08,666
+we are going to do some small upgrades at out base
+
+4
+00:00:09,833 --> 00:00:12,800
+but let's follow the instructions this time
+
+5
+00:00:12,933 --> 00:00:15,600
+we have to get ready for emotional trauma
+
+6
+00:00:16,400 --> 00:00:21,400
+to do so, I think we should start by gathering even more minerals
+
+7
+00:00:21,533 --> 00:00:26,500
+don't worry, this time we are using void miners which do not run out
+
+8
+00:00:26,500 --> 00:00:28,266
+they keep mining forever
+
+9
+00:00:28,700 --> 00:00:31,733
+we also need some mysterious crystals
+
+10
+00:00:31,733 --> 00:00:35,066
+which can only be obtained by Callisto's rocks
+
+11
+00:00:35,200 --> 00:00:38,500
+luckily this planet is not a finite geometrical shape
+
+12
+00:00:38,500 --> 00:00:40,000
+but an infinite land
+
+13
+00:00:41,700 --> 00:00:45,633
+we now need something overpowered to process all of these ores
+
+14
+00:00:45,800 --> 00:00:47,666
+let's craft something op
+
+15
+00:00:49,266 --> 00:00:50,433
+you know what
+
+16
+00:00:50,700 --> 00:00:53,933
+even if it is overpowered it might not be enough
+
+17
+00:00:53,933 --> 00:00:55,533
+let's make three more
+
+18
+00:00:57,000 --> 00:00:58,600
+maybe next time
+
+19
+00:00:59,866 --> 00:01:01,266
+and here we go
+
+20
+00:01:01,466 --> 00:01:04,900
+now I think we should get some help for the next tasks
+
+21
+00:01:04,933 --> 00:01:08,133
+let's start making some nanites to help us
+
+22
+00:01:11,933 --> 00:01:14,066
+and a couple more ore plants
+
+23
+00:01:24,100 --> 00:01:27,000
+while nanites will help us with circuits
+
+24
+00:01:27,000 --> 00:01:30,666
+we also do need something better for making components
+
+25
+00:01:30,700 --> 00:01:35,466
+I think this component assembly line will be the best choice for our case
+
+26
+00:01:40,300 --> 00:01:45,233
+however it looks like we lack the resources for completing its structure
+
+27
+00:01:47,466 --> 00:01:48,600
+fear not
+
+28
+00:01:48,833 --> 00:01:52,600
+all we have to do is feed some Oganesson to our miners
+
+29
+00:01:52,600 --> 00:01:56,233
+to multiply the production by a factor of 64
+
+30
+00:01:57,500 --> 00:02:01,633
+however we are now running low on power again
+
+31
+00:02:04,233 --> 00:02:06,400
+and thus we shall take a small break
+
+32
+00:02:06,400 --> 00:02:08,866
+and power up our helium plant
+
+33
+00:02:08,866 --> 00:02:11,933
+since it makes some power as byproduct
+
+34
+00:02:15,300 --> 00:02:17,100
+now we do have more power
+
+35
+00:02:17,100 --> 00:02:22,000
+but we still have to wait for the completion of the tasks we queued early on
+
+36
+00:02:24,866 --> 00:02:30,233
+so let's use this time for showing God that we are no longer noobs
+
+37
+00:02:31,466 --> 00:02:35,033
+let's do that by crafting a certificate that will prove it
+
+38
+00:02:36,866 --> 00:02:40,066
+thanks to the overclock it will be manageable
+
+39
+00:02:41,466 --> 00:02:43,733
+anyways as I was saying
+
+40
+00:02:43,733 --> 00:02:47,000
+while we are waiting for our certificate to be forged
+
+41
+00:02:47,000 --> 00:02:50,866
+we can start building some more ore processing plants
+
+42
+00:02:51,266 --> 00:02:55,433
+however we were not only running out of ores but also of fluids
+
+43
+00:02:56,900 --> 00:02:59,666
+anyways to get so many fluids
+
+44
+00:02:59,666 --> 00:03:01,866
+we need to research a better pump
+
+45
+00:03:01,866 --> 00:03:03,466
+and to do so
+
+46
+00:03:03,500 --> 00:03:09,900
+we have to increase the power of our crypto mining farm by adding some GPUs in its computers
+
+47
+00:03:10,400 --> 00:03:12,066
+after some more tinkering
+
+48
+00:03:12,133 --> 00:03:17,100
+we have managed to make our farm reach 3900 Yotta flops
+
+49
+00:03:17,100 --> 00:03:21,133
+so many flops that not even this dream keeps up with it
+
+50
+00:03:22,700 --> 00:03:26,466
+and we are now at half the process of forging our certificate
+
+51
+00:03:27,800 --> 00:03:30,900
+while we wait we can complete our Nano Forge
+
+52
+00:03:32,066 --> 00:03:34,333
+however this is just the tier 1
+
+53
+00:03:34,833 --> 00:03:38,400
+which seems to be useful only for unlocking the tier 2
+
+54
+00:03:41,066 --> 00:03:42,700
+now we have found one issue
+
+55
+00:03:43,033 --> 00:03:46,333
+this place is not fit for such a big multi block
+
+56
+00:03:46,600 --> 00:03:49,733
+we shall move it in a more appropriate place
+
+57
+00:03:51,000 --> 00:03:55,133
+and we shall also have a better power system to keep it up and running
+
+58
+00:03:56,833 --> 00:03:59,233
+now that we can bring it to tier 2
+
+59
+00:03:59,333 --> 00:04:02,533
+it is time to find out that we have misplaced it
+
+60
+00:04:02,600 --> 00:04:05,133
+so time to rebuild it again
+
+61
+00:04:07,066 --> 00:04:10,866
+however, this time let's make a better wrench for the job
+
+62
+00:04:12,133 --> 00:04:15,033
+and the proceed into using it like savages
+
+63
+00:04:17,866 --> 00:04:20,800
+now we proceed into rebuilding the whole thing
+
+64
+00:04:20,800 --> 00:04:25,233
+this time, at the maximum tier since it is not that costly
+
+65
+00:04:28,200 --> 00:04:30,233
+and this is the finished work
+
+66
+00:04:31,266 --> 00:04:33,700
+since we have 5 hours left
+
+67
+00:04:33,700 --> 00:04:37,433
+I think we should start thinking about project assembly
+
+68
+00:04:37,500 --> 00:04:40,500
+even though we have almost all the materials
+
+69
+00:04:40,500 --> 00:04:43,933
+this thing requires a lot of assembly line craftings
+
+70
+00:04:44,133 --> 00:04:50,633
+I think it is a good idea to review our slime setups to make crafting huge amounts of things easier
+
+71
+00:04:51,600 --> 00:04:53,000
+and here we go
+
+72
+00:04:53,066 --> 00:04:59,733
+we now have arranged all the research patterns in a database that is shared across our assembly lines
+
+73
+00:05:00,300 --> 00:05:05,333
+now if we want to be hired by Fixit Incorporated before the next Christsmas
+
+74
+00:05:05,433 --> 00:05:08,400
+we have to start working on Project Assembly
+
+75
+00:05:10,000 --> 00:05:14,400
+and also we must be aware of the capacity of our cobblestone storage
+
+76
+00:05:14,400 --> 00:05:17,866
+we are quite close to completely filling it
+
+77
+00:05:20,133 --> 00:05:23,433
+we should probably start working on a better storage
+
+78
+00:05:23,433 --> 00:05:26,433
+but it appears to be a convoluted process
+
+79
+00:05:29,133 --> 00:05:31,700
+it is now time to fetch our certificate
+
+80
+00:05:40,233 --> 00:05:43,533
+it looks like the gods did not accept our certificate
+
+81
+00:05:43,600 --> 00:05:47,133
+that has to be because we did not go through the emotional trauma
+
+82
+00:05:50,266 --> 00:05:53,533
+we do still lack some of the materials for the trauma
+
+83
+00:05:53,700 --> 00:05:55,300
+but fear not
+
+84
+00:05:55,300 --> 00:05:58,400
+we are working on a machine that will fix every issue
+
+85
+00:06:01,233 --> 00:06:02,333
+while we wait
+
+86
+00:06:02,333 --> 00:06:06,266
+we can start working on making a better cobblestone storage
+
+87
+00:06:07,933 --> 00:06:10,666
+we should also check our base every now and then
+
+88
+00:06:10,666 --> 00:06:14,666
+sometimes the traffic lights get stuck on red forever
+
+89
+00:06:15,800 --> 00:06:19,600
+now we have to find an appropriate place for this chunky thing
+
+90
+00:06:19,600 --> 00:06:24,733
+we should probably ask the CEO of Fixit Incorporated for some tips
+
+91
+00:06:27,300 --> 00:06:29,200
+this place looks good enough
+
+92
+00:06:29,233 --> 00:06:33,133
+let's take a selfie for Reddit before it gets shut it down
+
+93
+00:06:34,466 --> 00:06:37,533
+next we shall farm some mobs to increase our level
+
+94
+00:06:37,533 --> 00:06:39,933
+so that the gods might notice us
+
+95
+00:06:40,866 --> 00:06:43,900
+we max out the length of our fusion tunnel
+
+96
+00:06:45,233 --> 00:06:48,333
+and while working on the meds for the trauma
+
+97
+00:06:48,333 --> 00:06:55,066
+we can't help but notice that we are genuinely going to need to increase our helium plasma plant for the helium
+
+98
+00:06:56,466 --> 00:07:00,300
+but the issue is rather about the usage than the production though
+
+99
+00:07:00,400 --> 00:07:04,100
+let's just say I was lazy with the argon setup
+
+100
+00:07:05,533 --> 00:07:06,866
+while we wait
+
+101
+00:07:06,866 --> 00:07:09,500
+we can dedicate ourselves to activities 
+
+102
+00:07:09,500 --> 00:07:12,100
+such as making half of the Kevlar line
+
+103
+00:07:12,100 --> 00:07:14,033
+I have recorded this activity
+
+104
+00:07:14,033 --> 00:07:18,266
+and it took me 3 days to upload the video without failures
+
+105
+00:07:18,866 --> 00:07:22,866
+we go retrieve the miner that is collecting Enceladus stone
+
+106
+00:07:22,866 --> 00:07:27,866
+and move it to a place that has a stone which contains unstable dust
+
+107
+00:07:28,466 --> 00:07:30,700
+after these brief distractions
+
+108
+00:07:30,700 --> 00:07:34,833
+we finally can have a proper extraction of Infinity Catalyst
+
+109
+00:07:35,500 --> 00:07:40,200
+and finally we can start preparing themets for the emotional trauma
+
+110
+00:07:46,133 --> 00:07:49,900
+and the gods have finally accepted us in their holy land
+
+111
+00:07:50,533 --> 00:07:52,266
+we have made some progress
+
+112
+00:07:52,266 --> 00:07:55,933
+here you can see a collection of 54 multi blocks
+
+113
+00:07:55,933 --> 00:07:59,633
+they are all required to make only one single output
+
+114
+00:07:59,900 --> 00:08:00,700
+Kevlar
+
+115
+00:08:01,866 --> 00:08:04,933
+we are going to need it for higher tier Circuit
+
+116
+00:08:04,933 --> 00:08:06,466
+and most importantly
+
+117
+00:08:06,466 --> 00:08:08,233
+for our mother spaceship
+
+118
+00:08:08,333 --> 00:08:09,700
+talking of space
+
+119
+00:08:09,700 --> 00:08:13,866
+we must not forget about crafting the parts for our space elevator
+
+120
+00:08:13,866 --> 00:08:15,233
+let's do some of them
+
+121
+00:08:15,666 --> 00:08:19,300
+we also need to make one compact MK2 reactor
+
+122
+00:08:19,600 --> 00:08:22,400
+we only need it for researching MK3
+
+123
+00:08:23,000 --> 00:08:26,533
+it looks like we only lack deep iron for that craft
+
+124
+00:08:26,533 --> 00:08:30,066
+this could be avoidable by changing some of our patterns
+
+125
+00:08:30,066 --> 00:08:37,433
+we are still using some old recipes that are now outperformed by the new ones we have unlocked with all of our progression
+
+126
+00:08:37,433 --> 00:08:40,833
+
+let's see where all of the trinium is being used
+
+
+127
+00:08:43,000 --> 00:08:44,433
+on a second thought
+
+128
+00:08:44,433 --> 00:08:48,233
+maybe the best solution is just the simplest one
+
+129
+00:08:48,233 --> 00:08:52,333
+void miners go baa Ra Ra Ra Ra Ra Ra Ra Ra Ra
+
+130
+00:08:53,433 --> 00:08:55,066
+talking of old stuff
+
+131
+00:08:55,066 --> 00:08:59,100
+we should really do something about these old HV reactors
+
+132
+00:08:59,866 --> 00:09:02,900
+let's do some better wiring and pump them a bit
+
+133
+00:09:03,400 --> 00:09:04,700
+and here we go
+
+134
+00:09:04,700 --> 00:09:06,733
+now they work a lot faster
+
+135
+00:09:07,033 --> 00:09:09,633
+while we wait for our other projects
+
+136
+00:09:09,633 --> 00:09:13,533
+we can do some experiments with DNA and other weird stuff
+
+137
+00:09:13,533 --> 00:09:16,466
+we have found a cure for some diseases
+
+138
+00:09:16,466 --> 00:09:18,400
+but that's not our objective
+
+139
+00:09:19,700 --> 00:09:22,633
+we are mastering the bacteria of our own planet
+
+140
+00:09:22,633 --> 00:09:26,400
+so that we can move on to the extraterrestrial ones
+
+141
+00:09:26,400 --> 00:09:31,300
+now we put our new lab produced mutated alien bacteria into a vat
+
+142
+00:09:31,333 --> 00:09:35,666
+so that we can increase our collection of delicious refreshing beverages
+
+143
+00:09:35,700 --> 00:09:38,400
+while our artificial yeast is making drinks
+
+144
+00:09:38,400 --> 00:09:41,933
+and AE2 is crafting a compact fusion reactor
+
+145
+00:09:42,000 --> 00:09:46,033
+we take a moment to appreciate our newly built space elevator
+
+146
+00:09:46,466 --> 00:09:48,200
+that thing is so powerful
+
+147
+00:09:48,200 --> 00:09:51,066
+that it can shoot us way beyond the moon
+
+148
+00:09:51,233 --> 00:09:53,866
+it can even launch us straight to Pluto
+
+149
+00:09:54,100 --> 00:09:57,233
+and it also placed ourselves inside a lander
+
+150
+00:09:57,533 --> 00:09:59,333
+and on a side note
+
+151
+00:09:59,333 --> 00:10:02,200
+I didn't even plug the power to that thing
+
+152
+00:10:02,433 --> 00:10:06,400
+I do wonder where it could send us to if I gave it some power
+
+153
+00:10:06,933 --> 00:10:10,033
+now I do know that after our mineral extraction
+
+154
+00:10:10,033 --> 00:10:14,000
+Pluto shrunk so much that it's not longer considered as a planet
+
+155
+00:10:14,100 --> 00:10:17,866
+but it still does have some nests of mutant alien wolf
+
+156
+00:10:18,266 --> 00:10:21,433
+more than wolves they look like rabbits
+
+157
+00:10:21,700 --> 00:10:25,133
+look at how it runs away after you punch it twice
+
+158
+00:10:25,633 --> 00:10:27,833
+our hunt gave us a schematic
+
+159
+00:10:27,833 --> 00:10:31,266
+that we swiftly scanned for our research purposes
+
+160
+00:10:31,466 --> 00:10:32,900
+we are planning to make a shuttle
+
+161
+00:10:32,900 --> 00:10:35,066
+to go build our future mothership
+
+162
+00:10:35,066 --> 00:10:37,633
+which we will use to conquer the multiverse
+
+163
+00:10:37,900 --> 00:10:41,433
+while our multiverse domination plan is on the working
+
+164
+00:10:41,466 --> 00:10:43,400
+let's do some home brewing
+
+165
+00:10:43,400 --> 00:10:47,533
+we will need something really dank for celebrating such achievement
+
+166
+00:10:47,666 --> 00:10:53,866
+first we need to brew some alien plants inside our xenoxen to make some raw radox
+
+167
+00:10:53,933 --> 00:10:58,733
+next we distill it and take out only the most fine part - light radox
+
+168
+00:10:58,733 --> 00:11:02,233
+then we crack it twice using silver plasma
+
+169
+00:11:02,500 --> 00:11:06,733
+we distill again the result to finally obtain some radox gas
+
+170
+00:11:06,733 --> 00:11:10,400
+then we just add some extra plasma in it, shake it
+
+171
+00:11:10,400 --> 00:11:14,033
+and we obtain the super high class molten radox polymer
+
+172
+00:11:14,033 --> 00:11:16,033
+don't drink it all at once
+
+173
+00:11:16,233 --> 00:11:19,700
+now let's make something useful in our Nano Forge
+
+174
+00:11:19,700 --> 00:11:23,533
+some silver nanites that will speed up our PCB factory
+
+175
+00:11:25,066 --> 00:11:27,700
+and here you can see how cute they look
+
+176
+00:11:29,433 --> 00:11:32,700
+we are sharing them between our two PCB factories
+
+177
+00:11:32,700 --> 00:11:36,266
+we made two factories due to some issues with the cooling
+
+178
+00:11:36,300 --> 00:11:40,266
+but also because we want this one to better use the materials
+
+179
+00:11:40,566 --> 00:11:45,933
+to do so we are going to make it work at 50 microns instead of 100
+
+180
+00:11:47,633 --> 00:11:51,400
+now while we are crafting our first ultimate battery
+
+181
+00:11:51,466 --> 00:11:54,800
+let's see how this new tier 9 rocket works
+
+182
+00:11:57,500 --> 00:12:00,866
+I hope the fuel for the tier 8 rocket will be fine
+
+183
+00:12:01,900 --> 00:12:03,000
+and off we go
+
+184
+00:12:12,333 --> 00:12:16,533
+as you can see many thing changed but let's go in order
+
+185
+00:12:18,333 --> 00:12:22,633
+first thing we let ae2 take care of the longest part
+
+186
+00:12:22,633 --> 00:12:24,866
+making 8 UMV batteries
+
+187
+00:12:25,800 --> 00:12:28,700
+here you can see it working on the last four
+
+188
+00:12:30,433 --> 00:12:34,733
+next we shall personally place all the ingredients in the assembly line
+
+189
+00:12:34,733 --> 00:12:36,866
+to make this moment more memorable
+
+190
+00:12:36,866 --> 00:12:39,500
+we should have created a pattern for that thing though
+
+191
+00:12:39,933 --> 00:12:42,066
+this is a very delicate crafting
+
+192
+00:12:42,100 --> 00:12:43,666
+if anything goes wrong
+
+193
+00:12:43,666 --> 00:12:47,066
+we could lose one week worth of resources and crafting
+
+194
+00:12:47,900 --> 00:12:51,700
+next we shall replace our PSS with the newly acquired battery
+
+195
+00:12:53,400 --> 00:12:54,733
+and here we go
+
+196
+00:12:54,733 --> 00:13:01,733
+from the infographic you can see that the amount of energy our new storage can hold is higher than we can pronounce
+
+197
+00:13:03,733 --> 00:13:06,733
+next we are going to finally work on our mothership
+
+198
+00:13:06,733 --> 00:13:08,500
+while stuff is crafting
+
+199
+00:13:08,500 --> 00:13:12,633
+we can start doing the math for how powerful our thrusters must be
+
+200
+00:13:12,633 --> 00:13:16,866
+here you can see our accurate measures of the weight of some blocks
+
+201
+00:13:17,233 --> 00:13:19,300
+now that all the parts are ready
+
+202
+00:13:19,300 --> 00:13:22,400
+we can finally launch ourselves into space
+
+203
+00:13:23,033 --> 00:13:25,033
+next we create a new mothership
+
+204
+00:13:25,033 --> 00:13:27,033
+and proceed into landing on it
+
+205
+00:13:28,633 --> 00:13:30,800
+and here's our newly built mothership
+
+206
+00:13:31,033 --> 00:13:33,466
+now we have to figure out how to use it
+
+207
+00:13:33,666 --> 00:13:36,200
+but first we should add some engines
+
+208
+00:13:36,400 --> 00:13:38,066
+we are using the cooler ones
+
+209
+00:13:38,066 --> 00:13:39,833
+not because they are faster
+
+210
+00:13:39,833 --> 00:13:44,300
+but because they do not require us to make a facility for the naquadah fuel
+
+211
+00:13:44,600 --> 00:13:46,033
+these run on power
+
+212
+00:13:47,233 --> 00:13:50,133
+the electric power requirement is incredibly low
+
+213
+00:13:50,133 --> 00:13:52,633
+but it looks like they also need some liquid
+
+214
+00:13:52,633 --> 00:13:54,500
+so we shall get some xenon
+
+215
+00:13:54,500 --> 00:13:58,066
+luckily ae2 can reach us even up there
+
+216
+00:13:59,033 --> 00:14:00,733
+however this is not xenon
+
+217
+00:14:00,733 --> 00:14:03,600
+and we have to go back in our base to get some of it
+
+218
+00:14:04,333 --> 00:14:05,200
+while here
+
+219
+00:14:05,200 --> 00:14:08,133
+we refill our oxygen and fuel tanks
+
+220
+00:14:16,600 --> 00:14:20,866
+next we do some extra xenon production using some UU matter
+
+221
+00:14:27,266 --> 00:14:30,866
+we take the little drops that our distillery extracted from air 
+
+222
+00:14:30,866 --> 00:14:32,600
+and fly to our mother ship
+
+223
+00:14:35,466 --> 00:14:40,800
+hopefully our space elevator which can reach Pluto can also reach our mother ship
+
+224
+00:14:44,000 --> 00:14:45,266
+or maybe not
+
+225
+00:14:49,633 --> 00:14:53,633
+we then proceed into building our launch pad over a solid spot
+
+226
+00:14:56,033 --> 00:15:00,633
+you can see how solid it is by the way it refract the exhausts of our rocket
+
+227
+00:15:06,033 --> 00:15:07,300
+and here we are
+
+228
+00:15:08,400 --> 00:15:11,066
+now while the engines are refuelling
+
+229
+00:15:11,133 --> 00:15:14,300
+I think it's a good time to customize our mothership
+
+230
+00:15:14,300 --> 00:15:17,700
+we shall have a proper icon for it like this one
+
+231
+00:15:29,866 --> 00:15:34,233
+now after spending a lot of time searching for our target planet
+
+232
+00:15:34,233 --> 00:15:36,300
+we realize that we lack of fuel
+
+233
+00:15:36,300 --> 00:15:39,300
+and our engines can't even hold so much
+
+234
+00:15:42,266 --> 00:15:46,433
+I think the best idea is to trim the unneeded mass of our ship
+
+235
+00:15:50,833 --> 00:15:53,666
+however it looks like this didn't work
+
+236
+00:15:57,833 --> 00:16:00,200
+let's try to first reach a midway spot
+
+237
+00:16:00,200 --> 00:16:02,666
+and then go to the destination from there
+
+238
+00:16:06,866 --> 00:16:08,033
+we are now moving
+
+239
+00:16:08,033 --> 00:16:11,200
+as you can see from the stars almost hitting us
+
+240
+00:16:20,733 --> 00:16:25,066
+and here you can see our engines throwing away our precious xenon
+
+241
+00:16:34,033 --> 00:16:35,600
+now that we have arrived
+
+242
+00:16:35,600 --> 00:16:38,100
+we can notice that the distance is now longer
+
+243
+00:16:38,100 --> 00:16:39,900
+so we go back to earth
+
+244
+00:16:44,600 --> 00:16:46,666
+while our new engines are crafting
+
+245
+00:16:46,700 --> 00:16:50,233
+we shall find a better and faster way to reach our mothership
+
+246
+00:16:50,233 --> 00:16:52,066
+this rocket is kinda lame
+
+247
+00:16:52,066 --> 00:16:55,933
+so let's just put our personal world linker on our mothership
+
+248
+00:16:56,000 --> 00:17:01,400
+so that we can say that we have relocated our base in a compressed space on our mothership
+
+249
+00:17:03,333 --> 00:17:08,200
+and I think this is a good moment for crafting a Plan B to get back to earth
+
+250
+00:17:08,200 --> 00:17:10,400
+now that our relocator is ready
+
+251
+00:17:10,400 --> 00:17:12,066
+we only have to set it up
+
+252
+00:17:12,633 --> 00:17:15,466
+now that we have increased our propulsion power
+
+253
+00:17:15,466 --> 00:17:18,133
+we can finally travel to other stars
+
+254
+00:17:20,633 --> 00:17:26,000
+however it looks like we lack a little bit of energy for going straight to the destination
+
+255
+00:17:26,866 --> 00:17:30,900
+our engine would need to be able to carry around 1000 more EU
+
+256
+00:17:30,900 --> 00:17:35,100
+I wish we had a battery capable of holding an unspeakable amount of power
+
+257
+00:17:36,300 --> 00:17:38,100
+but that is not a big deal
+
+258
+00:17:38,333 --> 00:17:40,500
+we can still reach the Ra star
+
+259
+00:17:42,233 --> 00:17:43,633
+this is a long journey
+
+260
+00:17:43,633 --> 00:17:48,100
+we could stay here watching all the star almost colliding with us
+
+261
+00:17:48,100 --> 00:17:50,333
+but I think we should be more productive
+
+262
+00:17:50,333 --> 00:17:52,933
+so let's go into our pocket dimension
+
+263
+00:17:55,700 --> 00:17:58,433
+don't worry too much about or lack of power
+
+264
+00:17:58,433 --> 00:17:59,866
+with the new materials
+
+265
+00:17:59,866 --> 00:18:02,500
+we are going to improve our power production
+
+266
+00:18:04,000 --> 00:18:06,333
+anyways while we are waiting
+
+267
+00:18:06,333 --> 00:18:10,233
+we can start working forward to the next tier of circuits
+
+268
+00:18:10,233 --> 00:18:11,800
+the optical series
+
+269
+00:18:12,866 --> 00:18:17,000
+these circuits are going to need a lot of components and processing
+
+270
+00:18:17,000 --> 00:18:21,300
+for now let's start with procuring some purified water
+
+271
+00:18:23,100 --> 00:18:27,033
+apparently our distilled water is not pure enough
+
+272
+00:18:28,200 --> 00:18:33,200
+so first we are going to sift the bigger impurities out of some vanilla water
+
+273
+00:18:34,433 --> 00:18:36,633
+next we are going to heat it a bit
+
+274
+00:18:37,733 --> 00:18:40,133
+then we run it through a distillation tower
+
+275
+00:18:41,033 --> 00:18:44,266
+we use a laser to shoot some bacteria out of it
+
+276
+00:18:45,100 --> 00:18:48,200
+we filter it with some zeolite in a chemical reactor
+
+277
+00:18:49,400 --> 00:18:51,100
+we shoot it again with a laser
+
+278
+00:18:51,100 --> 00:18:53,533
+
+this time using the meme lens
+
+
+279
+00:18:55,466 --> 00:18:57,833
+one more run in a distillation tower
+
+280
+00:18:58,900 --> 00:19:02,233
+and finally we make some nanites have a bath in it
+
+281
+00:19:02,233 --> 00:19:05,300
+to take out some unknown quantum particles
+
+282
+00:19:06,200 --> 00:19:09,400
+and this is the complete setup we just described
+
+283
+00:19:10,266 --> 00:19:12,433
+anyways we have now arrived
+
+284
+00:19:12,433 --> 00:19:15,500
+and it's time to land on these new planets
+
+285
+00:19:16,100 --> 00:19:17,733
+the first one is pretty boring
+
+286
+00:19:17,733 --> 00:19:20,100
+and only has some magnetic mineral
+
+287
+00:19:20,233 --> 00:19:22,500
+the second one has the best bounties
+
+288
+00:19:22,500 --> 00:19:24,733
+which you can now see on the screen
+
+289
+00:19:26,066 --> 00:19:28,633
+and it had some cool dungeons
+
+290
+00:19:28,866 --> 00:19:31,900
+however the most dangerous planet was
+
+291
+00:19:31,900 --> 00:19:33,633
+without doubt the third one
+
+292
+00:19:34,000 --> 00:19:36,933
+at first it looked specific with nice animals
+
+293
+00:19:36,933 --> 00:19:40,433
+but we had to hide our void miner for its own safety
+
+294
+00:19:41,066 --> 00:19:43,033
+while the miners are working
+
+295
+00:19:43,033 --> 00:19:47,133
+we must also check what kind of sick job a new helper is doing
+
+296
+00:19:48,933 --> 00:19:51,833
+and it appears that he is working on making lag
+
+297
+00:19:54,533 --> 00:19:56,600
+and a lot of visual glitches
+
+298
+00:19:59,900 --> 00:20:02,000
+now that we have enough resources
+
+299
+00:20:02,000 --> 00:20:05,133
+we can start crafting some proper turbines
+
+300
+00:20:06,933 --> 00:20:09,900
+and we proceed into making them to good use
+
+301
+00:20:12,300 --> 00:20:15,733
+now it may looks like our power issues are fixed
+
+302
+00:20:15,733 --> 00:20:16,933
+but it is not
+
+303
+00:20:18,866 --> 00:20:23,733
+all we did was moving the issue from the battery to our americium plasma tank
+
+304
+00:00:00,633 --> 00:00:02,266
+欢迎回来，各位
+
+305
+00:00:03,233 --> 00:00:05,033
+今天照常
+
+306
+00:00:05,033 --> 00:00:08,666
+我们要给基地做些小升级
+
+307
+00:00:09,833 --> 00:00:12,800
+但这次咱们按指引来
+
+308
+00:00:12,933 --> 00:00:15,600
+我们得准备好经历心理创伤了
+
+309
+00:00:16,400 --> 00:00:21,400
+为此，我觉得该先采集更多矿物
+
+310
+00:00:21,533 --> 00:00:26,500
+别担心，这次我们用虚空矿机，资源永不枯竭
+
+311
+00:00:26,500 --> 00:00:28,266
+它们能永远挖下去
+
+312
+00:00:28,700 --> 00:00:31,733
+还需要些神秘水晶
+
+313
+00:00:31,733 --> 00:00:35,066
+只能从木卫四的岩石获取
+
+314
+00:00:35,200 --> 00:00:38,500
+幸好这颗星球并非有限几何体
+
+315
+00:00:38,500 --> 00:00:40,000
+而是无限大陆
+
+316
+00:00:41,700 --> 00:00:45,633
+我们现在需要超强设备处理这些矿石
+
+317
+00:00:45,800 --> 00:00:47,666
+来制作个超模的机器
+
+318
+00:00:49,266 --> 00:00:50,433
+要知道
+
+319
+00:00:50,700 --> 00:00:53,933
+就算它性能超模也可能不够用
+
+320
+00:00:53,933 --> 00:00:55,533
+再做三台
+
+321
+00:00:57,000 --> 00:00:58,600
+或许下次吧
+
+322
+00:00:59,866 --> 00:01:01,266
+做好哩
+
+323
+00:01:01,466 --> 00:01:04,900
+接下来的任务需要些帮手
+
+324
+00:01:04,933 --> 00:01:08,133
+让我们造些纳米蜂群来辅助我们
+
+325
+00:01:11,933 --> 00:01:14,066
+再加几个矿石处理厂
+
+326
+00:01:24,100 --> 00:01:27,000
+纳米蜂群能协助电路生产
+
+327
+00:01:27,000 --> 00:01:30,666
+
+但部件制造需要更好方案
+
+
+328
+00:01:30,700 --> 00:01:35,466
+
+这条部件装配线最适合当前需求
+
+
+329
+00:01:40,300 --> 00:01:45,233
+但我们似乎缺少完成结构的资源
+
+330
+00:01:47,466 --> 00:01:48,600
+别慌
+
+331
+00:01:48,833 --> 00:01:52,600
+只需给矿机加一点鿫
+
+332
+00:01:52,600 --> 00:01:56,233
+就能让产量提升64倍
+
+333
+00:01:57,500 --> 00:02:01,633
+但电力又开始告急
+
+334
+00:02:04,233 --> 00:02:06,400
+所以我们得稍作休整
+
+335
+00:02:06,400 --> 00:02:08,866
+然后启动氦等离子体产线
+
+336
+00:02:08,866 --> 00:02:11,933
+因为它能发一些电作为副产
+
+337
+00:02:15,300 --> 00:02:17,100
+现在电力充裕了
+
+338
+00:02:17,100 --> 00:02:22,000
+但还需等待早期排队的任务完成
+
+339
+00:02:24,866 --> 00:02:30,233
+我们趁此机会向神明证明
+我们早已不是菜鸟
+
+340
+00:02:31,466 --> 00:02:35,033
+造个凭证来验证
+
+341
+00:02:36,866 --> 00:02:40,066
+幸亏能超频，制作时间才变得可接受
+
+342
+00:02:41,466 --> 00:02:43,733
+总之，如我所说
+
+343
+00:02:43,733 --> 00:02:47,000
+等待凭证锻造时
+
+344
+00:02:47,000 --> 00:02:50,866
+我们可以再建些矿石处理厂
+
+345
+00:02:51,266 --> 00:02:55,433
+然而不仅矿石见底，流体也不够了
+
+346
+00:02:56,900 --> 00:02:59,666
+要获取大量流体
+
+347
+00:02:59,666 --> 00:03:01,866
+需研发更好的泵
+
+348
+00:03:01,866 --> 00:03:03,466
+为此
+
+349
+00:03:03,500 --> 00:03:09,900
+
+得给矿机加装GPU提升算力
+
+
+350
+00:03:10,400 --> 00:03:12,066
+稍作调试后
+
+351
+00:03:12,133 --> 00:03:17,100
+
+矿场算力已达每秒3.9e27次浮点运算
+
+
+352
+00:03:17,100 --> 00:03:21,133
+算力高到连梦境都跟不上
+
+353
+00:03:22,700 --> 00:03:26,466
+现在凭证锻造过半
+
+354
+00:03:27,800 --> 00:03:30,900
+等待期间，我们去完成纳米锻炉
+
+355
+00:03:32,066 --> 00:03:34,333
+但这只是初阶版本
+
+356
+00:03:34,833 --> 00:03:38,400
+似乎仅用于解锁二阶
+
+357
+00:03:41,066 --> 00:03:42,700
+现在我们发现了一个问题
+
+358
+00:03:43,033 --> 00:03:46,333
+这区域不适合大型多方块结构
+
+359
+00:03:46,600 --> 00:03:49,733
+得移到更合适的位置
+
+360
+00:03:51,000 --> 00:03:55,133
+我们还需要更好的电网维持它的运行
+
+361
+00:03:56,833 --> 00:03:59,233
+我们现在能把纳米锻炉升级到二阶了
+
+362
+00:03:59,333 --> 00:04:02,533
+却发现摆放位置有误
+
+363
+00:04:02,600 --> 00:04:05,133
+只能重建
+
+364
+00:04:07,066 --> 00:04:10,866
+这次我们造把更好的扳手
+
+365
+00:04:12,133 --> 00:04:15,033
+然后像野蛮人一样猛用
+
+366
+00:04:17,866 --> 00:04:20,800
+现在我们重建整个结构
+
+367
+00:04:20,800 --> 00:04:25,233
+直接造最高阶，因为成本并不高
+
+368
+00:04:28,200 --> 00:04:30,233
+这是完工成果
+
+369
+00:04:31,266 --> 00:04:33,700
+
+既然我们还剩5小时
+
+
+370
+00:04:33,700 --> 00:04:37,433
+我们该考虑“组装计划”了
+
+371
+00:04:37,500 --> 00:04:40,500
+虽然我们材料基本齐全
+
+372
+00:04:40,500 --> 00:04:43,933
+但这需要大量装配线合成
+
+373
+00:04:44,133 --> 00:04:50,633
+
+让我们重构一下以前的龟速产线，简化大批量合成
+
+
+374
+00:04:51,600 --> 00:04:53,000
+就像这样
+
+375
+00:04:53,066 --> 00:04:59,733
+我们现在将所有研究蓝图存入装配线共享数据库
+
+376
+00:05:00,300 --> 00:05:05,333
+如果想在下次圣诞节前被菲克斯公司录用
+
+377
+00:05:05,433 --> 00:05:08,400
+必须开始“组装计划”
+
+378
+00:05:10,000 --> 00:05:14,400
+还得注意圆石存储容量
+
+379
+00:05:14,400 --> 00:05:17,866
+它快溢出了
+
+380
+00:05:20,133 --> 00:05:23,433
+我们该建个更好的存储系统
+
+381
+00:05:23,433 --> 00:05:26,433
+但过程似乎很复杂
+
+382
+00:05:29,133 --> 00:05:31,700
+现在是时候取回凭证
+
+383
+00:05:40,233 --> 00:05:43,533
+看来神明未认可我们的凭证
+
+384
+00:05:43,600 --> 00:05:47,133
+这一定是因为我们还没遭受心理创伤
+
+385
+00:05:50,266 --> 00:05:53,533
+我们还缺些导致创伤的材料
+
+386
+00:05:53,700 --> 00:05:55,300
+别担心
+
+387
+00:05:55,300 --> 00:05:58,400
+我们正在造能解决所有问题的机器
+
+388
+00:06:01,233 --> 00:06:02,333
+在等待期间
+
+389
+00:06:02,333 --> 00:06:06,266
+我们先升级圆石存储系统
+
+390
+00:06:07,933 --> 00:06:10,666
+还需定期检查基地
+
+391
+00:06:10,666 --> 00:06:14,666
+有时信号灯会卡在红灯
+
+392
+00:06:15,800 --> 00:06:19,600
+我们得找个合适位置放这大家伙
+
+393
+00:06:19,600 --> 00:06:24,733
+或许该咨询菲克斯公司CEO的建议
+
+394
+00:06:27,300 --> 00:06:29,200
+这位置不错
+
+395
+00:06:29,233 --> 00:06:33,133
+在它关闭前拍张自拍发Reddit
+
+396
+00:06:34,466 --> 00:06:37,533
+接下来是刷怪升级
+
+397
+00:06:37,533 --> 00:06:39,933
+以便让神明注意到我们
+
+398
+00:06:40,866 --> 00:06:43,900
+我们将聚变隧道长度拉满
+
+399
+00:06:45,233 --> 00:06:48,333
+在我们制造心理创伤所需要的药时
+
+400
+00:06:48,333 --> 00:06:55,066
+我们发现需要扩建氦等离子体工厂
+来获取更多氦气
+
+401
+00:06:56,466 --> 00:07:00,300
+但问题在于消耗而非生产
+
+402
+00:07:00,400 --> 00:07:04,100
+都怪我当初氩气配置太敷衍
+
+403
+00:07:05,533 --> 00:07:06,866
+在等待的同时
+
+404
+00:07:06,866 --> 00:07:12,100
+我们可以专注于类似于
+"完成一半凯夫拉产线"的活动
+
+405
+00:07:12,100 --> 00:07:14,033
+我录下了这个过程
+
+406
+00:07:14,033 --> 00:07:18,266
+花了3天才成功上传视频
+
+407
+00:07:18,866 --> 00:07:22,866
+我们取回采集土卫二岩石的矿机
+
+408
+00:07:22,866 --> 00:07:27,866
+转移到含有不稳定粉尘的地方
+
+409
+00:07:28,466 --> 00:07:30,700
+在经过了这些琐事后
+
+410
+00:07:30,700 --> 00:07:34,833
+我们终于能正常提取无限催化剂
+
+411
+00:07:35,500 --> 00:07:40,200
+可以开始准备治疗心理创伤所需的药剂了
+
+412
+00:07:46,133 --> 00:07:49,900
+神明终于接纳我们进入圣地
+
+413
+00:07:50,533 --> 00:07:52,266
+我们已有了一些进展
+
+414
+00:07:52,266 --> 00:07:55,933
+这是有54个多方块结构的产线
+
+415
+00:07:55,933 --> 00:07:59,633
+一切只为产出一种物品
+
+416
+00:07:59,900 --> 00:08:00,700
+凯夫拉
+
+417
+00:08:01,866 --> 00:08:04,933
+高阶电路需要它
+
+418
+00:08:04,933 --> 00:08:06,466
+更重要的是
+
+419
+00:08:06,466 --> 00:08:08,233
+我们的母舰也需要它
+
+420
+00:08:08,333 --> 00:08:09,700
+说到太空
+
+421
+00:08:09,700 --> 00:08:13,866
+别忘了制造太空电梯部件
+
+422
+00:08:13,866 --> 00:08:15,233
+让我们先造一部分
+
+423
+00:08:15,666 --> 00:08:19,300
+我们还需要紧凑型MK2聚变堆
+
+424
+00:08:19,600 --> 00:08:22,400
+它仅用于研究MK3
+
+425
+00:08:23,000 --> 00:08:26,533
+我们似乎只缺深铁矿
+
+426
+00:08:26,533 --> 00:08:30,066
+调整合成配方可避免此需求
+
+427
+00:08:30,066 --> 00:08:37,433
+我们还在用旧配方，而新解锁的配方效率更高
+
+428
+00:08:37,433 --> 00:08:40,833
+
+让我看看三元金属都用在哪了
+
+
+429
+00:08:43,000 --> 00:08:44,433
+转念一想
+
+430
+00:08:44,433 --> 00:08:48,233
+或许简单方案最有效
+
+431
+00:08:48,233 --> 00:08:52,333
+
+只需要虚空矿机这样这样再那样那样
+
+
+432
+00:08:53,433 --> 00:08:55,066
+说到旧设备
+
+433
+00:08:55,066 --> 00:08:59,100
+我们该处理这些老旧的HV大化反了
+
+434
+00:08:59,866 --> 00:09:02,900
+让我们优化线路并升压
+
+435
+00:09:03,400 --> 00:09:04,700
+这样就好了
+
+436
+00:09:04,700 --> 00:09:06,733
+现在效率高多了
+
+437
+00:09:07,033 --> 00:09:09,633
+我们在等待其他项目时
+
+438
+00:09:09,633 --> 00:09:13,533
+可以做些关于DNA和其他奇怪东西的实验
+
+439
+00:09:13,533 --> 00:09:16,466
+发现了某些疾病疗法
+
+440
+00:09:16,466 --> 00:09:18,400
+但那并非我们的目标
+
+441
+00:09:19,700 --> 00:09:22,633
+我们正在掌握本星球细菌特性
+
+442
+00:09:22,633 --> 00:09:26,400
+以便研究外星细菌
+
+443
+00:09:26,400 --> 00:09:31,300
+将实验室培养的变异外星细菌放入培养罐
+
+444
+00:09:31,333 --> 00:09:35,666
+用来增加我们的酿造特饮收藏
+
+445
+00:09:35,700 --> 00:09:38,400
+在我们的人造酵母正酿酒的同时
+
+446
+00:09:38,400 --> 00:09:41,933
+AE正在合成紧凑聚变堆
+
+447
+00:09:42,000 --> 00:09:46,033
+我们趁机欣赏新建的太空电梯
+
+448
+00:09:46,466 --> 00:09:48,200
+这设备威力强大
+
+449
+00:09:48,200 --> 00:09:51,066
+能将我们送至月球之外
+
+450
+00:09:51,233 --> 00:09:53,866
+甚至直达冥王星
+
+451
+00:09:54,100 --> 00:09:57,233
+还自动将我们装入登陆舱
+
+452
+00:09:57,533 --> 00:09:59,333
+顺便说一句
+
+453
+00:09:59,333 --> 00:10:02,200
+我都没给太空电梯通电
+
+454
+00:10:02,433 --> 00:10:06,400
+很好奇供电后它能把我们传送到哪
+
+455
+00:10:06,933 --> 00:10:10,033
+我现在明白了，在我们进行矿物开采后
+
+456
+00:10:10,066 --> 00:10:14,100
+冥王星萎缩到不再是行星
+
+457
+00:10:14,100 --> 00:10:17,866
+但它仍有变异外星狼巢穴
+
+458
+00:10:18,266 --> 00:10:21,433
+这家伙更像兔子而非狼
+
+459
+00:10:21,700 --> 00:10:25,133
+看它挨两拳就跑的样子
+
+460
+00:10:25,633 --> 00:10:27,833
+这场狩猎给予我们一张图纸
+
+461
+00:10:27,833 --> 00:10:31,266
+我们迅速扫描了它用于研究
+
+462
+00:10:31,466 --> 00:10:32,900
+我们计划建造穿梭机
+
+463
+00:10:32,900 --> 00:10:35,066
+用来建造未来的母舰
+
+464
+00:10:35,066 --> 00:10:37,633
+再用这母舰征服多元宇宙
+
+465
+00:10:37,900 --> 00:10:41,433
+在多元宇宙征服计划进行时
+
+466
+00:10:41,466 --> 00:10:43,400
+让我们来点私酿
+
+467
+00:10:43,400 --> 00:10:47,533
+我们需要顶级佳酿庆祝如此成就
+
+468
+00:10:47,666 --> 00:10:53,866
+先把外星植物浸泡在异氙中
+制造出粗制拉多X
+
+469
+00:10:53,933 --> 00:10:58,733
+然后将其蒸馏，只提取最轻的超轻拉多X
+
+470
+00:10:58,733 --> 00:11:02,233
+然后用银等离子体裂解两次
+
+471
+00:11:02,500 --> 00:11:06,733
+再次蒸馏得到拉多X气
+
+472
+00:11:06,733 --> 00:11:10,400
+加入额外等离子体震荡混合
+
+473
+00:11:10,400 --> 00:11:14,033
+制成超高级材料：熔融拉多X聚合物
+
+474
+00:11:14,033 --> 00:11:16,033
+
+温馨提示：美酒虽好，可不要贪杯哦
+
+
+475
+00:11:16,233 --> 00:11:19,700
+现在用纳米锻炉造些实用物品
+
+476
+00:11:19,700 --> 00:11:23,533
+一些银纳米蜂群来加速PCB工厂
+
+477
+00:11:25,066 --> 00:11:27,700
+看它们多可爱
+
+478
+00:11:29,433 --> 00:11:32,700
+两个PCB工厂共用这些蜂群
+
+479
+00:11:32,700 --> 00:11:36,266
+建两个工厂是因散热问题
+
+480
+00:11:36,300 --> 00:11:40,266
+也为了更好利用材料
+
+481
+00:11:40,566 --> 00:11:45,933
+让这个工厂以50微米而非100微米精度运行
+
+482
+00:11:47,633 --> 00:11:51,400
+在我们合成出首个终极电池时
+
+483
+00:11:51,466 --> 00:11:54,800
+让我们测试一下新九阶火箭的性能
+
+484
+00:11:57,500 --> 00:12:00,866
+希望八阶火箭燃料能用
+
+485
+00:12:01,900 --> 00:12:03,000
+出发
+
+486
+00:12:12,333 --> 00:12:16,533
+如你所见变化很大，让我们按顺序说明
+
+487
+00:12:18,333 --> 00:12:22,633
+我们先让AE处理最耗时部分
+
+488
+00:12:22,633 --> 00:12:24,866
+制造8个UMV电池
+
+489
+00:12:25,800 --> 00:12:28,700
+现在在合成最后四个
+
+490
+00:12:30,433 --> 00:12:34,733
+我们接着亲手将原料放入装配线
+
+491
+00:12:34,733 --> 00:12:36,866
+为了让这时刻更难忘
+
+492
+00:12:36,866 --> 00:12:39,500
+我们其实应该给这配方写样板
+
+493
+00:12:39,933 --> 00:12:42,066
+这是相当精密的合成
+
+494
+00:12:42,100 --> 00:12:43,666
+若有闪失
+
+495
+00:12:43,666 --> 00:12:47,066
+将损失一周资源与心血
+
+496
+00:12:47,900 --> 00:12:51,700
+接下来用新电池替换原有的能源站
+
+497
+00:12:53,400 --> 00:12:54,733
+搞定
+
+498
+00:12:54,733 --> 00:13:01,733
+信息面板显示的新电池的容量超乎想象
+
+499
+00:13:03,733 --> 00:13:06,733
+接下来，我们总算开始建造母舰
+
+500
+00:13:06,733 --> 00:13:08,500
+在其他东西合成时
+
+501
+00:13:08,500 --> 00:13:12,633
+我们计算推进器所需功率
+
+502
+00:13:12,633 --> 00:13:16,866
+这是部分方块的精确重量测量
+
+503
+00:13:17,233 --> 00:13:19,300
+现在所有部件就绪
+
+504
+00:13:19,300 --> 00:13:22,400
+我们终于能飞向太空
+
+505
+00:13:23,033 --> 00:13:25,033
+接下来我们创建母舰
+
+506
+00:13:25,033 --> 00:13:27,033
+并登陆
+
+507
+00:13:28,633 --> 00:13:30,800
+这就是我们新建成的母舰
+
+508
+00:13:31,033 --> 00:13:33,466
+我们现在要研究怎么操作它
+
+509
+00:13:33,666 --> 00:13:36,200
+我们要先安装引擎
+
+510
+00:13:36,400 --> 00:13:38,066
+选更酷的型号
+
+511
+00:13:38,066 --> 00:13:39,833
+并非因为他们产生的速度更快
+
+512
+00:13:39,833 --> 00:13:44,300
+而是无需使用需要新产线提取的硅岩燃料
+
+513
+00:13:44,600 --> 00:13:46,033
+这些引擎靠电力运行
+
+514
+00:13:47,233 --> 00:13:50,133
+而他们的电力需求极低
+
+515
+00:13:50,133 --> 00:13:52,633
+但似乎还需某种液体
+
+516
+00:13:52,633 --> 00:13:54,500
+我们去拿一些氙气
+
+517
+00:13:54,500 --> 00:13:58,066
+幸好AE能无线连接到这里
+
+518
+00:13:59,033 --> 00:14:00,733
+但这不是氙气
+
+519
+00:14:00,733 --> 00:14:03,600
+我们得回基地取
+
+520
+00:14:04,333 --> 00:14:05,200
+在基地时
+
+521
+00:14:05,200 --> 00:14:08,133
+我们顺便补充氧气和燃料罐
+
+522
+00:14:16,600 --> 00:14:20,866
+用UU物质增产氙气
+
+523
+00:14:27,266 --> 00:14:30,866
+收集蒸馏塔提取的空气微量成分
+
+524
+00:14:30,866 --> 00:14:32,600
+然后飞回母舰
+
+525
+00:14:35,466 --> 00:14:40,800
+希望能直达冥王星的太空电梯也能到母舰
+
+526
+00:14:44,000 --> 00:14:45,266
+
+呃好像不太行
+
+
+527
+00:14:49,633 --> 00:14:53,633
+我们在坚实的的地方建造发射台
+
+528
+00:14:56,033 --> 00:15:00,633
+看火箭尾焰折射的样子就知道多坚实
+
+529
+00:15:06,033 --> 00:15:07,300
+堂堂抵达
+
+530
+00:15:08,400 --> 00:15:11,066
+引擎补充燃料时
+
+531
+00:15:11,133 --> 00:15:14,300
+该自定义母舰标识了
+
+532
+00:15:14,300 --> 00:15:17,700
+用这样的专属图标
+
+533
+00:15:29,866 --> 00:15:34,233
+经过长时间的搜寻目标行星后
+
+534
+00:15:34,233 --> 00:15:36,300
+我们发现燃料不足
+
+535
+00:15:36,300 --> 00:15:39,300
+我们的引擎甚至装不了那么多燃料
+
+536
+00:15:42,266 --> 00:15:46,433
+最好削减母舰的多余质量
+
+537
+00:15:50,833 --> 00:15:53,666
+但这似乎无效
+
+538
+00:15:57,833 --> 00:16:00,200
+我们先尝试抵达中途点
+
+539
+00:16:00,200 --> 00:16:02,666
+再从那里前往目的地
+
+540
+00:16:06,866 --> 00:16:11,200
+员工正在快速移动
+以至于星星几乎要撞上我们
+
+541
+00:16:20,733 --> 00:16:25,066
+你可以看到引擎喷出的宝贵氙气
+
+542
+00:16:34,033 --> 00:16:35,600
+抵达后发现
+
+543
+00:16:35,600 --> 00:16:38,100
+我们距离目的地更远了
+
+544
+00:16:38,100 --> 00:16:39,900
+所以我们返回地球
+
+545
+00:16:44,600 --> 00:16:46,666
+在新引擎制造的同时
+
+546
+00:16:46,700 --> 00:16:50,233
+我们寻找更快抵达母舰的方法
+
+547
+00:16:50,233 --> 00:16:52,066
+这火箭有点拉
+
+548
+00:16:52,066 --> 00:16:55,933
+所以我们在母舰放下私人维度传送门
+
+549
+00:16:56,000 --> 00:17:01,400
+等价于我们将基地迁至母舰上的压缩空间里
+
+550
+00:17:03,333 --> 00:17:08,200
+这是我们准备返回地球的备用方案的好时机
+
+551
+00:17:08,200 --> 00:17:10,400
+传送器就绪
+
+552
+00:17:10,400 --> 00:17:12,066
+我们只需要配置好它
+
+553
+00:17:12,633 --> 00:17:15,466
+推进功率提升后
+
+554
+00:17:15,466 --> 00:17:18,133
+我们终于能前往其他恒星了
+
+555
+00:17:20,633 --> 00:17:26,000
+但我们缺少一些直达目的地所需的能源
+
+556
+00:17:26,866 --> 00:17:30,900
+
+引擎还需多存约1000EU能量
+
+
+557
+00:17:30,900 --> 00:17:35,100
+真希望有个容量惊人的电池
+
+558
+00:17:36,300 --> 00:17:38,100
+问题不大
+
+559
+00:17:38,333 --> 00:17:40,500
+我们仍能抵达Ra恒星
+
+560
+00:17:42,233 --> 00:17:43,633
+这是漫长的旅程
+
+561
+00:17:43,633 --> 00:17:48,100
+我们可以在此观看擦肩星光
+
+562
+00:17:48,100 --> 00:17:50,333
+但我们应更高效利用时间
+
+563
+00:17:50,333 --> 00:17:52,933
+于是我们进入私人维度
+
+564
+00:17:55,700 --> 00:17:58,433
+不必担心能源短缺
+
+565
+00:17:58,433 --> 00:17:59,866
+有了新材料
+
+566
+00:17:59,866 --> 00:18:02,500
+我们能提升发电效率
+
+567
+00:18:04,000 --> 00:18:06,333
+在等待时
+
+568
+00:18:06,333 --> 00:18:10,233
+我们可研究下一阶电路
+
+569
+00:18:10,233 --> 00:18:11,800
+光学系列
+
+570
+00:18:12,866 --> 00:18:17,000
+这些电路需要大量组件与加工
+
+571
+00:18:17,000 --> 00:18:21,300
+我们先准备纯净水
+
+572
+00:18:23,100 --> 00:18:27,033
+蒸馏水纯度显然不够
+
+573
+00:18:28,200 --> 00:18:33,200
+我们先筛除原版水中的大颗粒杂质
+
+574
+00:18:34,433 --> 00:18:36,633
+适当加热
+
+575
+00:18:37,733 --> 00:18:40,133
+通过蒸馏塔处理
+
+576
+00:18:41,033 --> 00:18:44,266
+激光消灭细菌
+
+577
+00:18:45,100 --> 00:18:48,200
+沸石化学过滤
+
+578
+00:18:49,400 --> 00:18:51,100
+再次激光照射
+
+579
+00:18:51,100 --> 00:18:53,533
+
+透过这个玩梗的透镜
+
+
+580
+00:18:55,466 --> 00:18:57,833
+二次蒸馏处理
+
+581
+00:18:58,900 --> 00:19:05,300
+纳米蜂群浸取以去除量子微粒
+
+582
+00:19:06,200 --> 00:19:09,400
+这是刚才描述的产线的样子
+
+583
+00:19:10,266 --> 00:19:12,433
+无论如何，我们已抵达
+
+584
+00:19:12,433 --> 00:19:15,500
+是时候登陆新行星了
+
+585
+00:19:16,100 --> 00:19:17,733
+第一颗很无趣
+
+586
+00:19:17,733 --> 00:19:20,100
+仅有磁性矿物
+
+587
+00:19:20,233 --> 00:19:22,500
+第二颗资源丰富
+
+588
+00:19:22,500 --> 00:19:24,733
+如图可见
+
+589
+00:19:26,066 --> 00:19:28,633
+它还有酷炫地牢
+
+590
+00:19:28,866 --> 00:19:33,633
+但最危险的无疑是第三颗
+
+591
+00:19:34,000 --> 00:19:36,933
+乍一看，它风景宜人动物友善
+
+592
+00:19:36,933 --> 00:19:40,433
+但我们不得不隐藏虚空矿机以保安全
+
+593
+00:19:41,066 --> 00:19:43,033
+当矿机工作时
+
+594
+00:19:43,033 --> 00:19:47,133
+我们必须检查新助手在做什么变态事情
+
+595
+00:19:48,933 --> 00:19:51,833
+他似乎在制造卡顿
+
+596
+00:19:54,533 --> 00:19:56,600
+以及大量视觉bug
+
+597
+00:19:59,900 --> 00:20:02,000
+现在我们有了充足的资源
+
+598
+00:20:02,000 --> 00:20:05,133
+我们开始制造合理配置的涡轮机
+
+599
+00:20:06,933 --> 00:20:09,900
+并投入使用
+
+600
+00:20:12,300 --> 00:20:15,733
+电力问题看似解决
+
+601
+00:20:15,733 --> 00:20:16,933
+其实不然
+
+602
+00:20:18,866 --> 00:20:23,733
+我们只是将问题从电池转移到镅等离子体储罐
+
+603
+00:00:45,800 --> 00:00:47,666
+（OP同时是矿物处理(Ore Process)和超模(OverPowered)的简称）
+
+604
+00:13:52,633 --> 00:13:54,500
+蓝色染料→
+

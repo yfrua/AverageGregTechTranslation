@@ -1,0 +1,2794 @@
+1
+00:00:00,066 --> 00:00:01,266
+welcome back
+
+2
+00:00:01,266 --> 00:00:06,000
+today we are going to complete the last challenge of GregTech New Horizons
+
+3
+00:00:06,066 --> 00:00:08,066
+which is crafting a Stargate
+
+4
+00:00:08,433 --> 00:00:11,100
+this things is going to require many items
+
+5
+00:00:11,100 --> 00:00:12,700
+with many sub steps
+
+6
+00:00:12,700 --> 00:00:15,866
+but it all boils down to three main parts
+
+7
+00:00:16,000 --> 00:00:22,200
+the main issue other than the expensive materials used is the time required to craft those
+
+8
+00:00:22,300 --> 00:00:24,833
+to craft this stuff in a reasonable time
+
+9
+00:00:24,833 --> 00:00:27,233
+we are going to do some overclocks
+
+10
+00:00:27,266 --> 00:00:30,366
+but the real question is how much we should overclock
+
+11
+00:00:30,500 --> 00:00:32,600
+if we don't want to end up with a blackout
+
+12
+00:00:32,600 --> 00:00:35,233
+or waiting times longer by magnitudes
+
+13
+00:00:35,233 --> 00:00:37,833
+we must find the optimal compromise
+
+14
+00:00:38,166 --> 00:00:39,566
+to find the answer
+
+15
+00:00:39,566 --> 00:00:40,966
+we first have to figure out
+
+16
+00:00:40,966 --> 00:00:43,200
+how much energy we can produce
+
+17
+00:00:43,200 --> 00:00:45,866
+and while looking for a good generator
+
+18
+00:00:45,866 --> 00:00:50,200
+our attention was caught by the shielded Legrandian annihilation matrix
+
+19
+00:00:50,200 --> 00:00:52,466
+a generator that runs on antimatter
+
+20
+00:00:52,600 --> 00:00:53,600
+of course
+
+21
+00:00:53,600 --> 00:00:56,266
+the question now is how do we make antimatter
+
+22
+00:00:56,266 --> 00:00:57,833
+and how much we can make
+
+23
+00:00:57,966 --> 00:00:59,033
+and it turns out
+
+24
+00:00:59,033 --> 00:01:02,966
+it's made in one of those complex to manage multi blocks
+
+25
+00:01:03,033 --> 00:01:06,566
+the semi stable Antimatter Stabilization Sequencer
+
+26
+00:01:06,766 --> 00:01:08,000
+after quickly building it
+
+27
+00:01:08,000 --> 00:01:11,033
+and getting some antimatter to kick start the machine
+
+28
+00:01:11,033 --> 00:01:12,966
+it is time to have some fun
+
+29
+00:01:13,266 --> 00:01:16,066
+the first and most important thing we notice is that
+
+30
+00:01:16,066 --> 00:01:19,800
+we must keep the antimatter evenly spread across the hatches
+
+31
+00:01:20,066 --> 00:01:22,233
+and doing so is no joke
+
+32
+00:01:22,633 --> 00:01:23,233
+anyways
+
+33
+00:01:23,233 --> 00:01:24,966
+to do a little test
+
+34
+00:01:24,966 --> 00:01:28,833
+we start by spreading our antimatter across all of the hatches
+
+35
+00:01:30,600 --> 00:01:33,066
+then after a bunch of tests
+
+36
+00:01:33,066 --> 00:01:38,633
+we got to a point where we noticed how often we have to carefully find which hatch lost antimatter
+
+37
+00:01:38,900 --> 00:01:42,100
+and after realizing that a simple cover won't be enough
+
+38
+00:01:42,100 --> 00:01:43,700
+we did an SFM program
+
+39
+00:01:43,700 --> 00:01:47,033
+that will keep a fixed amount of antimatter in each hatch
+
+40
+00:01:47,233 --> 00:01:47,766
+with that
+
+41
+00:01:47,766 --> 00:01:50,433
+we can now slowly build up some antimatter
+
+42
+00:01:50,433 --> 00:01:54,000
+which we will then spread evenly across all the hatches once again
+
+43
+00:01:54,000 --> 00:01:57,100
+the more antimatter we keep in the machine
+
+44
+00:01:57,100 --> 00:01:58,700
+the more we will produce
+
+45
+00:01:58,700 --> 00:02:01,600
+but also the more energy will be used
+
+46
+00:02:01,700 --> 00:02:02,800
+the question is now
+
+47
+00:02:02,800 --> 00:02:05,633
+how much antimatter we should keep in each hatch
+
+48
+00:02:05,633 --> 00:02:07,000
+to find an answer
+
+49
+00:02:07,000 --> 00:02:11,166
+we can give a purpose to the calculus class we had to take in school
+
+50
+00:02:11,200 --> 00:02:16,666
+we shall plot the amount of energy in function of how much antimatter we place inside each hatch
+
+51
+00:02:16,666 --> 00:02:21,366
+the blue line represents how much energy we can make with the produced antimatter
+
+52
+00:02:21,366 --> 00:02:25,200
+while the red line will tell us how much energy that costed us
+
+53
+00:02:25,233 --> 00:02:27,633
+we want to maximize the energy gain
+
+54
+00:02:27,633 --> 00:02:30,300
+meaning the difference between the two lines
+
+55
+00:02:30,433 --> 00:02:33,233
+which we can see here as a single function
+
+56
+00:02:33,233 --> 00:02:37,800
+and the maximum we can get out of it is four Dyson spheres worth of energy
+
+57
+00:02:37,800 --> 00:02:41,300
+by keeping two and a half buckets of antimatter in each hatch
+
+58
+00:02:41,300 --> 00:02:41,800
+however
+
+59
+00:02:41,800 --> 00:02:45,100
+by increasing the containment stabilization
+
+60
+00:02:45,100 --> 00:02:47,433
+the activation stabilization
+
+61
+00:02:47,466 --> 00:02:49,400
+the gravity stabilization
+
+62
+00:02:49,400 --> 00:02:51,700
+and the magnetic stabilization
+
+63
+00:02:51,700 --> 00:02:55,666
+we managed to make our energy gain graph go out of the screen
+
+64
+00:02:55,800 --> 00:02:57,066
+after some zooming
+
+65
+00:02:57,066 --> 00:03:01,800
+we find out that our production can now reach 600 trillion EU/t
+
+66
+00:03:01,833 --> 00:03:04,800
+by leaving 4 million antimatter in each hatch
+
+67
+00:03:04,800 --> 00:03:07,466
+and adding a bunch of other expensive stuff
+
+68
+00:03:07,466 --> 00:03:10,066
+and that is one huge ball of antimatter
+
+69
+00:03:10,200 --> 00:03:11,500
+to turn it into energy
+
+70
+00:03:11,500 --> 00:03:13,900
+we are going to need one more machine
+
+71
+00:03:14,000 --> 00:03:16,500
+which isn't as complicated as the other one
+
+72
+00:03:16,500 --> 00:03:20,833
+one of the main requirements is to feed it with balanced amounts of materials
+
+73
+00:03:20,833 --> 00:03:25,766
+which we can easily do with the same set up we used to feed the eyes of harmony
+
+74
+00:03:26,166 --> 00:03:28,900
+this time the optimization problem is that
+
+75
+00:03:28,900 --> 00:03:32,166
+we should insert as much fuel as possible in each batch
+
+76
+00:03:32,166 --> 00:03:35,100
+but we are limited by the capacity of our lasers
+
+77
+00:03:35,800 --> 00:03:38,833
+with 16 UIV 1 million amps lasers
+
+78
+00:03:38,833 --> 00:03:42,233
+we can produce as much as 100 Dyson Spheres
+
+79
+00:03:42,233 --> 00:03:45,300
+but if we switch to UMV 4 million
+
+80
+00:03:45,300 --> 00:03:48,600
+we can fill up an ultimate battery in 5 minutes
+
+81
+00:03:49,433 --> 00:03:51,466
+that causes a bunch of issues
+
+82
+00:03:51,466 --> 00:03:53,566
+but the best way to solve every problem
+
+83
+00:03:53,566 --> 00:03:55,266
+is to use a better reactant
+
+84
+00:03:55,266 --> 00:03:57,233
+and turn on wireless mode
+
+85
+00:03:57,600 --> 00:03:58,966
+the takeaway is that
+
+86
+00:03:58,966 --> 00:04:02,200
+assuming we build a dozen of antimatter sequences
+
+87
+00:04:02,200 --> 00:04:06,100
+our whole energy production is going to be about 5 quadrillion EU/t
+
+88
+00:04:06,100 --> 00:04:09,200
+a number with 15 zeros
+
+89
+00:04:09,400 --> 00:04:10,033
+and from that
+
+90
+00:04:10,033 --> 00:04:12,300
+we can get an idea of how much power
+
+91
+00:04:12,300 --> 00:04:14,233
+we can throw at machines
+
+92
+00:04:14,300 --> 00:04:15,000
+with that
+
+93
+00:04:15,000 --> 00:04:20,100
+we can now start working on all of the issues we will face while working on our star gate
+
+94
+00:04:20,300 --> 00:04:25,800
+and the first problems started arising just when we were working on our new power production
+
+95
+00:04:26,033 --> 00:04:27,766
+to have a high power output
+
+96
+00:04:27,766 --> 00:04:32,600
+we had to insert various fluids in the antimatter sequencer to stabilize it
+
+97
+00:04:32,600 --> 00:04:36,300
+while some are either expensive stuff or byproducts
+
+98
+00:04:36,300 --> 00:04:39,433
+a curious one was the depleted naquadah fuel
+
+99
+00:04:39,433 --> 00:04:41,800
+after upgrading our fuel production
+
+100
+00:04:41,800 --> 00:04:45,566
+we turned on full time our backup generators
+
+101
+00:04:45,566 --> 00:04:48,833
+but it appears that those aren't burning fuel fast enough
+
+102
+00:04:48,866 --> 00:04:52,066
+so we had to opt for a different way of wasting fuel
+
+103
+00:04:52,066 --> 00:04:54,000
+energizing tesseracts
+
+104
+00:04:54,200 --> 00:04:55,833
+that is a slow process
+
+105
+00:04:55,833 --> 00:04:56,566
+but luckily
+
+106
+00:04:56,566 --> 00:05:00,100
+the oversized neutron activators we did for Naquadria
+
+107
+00:05:00,100 --> 00:05:03,066
+have the same kinetic energy working range
+
+108
+00:05:03,233 --> 00:05:06,300
+after fixing the antimatter production materials
+
+109
+00:05:06,300 --> 00:05:09,400
+we also realized that to react it efficiently
+
+110
+00:05:09,400 --> 00:05:12,433
+we are using liquid UMV superconductor
+
+111
+00:05:12,566 --> 00:05:13,866
+the main issue here is that
+
+112
+00:05:13,866 --> 00:05:16,266
+this stuff contains dragon blood
+
+113
+00:05:16,400 --> 00:05:19,800
+which we make with the draconic Evolution Fusion Crafter
+
+114
+00:05:19,866 --> 00:05:22,400
+and that machine has a couple of issues
+
+115
+00:05:22,433 --> 00:05:25,800
+the first one being that like many other machines
+
+116
+00:05:25,800 --> 00:05:29,066
+it won't accept multiamperage energy hatches
+
+117
+00:05:29,066 --> 00:05:34,400
+which means that we won't be able to overclock it as much as we do with other machines
+
+118
+00:05:34,400 --> 00:05:37,566
+that usually means we just have to spam many of it
+
+119
+00:05:37,566 --> 00:05:39,366
+but there is a second issue
+
+120
+00:05:39,433 --> 00:05:43,066
+each Fusion Crafter requires a dense Gaia Spirit plate
+
+121
+00:05:43,066 --> 00:05:49,000
+meaning we have to defeat more than two of the super annoying botania bosses for each machine of our array
+
+122
+00:05:49,200 --> 00:05:49,666
+however
+
+123
+00:05:49,666 --> 00:05:52,066
+while working on that annoying task
+
+124
+00:05:52,066 --> 00:05:54,066
+something gave us an idea
+
+125
+00:05:54,200 --> 00:05:58,366
+it appears that there is a mob with a high chance of dropping spawns
+
+126
+00:05:58,466 --> 00:06:00,800
+with those we can craft dragon eggs
+
+127
+00:06:00,800 --> 00:06:04,166
+which can be turned into dragon blood with a normal mixer
+
+128
+00:06:04,300 --> 00:06:06,633
+all we have to do is find the correct mob
+
+129
+00:06:06,633 --> 00:06:09,200
+and start farming it in an industrial way
+
+130
+00:06:09,200 --> 00:06:12,766
+so that we can produce industrial amounts of spawns 
+
+131
+00:06:12,766 --> 00:06:13,166
+eggs
+
+132
+00:06:13,166 --> 00:06:14,766
+and dragon blood
+
+133
+00:06:14,800 --> 00:06:17,566
+now that we have fixed the energy production
+
+134
+00:06:17,566 --> 00:06:21,700
+it is time to craft some energy hatches to put it to good use
+
+135
+00:06:21,700 --> 00:06:22,200
+and here
+
+136
+00:06:22,200 --> 00:06:25,966
+we realized that our universium production is too low
+
+137
+00:06:26,033 --> 00:06:27,200
+to fix that
+
+138
+00:06:27,200 --> 00:06:31,033
+we are going to need a couple more of Astral Array fabricators
+
+139
+00:06:31,033 --> 00:06:34,766
+and now the issue is the size of our crafting units
+
+140
+00:06:34,800 --> 00:06:39,666
+so I guess it's time for us to get a singularity crafting storage
+
+141
+00:06:39,900 --> 00:06:42,433
+and if we want a bunch of those
+
+142
+00:06:42,433 --> 00:06:46,366
+we will need to go and take down a couple of Chaos Guardians 
+
+143
+00:06:46,366 --> 00:06:48,233
+from each Guardian
+
+144
+00:06:48,233 --> 00:06:52,700
+we get one of those crafting units with 8 exabytes of storage
+
+145
+00:06:53,100 --> 00:06:56,000
+but now we lack of co processing units
+
+146
+00:06:56,000 --> 00:06:58,166
+instead we shall make better patterns
+
+147
+00:06:58,166 --> 00:07:00,966
+with the new Pattern Optimization matrix
+
+148
+00:07:01,066 --> 00:07:06,433
+that is because co-processors are needed to increase the amount of crafting steps done each second
+
+149
+00:07:06,433 --> 00:07:09,500
+but instead of doing more steps at once
+
+150
+00:07:09,500 --> 00:07:11,600
+we can make bigger steps
+
+151
+00:07:11,633 --> 00:07:12,500
+to do so
+
+152
+00:07:12,500 --> 00:07:16,400
+we multiply the patterns with the help of the optimization matrix
+
+153
+00:07:16,400 --> 00:07:20,666
+which will make it so it won't take more steps than the amount we specify
+
+154
+00:07:20,766 --> 00:07:21,300
+however
+
+155
+00:07:21,300 --> 00:07:24,666
+doing so will also cause a lot of leftovers
+
+156
+00:07:24,666 --> 00:07:27,800
+which are now filling up all of our storage cells
+
+157
+00:07:27,800 --> 00:07:31,366
+so we are going to upgrade to the artificial universe ones
+
+158
+00:07:31,366 --> 00:07:35,366
+crafting one of those takes a fully charged Error tier battery
+
+159
+00:07:35,633 --> 00:07:37,100
+to charge such battery
+
+160
+00:07:37,100 --> 00:07:38,900
+we shall use an energy infuser
+
+161
+00:07:38,900 --> 00:07:44,066
+powered by the forbidden energy hatch that carries the power of a dozen of antimatter generators
+
+162
+00:07:44,066 --> 00:07:46,066
+and even with such power
+
+163
+00:07:46,066 --> 00:07:49,300
+it will still take a few minutes to charge up our battery
+
+164
+00:07:49,300 --> 00:07:50,100
+meanwhile
+
+165
+00:07:50,100 --> 00:07:53,966
+we managed to complete our first item with Star Gate in its name
+
+166
+00:07:53,966 --> 00:07:56,866
+this was a small step in our progression
+
+167
+00:07:56,866 --> 00:07:59,433
+but a huge leap in resource usage
+
+168
+00:07:59,600 --> 00:08:03,800
+so we added more astral array fabricators to our eye of harmony
+
+169
+00:08:03,800 --> 00:08:06,100
+thus making a lot of universium
+
+170
+00:08:06,366 --> 00:08:09,566
+and that is using half of our current power production
+
+171
+00:08:09,566 --> 00:08:10,966
+which in turn
+
+172
+00:08:10,966 --> 00:08:14,500
+is also using a quarter of our universium production
+
+173
+00:08:14,800 --> 00:08:15,000
+but
+
+174
+00:08:15,000 --> 00:08:18,700
+we have enough left over to slowly start building our star gate
+
+175
+00:08:19,266 --> 00:08:22,466
+and now we will be looking for all of the bottlenecks
+
+176
+00:08:22,566 --> 00:08:25,366
+such as that old HV fluid solidifier
+
+177
+00:08:25,833 --> 00:08:30,166
+or some crafting table recipes that are being done one at a time
+
+178
+00:08:30,633 --> 00:08:33,666
+luckily most of those have an assembler alternative
+
+179
+00:08:34,066 --> 00:08:37,200
+which of course we will parallelize
+
+180
+00:08:37,566 --> 00:08:41,200
+then we have machines that are still using small input buses
+
+181
+00:08:41,500 --> 00:08:45,066
+we shall move the used patterns to a proper crafting bus
+
+182
+00:08:45,066 --> 00:08:48,100
+also there are some invalid patterns laying around
+
+183
+00:08:48,100 --> 00:08:51,400
+due to stuff that didn't pass the beta tests
+
+184
+00:08:51,666 --> 00:08:56,300
+and we must not forget about doing some maintenance to our older setups
+
+185
+00:08:56,600 --> 00:08:59,433
+I mean we must not forget to upgrade everything
+
+186
+00:08:59,433 --> 00:09:01,966
+with the best technology at our disposal
+
+187
+00:09:02,100 --> 00:09:04,800
+finally we shall start adding more machines
+
+188
+00:09:04,800 --> 00:09:08,700
+where adding more power would start to make the consumption relevant
+
+189
+00:09:09,066 --> 00:09:12,666
+like our generic purpose parallel assembly line setup
+
+190
+00:09:12,666 --> 00:09:15,466
+which now will become multi machine parallel
+
+191
+00:09:15,566 --> 00:09:17,200
+and all of those assembly lines
+
+192
+00:09:17,200 --> 00:09:19,166
+reminded us of our circuit factory
+
+193
+00:09:19,166 --> 00:09:22,433
+which seems to start to struggle with the new demands
+
+194
+00:09:22,566 --> 00:09:25,166
+since it wasn't easy to expand that one
+
+195
+00:09:25,200 --> 00:09:26,766
+we made new factories
+
+196
+00:09:26,833 --> 00:09:28,700
+one for each circuit tier
+
+197
+00:09:28,866 --> 00:09:31,400
+and that was a lot of assembly lines
+
+198
+00:09:31,500 --> 00:09:34,700
+with a lot of expensive UXV energy hatches
+
+199
+00:09:34,800 --> 00:09:38,466
+and of course those are only assembling circuits
+
+200
+00:09:38,466 --> 00:09:41,766
+we needed a lot of other machines to keep up with all of the
+
+201
+00:09:41,766 --> 00:09:47,033
+circuit boards, memory, SMDs, cables, screws, weird materials
+
+202
+00:09:47,033 --> 00:09:49,566
+and everything else that goes into the circuits
+
+203
+00:09:49,766 --> 00:09:54,300
+and all of those machines are just the starting point of our Star Gate factory
+
+204
+00:09:54,466 --> 00:09:58,666
+which for now is a factory of UXV energy hatches
+
+205
+00:09:58,800 --> 00:09:59,333
+however
+
+206
+00:09:59,333 --> 00:10:03,466
+overclocking and building more machines isn't always the solution
+
+207
+00:10:03,500 --> 00:10:06,100
+our black hole had a special Redstone control
+
+208
+00:10:06,100 --> 00:10:09,300
+to optimize its crafting to last 3 minutes
+
+209
+00:10:09,466 --> 00:10:15,566
+the idea was to try to use the bonus parallel from the decaying black hole as much as possible
+
+210
+00:10:15,700 --> 00:10:16,433
+however
+
+211
+00:10:16,433 --> 00:10:19,600
+one of the Stargate parts requires an element that
+
+212
+00:10:19,600 --> 00:10:21,100
+even with overclocks
+
+213
+00:10:21,100 --> 00:10:23,733
+can't be made in less than a quarter of hour
+
+214
+00:10:23,733 --> 00:10:27,766
+since we don't want to have to wait that much for each recipe change
+
+215
+00:10:27,766 --> 00:10:29,633
+we had to make a second black hole
+
+216
+00:10:29,633 --> 00:10:32,033
+with special settings for that recipe
+
+217
+00:10:32,166 --> 00:10:37,900
+but the real issue here is the amount of space time required to keep a black hole open for that much time
+
+218
+00:10:38,000 --> 00:10:40,466
+since it doubles every 30 seconds
+
+219
+00:10:40,466 --> 00:10:44,766
+we are going to need almost 1 billion per second in the last phase
+
+220
+00:10:44,766 --> 00:10:48,500
+exactly half of the maximum we can input each update
+
+221
+00:10:48,800 --> 00:10:52,466
+which is also more than what an export bus can transfer
+
+222
+00:10:52,666 --> 00:10:55,500
+next since we were managing black holes
+
+223
+00:10:55,500 --> 00:10:57,266
+we also made a third one
+
+224
+00:10:57,466 --> 00:11:01,966
+this one will make eternal singularities passively with a timer circuit
+
+225
+00:11:02,566 --> 00:11:03,300
+finally
+
+226
+00:11:03,300 --> 00:11:06,666
+there is one last ingredient which we can't make yet
+
+227
+00:11:06,666 --> 00:11:08,266
+the Star Gate crystal
+
+228
+00:11:08,366 --> 00:11:11,300
+that one requires a special ingredient
+
+229
+00:11:11,300 --> 00:11:12,466
+graviton shards
+
+230
+00:11:12,666 --> 00:11:15,000
+the same we use for upgrading our gorge
+
+231
+00:11:15,000 --> 00:11:16,433
+and which we have none of
+
+232
+00:11:16,600 --> 00:11:18,666
+we have a button for retrieving those
+
+233
+00:11:18,666 --> 00:11:20,666
+but we first need to gather some
+
+234
+00:11:20,833 --> 00:11:21,500
+to do so
+
+235
+00:11:21,500 --> 00:11:24,233
+we have to reach more milestones
+
+236
+00:11:24,433 --> 00:11:27,700
+and the easiest one to do now is the composition one
+
+237
+00:11:27,866 --> 00:11:31,766
+this one requires us to add new modules or structure rings
+
+238
+00:11:31,766 --> 00:11:35,366
+so time to get an even cooler looking forge
+
+239
+00:11:35,466 --> 00:11:37,066
+and I know it looks majestic
+
+240
+00:11:37,066 --> 00:11:39,266
+and that we could stare at it for hours
+
+241
+00:11:39,266 --> 00:11:40,300
+but we have to move on
+
+242
+00:11:40,300 --> 00:11:43,900
+since we now have unlocked a bunch of Graviton Shards
+
+243
+00:11:44,000 --> 00:11:47,500
+actually there's more milestones we need to do
+
+244
+00:11:47,766 --> 00:11:50,900
+we can easily buy one with some universium
+
+245
+00:11:51,166 --> 00:11:55,166
+the fuel consumption was exponential with the transcendent residue
+
+246
+00:11:55,166 --> 00:11:57,666
+but it's not with constrained star matter
+
+247
+00:11:57,666 --> 00:11:59,633
+so we can just dump enough at once
+
+248
+00:11:59,633 --> 00:12:01,633
+to complete the fuel milestone
+
+249
+00:12:01,666 --> 00:12:04,500
+and that was probably not a good usage of fuel
+
+250
+00:12:04,500 --> 00:12:07,666
+however by unlocking all of the milestones
+
+251
+00:12:07,666 --> 00:12:10,766
+some new instructions appeared in our forge
+
+252
+00:12:10,766 --> 00:12:13,033
+and we now have enough graviton shards
+
+253
+00:12:13,033 --> 00:12:16,800
+to proceed with the mixing for the base dust required by the crystal
+
+254
+00:12:16,800 --> 00:12:20,766
+and after also doing some more stuff in our cyclotrons
+
+255
+00:12:20,766 --> 00:12:22,666
+we managed to get the dust
+
+256
+00:12:22,833 --> 00:12:25,566
+then we prepare some Stargate crystal slurry
+
+257
+00:12:25,566 --> 00:12:28,000
+and drop everything in a blast furnace
+
+258
+00:12:28,333 --> 00:12:28,833
+however
+
+259
+00:12:28,833 --> 00:12:31,833
+it looks like this recipe needs more heat
+
+260
+00:12:32,100 --> 00:12:35,466
+so we crank on the thermostat to the required temperature
+
+261
+00:12:35,633 --> 00:12:37,966
+and that is giving us a lot of boosts
+
+262
+00:12:38,500 --> 00:12:38,933
+finally
+
+263
+00:12:38,933 --> 00:12:43,433
+we also had to increase the processing power to start our crafting
+
+264
+00:12:43,766 --> 00:12:46,033
+and while the crystals were cooking
+
+265
+00:12:46,033 --> 00:12:49,433
+we noticed that our magmatter production wasn't working
+
+266
+00:12:49,766 --> 00:12:51,233
+upon a quick inspection
+
+267
+00:12:51,233 --> 00:12:53,566
+it looked like everything was in place
+
+268
+00:12:53,700 --> 00:12:57,366
+so let's get reminded of how that machine works
+
+269
+00:12:57,533 --> 00:12:58,833
+when we turn it on
+
+270
+00:12:58,833 --> 00:13:01,500
+we will get 2 fluids and a tiny dust
+
+271
+00:13:01,666 --> 00:13:02,833
+to get magmatter
+
+272
+00:13:02,833 --> 00:13:08,400
+we have to input back the two fluids and plasma of the material the tiny dust is made out of
+
+273
+00:13:08,466 --> 00:13:09,666
+that used to work fine
+
+274
+00:13:09,666 --> 00:13:14,833
+and allowed us to just shove everything the machine could possibly want to get the magmatter
+
+275
+00:13:15,133 --> 00:13:17,233
+however that feature has been patched
+
+276
+00:13:17,233 --> 00:13:18,700
+because it actually was a bug
+
+277
+00:13:18,700 --> 00:13:26,666
+and we now must input an amount of plasma that is exactly 144 times the difference between the other two fluids
+
+278
+00:13:27,000 --> 00:13:30,033
+and now we must find a way of automating that
+
+279
+00:13:30,200 --> 00:13:35,433
+we start by getting each one of the three starting outputs in a dedicated storage
+
+280
+00:13:35,633 --> 00:13:38,466
+then using the good old custom pattern trick
+
+281
+00:13:38,466 --> 00:13:40,400
+and the laggy crafting cards
+
+282
+00:13:40,400 --> 00:13:43,200
+we get out of there the two fluids in equal amounts
+
+283
+00:13:43,200 --> 00:13:45,166
+until only one is left
+
+284
+00:13:45,300 --> 00:13:46,266
+at that point
+
+285
+00:13:46,266 --> 00:13:48,433
+the fluid is moved to another tank
+
+286
+00:13:48,433 --> 00:13:52,766
+where a different subnetwork will trade each milliliter bucket for a cell
+
+287
+00:13:52,766 --> 00:13:58,066
+we send those cells to take the correct fluid selected by a Redstone contraption
+
+288
+00:13:58,266 --> 00:14:01,233
+thus having the correct amount of fluid for our magmatter
+
+289
+00:14:01,800 --> 00:14:02,566
+or so we thought
+
+290
+00:14:02,566 --> 00:14:05,966
+until we found out that cells carry a whole bucket
+
+291
+00:14:06,166 --> 00:14:10,300
+so we switched to the more precise volumetric flasks
+
+292
+00:14:10,666 --> 00:14:13,033
+that solved the mag matter issues
+
+293
+00:14:13,033 --> 00:14:17,200
+but we also have to find a solution for the quark gluon plasma fluid
+
+294
+00:14:17,200 --> 00:14:20,166
+which has some more possible materials in it
+
+295
+00:14:20,500 --> 00:14:24,466
+this time instead of overengineered Redstone setups
+
+296
+00:14:24,466 --> 00:14:26,833
+we shall use an even worse approach
+
+297
+00:14:26,833 --> 00:14:29,666
+we brute force the task using SFM
+
+298
+00:14:29,833 --> 00:14:32,866
+and since we couldn't find a solution on Stack Overflow
+
+299
+00:14:32,866 --> 00:14:34,766
+and we are afraid of for loops
+
+300
+00:14:34,766 --> 00:14:36,566
+we shall do a long chain of elseif
+
+301
+00:14:36,566 --> 00:14:38,700
+as in the programmer humor memes
+
+302
+00:14:39,000 --> 00:14:41,233
+but hey it works
+
+303
+00:14:41,466 --> 00:14:43,100
+anyways with that
+
+304
+00:14:43,100 --> 00:14:46,566
+we are now ready to start working on the craft of our star gate
+
+305
+00:14:46,800 --> 00:14:48,266
+that thing has many steps
+
+306
+00:14:48,266 --> 00:14:50,200
+and requires trillions of items
+
+307
+00:14:50,200 --> 00:14:53,800
+so we are going to split the task in more smaller ones
+
+308
+00:14:54,066 --> 00:14:57,333
+and while the small tasks are being done autonomously by AE2
+
+309
+00:14:57,333 --> 00:15:00,900
+we can work on improving our infrastructure
+
+310
+00:15:01,366 --> 00:15:04,566
+the first thing we shall fix is our power production
+
+311
+00:15:04,766 --> 00:15:08,300
+and of course that will need a lot of universium
+
+312
+00:15:08,300 --> 00:15:11,800
+which we can make with some astral arrays in a eye of harmony
+
+313
+00:15:12,266 --> 00:15:14,300
+then we build thousands of machines
+
+314
+00:15:14,300 --> 00:15:16,466
+to speed up the crafting of everything
+
+315
+00:15:16,900 --> 00:15:17,366
+finally
+
+316
+00:15:17,366 --> 00:15:21,700
+we overclock the slow stuff as much as our power production allows
+
+317
+00:15:21,700 --> 00:15:26,766
+cutting down the crafting time of the slowest parts by a factor of 1000
+
+318
+00:15:27,066 --> 00:15:29,566
+and now we have reached the TPS cap
+
+319
+00:15:29,566 --> 00:15:33,200
+so we just sit and watch our star gate being crafted
+
+320
+00:15:33,266 --> 00:15:34,900
+this took a lot of time
+
+321
+00:15:34,900 --> 00:15:37,066
+but we managed to slowly build it
+
+322
+00:15:37,100 --> 00:15:39,633
+and here we have our latest creation
+
+323
+00:15:39,700 --> 00:15:40,266
+however
+
+324
+00:15:40,266 --> 00:15:43,100
+while we completed the last quest of the mod pack
+
+325
+00:15:43,100 --> 00:15:44,900
+we aren't fully done yet
+
+326
+00:15:44,966 --> 00:15:45,466
+indeed
+
+327
+00:15:45,466 --> 00:15:48,833
+this device is useless if we don't have a second one
+
+328
+00:15:48,866 --> 00:15:50,766
+so we AFK a little bit more
+
+329
+00:15:50,766 --> 00:15:53,400
+while ae2 builds us a second one
+
+330
+00:15:53,500 --> 00:15:55,766
+after building it in some hidden place
+
+331
+00:15:55,766 --> 00:15:59,700
+we can connect to it by dialing its address in our main star gate
+
+332
+00:15:59,700 --> 00:16:02,866
+we confirm it and then we stare at the animation
+
+333
+00:16:09,200 --> 00:16:13,666
+and now it's time to show the mystical place this portal will bring us to
+
+334
+00:16:13,900 --> 00:16:15,033
+as you can see
+
+335
+00:16:15,033 --> 00:16:19,566
+this place has some weird green stuff spread across all over the place
+
+336
+00:16:19,633 --> 00:16:21,766
+but I think we did enough for today
+
+337
+00:16:21,766 --> 00:16:25,766
+we can try to think about touching this stuff in the next season
+
+338
+00:16:25,866 --> 00:16:27,066
+and as usual
+
+339
+00:16:27,066 --> 00:16:28,700
+before greetings
+
+340
+00:16:28,700 --> 00:16:32,200
+we shall reflect on what we Learned in today's episode
+
+341
+00:16:32,400 --> 00:16:36,433
+after all the drops of sweat and tears we did to make it this far
+
+342
+00:16:36,433 --> 00:16:40,000
+the real prize is not the reward we get from the quest completion
+
+343
+00:16:40,000 --> 00:16:43,100
+but the piles of stone dust we made along the way
+
+344
+00:16:43,100 --> 00:16:44,000
+bye bye
+
+345
+00:00:00,066 --> 00:00:01,266
+欢迎回来
+
+346
+00:00:01,266 --> 00:00:06,000
+今天我们要完成GTNH最后一个挑战
+
+347
+00:00:06,066 --> 00:00:08,066
+制作星门
+
+348
+00:00:08,433 --> 00:00:11,100
+它需要很多材料
+
+349
+00:00:11,100 --> 00:00:12,700
+有许多子步骤
+
+350
+00:00:12,700 --> 00:00:15,866
+但这一切都归结为三个主要部分
+
+351
+00:00:16,000 --> 00:00:18,333
+
+主要问题除了要使用昂贵材料
+
+
+352
+00:00:18,333 --> 00:00:22,233
+
+还有就是它们制作它们消耗的巨额时间
+
+
+353
+00:00:22,300 --> 00:00:24,833
+在合理的时间内制作这些东西
+
+354
+00:00:24,833 --> 00:00:27,233
+我们要做一些超频
+
+355
+00:00:27,266 --> 00:00:30,366
+而真正的问题是超频方案
+
+356
+00:00:30,500 --> 00:00:32,600
+如果不想跳电
+
+357
+00:00:32,600 --> 00:00:35,233
+或者几何级增长等待时间
+
+358
+00:00:35,233 --> 00:00:37,833
+我们必须找到最佳的折衷方案
+
+359
+00:00:38,166 --> 00:00:39,566
+要找到答案
+
+360
+00:00:39,566 --> 00:00:40,966
+我们首先要弄清楚
+
+361
+00:00:40,966 --> 00:00:43,200
+我们能产生多少能量
+
+362
+00:00:43,200 --> 00:00:45,866
+在寻找好的发电机的同时
+
+363
+00:00:45,866 --> 00:00:50,200
+我们的注意力被屏蔽拉格朗日湮灭矩阵吸引住了
+
+364
+00:00:50,200 --> 00:00:52,466
+一个依靠反物质发电的机器
+
+365
+00:00:52,600 --> 00:00:53,600
+当然
+
+366
+00:00:53,600 --> 00:00:56,266
+现在的问题是我们如何制造反物质
+
+367
+00:00:56,266 --> 00:00:57,833
+以及能做多少
+
+368
+00:00:57,966 --> 00:00:59,033
+结果证明
+
+369
+00:00:59,033 --> 00:01:02,966
+它是在一个需要复杂管理的多方块中产生的
+
+370
+00:01:03,033 --> 00:01:06,566
+半稳定反物质稳定定序器
+
+371
+00:01:06,766 --> 00:01:08,000
+快速建造它后
+
+372
+00:01:08,000 --> 00:01:11,033
+并获得一些反物质来启动机器
+
+373
+00:01:11,033 --> 00:01:12,966
+是时候找点乐子了
+
+374
+00:01:13,266 --> 00:01:16,066
+我们注意到的第一件也是最重要的事情是
+
+375
+00:01:16,066 --> 00:01:19,800
+我们必须让反物质均匀分布在各个仓室
+
+376
+00:01:20,066 --> 00:01:22,233
+而且这可不是儿戏
+
+377
+00:01:22,633 --> 00:01:23,233
+不管怎样
+
+378
+00:01:23,233 --> 00:01:24,966
+做一个小测试
+
+379
+00:01:24,966 --> 00:01:28,833
+我们首先把反物质分散到所有舱室
+
+380
+00:01:30,600 --> 00:01:33,066
+然后经过一系列测试
+
+381
+00:01:33,066 --> 00:01:38,633
+我们已经注意到必须时常提防是否有仓室缺少了反物质
+
+382
+00:01:38,900 --> 00:01:42,100
+在意识到一个简单的覆盖板是不够的之后
+
+383
+00:01:42,100 --> 00:01:43,700
+我们做了一个SFM程序
+
+384
+00:01:43,700 --> 00:01:47,033
+保证每个舱口都有固定数量的反物质
+
+385
+00:01:47,233 --> 00:01:47,766
+有了那个
+
+386
+00:01:47,766 --> 00:01:50,433
+我们现在可以慢慢制造一些反物质
+
+387
+00:01:50,433 --> 00:01:54,000
+然后我们将再次均匀地分布在所有舱口
+
+388
+00:01:54,000 --> 00:01:57,100
+我们留在机器里的反物质越多
+
+389
+00:01:57,100 --> 00:01:58,700
+我们生产的就越多
+
+390
+00:01:58,700 --> 00:02:01,600
+但也会使用更多的能量
+
+391
+00:02:01,700 --> 00:02:02,800
+现在的问题是
+
+392
+00:02:02,800 --> 00:02:05,633
+每个仓室应该放多少反物质
+
+393
+00:02:05,633 --> 00:02:07,000
+
+要得出答案
+
+
+394
+00:02:07,000 --> 00:02:11,166
+
+学校里上的微积分课就有了存在价值
+
+
+395
+00:02:11,200 --> 00:02:16,666
+根据每个仓室内的反物质数量来绘制能量函数
+
+396
+00:02:16,666 --> 00:02:21,366
+蓝线代表产生的反物质能产生多少能量
+
+397
+00:02:21,366 --> 00:02:25,200
+而红线会告诉我们消耗了多少能量
+
+398
+00:02:25,233 --> 00:02:27,633
+我们想最大化发电量
+
+399
+00:02:27,633 --> 00:02:30,300
+也就是两条线的差值
+
+400
+00:02:30,433 --> 00:02:33,233
+我们可以把它看成单一函数
+
+401
+00:02:33,233 --> 00:02:37,800
+在每个仓室里放两桶半反物质
+
+402
+00:02:37,800 --> 00:02:41,300
+我们能得到四个戴森球能量的最大发电量
+
+403
+00:02:41,300 --> 00:02:41,800
+然而
+
+404
+00:02:41,800 --> 00:02:45,100
+通过提高遏制稳定性
+
+405
+00:02:45,100 --> 00:02:47,433
+激活稳定化
+
+406
+00:02:47,466 --> 00:02:49,400
+重力稳定
+
+407
+00:02:49,400 --> 00:02:51,700
+磁稳定
+
+408
+00:02:51,700 --> 00:02:55,666
+我们设法让发电图超出屏幕
+
+409
+00:02:55,800 --> 00:02:57,066
+放大后
+
+410
+00:02:57,066 --> 00:03:01,800
+我们发现发电量现在可以达到600万亿 EU/t
+
+411
+00:03:01,833 --> 00:03:04,800
+此时每个仓室有4ML反物质
+
+412
+00:03:04,800 --> 00:03:07,466
+并需要添加一堆其他昂贵的东西
+
+413
+00:03:07,466 --> 00:03:10,066
+那是一个巨大的反物质球
+
+414
+00:03:10,200 --> 00:03:11,500
+将其转化为能量
+
+415
+00:03:11,500 --> 00:03:13,900
+我们还需要一台机器
+
+416
+00:03:14,000 --> 00:03:16,500
+这个比较简单
+
+417
+00:03:16,500 --> 00:03:20,833
+其中一个主要要求是给予其可平衡的材料
+
+418
+00:03:20,833 --> 00:03:25,766
+
+使用我们在鸿蒙之眼上用过的相同装置可以轻松解决
+
+
+419
+00:03:26,166 --> 00:03:28,900
+现在要优化的问题是
+
+420
+00:03:28,900 --> 00:03:32,166
+应该在每批中输入尽可能多的燃料
+
+421
+00:03:32,166 --> 00:03:35,100
+但限制在于激光仓的容量
+
+422
+00:03:35,800 --> 00:03:38,833
+使用16个UIV 100万A的激光源仓
+
+423
+00:03:38,833 --> 00:03:42,233
+发电量可以与100个戴森球相当
+
+424
+00:03:42,233 --> 00:03:45,300
+但是如果我们换成UMV 400万A
+
+425
+00:03:45,300 --> 00:03:48,600
+我们可以在5分钟内充满终极电池
+
+426
+00:03:49,433 --> 00:03:51,466
+这会导致很多问题
+
+427
+00:03:51,466 --> 00:03:53,566
+但解决每个问题的最好方法
+
+428
+00:03:53,566 --> 00:03:55,266
+就是使用更好的反应物
+
+429
+00:03:55,266 --> 00:03:57,233
+并打开无线模式
+
+430
+00:03:57,600 --> 00:03:58,966
+所以结论是
+
+431
+00:03:58,966 --> 00:04:02,200
+假设我们建立了一堆反物质序列
+
+432
+00:04:02,200 --> 00:04:06,100
+发电量将达到5千万亿 EU/t
+
+433
+00:04:06,100 --> 00:04:09,200
+一个有15个零的数字
+
+434
+00:04:09,400 --> 00:04:10,033
+从这个数字里
+
+435
+00:04:10,033 --> 00:04:12,300
+我们可以知道
+
+436
+00:04:12,300 --> 00:04:14,233
+可以将多少电输入进机器
+
+437
+00:04:14,300 --> 00:04:15,000
+有了那个
+
+438
+00:04:15,000 --> 00:04:20,100
+我们现在可以开始解决所有会在星门制作中出现的问题
+
+439
+00:04:20,300 --> 00:04:23,466
+就在着手于新能源生产时
+
+440
+00:04:23,466 --> 00:04:25,800
+第一个问题出现了
+
+441
+00:04:26,033 --> 00:04:27,766
+要想有高功率输出
+
+442
+00:04:27,766 --> 00:04:32,600
+我们必须在反物质定序器中输入各种液体来稳定它
+
+443
+00:04:32,600 --> 00:04:36,300
+而有些要么是昂贵的东西，要么是副产品
+
+444
+00:04:36,300 --> 00:04:39,433
+
+其中一种奇怪的流体是耗尽的硅岩燃料
+
+
+445
+00:04:39,433 --> 00:04:41,800
+在我们的燃料生产升级后
+
+446
+00:04:41,800 --> 00:04:45,566
+
+我们把备用发电机一直开着
+
+
+447
+00:04:45,566 --> 00:04:48,833
+但看起来这些燃料燃烧得不够快
+
+448
+00:04:48,866 --> 00:04:52,066
+所以我们不得不选择另一种方式来浪费燃料
+
+449
+00:04:52,066 --> 00:04:54,000
+中子活化超立方体
+
+450
+00:04:54,200 --> 00:04:55,833
+这是一个缓慢的过程
+
+451
+00:04:55,833 --> 00:04:56,566
+但幸运的是
+
+452
+00:04:56,566 --> 00:05:00,100
+我们为硅岩所准备的中子活化器
+
+453
+00:05:00,100 --> 00:05:03,066
+具有相同的动能工作范围
+
+454
+00:05:03,233 --> 00:05:06,300
+
+解决反物质生产材料后
+
+
+455
+00:05:06,300 --> 00:05:09,400
+我们也意识到，为了有效地反应
+
+456
+00:05:09,400 --> 00:05:12,433
+
+我们要消耗液态UMV超导粗胚
+
+
+457
+00:05:12,566 --> 00:05:13,866
+这里的主要问题是
+
+458
+00:05:13,866 --> 00:05:16,266
+这东西含有龙血
+
+459
+00:05:16,400 --> 00:05:19,800
+我们正在使用龙研聚合装置制作
+
+460
+00:05:19,866 --> 00:05:22,400
+那台机器有几个问题
+
+461
+00:05:22,433 --> 00:05:25,800
+第一个是像许多其他机器一样
+
+462
+00:05:25,800 --> 00:05:29,066
+它不接受多安能源仓
+
+463
+00:05:29,066 --> 00:05:34,400
+这意味着我们不能像用其他机器那样超频
+
+464
+00:05:34,400 --> 00:05:37,566
+这通常意味着我们只需要堆量
+
+465
+00:05:37,566 --> 00:05:39,366
+但还有第二个问题
+
+466
+00:05:39,433 --> 00:05:43,066
+每个机器都需要致密盖亚之魂大板
+
+467
+00:05:43,066 --> 00:05:49,000
+这意味着我们必须为阵列中的每台机器击败两个以上的惹人厌的植物魔法的boss
+
+468
+00:05:49,200 --> 00:05:49,666
+然而
+
+469
+00:05:49,666 --> 00:05:52,066
+在做那个烦人的任务时
+
+470
+00:05:52,066 --> 00:05:54,066
+某种东西让我们灵光一现
+
+471
+00:05:54,200 --> 00:05:58,366
+似乎有个怪有很高的几率掉率刷怪蛋
+
+472
+00:05:58,466 --> 00:06:00,800
+用这些我们可以制作龙蛋
+
+473
+00:06:00,800 --> 00:06:04,166
+通过普通的搅拌可以变成龙血
+
+474
+00:06:04,300 --> 00:06:06,633
+我们要做的就是找到正确的怪物
+
+475
+00:06:06,633 --> 00:06:09,200
+并进行工业化生产
+
+476
+00:06:09,200 --> 00:06:12,766
+这样我们就可以生产大量的刷怪蛋
+
+477
+00:06:12,766 --> 00:06:13,766
+龙蛋
+
+478
+00:06:13,766 --> 00:06:14,766
+还有龙血
+
+479
+00:06:14,800 --> 00:06:17,566
+现在我们已经修好了发电
+
+480
+00:06:17,566 --> 00:06:21,700
+是时候制作一些能源仓来充分利用它了
+
+481
+00:06:21,700 --> 00:06:22,200
+这里
+
+482
+00:06:22,200 --> 00:06:25,966
+我们意识到宇宙素的产量太低了
+
+483
+00:06:26,033 --> 00:06:27,200
+解决这个问题
+
+484
+00:06:27,200 --> 00:06:31,033
+我们需要再做几个星阵
+
+485
+00:06:31,033 --> 00:06:34,766
+现在的问题是CPU的大小
+
+486
+00:06:34,800 --> 00:06:39,666
+所以我想是时候做一个奇点合成存储单元了
+
+487
+00:06:39,900 --> 00:06:42,433
+
+如果我们想多做一些
+
+
+488
+00:06:42,433 --> 00:06:46,366
+我们得去干掉些混沌守卫 
+
+489
+00:06:46,366 --> 00:06:48,233
+每干掉一个
+
+490
+00:06:48,233 --> 00:06:52,700
+便可以得到一个有8EB存储空间的合成单元
+
+491
+00:06:53,100 --> 00:06:56,000
+现在缺少的是并行单元
+
+492
+00:06:56,000 --> 00:06:58,166
+相反，我们将开始优化样板
+
+493
+00:06:58,166 --> 00:07:00,966
+使用新的样板优化矩阵
+
+494
+00:07:01,066 --> 00:07:06,433
+这是因为并行能增加每秒完成的制作步骤的数量
+
+495
+00:07:06,433 --> 00:07:09,500
+不过与其多走几步
+
+496
+00:07:09,500 --> 00:07:11,600
+不如跨大脚步
+
+497
+00:07:11,633 --> 00:07:12,500
+为此
+
+498
+00:07:12,500 --> 00:07:16,400
+我们借助优化矩阵将模板相乘
+
+499
+00:07:16,400 --> 00:07:20,666
+这将使最大步骤控制在我们设定的数量内
+
+500
+00:07:20,766 --> 00:07:21,300
+然而
+
+501
+00:07:21,300 --> 00:07:24,666
+这样做也会造成很多冗余
+
+502
+00:07:24,666 --> 00:07:27,800
+我们的存储元件已经被填满了
+
+503
+00:07:27,800 --> 00:07:31,366
+所以我们要升级到人造宇宙版
+
+504
+00:07:31,366 --> 00:07:35,366
+制造其中一个需要充满电的error等级电池
+
+505
+00:07:35,633 --> 00:07:37,100
+要给它充电
+
+506
+00:07:37,100 --> 00:07:38,900
+我们将使用能量注入器
+
+507
+00:07:38,900 --> 00:07:44,066
+由携带十几个反物质发生器的能量的禁忌能量仓供电
+
+508
+00:07:44,066 --> 00:07:46,066
+即使有这样的电力
+
+509
+00:07:46,066 --> 00:07:49,300
+给电池充电仍然需要几分钟
+
+510
+00:07:49,300 --> 00:07:50,100
+同时
+
+511
+00:07:50,100 --> 00:07:53,966
+我们已经完成了第一个带有星门名字的物品了
+
+512
+00:07:53,966 --> 00:07:56,866
+这只是我们进步的一小步
+
+513
+00:07:56,866 --> 00:07:59,433
+但是是资源使用的巨大飞跃
+
+514
+00:07:59,600 --> 00:08:03,800
+所以我们在鸿蒙之眼中添加了更多星阵
+
+515
+00:08:03,800 --> 00:08:06,100
+这会产出大量宇宙素
+
+516
+00:08:06,366 --> 00:08:09,566
+而这也使用了目前一半的电力生产
+
+517
+00:08:09,566 --> 00:08:10,966
+反过来
+
+518
+00:08:10,966 --> 00:08:14,500
+它也使用了四分之一的宇宙素
+
+519
+00:08:14,800 --> 00:08:15,000
+但是
+
+520
+00:08:15,000 --> 00:08:18,700
+用于制作星门的量还是绰绰有余
+
+521
+00:08:19,266 --> 00:08:22,466
+现在我们将寻找所有的瓶颈
+
+522
+00:08:22,566 --> 00:08:25,366
+比如那个旧的HV流体固化器
+
+523
+00:08:25,833 --> 00:08:30,166
+或者一些一次只做一个的样板
+
+524
+00:08:30,633 --> 00:08:33,666
+幸运的是，其中大多数都有组装机配方
+
+525
+00:08:34,066 --> 00:08:37,200
+
+我们当然会让它们能够并行生产
+
+
+526
+00:08:37,566 --> 00:08:41,200
+然后我们有机器仍然使用小型输入总线
+
+527
+00:08:41,500 --> 00:08:45,066
+我们把使用过的样板转移到正确的总成中
+
+528
+00:08:45,066 --> 00:08:48,100
+而这也有些无效样板
+
+529
+00:08:48,100 --> 00:08:51,400
+因为其没活过测试版
+
+530
+00:08:51,666 --> 00:08:56,300
+我们不能忘记对旧设备进行一些维护
+
+531
+00:08:56,600 --> 00:08:59,433
+意思是应该全部进行升级
+
+532
+00:08:59,433 --> 00:09:01,966
+用我们掌握的最好的技术
+
+533
+00:09:02,100 --> 00:09:04,800
+最后我们将开始添加更多机器
+
+534
+00:09:04,800 --> 00:09:08,700
+
+直到加更多能源会造成不容小看的电量消耗
+
+
+535
+00:09:09,066 --> 00:09:12,666
+就像我们的通用并行装配线设置一样
+
+536
+00:09:12,666 --> 00:09:15,466
+现在将成为多机并行
+
+537
+00:09:15,566 --> 00:09:17,200
+所有这些装配线
+
+538
+00:09:17,200 --> 00:09:19,166
+让我们想起了电路工厂
+
+539
+00:09:19,166 --> 00:09:22,433
+它似乎跟不上新的需求了
+
+540
+00:09:22,566 --> 00:09:25,166
+扩展这个可不简单
+
+541
+00:09:25,200 --> 00:09:26,766
+我们建造了新工厂
+
+542
+00:09:26,833 --> 00:09:28,700
+每个电路一个
+
+543
+00:09:28,866 --> 00:09:31,400
+这可是很多装配线
+
+544
+00:09:31,500 --> 00:09:34,700
+有很多昂贵的UXV能源仓
+
+545
+00:09:34,800 --> 00:09:38,466
+当然，这些只用来组装电路
+
+546
+00:09:38,466 --> 00:09:41,766
+我们需要很多其他机器来跟上所有的
+
+547
+00:09:41,766 --> 00:09:47,033
+电路板、内存、SMD、电缆、螺丝、奇怪的材料
+
+548
+00:09:47,033 --> 00:09:49,566
+以及其他装配电路的东西
+
+549
+00:09:49,766 --> 00:09:54,300
+所有这些机器只是我们星门工厂的起点
+
+550
+00:09:54,466 --> 00:09:58,666
+而工厂已全面装设UXV能源仓
+
+551
+00:09:58,800 --> 00:09:59,333
+然而
+
+552
+00:09:59,333 --> 00:10:03,466
+超频和制造更多机器并不总是解决方案
+
+553
+00:10:03,500 --> 00:10:06,100
+我们的黑洞有一个特殊的红石控制装置
+
+554
+00:10:06,100 --> 00:10:09,300
+将其合成优化到持续3分钟
+
+555
+00:10:09,466 --> 00:10:15,566
+宗旨是尽可能多地利用衰变黑洞奖励的并行
+
+556
+00:10:15,700 --> 00:10:16,433
+然而
+
+557
+00:10:16,433 --> 00:10:19,600
+星门部件的一部分
+
+558
+00:10:19,600 --> 00:10:21,100
+即使有超频
+
+559
+00:10:21,100 --> 00:10:23,733
+至少需要15分钟制作
+
+560
+00:10:23,733 --> 00:10:27,766
+因为我们不想每次更换配方都要等那么久
+
+561
+00:10:27,766 --> 00:10:29,633
+我们必须制造第二个黑洞
+
+562
+00:10:29,633 --> 00:10:32,033
+此配方有个特殊设置
+
+563
+00:10:32,166 --> 00:10:37,900
+但真正的问题是要保持此黑洞开启所需要的大量时空
+
+564
+00:10:38,000 --> 00:10:40,466
+因为它每30秒翻倍一次
+
+565
+00:10:40,466 --> 00:10:44,766
+在最后阶段我们需要每秒10亿
+
+566
+00:10:44,766 --> 00:10:48,500
+正好是我们每次更新可以输入的最大值的一半
+
+567
+00:10:48,800 --> 00:10:52,466
+这也比输出仓能转移的多
+
+568
+00:10:52,666 --> 00:10:55,500
+接下来，既然我们在做黑洞的东西
+
+569
+00:10:55,500 --> 00:10:57,266
+我们还做了第三个
+
+570
+00:10:57,466 --> 00:11:01,966
+这个会用计时器电路被动制造永恒奇点
+
+571
+00:11:02,566 --> 00:11:03,300
+最后
+
+572
+00:11:03,300 --> 00:11:06,666
+还有最后一种成分我们做不出来
+
+573
+00:11:06,666 --> 00:11:08,266
+星门水晶
+
+574
+00:11:08,366 --> 00:11:11,300
+它需要特殊材料
+
+575
+00:11:11,300 --> 00:11:12,466
+引力子碎片
+
+576
+00:11:12,666 --> 00:11:15,000
+和我们用来升级神锻的一样
+
+577
+00:11:15,000 --> 00:11:16,433
+而我们一个都没有
+
+578
+00:11:16,600 --> 00:11:18,666
+我们有一个用于提取引力子碎片的按钮
+
+579
+00:11:18,666 --> 00:11:20,666
+但我们首先需要收集一些
+
+580
+00:11:20,833 --> 00:11:21,500
+为此
+
+581
+00:11:21,500 --> 00:11:24,233
+我们必须达到更多的里程碑
+
+582
+00:11:24,433 --> 00:11:27,700
+现在最简单的是结构
+
+583
+00:11:27,866 --> 00:11:31,766
+这个需要我们添加新的模块或环
+
+584
+00:11:31,766 --> 00:11:35,366
+所以是时候换一个更酷的外观了
+
+585
+00:11:35,466 --> 00:11:37,066
+我知道它看起来很壮观
+
+586
+00:11:37,066 --> 00:11:39,266
+我们可以看它旋转几小时
+
+587
+00:11:39,266 --> 00:11:40,300
+但我们必须继续前进
+
+588
+00:11:40,300 --> 00:11:43,900
+因为我们已经解锁了一堆引力子碎片
+
+589
+00:11:44,000 --> 00:11:47,500
+事实上，我们需要做更多的里程碑
+
+590
+00:11:47,766 --> 00:11:50,900
+我们可以很容易地用一些宇宙素买到一个
+
+591
+00:11:51,166 --> 00:11:55,166
+燃料消耗与超维度残留成指数关系
+
+592
+00:11:55,166 --> 00:11:57,666
+但对于蓝框岩浆可不是
+
+593
+00:11:57,666 --> 00:11:59,633
+所以我们可以一次输入足够多的燃料
+
+594
+00:11:59,633 --> 00:12:01,633
+完成燃料里程碑
+
+595
+00:12:01,666 --> 00:12:04,500
+这可能不是一个正确的燃料用途
+
+596
+00:12:04,500 --> 00:12:07,666
+但是通过解锁所有里程碑
+
+597
+00:12:07,666 --> 00:12:10,766
+我们的神锻里出现了一些新的指示
+
+598
+00:12:10,766 --> 00:12:13,033
+我们现在有足够的引力子碎片
+
+599
+00:12:13,033 --> 00:12:16,800
+用于混合出星门水晶所需的基础粉尘
+
+600
+00:12:16,800 --> 00:12:20,766
+在回旋加速器中做了更多的事情之后
+
+601
+00:12:20,766 --> 00:12:22,666
+我们弄到了所需的粉
+
+602
+00:12:22,833 --> 00:12:25,566
+然后我们准备一些星门水晶浆液
+
+603
+00:12:25,566 --> 00:12:28,000
+并把所有东西扔进高炉
+
+604
+00:12:28,333 --> 00:12:28,833
+然而
+
+605
+00:12:28,833 --> 00:12:31,833
+看起来这个配方需要更高的炉温
+
+606
+00:12:32,100 --> 00:12:35,466
+所以我们把炉温调制要求值
+
+607
+00:12:35,633 --> 00:12:37,966
+这给了我们很大的提升
+
+608
+00:12:38,500 --> 00:12:38,933
+最后
+
+609
+00:12:38,933 --> 00:12:43,433
+我们还必须增加处理电压来开始制作
+
+610
+00:12:43,766 --> 00:12:46,033
+当水晶在烹饪的时候
+
+611
+00:12:46,033 --> 00:12:49,433
+我们注意到磁物质未能正常生产
+
+612
+00:12:49,766 --> 00:12:51,233
+经过快速检查
+
+613
+00:12:51,233 --> 00:12:53,566
+看起来一切都就位了
+
+614
+00:12:53,700 --> 00:12:57,366
+让我们来看看这台机器是如何工作的
+
+615
+00:12:57,533 --> 00:12:58,833
+当我们打开它时
+
+616
+00:12:58,833 --> 00:13:01,500
+我们会得到2种液体和一种小撮粉
+
+617
+00:13:01,666 --> 00:13:02,833
+得到磁物质
+
+618
+00:13:02,833 --> 00:13:08,400
+我们必须输入两种液体和小撮粉对应的等离子体
+
+619
+00:13:08,466 --> 00:13:09,666
+之前一切正常
+
+620
+00:13:09,666 --> 00:13:14,833
+允许我们供给机器可能想要的所有材料
+
+621
+00:13:15,133 --> 00:13:17,233
+
+但是这个特性已经被修复了
+
+
+622
+00:13:17,233 --> 00:13:18,700
+因为那其实是bug
+
+623
+00:13:18,700 --> 00:13:26,666
+我们现在必须输入的等离子量正好是另外两种液体差的144倍
+
+624
+00:13:27,000 --> 00:13:30,033
+现在我们必须找到一种自动化的方法
+
+625
+00:13:30,200 --> 00:13:35,433
+我们首先将三个起始输出中的每一个都放入专用存储中
+
+626
+00:13:35,633 --> 00:13:38,466
+然后使用古老的自定义模板技巧
+
+627
+00:13:38,466 --> 00:13:40,400
+还有略卡顿的合成卡
+
+628
+00:13:40,400 --> 00:13:43,200
+我们从那里取出等量的两种液体
+
+629
+00:13:43,200 --> 00:13:45,166
+
+直到只剩下一种
+
+
+630
+00:13:45,300 --> 00:13:46,266
+到那时
+
+631
+00:13:46,266 --> 00:13:48,433
+液体被转移到另一个罐中
+
+632
+00:13:48,433 --> 00:13:52,766
+其中，不同的子网络将把每个毫升交换出一个空单元
+
+633
+00:13:52,766 --> 00:13:58,066
+我们把单元通过红石装置来获取正确的液体输入
+
+634
+00:13:58,266 --> 00:14:01,233
+从而为我们的磁物质提供正确数量的液体
+
+635
+00:14:01,800 --> 00:14:02,566
+或许我们是这么想的
+
+636
+00:14:02,566 --> 00:14:05,966
+
+直到我们发现空单元一次必须装一桶
+
+
+637
+00:14:06,166 --> 00:14:10,300
+所以我们改用更精确的容积瓶
+
+638
+00:14:10,666 --> 00:14:13,033
+这解决了磁物质问题
+
+639
+00:14:13,033 --> 00:14:17,200
+但是我们也必须完成夸克胶子等离子体的自动化
+
+640
+00:14:17,200 --> 00:14:20,166
+
+生产它有更多可以使用的材料
+
+
+641
+00:14:20,500 --> 00:14:24,466
+这次不是过度开发的红石装置
+
+642
+00:14:24,466 --> 00:14:26,833
+我们将使用更糟糕的方法
+
+643
+00:14:26,833 --> 00:14:29,666
+
+我们使用SFM暴力完成任务
+
+
+644
+00:14:29,833 --> 00:14:32,866
+既然我们在Stack Overflow上找不到解决方案
+
+645
+00:14:32,866 --> 00:14:34,766
+我们害怕for循环
+
+646
+00:14:34,766 --> 00:14:36,566
+我们将做一长串的else if
+
+647
+00:14:36,566 --> 00:14:38,700
+就像程序员幽默meme一样
+
+648
+00:14:39,000 --> 00:14:41,233
+拜托，能跑就行
+
+649
+00:14:41,466 --> 00:14:43,100
+不管怎样
+
+650
+00:14:43,100 --> 00:14:46,566
+我们现在着手制作星门
+
+651
+00:14:46,800 --> 00:14:48,266
+那东西有很多步骤
+
+652
+00:14:48,266 --> 00:14:50,200
+并需要数万亿件物品
+
+653
+00:14:50,200 --> 00:14:53,800
+所以我们将任务抽丝剥茧
+
+654
+00:14:54,066 --> 00:14:57,333
+当AE自动完成任务的时候
+
+655
+00:14:57,333 --> 00:15:00,900
+我们可以致力于改善基础设施
+
+656
+00:15:01,366 --> 00:15:04,566
+我们首先要解决的是电力生产
+
+657
+00:15:04,766 --> 00:15:08,300
+当然，这需要很多宇宙素
+
+658
+00:15:08,300 --> 00:15:11,800
+我们可以用一些星阵加速它
+
+659
+00:15:12,266 --> 00:15:14,300
+然后我们制造成千上万的机器
+
+660
+00:15:14,300 --> 00:15:16,466
+加快一切的制作
+
+661
+00:15:16,900 --> 00:15:17,366
+最后
+
+662
+00:15:17,366 --> 00:15:21,700
+我们尽可能多地超频慢速的东西
+
+663
+00:15:21,700 --> 00:15:26,766
+将最慢零件的制作时间缩短1000倍
+
+664
+00:15:27,066 --> 00:15:29,566
+现在我们已经达到了TPS上限
+
+665
+00:15:29,566 --> 00:15:33,200
+所以我们就坐在那里看着星门被制作出来
+
+666
+00:15:33,266 --> 00:15:34,900
+这花了很多时间
+
+667
+00:15:34,900 --> 00:15:37,066
+但我们设法慢慢建造了它
+
+668
+00:15:37,100 --> 00:15:39,633
+这是我们最新的造物
+
+669
+00:15:39,700 --> 00:15:40,266
+然而
+
+670
+00:15:40,266 --> 00:15:43,100
+当我们完成整合包的最后一个任务时
+
+671
+00:15:43,100 --> 00:15:44,900
+我们还没有完全完成
+
+672
+00:15:44,966 --> 00:15:45,466
+确实
+
+673
+00:15:45,466 --> 00:15:48,833
+如果没有第二套门，这个设备就没用了
+
+674
+00:15:48,866 --> 00:15:50,766
+所以我们再挂机一会儿
+
+675
+00:15:50,766 --> 00:15:53,400
+等待AE为我们再造一个
+
+676
+00:15:53,500 --> 00:15:55,766
+在某个隐蔽的地方建造后
+
+677
+00:15:55,766 --> 00:15:59,700
+我们在主星门通过拨号它的地址来连接它
+
+678
+00:15:59,700 --> 00:16:02,866
+我们确认了一下，然后盯着动画
+
+679
+00:16:09,200 --> 00:16:13,666
+现在是时候展示这个入口带我们去的神秘地方了
+
+680
+00:16:13,900 --> 00:16:15,033
+如你所见
+
+681
+00:16:15,033 --> 00:16:19,566
+这个地方到处都是奇怪的绿色东西
+
+682
+00:16:19,633 --> 00:16:21,766
+但我觉得我们今天做得够多了
+
+683
+00:16:21,766 --> 00:16:25,766
+我们可以考虑下一季再碰这些东西
+
+684
+00:16:25,866 --> 00:16:27,066
+和往常一样
+
+685
+00:16:27,066 --> 00:16:28,700
+问候前
+
+686
+00:16:28,700 --> 00:16:32,200
+我们将反思今天学到的东西
+
+687
+00:16:32,400 --> 00:16:36,433
+经过我们所有的汗水和泪水才走到这一步
+
+688
+00:16:36,433 --> 00:16:40,000
+真正的奖励不是任务完成后的奖励
+
+689
+00:16:40,000 --> 00:16:43,100
+而是我们一路上做出的石头粉
+
+690
+00:16:43,100 --> 00:16:44,000
+拜拜
+

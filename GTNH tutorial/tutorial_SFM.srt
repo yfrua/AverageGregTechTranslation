@@ -1,0 +1,1124 @@
+1
+00:00:00,033 --> 00:00:01,233
+hello everyone
+
+2
+00:00:01,266 --> 00:00:04,533
+today we are going to have a quick look at Steve's Factory Manager
+
+3
+00:00:04,533 --> 00:00:07,033
+this is a very powerful and useful mod
+
+4
+00:00:07,033 --> 00:00:10,600
+which can help you solve all sorts of logistic puzzles
+
+5
+00:00:10,600 --> 00:00:13,600
+but let's start by looking at it block by block
+
+6
+00:00:13,600 --> 00:00:16,900
+the main block of this mod is the Machine Inventory Manager
+
+7
+00:00:17,100 --> 00:00:19,233
+this will be the controller of our setups
+
+8
+00:00:19,233 --> 00:00:22,200
+that will run whatever code we will instruct it with
+
+9
+00:00:22,200 --> 00:00:25,800
+the other important block we will be using is the inventory cable
+
+10
+00:00:25,800 --> 00:00:30,600
+which will allow the machine inventory manager to interact with whatever the cable touches
+
+11
+00:00:30,600 --> 00:00:32,466
+other than those two blocks
+
+12
+00:00:32,466 --> 00:00:35,500
+there are about a dozen more added by this mod
+
+13
+00:00:35,500 --> 00:00:38,000
+but we will see those later on when needed
+
+14
+00:00:38,000 --> 00:00:41,633
+and now after throwing together a bunch of machines
+
+15
+00:00:41,633 --> 00:00:44,233
+let's see what we can do using SFM
+
+16
+00:00:44,266 --> 00:00:47,866
+to get started we are going to create our first command
+
+17
+00:00:47,866 --> 00:00:48,600
+a trigger
+
+18
+00:00:48,600 --> 00:00:51,466
+by clicking on the first of the buttons on the left
+
+19
+00:00:51,466 --> 00:00:54,233
+this created a new block for our program
+
+20
+00:00:54,400 --> 00:00:56,600
+like any other that we will be creating
+
+21
+00:00:56,600 --> 00:01:01,100
+we can move it around by dragging it from that little square in the top corner
+
+22
+00:01:01,166 --> 00:01:03,566
+and to make things more understandable
+
+23
+00:01:03,566 --> 00:01:10,833
+we can also rename our blocks however we like by clicking on the save as icon after opening the block with a left click
+
+24
+00:01:11,800 --> 00:01:16,366
+this trigger command will be the start of the instruction that our manager will be doing
+
+25
+00:01:16,566 --> 00:01:20,566
+we can set how often we want that to happen in the interval section
+
+26
+00:01:20,600 --> 00:01:24,700
+next, we have to connect the commands with the instructions for the manager
+
+27
+00:01:25,000 --> 00:01:28,600
+the two simplest ones are input and output commands
+
+28
+00:01:28,600 --> 00:01:34,566
+those two instructions specify from where and which items can be taken and placed by the manager
+
+29
+00:01:34,566 --> 00:01:38,666
+in the inventory tab, we can select from where the items can be moved
+
+30
+00:01:38,700 --> 00:01:40,433
+but as you can see
+
+31
+00:01:40,433 --> 00:01:43,833
+it's not always easy to figure out which chest is which
+
+32
+00:01:43,833 --> 00:01:47,000
+to avoid confusion, we can make a factory labeler
+
+33
+00:01:47,000 --> 00:01:49,400
+which will allow us to name inventories
+
+34
+00:01:49,400 --> 00:01:53,266
+making it easy to spot which one is the chest we want to use
+
+35
+00:01:53,400 --> 00:01:55,666
+we rename each one of those chests
+
+36
+00:01:55,666 --> 00:02:00,800
+and then we proceed into selecting a chest to use as input and one to use as output
+
+37
+00:02:01,666 --> 00:02:05,100
+after selecting an input inventory and an output inventory
+
+38
+00:02:05,166 --> 00:02:08,800
+we have to connect the block the way we want the program to flow
+
+39
+00:02:08,833 --> 00:02:10,433
+starting from the start
+
+40
+00:02:10,433 --> 00:02:13,866
+we take from the A chest and then we drop in the B chest
+
+41
+00:02:14,400 --> 00:02:21,633
+we can verify the program works by placing some stuff in the chest labeled A and retrieving it in the chest labeled B
+
+42
+00:02:21,966 --> 00:02:25,866
+however, those two commands have other options we can add
+
+43
+00:02:26,400 --> 00:02:32,366
+for example, using the items tab, we can filter which items we want to be moved
+
+44
+00:02:33,033 --> 00:02:35,366
+that is some very basic filtering
+
+45
+00:02:35,366 --> 00:02:38,066
+but there is more advanced things we can do
+
+46
+00:02:38,233 --> 00:02:40,300
+if we right click the filtered item
+
+47
+00:02:40,300 --> 00:02:42,166
+we can set other options
+
+48
+00:02:42,166 --> 00:02:44,900
+such as how many items should be moved
+
+49
+00:02:45,033 --> 00:02:47,100
+and one cool feature is that
+
+50
+00:02:47,100 --> 00:02:49,600
+if we specify an amount as blacklisted
+
+51
+00:02:49,600 --> 00:02:52,500
+we can keep that amount inside the input inventory
+
+52
+00:02:52,833 --> 00:02:54,900
+if we select two inputs
+
+53
+00:02:54,900 --> 00:02:57,966
+the amount to keep will be across both of the chests
+
+54
+00:02:57,966 --> 00:03:01,100
+meaning only one of the two will keep that amount
+
+55
+00:03:01,300 --> 00:03:05,600
+we can change that behavior by changing the multi selection settings
+
+56
+00:03:05,700 --> 00:03:08,266
+if we run the command once per target
+
+57
+00:03:08,266 --> 00:03:12,766
+we will be able to keep a fixed amount of items in each of the selected inventories
+
+58
+00:03:12,900 --> 00:03:17,266
+that is something which can be very useful in some automation setups
+
+59
+00:03:17,366 --> 00:03:20,266
+the next instruction we can use is the condition
+
+60
+00:03:20,400 --> 00:03:22,700
+as we notice right after adding it
+
+61
+00:03:22,700 --> 00:03:24,833
+this one has an extra circle
+
+62
+00:03:25,033 --> 00:03:30,200
+the condition will check inside the specified inventories for the presence of a specified item
+
+63
+00:03:30,366 --> 00:03:32,433
+depending on the finding result
+
+64
+00:03:32,433 --> 00:03:36,433
+it will chose one of two possible consecutive instructions
+
+65
+00:03:36,600 --> 00:03:42,366
+for example, here we can set to follow the old instruction if some cobblestone is present
+
+66
+00:03:42,466 --> 00:03:46,633
+otherwise, if not cobblestone is present in the chest named A
+
+67
+00:03:46,633 --> 00:03:49,100
+the program will take a different path
+
+68
+00:03:50,466 --> 00:03:53,100
+to make the condition check for any item
+
+69
+00:03:53,166 --> 00:03:56,000
+we can change the detection to match any block
+
+70
+00:03:57,500 --> 00:03:59,500
+next we have flow blocks
+
+71
+00:03:59,666 --> 00:04:04,233
+those allow merging or splitting of the program execution flows
+
+72
+00:04:05,600 --> 00:04:11,166
+liquid input, output and condition are the fluid version of the previously seen blocks
+
+73
+00:04:11,666 --> 00:04:14,200
+and there is also an energy variant
+
+74
+00:04:14,800 --> 00:04:18,600
+next, there are Redstone emitters and Redstone conditions
+
+75
+00:04:19,633 --> 00:04:23,233
+those two instructions will work with two new kind of blocks
+
+76
+00:04:23,233 --> 00:04:25,233
+Redstone emitter and receiver
+
+77
+00:04:25,233 --> 00:04:29,233
+and will allow for interacting with external Redstone signals
+
+78
+00:04:29,866 --> 00:04:32,400
+and using the various option tabs
+
+79
+00:04:32,400 --> 00:04:36,566
+we can achieve pretty much any kind of Redstone behavior we want
+
+80
+00:04:37,366 --> 00:04:39,466
+next we have command groups
+
+81
+00:04:39,833 --> 00:04:44,866
+those instruction blocks will act as a container for many more instruction blocks
+
+82
+00:04:45,233 --> 00:04:49,500
+we can get in and out of those with the opposite navigation controls
+
+83
+00:04:49,900 --> 00:04:53,800
+and here we can make a chain of commands act as a single command
+
+84
+00:04:53,800 --> 00:04:56,100
+saving space in the main program
+
+85
+00:04:56,466 --> 00:04:59,733
+if we want this group to interact with the main program flow
+
+86
+00:04:59,733 --> 00:05:03,033
+we can add some command group nodes to do so
+
+87
+00:05:03,400 --> 00:05:06,966
+making groups of commands has one extra special feature
+
+88
+00:05:06,966 --> 00:05:11,633
+if we are doing some complex setups with a list of slightly different commands
+
+89
+00:05:11,633 --> 00:05:14,100
+we can make a group and then duplicate it
+
+90
+00:05:14,500 --> 00:05:19,500
+finally the last interesting thing I want to show is the camouflage upgrade
+
+91
+00:05:19,800 --> 00:05:24,033
+this one works with camouflage cables and transforming cables
+
+92
+00:05:24,033 --> 00:05:27,400
+which we better add to a cable cluster for proper cabling
+
+93
+00:05:27,666 --> 00:05:31,800
+with that we can change the texture of the cables for better looks
+
+94
+00:05:31,800 --> 00:05:33,133
+but more importantly
+
+95
+00:05:33,133 --> 00:05:39,833
+we can change the cable size to allow interacting with blocks that could otherwise be hidden by the cables
+
+96
+00:05:39,966 --> 00:05:43,000
+and now let's see some examples of usage
+
+97
+00:05:43,166 --> 00:05:44,433
+in this water plant
+
+98
+00:05:44,433 --> 00:05:52,100
+we are using SFM to keep exactly 25 liters of hydrochloric acid in the input hatch when the Redstone signal is on
+
+99
+00:05:52,233 --> 00:05:56,100
+to do so, we check every second the Redstone condition
+
+100
+00:05:56,233 --> 00:06:01,300
+if there is red stone, then we check if there is already fluid inside the hatch
+
+101
+00:06:01,300 --> 00:06:03,200
+if so, we do nothing
+
+102
+00:06:03,266 --> 00:06:07,200
+otherwise, if there is red stone and no fluid inside the hatch
+
+103
+00:06:07,200 --> 00:06:11,766
+we take from the main tank 25 liters of acid and move it to the hatch
+
+104
+00:06:11,833 --> 00:06:14,766
+that could have probably been achieved by other means
+
+105
+00:06:14,766 --> 00:06:19,433
+but it's a good simple example to show what SFM can do and how to use it
+
+106
+00:06:20,033 --> 00:06:25,066
+one other cool trick we are doing with SFM is on the next water purification plant
+
+107
+00:06:25,066 --> 00:06:31,166
+where we move an arbitrary item between inventories to keep track of which operation we did last time
+
+108
+00:06:31,466 --> 00:06:36,300
+as next example, we can automate bacterial vats using SFM
+
+109
+00:06:36,600 --> 00:06:40,266
+the main objective here is keeping the output hatches half filled
+
+110
+00:06:40,400 --> 00:06:44,400
+but we also prevent wasting radioactive input materials
+
+111
+00:06:44,900 --> 00:06:50,666
+to do so we extract everything but 31 buckets of fluid from the output hatches
+
+112
+00:06:50,833 --> 00:06:59,833
+then we check that we have enough ingredients ready and enough output space available before inserting the radioactive rods to start the process
+
+113
+00:07:00,066 --> 00:07:02,666
+next we have more complex tasks
+
+114
+00:07:02,666 --> 00:07:05,600
+such as automating thaumcraft infusion
+
+115
+00:07:06,400 --> 00:07:08,400
+the program has two parts
+
+116
+00:07:08,400 --> 00:07:12,600
+which part is run depends on the presence of an item in the middle of the altar
+
+117
+00:07:13,500 --> 00:07:15,500
+if there is no item in the altar
+
+118
+00:07:15,500 --> 00:07:19,833
+then we check if we have a crafting order ready in the input chest
+
+119
+00:07:19,900 --> 00:07:21,900
+if the whole thing has nothing to do
+
+120
+00:07:21,900 --> 00:07:25,100
+we shut off the world accelerators to save energy
+
+121
+00:07:25,433 --> 00:07:27,966
+but if we have something ready to be crafted
+
+122
+00:07:27,966 --> 00:07:30,233
+we move every item on the pedestal
+
+123
+00:07:30,466 --> 00:07:36,466
+to do so, we have a group with all the insertion commands that will fill the pedestal in a proper order
+
+124
+00:07:36,666 --> 00:07:41,366
+starting with the first item that is the one supposed to go in the middle of the altar
+
+125
+00:07:41,800 --> 00:07:44,433
+next we start all the World Accelerators
+
+126
+00:07:44,433 --> 00:07:47,766
+and pulse the infusion claw to start the process
+
+127
+00:07:48,066 --> 00:07:49,966
+on the next run of the program
+
+128
+00:07:49,966 --> 00:07:52,633
+we expect an item to be in the middle of the altar
+
+129
+00:07:52,866 --> 00:07:55,300
+but to make sure the process is complete
+
+130
+00:07:55,300 --> 00:07:59,466
+we also make sure there are no other items waiting for the process
+
+131
+00:07:59,833 --> 00:08:04,833
+if so we wait one extra half second to make sure everything stabilized
+
+132
+00:08:04,833 --> 00:08:07,866
+then we proceed into retrieving the finished item
+
+133
+00:08:07,900 --> 00:08:11,000
+and we also shut off the World Accelerators
+
+134
+00:08:11,300 --> 00:08:13,500
+if you want to see more examples
+
+135
+00:08:13,500 --> 00:08:16,200
+you can check my GTNH season 2
+
+136
+00:08:16,433 --> 00:08:17,400
+bye bye
+
+137
+00:00:00,033 --> 00:00:01,233
+大家好
+
+138
+00:00:01,266 --> 00:00:04,533
+今天我们来看看SFM
+
+139
+00:00:04,533 --> 00:00:07,033
+这是一个非常强大和有用的mod
+
+140
+00:00:07,033 --> 00:00:10,600
+可以帮助你解决各种物流难题
+
+141
+00:00:10,600 --> 00:00:13,600
+
+但是让我们一个方块一个方块来
+
+
+142
+00:00:13,600 --> 00:00:16,900
+此mod的主要方块是工厂管理器
+
+143
+00:00:17,100 --> 00:00:19,233
+这将是产线物流的控制器
+
+144
+00:00:19,233 --> 00:00:22,200
+它将运行我们给他写的代码
+
+145
+00:00:22,200 --> 00:00:25,800
+我们将使用的另一个重要方块是工厂线缆
+
+146
+00:00:25,800 --> 00:00:30,600
+这将允许工厂管理器与线缆接触的任何东西进行交互
+
+147
+00:00:30,600 --> 00:00:32,466
+除了那两个方块
+
+148
+00:00:32,466 --> 00:00:35,500
+
+这个mod还添加了十几个方块
+
+
+149
+00:00:35,500 --> 00:00:38,000
+但我们稍后会在需要时介绍它们
+
+150
+00:00:38,000 --> 00:00:41,633
+现在在组装了一堆机器之后
+
+151
+00:00:41,633 --> 00:00:44,233
+让我们看看SFM可以做些什么
+
+152
+00:00:44,266 --> 00:00:47,866
+首先，我们将创建我们的第一个指令
+
+153
+00:00:47,866 --> 00:00:48,600
+触发器
+
+154
+00:00:48,600 --> 00:00:51,466
+通过单击左侧的第一个按钮
+
+155
+00:00:51,466 --> 00:00:54,233
+这为我们的程序创建了一个新的模块
+
+156
+00:00:54,400 --> 00:00:56,600
+就像我们将创建的任何其他模块一样
+
+157
+00:00:56,600 --> 00:01:01,100
+我们可以通过拖动左上角的小方块来移动它
+
+158
+00:01:01,166 --> 00:01:03,566
+为了让事情更容易理解
+
+159
+00:01:03,566 --> 00:01:10,833
+
+我们也可以在左键单击打开模块
+更改名称，并单击另存为图标重命名模块
+
+
+160
+00:01:11,800 --> 00:01:16,366
+这个触发指令将是处理器将要执行的指令的开始
+
+161
+00:01:16,566 --> 00:01:20,566
+我们可以在间隔部分设置处理器工作的时间间隔
+
+162
+00:01:20,600 --> 00:01:24,700
+接下来，我们必须连接给管理器的指令
+
+163
+00:01:25,000 --> 00:01:28,600
+最简单的两个指令是输入和输出
+
+164
+00:01:28,600 --> 00:01:34,566
+这两个指令指定了管理器
+可以从哪里取走或者放置哪些物品
+
+165
+00:01:34,566 --> 00:01:38,666
+
+在库存选项卡中，我们可以选择可以从哪取出物品
+
+
+166
+00:01:38,700 --> 00:01:40,433
+但如你所见
+
+167
+00:01:40,433 --> 00:01:43,833
+弄清楚哪个箱子是哪个并不总是容易的
+
+168
+00:01:43,833 --> 00:01:47,000
+为避免混淆，我们可以制作工厂贴标器
+
+169
+00:01:47,000 --> 00:01:49,400
+这将使我们能够命名库存
+
+170
+00:01:49,400 --> 00:01:53,266
+让我们更容易发现哪个是我们想要使用的箱子
+
+171
+00:01:53,400 --> 00:01:55,666
+我们给每个箱子重新命名
+
+172
+00:01:55,666 --> 00:02:00,800
+然后我们继续选择一个箱子作为输入，一个作为输出
+
+173
+00:02:01,666 --> 00:02:05,100
+选择输入库存和输出库存后
+
+174
+00:02:05,166 --> 00:02:08,800
+我们必须按照我们希望程序执行的顺序连接模块
+
+175
+00:02:08,833 --> 00:02:10,433
+从触发器开始
+
+176
+00:02:10,433 --> 00:02:13,866
+我们从A类箱子中取出，然后放入B类箱子中
+
+177
+00:02:14,400 --> 00:02:21,633
+我们可以通过"在标为A的箱子里放一些东西
+并在标为B的箱子里取回它"来验证程序有正常工作
+
+178
+00:02:21,966 --> 00:02:25,866
+但是，这两个指令还有其他可选项
+
+179
+00:02:26,400 --> 00:02:32,366
+例如，使用物品选项卡，我们可以过滤要移动的物品
+
+180
+00:02:33,033 --> 00:02:35,366
+这是一些非常基本的过滤
+
+181
+00:02:35,366 --> 00:02:38,066
+但我们可以做更高级的事情
+
+182
+00:02:38,233 --> 00:02:40,300
+如果我们右键单击过滤后的物品
+
+183
+00:02:40,300 --> 00:02:42,166
+我们可以设置其他选项
+
+184
+00:02:42,166 --> 00:02:44,900
+例如应该移动多少物品
+
+185
+00:02:45,033 --> 00:02:47,100
+一个很酷的功能是
+
+186
+00:02:47,100 --> 00:02:49,600
+如果我们给黑名单物品指定数量
+
+187
+00:02:49,600 --> 00:02:52,500
+我们可以将该数量的物品保留在输入库存中
+
+188
+00:02:52,833 --> 00:02:54,900
+如果我们选择两个输入
+
+189
+00:02:54,900 --> 00:02:57,966
+
+要保留的数量将作用于两个箱子的整体
+
+
+190
+00:02:57,966 --> 00:03:01,100
+这意味着两个箱子中只有一个会保留这个数量的物品
+
+191
+00:03:01,300 --> 00:03:05,600
+我们可以通过更改多选设置来改变这种行为
+
+192
+00:03:05,700 --> 00:03:08,266
+如果我们给每个目标都运行一次指令
+
+193
+00:03:08,266 --> 00:03:12,766
+我们将能够在每个选定的库存中保留固定数量的物品
+
+194
+00:03:12,900 --> 00:03:17,266
+这在某些自动化设置中非常有用
+
+195
+00:03:17,366 --> 00:03:20,266
+我们可以使用的下一个指令是条件模块
+
+196
+00:03:20,400 --> 00:03:22,700
+正如我们在添加后立即注意到的那样
+
+197
+00:03:22,700 --> 00:03:24,833
+这个多了一个圆圈
+
+198
+00:03:25,033 --> 00:03:30,200
+条件模块将检查指定库存中是否存在指定物品
+
+199
+00:03:30,366 --> 00:03:32,433
+取决于库存返回的结果
+
+200
+00:03:32,433 --> 00:03:36,433
+它将从两个可能的连续指令中选择一个
+
+201
+00:03:36,600 --> 00:03:42,366
+例如，如果存在一些圆石
+我们可以在这里设置为遵循旧指令
+
+202
+00:03:42,466 --> 00:03:46,633
+否则，如果在A的箱子中没有圆石存在
+
+203
+00:03:46,633 --> 00:03:49,100
+程序将走上不同的道路
+
+204
+00:03:50,466 --> 00:03:53,100
+要检查库存中是否存在物品，无论种类
+
+205
+00:03:53,166 --> 00:03:56,000
+我们可以更改检测以匹配任何方块
+
+206
+00:03:57,500 --> 00:03:59,500
+接下来是流程模块
+
+207
+00:03:59,666 --> 00:04:04,233
+这些允许合并或拆分程序执行流
+
+208
+00:04:05,600 --> 00:04:11,166
+液体输入、输出和条件模块是先前看到的模块的流体版本
+
+209
+00:04:11,666 --> 00:04:14,200
+
+还有类似的能量模块
+
+
+210
+00:04:14,800 --> 00:04:18,600
+接下来是红石发射器和红石条件模块
+
+211
+00:04:19,633 --> 00:04:23,233
+
+这两个指令将和两种新方块搭配工作
+
+
+212
+00:04:23,233 --> 00:04:25,233
+红石发射器和接收器
+
+213
+00:04:25,233 --> 00:04:29,233
+并允许与外部红石信号交互
+
+214
+00:04:29,866 --> 00:04:32,400
+通过使用各种选项卡
+
+215
+00:04:32,400 --> 00:04:36,566
+我们几乎可以实现任何我们想要的红石行为
+
+216
+00:04:37,366 --> 00:04:39,466
+接下来我们有指令组
+
+217
+00:04:39,833 --> 00:04:44,866
+指令组将充当更多指令模块的容器
+
+218
+00:04:45,233 --> 00:04:49,500
+
+我们可以通过点击边栏的左箭头进出指令组
+
+
+219
+00:04:49,900 --> 00:04:53,800
+在这里，我们可以把一系列指令封装成单个指令
+
+220
+00:04:53,800 --> 00:04:56,100
+以节省主程序空间
+
+221
+00:04:56,466 --> 00:04:59,733
+如果我们想让这个程序组与主程序流程交互
+
+222
+00:04:59,733 --> 00:05:03,033
+我们可以添加一些指令组节点来执行此操作
+
+223
+00:05:03,400 --> 00:05:06,966
+制作指令组有一个额外的特殊功能
+
+224
+00:05:06,966 --> 00:05:11,633
+如果我们正在使用稍微不同的指令列表进行一些复杂的设置
+
+225
+00:05:11,633 --> 00:05:14,100
+我们可以做一个组然后复制它
+
+226
+00:05:14,500 --> 00:05:19,500
+最后我想展示的有趣东西是伪装升级
+
+227
+00:05:19,800 --> 00:05:24,033
+
+伪装升级必须和"伪装方块"以及"伪装方块-变换"搭配工作
+
+
+228
+00:05:24,033 --> 00:05:27,400
+我们最好将其添加到集线器中以进行适当的布线
+
+229
+00:05:27,666 --> 00:05:31,800
+
+有了它，我们可以改变线缆的贴图，让它变得更美观
+
+
+230
+00:05:31,800 --> 00:05:33,133
+但更重要的是
+
+231
+00:05:33,133 --> 00:05:39,833
+
+我们可以改变线缆尺寸，来与被线缆遮挡的方块交互
+
+
+232
+00:05:39,966 --> 00:05:43,000
+现在让我们看一些用法示例
+
+233
+00:05:43,166 --> 00:05:44,433
+在这个净化水厂里
+
+234
+00:05:44,433 --> 00:05:52,100
+当有红石信号时，我们使用SFM保持输入舱有25L盐酸
+
+235
+00:05:52,233 --> 00:05:56,100
+为此，我们每秒检查红石条件
+
+236
+00:05:56,233 --> 00:06:01,300
+如果有红石信号，那么检查仓室内是否已经有液体
+
+237
+00:06:01,300 --> 00:06:03,200
+如果是这样，我们什么都不做
+
+238
+00:06:03,266 --> 00:06:07,200
+否则，如果有红石并且仓室没有液体
+
+239
+00:06:07,200 --> 00:06:11,766
+我们从主罐中取出25L盐酸并将其移至仓室
+
+240
+00:06:11,833 --> 00:06:14,766
+这套流程可以通过其他方式实现
+
+241
+00:06:14,766 --> 00:06:19,433
+但这是一个展示SFM能做什么
+以及如何使用它的好例子
+
+242
+00:06:20,033 --> 00:06:25,066
+在SFM中用的另一个很酷的技巧在下一个净水厂中
+
+243
+00:06:25,066 --> 00:06:31,166
+我们在库存之间移动一个标志物来确定我们上次执行的操作
+
+244
+00:06:31,466 --> 00:06:36,300
+下一个例子是用SFM自动化细菌培养缸
+
+245
+00:06:36,600 --> 00:06:40,266
+这里的主要目标是保持输出仓半满
+
+246
+00:06:40,400 --> 00:06:44,400
+但我们也要防止浪费放射性输入材料
+
+247
+00:06:44,900 --> 00:06:50,666
+为此，我们从输出仓提取除了31桶液体之外的所有东西
+
+248
+00:06:50,833 --> 00:06:55,333
+然后我们在插入"能够启动配方的放射性棒"之前
+
+249
+00:06:55,333 --> 00:06:59,833
+检查我们是否有足够的原材料和可用的输出空间
+
+250
+00:07:00,066 --> 00:07:02,666
+接下来我们有更复杂的任务
+
+251
+00:07:02,666 --> 00:07:05,600
+例如自动化神秘注魔
+
+252
+00:07:06,400 --> 00:07:08,400
+该程序有两个部分
+
+253
+00:07:08,400 --> 00:07:12,600
+要运行哪部分取决于祭坛中间是否存在物品
+
+254
+00:07:13,500 --> 00:07:15,500
+如果祭坛里没有东西
+
+255
+00:07:15,500 --> 00:07:19,833
+然后我们检查输入箱中是否准备好了订单原料
+
+256
+00:07:19,900 --> 00:07:21,900
+如果系统没有要执行的任务
+
+257
+00:07:21,900 --> 00:07:25,100
+我们关闭世界加速器以节省能量
+
+258
+00:07:25,433 --> 00:07:27,966
+但如果我们有东西可以制作
+
+259
+00:07:27,966 --> 00:07:30,233
+我们把所有物品移动到基座上
+
+260
+00:07:30,466 --> 00:07:36,466
+为此，我们有一个能够按正确顺序
+填充基座的插入指令的指令组
+
+261
+00:07:36,666 --> 00:07:41,366
+从第一件应该放在祭坛中间的物品开始
+
+262
+00:07:41,800 --> 00:07:44,433
+接下来我们启动所有的世界加速器
+
+263
+00:07:44,433 --> 00:07:47,766
+并向注魔爪输出红石脉冲以开始注魔
+
+264
+00:07:48,066 --> 00:07:49,966
+在程序的下一次运行中
+
+265
+00:07:49,966 --> 00:07:52,633
+我们预计有一件物品在祭坛中间
+
+266
+00:07:52,866 --> 00:07:55,300
+但要确保注魔已经完成
+
+267
+00:07:55,300 --> 00:07:59,466
+我们还要确定没有其他物品等待处理
+
+268
+00:07:59,833 --> 00:08:04,833
+如果是这样，我们多等半秒钟以确保一切稳定
+
+269
+00:08:04,833 --> 00:08:07,866
+然后我们继续取出完成的物品
+
+270
+00:08:07,900 --> 00:08:11,000
+关闭世界加速器
+
+271
+00:08:11,300 --> 00:08:13,500
+如果你想看更多的例子
+
+272
+00:08:13,500 --> 00:08:16,200
+你可以看看我的GTNH第二季
+
+273
+00:08:16,433 --> 00:08:17,400
+拜拜
+
+274
+00:03:53,166 --> 00:03:56,000
+（这时候圆石改为任何物品都能达到这个效果）
+
