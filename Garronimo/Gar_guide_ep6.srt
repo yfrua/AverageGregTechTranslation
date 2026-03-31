@@ -352,7 +352,7 @@ while the boss is waking up
 
 89
 00:03:29,066 --> 00:03:32,066
-block off the staircase so the mobs below don't wander into the Arena
+block off the staircase so the mobs below don't wander into the arena
 
 90
 00:03:32,233 --> 00:03:35,266
@@ -364,11 +364,11 @@ draw your sword and start swinging
 
 92
 00:03:37,800 --> 00:03:39,100
-this time to keep the zombies at Bay
+this time to keep the zombies at bay
 
 93
 00:03:39,100 --> 00:03:42,633
-and try to reflect the flying interpoles (?) back at the boss to remove the shields that are circling them
+and try to reflect the flying ender pearls back at the boss to remove the shields that are circling them
 
 94
 00:03:42,933 --> 00:03:45,066
@@ -396,7 +396,7 @@ but by the time you're using Lich bones to make wands
 
 100
 00:03:56,533 --> 00:03:59,466
-you'll be ready to make a bit of salas mudus to craft the bones using the trophy
+you'll be ready to make a bit of salas mundus to craft the bones using the trophy
 
 101
 00:04:01,033 --> 00:04:02,133
@@ -432,7 +432,7 @@ crafting the wand is elementary
 
 109
 00:04:17,566 --> 00:04:18,733
-ollendor delights (?)
+all in all, delights (?)
 
 110
 00:04:21,133 --> 00:04:22,866
@@ -1992,7 +1992,7 @@ you can easily scale the same setup to a bunch of emdoflames
 
 499
 00:20:41,100 --> 00:20:42,833
-long term, the thermolilly (?)
+long term, the thermalily
 
 500
 00:20:42,833 --> 00:20:45,300
@@ -3312,7 +3312,7 @@ see you there for episode 7
 
 829
 00:04:12,466 --> 00:04:13,866
-不管怎样
+不管怎样，多挖点碎片
 
 830
 00:04:14,600 --> 00:04:15,466
@@ -4868,7 +4868,7 @@ vasquez，我们喜欢你
 
 1218
 00:20:29,066 --> 00:20:31,900
-制作它唯一的困难是需要下界的烈焰花
+制作它唯一的困难是需要下界的火焰花
 
 1219
 00:20:32,633 --> 00:20:34,300
@@ -4884,7 +4884,7 @@ vasquez，我们喜欢你
 
 1222
 00:20:41,100 --> 00:20:42,833
-更后期使用的，热爆花
+更后期使用的，炽玫瑰
 
 1223
 00:20:42,833 --> 00:20:45,300
@@ -5096,11 +5096,11 @@ vasquez，我们喜欢你
 
 1275
 00:22:45,466 --> 00:22:47,500
-对着草或者花使用
+对着草或者花使用转生粉
 
 1276
 00:22:47,500 --> 00:22:49,333
-直到你得到三棵巫术树苗
+直到你得到三种巫术树苗
 
 1277
 00:22:49,500 --> 00:22:51,533
@@ -5108,7 +5108,7 @@ vasquez，我们喜欢你
 
 1278
 00:22:51,933 --> 00:22:53,333
-那你可能需要一点（？）
+每种树苗你可能都需要一点
 
 1279
 00:22:54,066 --> 00:22:56,833
@@ -5244,7 +5244,7 @@ vasquez，我们喜欢你
 
 1312
 00:24:09,700 --> 00:24:13,600
-对于那些对“欢愉”有特殊要求的蜜蜂来说，这绝对是神器
+对于那些对“欢愉”有特殊要求的蜜蜂来说，这绝对是神器（？）
 
 1313
 00:24:13,900 --> 00:24:15,333
@@ -5404,7 +5404,7 @@ vasquez，我们喜欢你
 
 1352
 00:25:49,433 --> 00:25:52,333
-有了足够多的回血，为轻松的街道做准备(?)
+有了足够多的回血，为轻松的街道做准备（？）
 
 1353
 00:25:52,333 --> 00:25:55,066
@@ -5680,7 +5680,7 @@ vasquez，我们喜欢你
 
 1421
 00:28:27,766 --> 00:28:28,700
-疯狂框架（？）
+狂热框架
 
 1422
 00:28:28,700 --> 00:28:31,100
