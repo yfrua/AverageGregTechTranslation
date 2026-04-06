@@ -484,7 +484,7 @@ or you upgraded your existing one
 
 122
 00:04:31,500 --> 00:04:33,600
-send the naptha into a multi block oil cracker
+send the naphtha into a multi block oil cracker
 
 123
 00:04:33,600 --> 00:04:34,700
@@ -1448,7 +1448,7 @@ then send it through a chemical bath with sodium persulfate
 
 363
 00:14:33,533 --> 00:14:36,900
-you can expand on this by processing the purified boxite into boxite slurry
+you can expand on this by processing the purified bauxite into bauxite slurry
 
 364
 00:14:36,900 --> 00:14:38,866
