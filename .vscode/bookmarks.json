@@ -54,8 +54,28 @@
 			"path": "TerraFirmGreg/Ep2.srt",
 			"bookmarks": [
 				{
-					"line": 1694,
-					"column": 13,
+					"line": 1430,
+					"column": 30,
+					"label": ""
+				},
+				{
+					"line": 1494,
+					"column": 11,
+					"label": ""
+				},
+				{
+					"line": 1654,
+					"column": 12,
+					"label": ""
+				},
+				{
+					"line": 1662,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 1678,
+					"column": 11,
 					"label": ""
 				}
 			]
