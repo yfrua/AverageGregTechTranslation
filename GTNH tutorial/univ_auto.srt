@@ -1,0 +1,2824 @@
+1
+00:00:00,066 --> 00:00:00,733
+hello everyone
+
+2
+00:00:00,733 --> 00:00:04,600
+and today I want to bring your attention to this particular kind of universal automation
+
+3
+00:00:05,066 --> 00:00:09,300
+I first discovered this setup during a multiplayer speedrun which highlighted its downsides
+
+4
+00:00:09,300 --> 00:00:10,833
+but it is probably good in normal runs
+
+5
+00:00:10,833 --> 00:00:16,000
+and I also figure out on usage which makes it even better than CIBs in some particular situations
+
+6
+00:00:16,400 --> 00:00:17,433
+but now enough talking
+
+7
+00:00:17,433 --> 00:00:19,433
+let's start building it one piece at a time
+
+8
+00:00:20,000 --> 00:00:23,200
+to start we need to split the main network which is the one with blue cables
+
+9
+00:00:23,200 --> 00:00:26,233
+from the working network which is the one with red cables
+
+10
+00:00:26,433 --> 00:00:28,466
+here I'm using advanced stocking hatches
+
+11
+00:00:28,466 --> 00:00:30,500
+I can think of ways of not using those
+
+12
+00:00:30,500 --> 00:00:33,800
+but the next game version is probably going to change AE2 fluid mechanics
+
+13
+00:00:33,800 --> 00:00:36,200
+so for this quick video I'm keeping it this way
+
+14
+00:00:37,033 --> 00:00:40,500
+and the main way this system works is through toggle boxes
+
+15
+00:00:41,466 --> 00:00:43,666
+if you don't know how those work
+
+16
+00:00:45,000 --> 00:00:47,733
+basically what I talk about does is that
+
+17
+00:00:48,200 --> 00:00:52,400
+with the redstone, it will connect or disconnect
+
+18
+00:00:52,633 --> 00:00:55,400
+this one is a normal one which connects with the redstone
+
+19
+00:00:55,533 --> 00:00:59,533
+this one is an inverted one which connects when there is no redstone
+
+20
+00:01:01,700 --> 00:01:03,900
+can probably see it better isn't this
+
+21
+00:01:05,033 --> 00:01:08,433
+when the lever is in this state this cable goes there
+
+22
+00:01:08,666 --> 00:01:09,733
+when I pull it
+
+23
+00:01:11,433 --> 00:01:12,200
+you should update
+
+24
+00:01:12,200 --> 00:01:13,666
+okay it goes there
+
+25
+00:01:13,733 --> 00:01:16,000
+and you can already see the main downside of this thing
+
+26
+00:01:16,000 --> 00:01:21,533
+the main downside is that it takes a little bit for the network to update every time you pull the lever
+
+27
+00:01:22,033 --> 00:01:23,566
+it should be instantaneous
+
+28
+00:01:23,566 --> 00:01:26,100
+but from experience it's not fast enough
+
+29
+00:01:27,000 --> 00:01:28,466
+so if you use this
+
+30
+00:01:28,466 --> 00:01:30,300
+you have to consider that it's got to be a little bit slow
+
+31
+00:01:30,300 --> 00:01:33,033
+but by doing bigger batches
+
+32
+00:01:33,033 --> 00:01:34,533
+it doesn't have that issue
+
+33
+00:01:34,666 --> 00:01:36,066
+I just make a huge batch
+
+34
+00:01:36,066 --> 00:01:39,900
+so that the redstone toggling happens once every two minutes
+
+35
+00:01:40,000 --> 00:01:42,200
+but of course we are not going to use a lever
+
+36
+00:01:42,466 --> 00:01:44,033
+but some kind of automation
+
+37
+00:01:44,600 --> 00:01:47,066
+in this case we are going to use the level emitters
+
+38
+00:01:49,300 --> 00:01:51,000
+yeah the idea is that
+
+39
+00:01:51,000 --> 00:01:52,533
+once there is something to craft
+
+40
+00:01:52,533 --> 00:01:56,500
+the level emitter will disconnect the next segment of the automation 
+
+41
+00:01:56,500 --> 00:01:59,266
+and it will connect the crafting slice
+
+42
+00:02:00,866 --> 00:02:02,466
+by the way for the rest of this video
+
+43
+00:02:02,466 --> 00:02:03,833
+I'm going to try to improvise
+
+44
+00:02:04,000 --> 00:02:09,133
+because I find it slightly harder to read a script, synchronize everything etc etc
+
+45
+00:02:09,133 --> 00:02:11,833
+if I improvise I get lost a little bit more
+
+46
+00:02:11,900 --> 00:02:14,300
+but if I script it feels too artificial to me
+
+47
+00:02:14,633 --> 00:02:16,600
+so I'm going to try this video this way
+
+48
+00:02:16,600 --> 00:02:18,533
+tell me later what you think about it maybe
+
+49
+00:02:19,200 --> 00:02:22,433
+anyways the main concepts here is that
+
+50
+00:02:22,466 --> 00:02:25,600
+the main line will connect to only one of those outputs of all time
+
+51
+00:02:25,600 --> 00:02:26,866
+we're going to have multiple later
+
+52
+00:02:26,866 --> 00:02:30,533
+and one good part thing of this setup is that you can just copy paste those line later
+
+53
+00:02:30,866 --> 00:02:32,066
+but the main idea is that
+
+54
+00:02:32,066 --> 00:02:33,333
+this redstone will toggle this
+
+55
+00:02:33,333 --> 00:02:35,400
+so it either connects to this
+
+56
+00:02:35,533 --> 00:02:37,266
+or to the next part
+
+57
+00:02:37,666 --> 00:02:38,666
+this is the main thing
+
+58
+00:02:39,266 --> 00:02:42,066
+now another trick I want to show
+
+59
+00:02:42,333 --> 00:02:44,666
+is that if you're naming things
+
+60
+00:02:44,733 --> 00:02:47,033
+you can do something easy to type like ASD
+
+61
+00:02:47,300 --> 00:02:49,500
+and then instead of looking for things
+
+62
+00:02:49,500 --> 00:02:51,100
+you can just find everything you need
+
+63
+00:02:51,733 --> 00:02:54,400
+there are pins you can use too
+
+64
+00:02:54,400 --> 00:02:57,833
+but I don't like how pins use up all of the space there
+
+65
+00:02:58,266 --> 00:03:00,066
+yeah probably was better with pins (?)
+
+66
+00:03:00,066 --> 00:03:02,333
+but I like it more to have it
+
+67
+00:03:02,800 --> 00:03:04,433
+also if you rename things
+
+68
+00:03:04,733 --> 00:03:07,800
+those are named things won't be used by AE2 craft
+
+69
+00:03:07,800 --> 00:03:09,466
+so if I craft more of those
+
+70
+00:03:09,466 --> 00:03:11,500
+it will not take my quartz fiber
+
+71
+00:03:11,800 --> 00:03:13,833
+if I craft more of those
+
+72
+00:03:14,100 --> 00:03:15,333
+if I craft those renamed
+
+73
+00:03:15,333 --> 00:03:18,600
+those won't be used into other crafting like (eye of harmony?) part
+
+74
+00:03:20,766 --> 00:03:22,700
+keeping those stocked in endgame is a little bit hard
+
+75
+00:03:22,700 --> 00:03:24,900
+because they keep getting used to craft other stuff
+
+76
+00:03:24,933 --> 00:03:27,266
+if you name things you always have some there
+
+77
+00:03:28,033 --> 00:03:30,933
+anyways let's use phosphoric acid as an example
+
+78
+00:03:30,933 --> 00:03:33,200
+which has a bunch of different ingredients
+
+79
+00:03:33,633 --> 00:03:36,200
+we'll see about catalyst slightly later
+
+80
+00:03:37,233 --> 00:03:38,933
+catalyst means stuff like circuits
+
+81
+00:03:38,933 --> 00:03:40,600
+we will see about circuits later
+
+82
+00:03:41,333 --> 00:03:44,900
+now I'm using dual interfaces here
+
+83
+00:03:45,500 --> 00:03:46,833
+but
+
+84
+00:03:47,600 --> 00:03:49,733
+you can use a normal interface
+
+85
+00:03:49,733 --> 00:03:52,966
+and then you can put the export bus with wild card
+
+86
+00:03:52,966 --> 00:03:56,466
+on a (packet recorder?) on an input hatch with a pump
+
+87
+00:03:56,466 --> 00:03:59,533
+if you can't use this one because you don't have it yet
+
+88
+00:03:59,666 --> 00:04:00,833
+but as I said
+
+89
+00:04:00,833 --> 00:04:03,733
+I think fluids are going to be reworking the next GTNH version
+
+90
+00:04:03,733 --> 00:04:06,100
+so this may works differently in the next version
+
+91
+00:04:07,700 --> 00:04:11,566
+like working with (solid n' fluid ?) this is something kind of normal
+
+92
+00:04:11,566 --> 00:04:13,900
+which I'm not going to dive into details for this video
+
+93
+00:04:14,400 --> 00:04:18,033
+anyways main network interface we put in a parttern
+
+94
+00:04:19,000 --> 00:04:22,666
+this one will drop fluid and solids into this sub network here
+
+95
+00:04:22,733 --> 00:04:24,066
+now this one
+
+96
+00:04:24,066 --> 00:04:27,033
+you could just put a drive in there
+
+97
+00:04:27,466 --> 00:04:30,600
+link it there and it will just work
+
+98
+00:04:31,300 --> 00:04:32,466
+yes I could use a red cable
+
+99
+00:04:32,466 --> 00:04:34,000
+that connect all of this to this blue cable
+
+100
+00:04:34,000 --> 00:04:34,833
+it could work
+
+101
+00:04:34,833 --> 00:04:36,400
+I used to use it this way
+
+102
+00:04:36,633 --> 00:04:38,900
+but I figured out if we do some extra steps
+
+103
+00:04:38,900 --> 00:04:40,266
+it actually works better
+
+104
+00:04:41,000 --> 00:04:43,466
+so this would be the purple network
+
+105
+00:04:44,433 --> 00:04:47,133
+of course we're going to have our driver
+
+106
+00:04:48,600 --> 00:04:51,066
+let's try to make it
+
+107
+00:04:51,200 --> 00:04:53,866
+you can build probably in a nicer way than I do
+
+108
+00:04:53,900 --> 00:04:56,433
+I'm not good at making things that look nice
+
+109
+00:04:56,900 --> 00:04:59,466
+so it is what it is
+
+110
+00:05:00,633 --> 00:05:02,233
+okay those are
+
+111
+00:05:02,866 --> 00:05:06,666
+yeah having everything renamed to ASD may not be bad (?)
+
+112
+00:05:07,500 --> 00:05:09,133
+this one has to be renamed later
+
+113
+00:05:09,666 --> 00:05:12,666
+that's really easy to find everything like that
+
+114
+00:05:12,666 --> 00:05:14,300
+than the pins (?)
+
+115
+00:05:14,300 --> 00:05:15,533
+okay I really discussed that
+
+116
+00:05:19,133 --> 00:05:21,733
+so we have this main sub network there
+
+117
+00:05:24,400 --> 00:05:26,566
+we get the stuff stocked up
+
+118
+00:05:27,466 --> 00:05:30,300
+this network will drop this stuff into this sub network
+
+119
+00:05:30,300 --> 00:05:31,266
+which will go there
+
+120
+00:05:31,500 --> 00:05:35,300
+also let's not forget the blocking card mode and the blocking mode
+
+121
+00:05:35,833 --> 00:05:38,866
+to avoid messing up ingredients
+
+122
+00:05:40,333 --> 00:05:43,300
+okay then this one will go there
+
+123
+00:05:44,266 --> 00:05:47,000
+I'm going to show later okay
+
+124
+00:05:49,433 --> 00:05:50,933
+this one is only solid
+
+125
+00:05:50,933 --> 00:05:53,266
+so we also need a fluid level emitter
+
+126
+00:05:55,733 --> 00:05:58,900
+we have to set those to 1
+
+127
+00:06:00,866 --> 00:06:02,833
+when levels are above
+
+128
+00:06:02,833 --> 00:06:04,900
+okay when there is more than one item right
+
+129
+00:06:04,900 --> 00:06:05,666
+so we toggle on 
+
+130
+00:06:05,666 --> 00:06:08,000
+it will disconnect these lines and connect this one
+
+131
+00:06:08,466 --> 00:06:10,433
+same goes with this one
+
+132
+00:06:11,233 --> 00:06:12,033
+okay
+
+133
+00:06:13,333 --> 00:06:17,200
+maybe later I'm going to try some trickery to make it work differently
+
+134
+00:06:17,733 --> 00:06:19,600
+I'm still working this
+
+135
+00:06:19,600 --> 00:06:22,933
+I'm finding out better ways of doing it
+
+136
+00:06:22,933 --> 00:06:25,733
+actually I'm still getting this one to work better
+
+137
+00:06:26,633 --> 00:06:28,933
+now this network (gots from?) its power
+
+138
+00:06:29,100 --> 00:06:30,866
+we could use a quartz fiber
+
+139
+00:06:30,866 --> 00:06:32,633
+but I'm using I'm in a game
+
+140
+00:06:32,633 --> 00:06:35,200
+I'm currently using Twist Space
+
+141
+00:06:35,300 --> 00:06:36,633
+this is not all GTNH stuff
+
+142
+00:06:36,633 --> 00:06:37,700
+there is nothing twisted
+
+143
+00:06:38,000 --> 00:06:39,700
+I mean this one is expensive
+
+144
+00:06:39,700 --> 00:06:41,400
+you can just use quartz fiber
+
+145
+00:06:41,500 --> 00:06:43,000
+not much stuff nothing special
+
+146
+00:06:44,100 --> 00:06:46,833
+anyways okay here if you work out
+
+147
+00:06:46,833 --> 00:06:49,333
+now let's get a terminal
+
+148
+00:06:49,533 --> 00:06:52,033
+I'm not working in my main network
+
+149
+00:06:52,033 --> 00:06:54,533
+I'm working in this sub network
+
+150
+00:06:54,800 --> 00:06:56,700
+this one is my real main net
+
+151
+00:06:57,466 --> 00:06:59,266
+doing this sub network for an experiment
+
+152
+00:06:59,733 --> 00:07:04,666
+now here should be able to see let's actually show only
+
+153
+00:07:06,633 --> 00:07:09,633
+okay we can make for for do we need (?) right
+
+154
+00:07:09,733 --> 00:07:11,200
+oh wait they also need a CPU
+
+155
+00:07:12,066 --> 00:07:13,866
+crafting storage
+
+156
+00:07:15,633 --> 00:07:17,533
+okay now we have a crafting storage
+
+157
+00:07:18,200 --> 00:07:19,933
+so we start crafting something
+
+158
+00:07:20,733 --> 00:07:22,700
+we can see this stuff goes in there
+
+159
+00:07:23,400 --> 00:07:24,800
+both of those toggled on
+
+160
+00:07:24,833 --> 00:07:25,833
+this one got disconnected
+
+161
+00:07:25,833 --> 00:07:27,066
+and now this one is connected
+
+162
+00:07:27,200 --> 00:07:29,933
+now of course we have to connect this stuff to the machine
+
+163
+00:07:30,500 --> 00:07:31,966
+so to do that
+
+164
+00:07:33,500 --> 00:07:36,300
+we make another subnetting interfacing
+
+165
+00:07:38,000 --> 00:07:40,466
+we can probably just go with this
+
+166
+00:07:41,600 --> 00:07:43,733
+okay do I have enough space there
+
+167
+00:07:46,066 --> 00:07:51,200
+okay the red one is the one that must be able to see the other one
+
+168
+00:07:51,200 --> 00:07:55,000
+so let's try to make it a little bit nicer
+
+169
+00:07:56,300 --> 00:07:57,800
+that does not look nicer
+
+170
+00:07:58,433 --> 00:07:59,500
+but whatever
+
+171
+00:07:59,500 --> 00:08:00,600
+so
+
+172
+00:08:03,533 --> 00:08:05,800
+wait I'm lost this one
+
+173
+00:08:12,533 --> 00:08:13,900
+let's have those on extract only
+
+174
+00:08:13,900 --> 00:08:15,100
+and nothing should happen
+
+175
+00:08:15,100 --> 00:08:17,200
+but rather have those on extra only
+
+176
+00:08:19,800 --> 00:08:21,133
+okay this way
+
+177
+00:08:21,133 --> 00:08:23,333
+the red network should now see the contents in there
+
+178
+00:08:24,333 --> 00:08:25,133
+see
+
+179
+00:08:25,900 --> 00:08:28,100
+okay oxygen, water, phosphorus dust
+
+180
+00:08:28,100 --> 00:08:29,333
+now there is no circuit
+
+181
+00:08:30,066 --> 00:08:31,900
+but we can fix that easily
+
+182
+00:08:33,500 --> 00:08:35,400
+now one way of adding circuit
+
+183
+00:08:35,400 --> 00:08:37,733
+is to simply put a circuit in this cell
+
+184
+00:08:37,733 --> 00:08:38,733
+by doing that
+
+185
+00:08:39,033 --> 00:08:39,900
+that would work
+
+186
+00:08:40,700 --> 00:08:42,000
+let's show
+
+187
+00:08:42,000 --> 00:08:44,733
+okay that one would directly work
+
+188
+00:08:46,833 --> 00:08:47,633
+okay
+
+189
+00:08:48,233 --> 00:08:50,700
+but the issue is that if we would go with that
+
+190
+00:08:52,433 --> 00:08:54,200
+okay I used a small wireless
+
+191
+00:08:54,200 --> 00:08:58,066
+because I didn't want this one to instantly work
+
+192
+00:08:58,066 --> 00:09:00,333
+but apparently I put too much stuff
+
+193
+00:09:00,333 --> 00:09:02,233
+well you know it works that instantly done
+
+194
+00:09:02,233 --> 00:09:04,600
+now this don't empty it
+
+195
+00:09:04,866 --> 00:09:07,033
+but the issue is that as you can see
+
+196
+00:09:07,033 --> 00:09:09,433
+okay didn't took a little bit to toggle off
+
+197
+00:09:09,466 --> 00:09:10,833
+if you paid attention
+
+198
+00:09:11,400 --> 00:09:13,533
+the issue is that we have one circuit in there
+
+199
+00:09:13,533 --> 00:09:14,700
+so there is always one item
+
+200
+00:09:14,700 --> 00:09:17,400
+but this one can easily be fixed by doing two items
+
+201
+00:09:18,633 --> 00:09:21,233
+and now this one is empty until we order more
+
+202
+00:09:21,933 --> 00:09:22,800
+and this one is empty
+
+203
+00:09:22,800 --> 00:09:24,300
+so this one is now disconnected
+
+204
+00:09:24,300 --> 00:09:26,066
+and it's connecting the next step
+
+205
+00:09:28,300 --> 00:09:30,666
+we order more we can see that
+
+206
+00:09:31,700 --> 00:09:35,066
+we order more, it goes in there, toggle's on, works
+
+207
+00:09:35,200 --> 00:09:37,400
+toggle's off, reconnects this one
+
+208
+00:09:38,433 --> 00:09:39,600
+okay
+
+209
+00:09:39,600 --> 00:09:41,833
+so this one could not really be a way of doing it
+
+210
+00:09:41,833 --> 00:09:43,200
+and then you simply copy paste this
+
+211
+00:09:43,200 --> 00:09:44,900
+you put different circuits in a every cell
+
+212
+00:09:45,600 --> 00:09:48,033
+but I personally liked it more
+
+213
+00:09:49,533 --> 00:09:51,833
+I liked it more if instead of doing it this way
+
+214
+00:09:52,866 --> 00:09:55,700
+I do a different thing which is
+
+215
+00:09:57,133 --> 00:10:01,066
+we basically do another subnet or with the catalyst
+
+216
+00:10:01,700 --> 00:10:02,833
+so if we do that
+
+217
+00:10:02,933 --> 00:10:04,333
+we keep this one on 1
+
+218
+00:10:05,633 --> 00:10:11,800
+we put a storage center with a chest
+
+219
+00:10:13,966 --> 00:10:15,300
+okay that is the other way of doing it
+
+220
+00:10:15,400 --> 00:10:16,400
+instead of that way
+
+221
+00:10:16,400 --> 00:10:18,000
+instead of keeping circuits inside the cell
+
+222
+00:10:18,000 --> 00:10:19,633
+you can keep the circuit in the chest
+
+223
+00:10:22,600 --> 00:10:24,333
+that way this one is always empty
+
+224
+00:10:26,466 --> 00:10:28,333
+you do it this way just by flying
+
+225
+00:10:28,333 --> 00:10:29,800
+you can see if it is green
+
+226
+00:10:29,933 --> 00:10:30,700
+it means it's empty
+
+227
+00:10:30,700 --> 00:10:31,500
+if there is something
+
+228
+00:10:31,500 --> 00:10:32,633
+you know it's not a catalyst
+
+229
+00:10:32,633 --> 00:10:33,866
+but it's actually something
+
+230
+00:10:36,066 --> 00:10:38,066
+that's one of the reasons why I want to do that
+
+231
+00:10:39,700 --> 00:10:42,033
+but the real reason why I want
+
+232
+00:10:42,133 --> 00:10:44,933
+basically a third subnet for inputs
+
+233
+00:10:45,033 --> 00:10:47,133
+is the real advantage of this setup
+
+234
+00:10:47,133 --> 00:10:48,466
+which I'm going to show later on
+
+235
+00:10:50,000 --> 00:10:52,733
+so okay this one basically works now
+
+236
+00:10:52,733 --> 00:10:55,000
+let's try again because I changed it again
+
+237
+00:10:56,600 --> 00:10:57,433
+okay
+
+238
+00:10:57,733 --> 00:10:58,900
+so turns on
+
+239
+00:10:59,066 --> 00:11:00,400
+toggles, this one true okay
+
+240
+00:11:00,400 --> 00:11:01,233
+that really works
+
+241
+00:11:01,233 --> 00:11:03,133
+it did its thing and now it's already reset
+
+242
+00:11:04,266 --> 00:11:06,866
+okay so the next stage is expanding this
+
+243
+00:11:06,866 --> 00:11:08,266
+then I'm going to show another thing
+
+244
+00:11:09,000 --> 00:11:09,466
+okay
+
+245
+00:11:09,466 --> 00:11:11,700
+and now I'm going to just use the matter manipulator
+
+246
+00:11:11,700 --> 00:11:14,033
+to copy paste this slice and make more of it
+
+247
+00:11:14,600 --> 00:11:16,933
+now there is one small issue
+
+248
+00:11:17,400 --> 00:11:20,866
+I found with this version
+
+249
+00:11:21,466 --> 00:11:23,500
+there's (no more?) issue with level emitters
+
+250
+00:11:24,833 --> 00:11:27,066
+of course it's not finding a couple of things
+
+251
+00:11:27,066 --> 00:11:27,866
+but it's fine
+
+252
+00:11:28,066 --> 00:11:29,533
+when you copy paste level emitters
+
+253
+00:11:29,533 --> 00:11:31,133
+it does not copy paste the setting
+
+254
+00:11:31,133 --> 00:11:33,800
+so you have to manually fix this
+
+255
+00:11:34,800 --> 00:11:35,933
+I didn't check
+
+256
+00:11:36,066 --> 00:11:40,633
+AE2 was getting a little bit rework in next GTNH version
+
+257
+00:11:41,233 --> 00:11:44,200
+it's still in not even beta right now
+
+258
+00:11:44,200 --> 00:11:47,433
+it's experimented it's being worked on
+
+259
+00:11:48,100 --> 00:11:49,833
+so didn't even check what they are doing
+
+260
+00:11:52,200 --> 00:11:54,800
+now you can put a different circuit in each one of those
+
+261
+00:11:54,800 --> 00:11:56,266
+whenever something goes in there
+
+262
+00:11:56,266 --> 00:11:58,633
+it will cut out everything else and craft this one
+
+263
+00:11:58,833 --> 00:12:01,900
+so this setup will always prioritize this line there
+
+264
+00:12:01,900 --> 00:12:02,933
+once this one is empty
+
+265
+00:12:02,933 --> 00:12:04,066
+it will switch to this one
+
+266
+00:12:04,066 --> 00:12:06,733
+and so on until he finds one with something inside
+
+267
+00:12:09,533 --> 00:12:11,100
+this is a nice (addon?)
+
+268
+00:12:11,433 --> 00:12:14,600
+it has its pros and cons compared to other automation systems
+
+269
+00:12:14,800 --> 00:12:18,933
+I haven't found another video explaining this particular way of doing it
+
+270
+00:12:19,700 --> 00:12:22,266
+anyways the main advantage of this thing
+
+271
+00:12:22,900 --> 00:12:25,200
+is that specifically with the DTPF
+
+272
+00:12:25,233 --> 00:12:29,233
+you can also add other stuff in the catalyst network
+
+273
+00:12:29,466 --> 00:12:32,266
+now in the other setup I had a chance with circuits
+
+274
+00:12:33,266 --> 00:12:35,266
+here I'm using
+
+275
+00:12:36,466 --> 00:12:38,600
+I'm using this thing which is super cool
+
+276
+00:12:39,000 --> 00:12:43,833
+this one is to prevent things from constantly being drained from the main net
+
+277
+00:12:43,833 --> 00:12:49,733
+it buffers a bit of materials so it doesn't constantly drain main net
+
+278
+00:12:50,266 --> 00:12:51,800
+I'm putting there those catalysts
+
+279
+00:12:51,800 --> 00:12:53,466
+those are used as circuits
+
+280
+00:12:57,333 --> 00:12:59,300
+I'm using this one as the chest previously
+
+281
+00:12:59,300 --> 00:13:00,466
+this stuff is never used
+
+282
+00:13:00,833 --> 00:13:02,800
+and as you can see I'm putting there
+
+283
+00:13:02,800 --> 00:13:06,833
+in this chest with things that are theoretically not consumed also the DTPF fuel
+
+284
+00:13:07,233 --> 00:13:08,033
+that is because
+
+285
+00:13:08,033 --> 00:13:10,133
+one annoying thing with DTPFs is that
+
+286
+00:13:10,133 --> 00:13:11,600
+once you get convergence
+
+287
+00:13:11,633 --> 00:13:15,133
+if you want to do patterns with convergence there are a few issues
+
+288
+00:13:15,666 --> 00:13:21,200
+I have various kind of issues in the past with using DTPF parttern for convergence
+
+289
+00:13:24,733 --> 00:13:26,533
+okay one thing which is not the real issue
+
+290
+00:13:26,533 --> 00:13:31,200
+is that you have to calculate the amount of DTPF fuel used by each pattern
+
+291
+00:13:31,333 --> 00:13:33,233
+and that can be a little bit annoying
+
+292
+00:13:34,633 --> 00:13:37,333
+if you use this setup you don't have to
+
+293
+00:13:37,333 --> 00:13:38,633
+but the thing is that
+
+294
+00:13:38,800 --> 00:13:40,200
+as far as I understand
+
+295
+00:13:40,233 --> 00:13:42,266
+I haven't done that in too much
+
+296
+00:13:42,266 --> 00:13:44,066
+I only tried once didn't work well
+
+297
+00:13:44,633 --> 00:13:48,066
+if you calculate how much fuel the DTPF is going to take
+
+298
+00:13:48,066 --> 00:13:50,266
+and then in the future you decide to overclock it
+
+299
+00:13:50,500 --> 00:13:54,600
+you basically have to redo the pattern with the fuel which is annoying
+
+300
+00:13:54,900 --> 00:13:56,100
+if you do it this way
+
+301
+00:13:56,133 --> 00:13:57,833
+the fuel is not inside the pattern
+
+302
+00:13:57,833 --> 00:13:59,633
+so it simply takes it from there
+
+303
+00:14:01,133 --> 00:14:04,066
+and yeah that is the main advantage
+
+304
+00:14:04,066 --> 00:14:05,233
+I figured out of this system
+
+305
+00:14:05,233 --> 00:14:09,400
+I really think this is great for convergence on DTPFs
+
+306
+00:14:12,133 --> 00:14:13,333
+okay if you don't know
+
+307
+00:14:13,733 --> 00:14:16,400
+you can paint hatches to set priorities
+
+308
+00:14:16,833 --> 00:14:20,000
+black painted hatches will always have priority over red
+
+309
+00:14:20,000 --> 00:14:23,600
+which has priority over green then brown then blue etc etc
+
+310
+00:14:24,000 --> 00:14:25,333
+that way
+
+311
+00:14:25,800 --> 00:14:31,000
+if you have a passive high energy recipe like space time that does not use catalyst
+
+312
+00:14:31,633 --> 00:14:34,000
+if it ever runs out of catalyst
+
+313
+00:14:34,433 --> 00:14:35,533
+in this thing
+
+314
+00:14:35,733 --> 00:14:38,866
+it will simply switch to the other recipe
+
+315
+00:14:41,333 --> 00:14:43,500
+it just works without converging
+
+316
+00:14:43,500 --> 00:14:46,100
+because it doesn't have fuel in the blue hatch
+
+317
+00:14:46,100 --> 00:14:47,333
+it doesn't have fuel in blue hatch
+
+318
+00:14:47,333 --> 00:14:48,266
+so it doesn't convert
+
+319
+00:14:53,633 --> 00:14:56,633
+the thing is that even if there is fuel in there
+
+320
+00:14:57,133 --> 00:14:59,433
+it will not converge something
+
+321
+00:14:59,433 --> 00:15:01,666
+it will not converse something in a blue hatch
+
+322
+00:15:01,666 --> 00:15:04,233
+if the fuel is in a black hatch
+
+323
+00:15:04,500 --> 00:15:08,200
+that's the good thing I figure out that can make this thing work
+
+324
+00:15:09,633 --> 00:15:11,100
+so if you go this way
+
+325
+00:15:11,100 --> 00:15:12,533
+if you want to overclock these in the future
+
+326
+00:15:12,533 --> 00:15:14,866
+you don't have to redo the pattern with your amount of fuel
+
+327
+00:15:14,933 --> 00:15:17,666
+also I had issues when I did this with CIBs
+
+328
+00:15:17,666 --> 00:15:19,200
+it will mess up things
+
+329
+00:15:19,500 --> 00:15:21,400
+this way it seems to work really nicely
+
+330
+00:15:22,533 --> 00:15:26,500
+also I think this setup probably can be made in other modpacks
+
+331
+00:15:28,133 --> 00:15:31,333
+anyways yeah I think that's it
+
+332
+00:15:31,500 --> 00:15:37,233
+I will have made this video like 10 times shorter probably if I edited it better
+
+333
+00:15:37,233 --> 00:15:39,233
+I wanted to try this different editing style
+
+334
+00:15:39,233 --> 00:15:40,666
+tell me what you think about it
+
+335
+00:15:41,433 --> 00:15:44,400
+main downside of this system is that
+
+336
+00:15:44,400 --> 00:15:46,500
+the redstone takes a little bit to update
+
+337
+00:15:47,233 --> 00:15:50,033
+many people say redstone doesn't cause much lag
+
+338
+00:15:50,033 --> 00:15:51,800
+but I don't know
+
+339
+00:15:51,800 --> 00:15:54,800
+I'm not a fan of things that use redstone
+
+340
+00:15:55,233 --> 00:15:59,533
+also had bad experiences with toggle buses in my net in the past
+
+341
+00:16:01,333 --> 00:16:04,233
+having a toggle bus which keeps toggling on and off
+
+342
+00:16:04,666 --> 00:16:06,033
+especially in a big network
+
+343
+00:16:06,400 --> 00:16:08,333
+can be an issue I think
+
+344
+00:16:08,333 --> 00:16:09,533
+but it should have been fixed
+
+345
+00:16:10,033 --> 00:16:17,000
+so just saying that avoid doing quick toggle buses which is in the main network mostly
+
+346
+00:16:17,733 --> 00:16:19,233
+if it is in such a small network
+
+347
+00:16:19,233 --> 00:16:20,266
+it's probably not a big deal
+
+348
+00:16:20,266 --> 00:16:21,200
+but I don't know
+
+349
+00:16:21,200 --> 00:16:22,000
+I'm paranoid
+
+350
+00:16:22,866 --> 00:16:25,800
+yeah I think that's it
+
+351
+00:16:25,800 --> 00:16:31,533
+also with this editing style I probably forgot like half of the things I was supposed to say
+
+352
+00:16:34,400 --> 00:16:37,066
+tell me what do you think about this kind of editing
+
+353
+00:16:37,700 --> 00:16:39,100
+bye bye
+
+354
+00:00:00,066 --> 00:00:00,733
+大家好
+
+355
+00:00:00,733 --> 00:00:04,600
+今天我想让你们注意到这种特殊的通用自动化
+
+356
+00:00:05,066 --> 00:00:09,300
+我第一次发现这个设置是在多人高速跑中，这突出了它的缺点。
+
+357
+00:00:09,300 --> 00:00:10,833
+但在正常运行中可能是好的
+
+358
+00:00:10,833 --> 00:00:16,000
+我还找出了在某些特定情况下比CIBs更好的用法
+
+359
+00:00:16,400 --> 00:00:17,433
+但现在说够了
+
+360
+00:00:17,433 --> 00:00:19,433
+让我们一次一件地开始建造它
+
+361
+00:00:20,000 --> 00:00:23,200
+首先，我们需要拆分主网络，即带有蓝色电缆的网络
+
+362
+00:00:23,200 --> 00:00:26,233
+从工作网络，也就是有红色电缆的网络。
+
+363
+00:00:26,433 --> 00:00:28,466
+这里我使用先进的长袜舱口
+
+364
+00:00:28,466 --> 00:00:30,500
+我可以想办法不用那些
+
+365
+00:00:30,500 --> 00:00:33,800
+但是下一个游戏版本可能会改变AE2流体力学
+
+366
+00:00:33,800 --> 00:00:36,200
+所以在这个简短的视频中，我保持这样。
+
+367
+00:00:37,033 --> 00:00:40,500
+这个系统的主要工作方式是通过切换框
+
+368
+00:00:41,466 --> 00:00:43,666
+如果你不知道这些是如何工作的
+
+369
+00:00:45,000 --> 00:00:47,733
+基本上我所谈论的是
+
+370
+00:00:48,200 --> 00:00:52,400
+有了红石，它会连接或断开连接
+
+371
+00:00:52,633 --> 00:00:55,400
+这个是普通的，和红石连接
+
+372
+00:00:55,533 --> 00:00:59,533
+这个是倒置的，没有红石的时候连接
+
+373
+00:01:01,700 --> 00:01:03,900
+可能能更好地看到它，不是吗？
+
+374
+00:01:05,033 --> 00:01:08,433
+当杠杆处于这种状态时，这条电缆就会到达那里
+
+375
+00:01:08,666 --> 00:01:09,733
+当我拉它的时候
+
+376
+00:01:11,433 --> 00:01:12,200
+你应该更新
+
+377
+00:01:12,200 --> 00:01:13,666
+好吧，它去那里。
+
+378
+00:01:13,733 --> 00:01:16,000
+你已经可以看到这件事的主要缺点
+
+379
+00:01:16,000 --> 00:01:21,533
+主要缺点是每次拉动杠杆时网络都需要一点时间来更新
+
+380
+00:01:22,033 --> 00:01:23,566
+应该是瞬间的
+
+381
+00:01:23,566 --> 00:01:26,100
+但根据经验，它还不够快。
+
+382
+00:01:27,000 --> 00:01:28,466
+所以如果你用这个
+
+383
+00:01:28,466 --> 00:01:30,300
+你必须考虑到这可能有点慢
+
+384
+00:01:30,300 --> 00:01:33,033
+但是通过做更大的批次
+
+385
+00:01:33,033 --> 00:01:34,533
+它没有那个问题。
+
+386
+00:01:34,666 --> 00:01:36,066
+我只是做了一大堆
+
+387
+00:01:36,066 --> 00:01:39,900
+所以红石切换每两分钟发生一次
+
+388
+00:01:40,000 --> 00:01:42,200
+但我们当然不会使用杠杆
+
+389
+00:01:42,466 --> 00:01:44,033
+而是某种自动化
+
+390
+00:01:44,600 --> 00:01:47,066
+在这种情况下，我们将使用电平发射器
+
+391
+00:01:49,300 --> 00:01:51,000
+是的，想法是这样的。
+
+392
+00:01:51,000 --> 00:01:52,533
+一旦有东西要制作
+
+393
+00:01:52,533 --> 00:01:56,500
+电平发射器将断开自动化的下一段 
+
+394
+00:01:56,500 --> 00:01:59,266
+它将连接制作切片
+
+395
+00:02:00,866 --> 00:02:02,466
+顺便说一句，对于这个视频的其余部分
+
+396
+00:02:02,466 --> 00:02:03,833
+我要尝试即兴发挥
+
+397
+00:02:04,000 --> 00:02:09,133
+因为我发现阅读脚本、同步所有内容等有点困难
+
+398
+00:02:09,133 --> 00:02:11,833
+如果我即兴发挥，我会迷失更多
+
+399
+00:02:11,900 --> 00:02:14,300
+但是如果我写剧本，我觉得太做作了。
+
+400
+00:02:14,633 --> 00:02:16,600
+所以我要这样尝试这个视频
+
+401
+00:02:16,600 --> 00:02:18,533
+稍后告诉我你的想法
+
+402
+00:02:19,200 --> 00:02:22,433
+无论如何，这里的主要概念是
+
+403
+00:02:22,466 --> 00:02:25,600
+主线将一直只连接到其中一个输出
+
+404
+00:02:25,600 --> 00:02:26,866
+稍后我们将有多个
+
+405
+00:02:26,866 --> 00:02:30,533
+这个设置的一个好处是，您可以稍后复制粘贴这些行
+
+406
+00:02:30,866 --> 00:02:32,066
+但主要的想法是
+
+407
+00:02:32,066 --> 00:02:33,333
+这个红石会切换这个
+
+408
+00:02:33,333 --> 00:02:35,400
+所以它要么连接到这个
+
+409
+00:02:35,533 --> 00:02:37,266
+或者到下一部分
+
+410
+00:02:37,666 --> 00:02:38,666
+这是最主要的
+
+411
+00:02:39,266 --> 00:02:42,066
+现在我想展示另一个技巧
+
+412
+00:02:42,333 --> 00:02:44,666
+如果你给东西起名字
+
+413
+00:02:44,733 --> 00:02:47,033
+你可以做一些容易输入的事情，比如ASD。
+
+414
+00:02:47,300 --> 00:02:49,500
+然后与其寻找东西
+
+415
+00:02:49,500 --> 00:02:51,100
+你可以找到你需要的一切
+
+416
+00:02:51,733 --> 00:02:54,400
+你也可以用别针。
+
+417
+00:02:54,400 --> 00:02:57,833
+但我不喜欢别针如何占用那里所有的空间
+
+418
+00:02:58,266 --> 00:03:00,066
+是的，可能用别针更好（？）
+
+419
+00:03:00,066 --> 00:03:02,333
+但我更喜欢拥有它
+
+420
+00:03:02,800 --> 00:03:04,433
+另外，如果你重命名东西
+
+421
+00:03:04,733 --> 00:03:07,800
+那些被命名的东西不会被AE2飞船使用
+
+422
+00:03:07,800 --> 00:03:09,466
+所以如果我制作更多这样的东西
+
+423
+00:03:09,466 --> 00:03:11,500
+它不会拿走我的石英纤维。
+
+424
+00:03:11,800 --> 00:03:13,833
+如果我制作更多这样的东西
+
+425
+00:03:14,100 --> 00:03:15,333
+如果我制作那些重命名的
+
+426
+00:03:15,333 --> 00:03:18,600
+这些不会被用于其他手工艺，比如（和谐之眼？）部分
+
+427
+00:03:20,766 --> 00:03:22,700
+把那些存货放在最后有点难
+
+428
+00:03:22,700 --> 00:03:24,900
+因为他们一直习惯于制作其他东西
+
+429
+00:03:24,933 --> 00:03:27,266
+如果你说出东西的名字，你总是有一些。
+
+430
+00:03:28,033 --> 00:03:30,933
+无论如何，让我们以磷酸为例
+
+431
+00:03:30,933 --> 00:03:33,200
+里面有很多不同的成分
+
+432
+00:03:33,633 --> 00:03:36,200
+我们稍后会看到催化剂。
+
+433
+00:03:37,233 --> 00:03:38,933
+催化剂是指电路之类的东西
+
+434
+00:03:38,933 --> 00:03:40,600
+我们稍后会看到电路
+
+435
+00:03:41,333 --> 00:03:44,900
+现在我在这里使用双接口
+
+436
+00:03:45,500 --> 00:03:46,833
+但是
+
+437
+00:03:47,600 --> 00:03:49,733
+您可以使用普通界面
+
+438
+00:03:49,733 --> 00:03:52,966
+然后您可以将导出总线与通配符放在一起
+
+439
+00:03:52,966 --> 00:03:56,466
+在带有泵的输入舱口上的（数据包记录器？）
+
+440
+00:03:56,466 --> 00:03:59,533
+如果你不能用这个，因为你还没有。
+
+441
+00:03:59,666 --> 00:04:00,833
+但正如我所说
+
+442
+00:04:00,833 --> 00:04:03,733
+我认为液体将重新设计下一个GTNH版本
+
+443
+00:04:03,733 --> 00:04:06,100
+所以这在下一个版本中可能会有所不同
+
+444
+00:04:07,700 --> 00:04:11,566
+就像使用（固体和流体？）这是一种正常的东西
+
+445
+00:04:11,566 --> 00:04:13,900
+我不会在这个视频中深入讨论细节。
+
+446
+00:04:14,400 --> 00:04:18,033
+不管怎样，主网络接口我们放了一个零件。
+
+447
+00:04:19,000 --> 00:04:22,666
+这个会将液体和固体滴入这个子网络
+
+448
+00:04:22,733 --> 00:04:24,066
+现在这个
+
+449
+00:04:24,066 --> 00:04:27,033
+你可以放个硬盘进去
+
+450
+00:04:27,466 --> 00:04:30,600
+链接到那里，它就可以工作了。
+
+451
+00:04:31,300 --> 00:04:32,466
+是的，我可以用红色电缆。
+
+452
+00:04:32,466 --> 00:04:34,000
+将所有这些都连接到这条蓝色电缆上
+
+453
+00:04:34,000 --> 00:04:34,833
+它可以工作
+
+454
+00:04:34,833 --> 00:04:36,400
+我以前是这么用的
+
+455
+00:04:36,633 --> 00:04:38,900
+但我想如果我们做一些额外的步骤
+
+456
+00:04:38,900 --> 00:04:40,266
+它实际上效果更好
+
+457
+00:04:41,000 --> 00:04:43,466
+所以这将是紫色网络
+
+458
+00:04:44,433 --> 00:04:47,133
+我们当然会有司机
+
+459
+00:04:48,600 --> 00:04:51,066
+让我们试着做到这一点
+
+460
+00:04:51,200 --> 00:04:53,866
+你可以用比我更好的方式建造。
+
+461
+00:04:53,900 --> 00:04:56,433
+我不擅长做好看的东西
+
+462
+00:04:56,900 --> 00:04:59,466
+所以事情就是这样
+
+463
+00:05:00,633 --> 00:05:02,233
+好吧那些是
+
+464
+00:05:02,866 --> 00:05:06,666
+是的，将所有内容重命名为ASD可能还不错（？）
+
+465
+00:05:07,500 --> 00:05:09,133
+这个以后得重命名
+
+466
+00:05:09,666 --> 00:05:12,666
+找到这样的东西真的很容易
+
+467
+00:05:12,666 --> 00:05:14,300
+比别针（？）
+
+468
+00:05:14,300 --> 00:05:15,533
+好吧，我真的讨论过了。
+
+469
+00:05:19,133 --> 00:05:21,733
+所以我们有这个主要的子网在那里
+
+470
+00:05:24,400 --> 00:05:26,566
+我们把东西储备起来
+
+471
+00:05:27,466 --> 00:05:30,300
+这个网络会将这些东西放入这个子网络
+
+472
+00:05:30,300 --> 00:05:31,266
+哪个会去那里？
+
+473
+00:05:31,500 --> 00:05:35,300
+也让我们不要忘记阻止卡模式和阻止模式
+
+474
+00:05:35,833 --> 00:05:38,866
+以免弄乱配料
+
+475
+00:05:40,333 --> 00:05:43,300
+好吧，那这个就去那里。
+
+476
+00:05:44,266 --> 00:05:47,000
+我稍后再展示，好吗？
+
+477
+00:05:49,433 --> 00:05:50,933
+这个只有实心的
+
+478
+00:05:50,933 --> 00:05:53,266
+所以我们还需要一个液位发射器
+
+479
+00:05:55,733 --> 00:05:58,900
+我们必须将这些设置为1
+
+480
+00:06:00,866 --> 00:06:02,833
+当水平高于
+
+481
+00:06:02,833 --> 00:06:04,900
+好吧，当有不止一件商品时，对吗？
+
+482
+00:06:04,900 --> 00:06:05,666
+所以我们切换
+
+483
+00:06:05,666 --> 00:06:08,000
+它会断开这些线并连接这条线
+
+484
+00:06:08,466 --> 00:06:10,433
+这个也一样
+
+485
+00:06:11,233 --> 00:06:12,033
+好吧
+
+486
+00:06:13,333 --> 00:06:17,200
+也许稍后我会尝试一些技巧来改变它的工作方式
+
+487
+00:06:17,733 --> 00:06:19,600
+我还在查这个
+
+488
+00:06:19,600 --> 00:06:22,933
+我在寻找更好的方法
+
+489
+00:06:22,933 --> 00:06:25,733
+事实上，我仍在让这个工作得更好。
+
+490
+00:06:26,633 --> 00:06:28,933
+现在这个网络（从？）它的力量
+
+491
+00:06:29,100 --> 00:06:30,866
+我们可以用石英纤维
+
+492
+00:06:30,866 --> 00:06:32,633
+但我正在使用我在游戏中
+
+493
+00:06:32,633 --> 00:06:35,200
+我目前正在使用Twist Space
+
+494
+00:06:35,300 --> 00:06:36,633
+这不全是GTNH的东西
+
+495
+00:06:36,633 --> 00:06:37,700
+没有什么扭曲的
+
+496
+00:06:38,000 --> 00:06:39,700
+我是说这个很贵
+
+497
+00:06:39,700 --> 00:06:41,400
+你可以只使用石英纤维
+
+498
+00:06:41,500 --> 00:06:43,000
+东西不多，没什么特别的。
+
+499
+00:06:44,100 --> 00:06:46,833
+不管怎样，如果你锻炼的话，可以在这里。
+
+500
+00:06:46,833 --> 00:06:49,333
+现在让我们得到一个终端
+
+501
+00:06:49,533 --> 00:06:52,033
+我不在我的主网络中工作
+
+502
+00:06:52,033 --> 00:06:54,533
+我在这个子网络工作
+
+503
+00:06:54,800 --> 00:06:56,700
+这是我真正的主网
+
+504
+00:06:57,466 --> 00:06:59,266
+为实验做这个子网络
+
+505
+00:06:59,733 --> 00:07:04,666
+现在这里应该可以看到，让我们实际上只显示
+
+506
+00:07:06,633 --> 00:07:09,633
+好吧，我们可以做我们需要（？）对吗？
+
+507
+00:07:09,733 --> 00:07:11,200
+哦，等等，他们还需要一个CPU
+
+508
+00:07:12,066 --> 00:07:13,866
+工艺品仓库
+
+509
+00:07:15,633 --> 00:07:17,533
+好吧现在我们有了一个手工储藏室
+
+510
+00:07:18,200 --> 00:07:19,933
+所以我们开始制作一些东西
+
+511
+00:07:20,733 --> 00:07:22,700
+我们可以看到这些东西放进去
+
+512
+00:07:23,400 --> 00:07:24,800
+这两个都打开了
+
+513
+00:07:24,833 --> 00:07:25,833
+这个断开连接了
+
+514
+00:07:25,833 --> 00:07:27,066
+现在这个连接了
+
+515
+00:07:27,200 --> 00:07:29,933
+当然，我们必须把这些东西连接到机器上。
+
+516
+00:07:30,500 --> 00:07:31,966
+所以要做到这一点
+
+517
+00:07:33,500 --> 00:07:36,300
+我们制作另一个子网接口
+
+518
+00:07:38,000 --> 00:07:40,466
+我们也许可以就这么定了
+
+519
+00:07:41,600 --> 00:07:43,733
+好吧，我那里有足够的空间吗？
+
+520
+00:07:46,066 --> 00:07:51,200
+好吧，红色的是必须能看到另一个的那个。
+
+521
+00:07:51,200 --> 00:07:55,000
+所以让我们试着把它做得更好一点。
+
+522
+00:07:56,300 --> 00:07:57,800
+那看起来不太好。
+
+523
+00:07:58,433 --> 00:07:59,500
+但不管怎样
+
+524
+00:07:59,500 --> 00:08:00,600
+所以
+
+525
+00:08:03,533 --> 00:08:05,800
+等等，我把这个弄丢了。
+
+526
+00:08:12,533 --> 00:08:13,900
+让我们只提取那些
+
+527
+00:08:13,900 --> 00:08:15,100
+什么都不应该发生
+
+528
+00:08:15,100 --> 00:08:17,200
+而是只买额外的。
+
+529
+00:08:19,800 --> 00:08:21,133
+好吧这边走
+
+530
+00:08:21,133 --> 00:08:23,333
+红色网络现在应该看到里面的内容了
+
+531
+00:08:24,333 --> 00:08:25,133
+看
+
+532
+00:08:25,900 --> 00:08:28,100
+好吧氧气水磷尘
+
+533
+00:08:28,100 --> 00:08:29,333
+现在没有电路了
+
+534
+00:08:30,066 --> 00:08:31,900
+但是我们可以很容易地解决这个问题。
+
+535
+00:08:33,500 --> 00:08:35,400
+现在添加电路的一种方法
+
+536
+00:08:35,400 --> 00:08:37,733
+就是在这个细胞里放一个电路
+
+537
+00:08:37,733 --> 00:08:38,733
+通过这样做
+
+538
+00:08:39,033 --> 00:08:39,900
+那就行了
+
+539
+00:08:40,700 --> 00:08:42,000
+让我们展示
+
+540
+00:08:42,000 --> 00:08:44,733
+好吧，那个可以直接工作。
+
+541
+00:08:46,833 --> 00:08:47,633
+好吧
+
+542
+00:08:48,233 --> 00:08:50,700
+但问题是如果我们这样做
+
+543
+00:08:52,433 --> 00:08:54,200
+好吧，我用了一个小无线。
+
+544
+00:08:54,200 --> 00:08:58,066
+因为我不想让这个立即工作
+
+545
+00:08:58,066 --> 00:09:00,333
+但显然我放了太多东西
+
+546
+00:09:00,333 --> 00:09:02,233
+嗯，你知道它可以立即完成。
+
+547
+00:09:02,233 --> 00:09:04,600
+现在这个不要清空它
+
+548
+00:09:04,866 --> 00:09:07,033
+但问题是，如你所见
+
+549
+00:09:07,033 --> 00:09:09,433
+好吧，没有花一点时间来切换。
+
+550
+00:09:09,466 --> 00:09:10,833
+如果你注意了
+
+551
+00:09:11,400 --> 00:09:13,533
+问题是我们只有一个回路
+
+552
+00:09:13,533 --> 00:09:14,700
+所以总是有一件商品
+
+553
+00:09:14,700 --> 00:09:17,400
+但是这个可以很容易地通过做两个项目来修复
+
+554
+00:09:18,633 --> 00:09:21,233
+现在这个是空的，直到我们订购更多。
+
+555
+00:09:21,933 --> 00:09:22,800
+这个是空的。
+
+556
+00:09:22,800 --> 00:09:24,300
+所以这个现在断开连接了
+
+557
+00:09:24,300 --> 00:09:26,066
+它正在连接下一步
+
+558
+00:09:28,300 --> 00:09:30,666
+我们订购了更多，我们可以看到。
+
+559
+00:09:31,700 --> 00:09:35,066
+我们订购更多，它就在那里，打开，工作
+
+560
+00:09:35,200 --> 00:09:37,400
+切换关闭，重新连接这个
+
+561
+00:09:38,433 --> 00:09:39,600
+好吧
+
+562
+00:09:39,600 --> 00:09:41,833
+所以这个不可能是真正的方法。
+
+563
+00:09:41,833 --> 00:09:43,200
+然后你只需复制粘贴这个
+
+564
+00:09:43,200 --> 00:09:44,900
+你在每个细胞中放置不同的电路
+
+565
+00:09:45,600 --> 00:09:48,033
+但我个人更喜欢它
+
+566
+00:09:49,533 --> 00:09:51,833
+我更喜欢它，如果不是这样做
+
+567
+00:09:52,866 --> 00:09:55,700
+我做了一件不同的事情
+
+568
+00:09:57,133 --> 00:10:01,066
+我们基本上做另一个子网或使用催化剂
+
+569
+00:10:01,700 --> 00:10:02,833
+所以如果我们这么做
+
+570
+00:10:02,933 --> 00:10:04,333
+我们把这个保持在1号。
+
+571
+00:10:05,633 --> 00:10:11,800
+我们放了一个带箱子的仓储中心
+
+572
+00:10:13,966 --> 00:10:15,300
+好吧，这是另一种方法。
+
+573
+00:10:15,400 --> 00:10:16,400
+而不是那样
+
+574
+00:10:16,400 --> 00:10:18,000
+而不是在细胞内保留电路
+
+575
+00:10:18,000 --> 00:10:19,633
+你可以把电路放在胸腔里
+
+576
+00:10:22,600 --> 00:10:24,333
+这样这个总是空的
+
+577
+00:10:26,466 --> 00:10:28,333
+你这样做只是通过飞行
+
+578
+00:10:28,333 --> 00:10:29,800
+你可以看看是不是绿色的
+
+579
+00:10:29,933 --> 00:10:30,700
+意思是是空的
+
+580
+00:10:30,700 --> 00:10:31,500
+如果有什么
+
+581
+00:10:31,500 --> 00:10:32,633
+你知道这不是催化剂
+
+582
+00:10:32,633 --> 00:10:33,866
+但它实际上是一些东西
+
+583
+00:10:36,066 --> 00:10:38,066
+这是我想这么做的原因之一
+
+584
+00:10:39,700 --> 00:10:42,033
+但我想要的真正原因
+
+585
+00:10:42,133 --> 00:10:44,933
+基本上是输入的第三个子网
+
+586
+00:10:45,033 --> 00:10:47,133
+是这个设置的真正优势
+
+587
+00:10:47,133 --> 00:10:48,466
+我稍后会展示。
+
+588
+00:10:50,000 --> 00:10:52,733
+所以好吧，这个现在基本上可以用了。
+
+589
+00:10:52,733 --> 00:10:55,000
+让我们再试一次，因为我又改了一次。
+
+590
+00:10:56,600 --> 00:10:57,433
+好吧
+
+591
+00:10:57,733 --> 00:10:58,900
+所以打开
+
+592
+00:10:59,066 --> 00:11:00,400
+toggles，这个真的可以。
+
+593
+00:11:00,400 --> 00:11:01,233
+这真的很有效
+
+594
+00:11:01,233 --> 00:11:03,133
+它做了它的事情，现在它已经重置了。
+
+595
+00:11:04,266 --> 00:11:06,866
+好的，所以下一阶段是扩展这个
+
+596
+00:11:06,866 --> 00:11:08,266
+然后我要展示另一件事
+
+597
+00:11:09,000 --> 00:11:09,466
+好吧
+
+598
+00:11:09,466 --> 00:11:11,700
+现在我将使用物质机械手
+
+599
+00:11:11,700 --> 00:11:14,033
+复制粘贴此切片并制作更多
+
+600
+00:11:14,600 --> 00:11:16,933
+现在有一个小问题
+
+601
+00:11:17,400 --> 00:11:20,866
+我发现有了这个版本
+
+602
+00:11:21,466 --> 00:11:23,500
+有（没有更多？）水平发射器的问题
+
+603
+00:11:24,833 --> 00:11:27,066
+当然不是找到几样东西
+
+604
+00:11:27,066 --> 00:11:27,866
+但没关系
+
+605
+00:11:28,066 --> 00:11:29,533
+复制粘贴电平发射器时
+
+606
+00:11:29,533 --> 00:11:31,133
+它不会复制粘贴设置
+
+607
+00:11:31,133 --> 00:11:33,800
+所以你必须手动解决这个问题
+
+608
+00:11:34,800 --> 00:11:35,933
+我没检查
+
+609
+00:11:36,066 --> 00:11:40,633
+AE2在下一个GTNH版本中得到了一点返工
+
+610
+00:11:41,233 --> 00:11:44,200
+它现在还没有测试版。
+
+611
+00:11:44,200 --> 00:11:47,433
+这是实验，正在研究中。
+
+612
+00:11:48,100 --> 00:11:49,833
+所以甚至没有检查他们在做什么
+
+613
+00:11:52,200 --> 00:11:54,800
+现在你可以在每个里面放一个不同的电路。
+
+614
+00:11:54,800 --> 00:11:56,266
+只要有东西进去
+
+615
+00:11:56,266 --> 00:11:58,633
+它会剪掉其他一切，制作这个。
+
+616
+00:11:58,833 --> 00:12:01,900
+所以这个设置将始终优先考虑这条线
+
+617
+00:12:01,900 --> 00:12:02,933
+一旦这个是空的
+
+618
+00:12:02,933 --> 00:12:04,066
+它会切换到这个。
+
+619
+00:12:04,066 --> 00:12:06,733
+等等，直到他找到一个里面有东西的。
+
+620
+00:12:09,533 --> 00:12:11,100
+这是一个不错的（插件？）
+
+621
+00:12:11,433 --> 00:12:14,600
+与其他自动化系统相比，它有其优点和缺点
+
+622
+00:12:14,800 --> 00:12:18,933
+我还没有找到另一个视频来解释这种特殊的做法。
+
+623
+00:12:19,700 --> 00:12:22,266
+不管怎样，这东西的主要优点是
+
+624
+00:12:22,900 --> 00:12:25,200
+这是专门针对DTPF的吗？
+
+625
+00:12:25,233 --> 00:12:29,233
+你还可以在催化剂网络中添加其他东西。
+
+626
+00:12:29,466 --> 00:12:32,266
+现在在另一个设置中，我有机会使用电路
+
+627
+00:12:33,266 --> 00:12:35,266
+这里我正在使用
+
+628
+00:12:36,466 --> 00:12:38,600
+我正在用这个超级酷的东西
+
+629
+00:12:39,000 --> 00:12:43,833
+这个是为了防止东西不断从主网中流失
+
+630
+00:12:43,833 --> 00:12:49,733
+它缓冲了一点材料，这样它就不会经常排出主网
+
+631
+00:12:50,266 --> 00:12:51,800
+我把那些催化剂放在那里
+
+632
+00:12:51,800 --> 00:12:53,466
+那些被用作电路
+
+633
+00:12:57,333 --> 00:12:59,300
+我之前用这个作为胸部。
+
+634
+00:12:59,300 --> 00:13:00,466
+这东西从来没用过
+
+635
+00:13:00,833 --> 00:13:02,800
+如你所见，我把它放在那里。
+
+636
+00:13:02,800 --> 00:13:06,833
+这个箱子里有理论上不消耗的东西，还有DTPF燃料。
+
+637
+00:13:07,233 --> 00:13:08,033
+那是因为
+
+638
+00:13:08,033 --> 00:13:10,133
+DTPF的一个恼人的事情是
+
+639
+00:13:10,133 --> 00:13:11,600
+一旦你得到收敛
+
+640
+00:13:11,633 --> 00:13:15,133
+如果你想做有收敛的模式，有几个问题。
+
+641
+00:13:15,666 --> 00:13:21,200
+我在过去使用DTPF部件进行收敛时遇到了各种问题
+
+642
+00:13:24,733 --> 00:13:26,533
+好吧，有一件事不是真正的问题。
+
+643
+00:13:26,533 --> 00:13:31,200
+你必须计算每个模式使用的DTPF燃料量
+
+644
+00:13:31,333 --> 00:13:33,233
+这可能有点烦人。
+
+645
+00:13:34,633 --> 00:13:37,333
+如果您使用此设置，您不必
+
+646
+00:13:37,333 --> 00:13:38,633
+但问题是
+
+647
+00:13:38,800 --> 00:13:40,200
+据我所知
+
+648
+00:13:40,233 --> 00:13:42,266
+我已经很久没这么做了
+
+649
+00:13:42,266 --> 00:13:44,066
+我只试了一次，效果不好。
+
+650
+00:13:44,633 --> 00:13:48,066
+如果你计算DTPF需要多少燃料
+
+651
+00:13:48,066 --> 00:13:50,266
+然后在未来你决定超频它
+
+652
+00:13:50,500 --> 00:13:54,600
+你基本上必须用燃料重做模式，这很烦人。
+
+653
+00:13:54,900 --> 00:13:56,100
+如果你这样做
+
+654
+00:13:56,133 --> 00:13:57,833
+燃料不在图案内
+
+655
+00:13:57,833 --> 00:13:59,633
+所以它只是从那里开始的
+
+656
+00:14:01,133 --> 00:14:04,066
+是的，这是主要优势。
+
+657
+00:14:04,066 --> 00:14:05,233
+我想出了这个系统
+
+658
+00:14:05,233 --> 00:14:09,400
+我真的认为这对于DTPF的收敛非常好
+
+659
+00:14:12,133 --> 00:14:13,333
+好吧如果你不知道
+
+660
+00:14:13,733 --> 00:14:16,400
+您可以绘制舱口以设置优先级
+
+661
+00:14:16,833 --> 00:14:20,000
+黑色的舱口总是优先于红色
+
+662
+00:14:20,000 --> 00:14:23,600
+哪个优先于绿色，然后是棕色，然后是蓝色等
+
+663
+00:14:24,000 --> 00:14:25,333
+那边
+
+664
+00:14:25,800 --> 00:14:31,000
+如果你有一个被动的高能配方，比如不使用催化剂的时空
+
+665
+00:14:31,633 --> 00:14:34,000
+如果催化剂用完了
+
+666
+00:14:34,433 --> 00:14:35,533
+在这个东西里
+
+667
+00:14:35,733 --> 00:14:38,866
+它会简单地切换到另一个食谱
+
+668
+00:14:41,333 --> 00:14:43,500
+它只是在不收敛的情况下工作
+
+669
+00:14:43,500 --> 00:14:46,100
+因为蓝色舱门里没有燃料
+
+670
+00:14:46,100 --> 00:14:47,333
+蓝色舱口没有燃料
+
+671
+00:14:47,333 --> 00:14:48,266
+所以它不转换
+
+672
+00:14:53,633 --> 00:14:56,633
+问题是即使里面有燃料
+
+673
+00:14:57,133 --> 00:14:59,433
+它不会收敛一些东西
+
+674
+00:14:59,433 --> 00:15:01,666
+它不会在蓝色舱口交谈
+
+675
+00:15:01,666 --> 00:15:04,233
+如果燃料在黑色舱口
+
+676
+00:15:04,500 --> 00:15:08,200
+这是我发现的能让这件事成功的好东西
+
+677
+00:15:09,633 --> 00:15:11,100
+所以如果你走这条路
+
+678
+00:15:11,100 --> 00:15:12,533
+如果你以后想超频这些
+
+679
+00:15:12,533 --> 00:15:14,866
+你不必用你的燃料量重做模式
+
+680
+00:15:14,933 --> 00:15:17,666
+当我用CIBs做这个的时候，我也有问题。
+
+681
+00:15:17,666 --> 00:15:19,200
+它会把事情搞砸的
+
+682
+00:15:19,500 --> 00:15:21,400
+这样看起来效果很好
+
+683
+00:15:22,533 --> 00:15:26,500
+另外，我认为这个设置可能可以在其他模组包中进行。
+
+684
+00:15:28,133 --> 00:15:31,333
+不管怎样，是的，我想就是这样。
+
+685
+00:15:31,500 --> 00:15:37,233
+如果我编辑得更好，我可能会把这个视频缩短10倍。
+
+686
+00:15:37,233 --> 00:15:39,233
+我想尝试这种不同的编辑风格
+
+687
+00:15:39,233 --> 00:15:40,666
+告诉我你对此有什么看法
+
+688
+00:15:41,433 --> 00:15:44,400
+这个系统的主要缺点是
+
+689
+00:15:44,400 --> 00:15:46,500
+红石需要一点更新
+
+690
+00:15:47,233 --> 00:15:50,033
+很多人说红石不会造成太多滞后
+
+691
+00:15:50,033 --> 00:15:51,800
+但我不知道
+
+692
+00:15:51,800 --> 00:15:54,800
+我不喜欢使用红石的东西
+
+693
+00:15:55,233 --> 00:15:59,533
+过去在我的网络中也有过切换巴士的糟糕经历
+
+694
+00:16:01,333 --> 00:16:04,233
+有一个不停开关的开关总线
+
+695
+00:16:04,666 --> 00:16:06,033
+尤其是在大网络中
+
+696
+00:16:06,400 --> 00:16:08,333
+我认为可能是个问题。
+
+697
+00:16:08,333 --> 00:16:09,533
+但它应该已经修好了。
+
+698
+00:16:10,033 --> 00:16:17,000
+所以只是说避免做主要在主网络中的快速切换总线
+
+699
+00:16:17,733 --> 00:16:19,233
+如果是在这么小的网络里
+
+700
+00:16:19,233 --> 00:16:20,266
+这可能没什么大不了的
+
+701
+00:16:20,266 --> 00:16:21,200
+但我不知道
+
+702
+00:16:21,200 --> 00:16:22,000
+我有妄想症
+
+703
+00:16:22,866 --> 00:16:25,800
+是的，我想就是这样。
+
+704
+00:16:25,800 --> 00:16:31,533
+同样，这种编辑风格，我可能忘记了一半我应该说的话。
+
+705
+00:16:34,400 --> 00:16:37,066
+告诉我你对这种剪辑有什么看法
+
+706
+00:16:37,700 --> 00:16:39,100
+拜拜
+
