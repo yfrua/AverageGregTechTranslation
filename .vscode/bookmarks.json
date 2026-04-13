@@ -1,35 +1,80 @@
 {
 	"files": [
 		{
-			"path": "Garronimo/Gar_guide_ep8.srt",
+			"path": "Garronimo/Gar_guide_ep7.srt",
 			"bookmarks": [
 				{
-					"line": 1334,
-					"column": 21,
+					"line": 2620,
+					"column": 0,
+					"label": ""
+				},
+				{
+					"line": 342,
+					"column": 22,
+					"label": ""
+				},
+				{
+					"line": 346,
+					"column": 63,
+					"label": ""
+				},
+				{
+					"line": 562,
+					"column": 19,
+					"label": ""
+				},
+				{
+					"line": 1530,
+					"column": 12,
 					"label": ""
 				},
 				{
 					"line": 1582,
-					"column": 31,
+					"column": 10,
 					"label": ""
 				},
 				{
-					"line": 2478,
-					"column": 9,
+					"line": 1586,
+					"column": 10,
 					"label": ""
 				},
 				{
-					"line": 2706,
+					"line": 1722,
 					"column": 8,
 					"label": ""
 				},
 				{
-					"line": 2958,
-					"column": 14,
+					"line": 1802,
+					"column": 6,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "TerraFirmGreg/Ep2.srt",
+			"bookmarks": [
+				{
+					"line": 1430,
+					"column": 30,
 					"label": ""
 				},
 				{
-					"line": 3206,
+					"line": 1494,
+					"column": 11,
+					"label": ""
+				},
+				{
+					"line": 1654,
+					"column": 12,
+					"label": ""
+				},
+				{
+					"line": 1662,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 1678,
 					"column": 11,
 					"label": ""
 				}
