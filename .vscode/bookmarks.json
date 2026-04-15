@@ -79,6 +79,16 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "GTNH tutorial/univ_auto.srt",
+			"bookmarks": [
+				{
+					"line": 2046,
+					"column": 3,
+					"label": ""
+				}
+			]
 		}
 	]
 }
