@@ -3,7 +3,7 @@ name: "TODO"
 about: Track a task or improvement
 title: "[TODO] "
 labels: ["todo"]
-assignees: []
+assignees: [yfrua, Eniei]
 ---
 
 ## Description
