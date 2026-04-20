@@ -14,6 +14,7 @@ Briefly describe the task.
 - [ ] AI translation
 - [ ] Manual translation
 - [ ] Polish
+- [ ] Final editing
 
 ## Additional Context
 Add any other context here.
