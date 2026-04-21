@@ -255,2994 +255,2974 @@ will net you a fair amount of early platinum too
 you should upgrade all your workshop machines
 
 65
-00:02:30,866 --> 00:02:33,000
+00:02:30,866 --> 00:02:34,866
 but until your passive setups for chemicals and silicone and everything else you set up are too slow
 
 66
-00:02:33,000 --> 00:02:34,933
-（向上合并）
-
-67
 00:02:34,933 --> 00:02:36,300
 there's no need to upgrade those
 
-68
+67
 00:02:36,333 --> 00:02:39,033
 you'll just run into a power crunch sooner than you otherwise would have
 
-69
+68
 00:02:39,266 --> 00:02:39,733
 at this point
 
-70
+69
 00:02:39,733 --> 00:02:43,733
 the main things that are going to be eating power are the EBF and the ore processing line you just set up
 
-71
+70
 00:02:44,133 --> 00:02:46,000
 use all the fuel you have keeping those going
 
-72
+71
 00:02:46,000 --> 00:02:47,900
 and if you have extra, power your workshop
 
-73
+72
 00:02:48,233 --> 00:02:50,866
 if not, this is a good time to make use of your old steam infrastructure
 
-74
+73
 00:02:50,866 --> 00:02:53,733
 and send a drip of power to a battery for your hand use machines
 
-75
+74
 00:02:54,300 --> 00:02:57,333
 having to wait for batteries to charge to use single blocks is a little annoying
 
-76
+75
 00:02:57,333 --> 00:03:01,200
 but losing time redoing failed smelting operations in the EBF is worse
 
-77
+76
 00:03:01,633 --> 00:03:03,500
 if you find yourself waiting more than you can stand
 
-78
+77
 00:03:03,500 --> 00:03:05,200
 it's time to scale up your power production
 
-79
+78
 00:03:05,400 --> 00:03:06,633
 if your power is holding up well
 
-80
+79
 00:03:06,633 --> 00:03:07,933
 skip ahead to the clean room
 
-81
+80
 00:03:08,033 --> 00:03:09,866
 but you'll want to hear what's next either way
 
-82
+81
 00:03:11,000 --> 00:03:12,266
 if you went oil for power
 
-83
+82
 00:03:12,266 --> 00:03:13,700
 and frankly, even if you didn't
 
-84
+83
 00:03:13,800 --> 00:03:15,400
 you might want to think about an oil drilling rig
 
-85
+84
 00:03:15,400 --> 00:03:16,700
 and some long distance piping
 
-86
+85
 00:03:17,233 --> 00:03:18,500
 use your prospector on bedrock
 
-87
+86
 00:03:18,500 --> 00:03:20,233
 and find a fluid pool of regular oil
 
-88
+87
 00:03:20,500 --> 00:03:22,133
 the underground pools are giant
 
-89
+88
 00:03:22,133 --> 00:03:24,400
 so you should be safe to pump here for a long while
 
-90
+89
 00:03:24,866 --> 00:03:26,300
 pop down the multi block oil rig
 
-91
+90
 00:03:26,300 --> 00:03:28,033
 attach a long distance pipe input
 
-92
+91
 00:03:28,033 --> 00:03:28,866
 load the chunk
 
-93
+92
 00:03:28,900 --> 00:03:31,100
 and place pipes down until you get back to your base
 
-94
+93
 00:03:32,266 --> 00:03:33,500
 and when you get back
 
-95
+94
 00:03:33,500 --> 00:03:35,500
 send the oil into your new distillation tower
 
-96
+95
 00:03:35,933 --> 00:03:39,066
 this multiblock has a bunch of options for configuration
 
-97
+96
 00:03:39,466 --> 00:03:40,800
 to figure out which one you need
 
-98
+97
 00:03:40,800 --> 00:03:42,333
 you need to know which recipe you're using
 
-99
+98
 00:03:42,900 --> 00:03:44,033
 to start with distillation
 
-100
+99
 00:03:44,033 --> 00:03:47,000
 you can distill oil at MV which gives four outputs
 
-101
+100
 00:03:47,200 --> 00:03:48,333
 as the tooltip suggests
 
-102
+101
 00:03:48,333 --> 00:03:50,233
 you can only have one fluid output per layer
 
-103
+102
 00:03:50,233 --> 00:03:52,266
 and an item output needs to be in the bottom layer
 
-104
+103
 00:03:52,400 --> 00:03:54,133
 so the tower needs to be five blocks tall
 
-105
+104
 00:03:54,466 --> 00:03:55,433
 easy enough right
 
-106
+105
 00:03:55,900 --> 00:03:56,933
 just like the single block
 
-107
+106
 00:03:56,933 --> 00:03:58,666
 the outputs are contaminated with sulfur
 
-108
+107
 00:03:58,800 --> 00:04:01,100
 and you'll have to mix them with hydrogen to get the clean output
 
-109
+108
 00:04:01,500 --> 00:04:04,466
 if you use a multi block chemical reactor with five input hatches
 
-110
+109
 00:04:04,466 --> 00:04:06,500
 one for each oil product and one for hydrogen
 
-111
+110
 00:04:06,500 --> 00:04:07,700
 and two output hatches
 
-112
+111
 00:04:07,700 --> 00:04:10,600
 you can easily desulfurize everything in just one machine
 
-113
+112
 00:04:10,900 --> 00:04:12,833
 you'll probably need a dedicated hydrogen production
 
-114
+113
 00:04:12,833 --> 00:04:16,033
 and be sure to save the hydrogen sulfide to turn into sulfuric acid later
 
-115
+114
 00:04:16,266 --> 00:04:19,433
 you're gonna need every drop of the stuff you can get coming up very soon
 
-116
+115
 00:04:19,733 --> 00:04:21,200
 once you got the clean outputs
 
-117
+116
 00:04:21,200 --> 00:04:22,700
 it's time to decide what to do with them
 
-118
+117
 00:04:22,900 --> 00:04:24,666
 here's what I suggest as a starting point
 
-119
+118
 00:04:25,000 --> 00:04:26,933
 mix the light fuel and heavy fuel to get diesel
 
-120
+119
 00:04:27,066 --> 00:04:28,933
 you either just got a supplementary fuel source
 
-121
+120
 00:04:28,933 --> 00:04:30,533
 or you upgraded your existing one
 
-122
+121
 00:04:31,500 --> 00:04:33,600
 send the naphtha into a multi block oil cracker
 
-123
+122
 00:04:33,600 --> 00:04:34,700
 lightly steam crack it
 
-124
+123
 00:04:34,700 --> 00:04:37,400
 and then send that into a max size distillation tower
 
-125
+124
 00:04:37,700 --> 00:04:40,333
 the 12 tall behemoth with 11 fluid outputs
 
-126
+125
 00:04:40,433 --> 00:04:42,100
 and super tanks for everything
 
-127
+126
 00:04:42,433 --> 00:04:43,866
 every last chemical is useful
 
-128
+127
 00:04:43,866 --> 00:04:45,866
 and some will be critical shortly
 
-129
+128
 00:04:46,466 --> 00:04:47,733
 as for the refinery gas
 
-130
+129
 00:04:47,733 --> 00:04:50,333
 you can steam crack that as well and distill it in a 6 tall tower
 
-131
+130
 00:04:50,433 --> 00:04:51,200
 but for the moment
 
-132
+131
 00:04:51,200 --> 00:04:52,733
 if you just want to use a single block distillery
 
-133
+132
 00:04:52,733 --> 00:04:55,466
 and crank out ethylene to make your polyethylene setup a bit better
 
-134
+133
 00:04:55,500 --> 00:04:56,633
 I wouldn't be mad at you
 
-135
+134
 00:04:57,100 --> 00:04:58,866
 you'll also get ethylene from the naphtha to set up
 
-136
+135
 00:04:58,866 --> 00:05:00,033
 so you should be all set
 
-137
+136
 00:05:00,800 --> 00:05:01,933
 if you go with all single blocks
 
-138
+137
 00:05:01,933 --> 00:05:03,933
 other than the crackers and distillation towers
 
-139
+138
 00:05:04,033 --> 00:05:06,266
 it'll end up looking something like this once you finish the whole line
 
-140
+139
 00:05:06,266 --> 00:05:08,266
 by turning the fuel into cetane boosted diesel
 
-141
+140
 00:05:08,733 --> 00:05:10,533
 huge mess right
 
-142
+141
 00:05:11,700 --> 00:05:13,300
 so let's circle back to the LCR
 
-143
+142
 00:05:13,600 --> 00:05:15,066
 you're going to be making a lot of these
 
-144
+143
 00:05:15,066 --> 00:05:17,033
 so no time like the present start using them
 
-145
+144
 00:05:17,500 --> 00:05:19,200
 you'll need the HV tier plastic
 
-146
+145
 00:05:19,266 --> 00:05:20,900
 polytetrafluoroethylene
 
-147
+146
 00:05:21,500 --> 00:05:23,833
 this is a minor little resource check in the quest book
 
-148
+147
 00:05:23,833 --> 00:05:26,266
 you'll need decent supplies of fluorine and chlorine
 
-149
+148
 00:05:26,333 --> 00:05:29,200
 and neither of those are as straightforward to get as the standard gases
 
-150
+149
 00:05:30,100 --> 00:05:32,100
 if you haven't gotten into bees or IC2 crops
 
-151
+150
 00:05:32,100 --> 00:05:35,866
 your best bet is to electrolyze cryolite for fluorine and salt for chlorine
 
-152
+151
 00:05:36,700 --> 00:05:37,533
 the good news is
 
-153
+152
 00:05:37,533 --> 00:05:39,900
 you really only need this stuff for LCR's for now
 
-154
+153
 00:05:41,066 --> 00:05:43,000
 the main reason you want to get into these right away
 
-155
+154
 00:05:43,000 --> 00:05:45,266
 is you can send multiple fluids into them to react
 
-156
+155
 00:05:45,433 --> 00:05:47,800
 that's right no more cell management
 
-157
+156
 00:05:47,933 --> 00:05:49,300
 at least for chemical reactors
 
-158
+157
 00:05:49,300 --> 00:05:50,866
 the gods rejoice
 
-159
+158
 00:05:51,066 --> 00:05:53,433
 these things can fit tons of input and output hatches
 
-160
+159
 00:05:53,433 --> 00:05:54,800
 and the outputs can be filtered
 
-161
+160
 00:05:55,133 --> 00:05:56,666
 just remember to mind the recipes tier
 
-162
+161
 00:05:56,666 --> 00:05:58,633
 and be smart about how much power you supply
 
-163
+162
 00:05:59,400 --> 00:06:01,666
 next up, you can start cooking some new boules
 
-164
+163
 00:06:01,933 --> 00:06:02,866
 to get the phosphorus
 
-165
+164
 00:06:02,866 --> 00:06:04,833
 you can break down tricalcium phosphate
 
-166
+165
 00:06:05,000 --> 00:06:07,333
 grabbable at apatite vein in the overworld
 
-167
+166
 00:06:07,933 --> 00:06:09,733
 you'll also need nitrogen in the EBF
 
-168
+167
 00:06:09,733 --> 00:06:13,033
 which you can get from cell cycling compressed air cells into a centrifuge
 
-169
+168
 00:06:13,833 --> 00:06:14,666
 once again
 
-170
+169
 00:06:14,666 --> 00:06:15,833
 this is a long smelt
 
-171
+170
 00:06:16,100 --> 00:06:17,633
 good thing you just upgraded your fuel
 
-172
+171
 00:06:17,933 --> 00:06:19,266
 these aren't a hard requirement
 
-173
+172
 00:06:19,266 --> 00:06:20,600
 other than to complete the quest
 
-174
+173
 00:06:20,600 --> 00:06:22,100
 but like with the other circuit components
 
-175
+174
 00:06:22,100 --> 00:06:24,500
 your resources go further the better the input is
 
-176
+175
 00:06:25,466 --> 00:06:26,400
 while the boules cook
 
-177
+176
 00:06:26,400 --> 00:06:28,266
 it's time to start preparing for the clean room
 
-178
+177
 00:06:28,700 --> 00:06:30,800
 the quest book does a good job explaining how it works
 
-179
+178
 00:06:30,800 --> 00:06:32,066
 so to summarize briefly
 
-180
+179
 00:06:32,466 --> 00:06:34,433
 build a 5 by 5 by 5 box
 
-181
+180
 00:06:34,600 --> 00:06:36,133
 put the controller in the top middle
 
-182
+181
 00:06:36,400 --> 00:06:38,200
 surround it with filter machine casings
 
-183
+182
 00:06:38,266 --> 00:06:40,200
 and make the rest out of plascrete blocks
 
-184
+183
 00:06:41,233 --> 00:06:43,000
 toss down an LV Energy hatch
 
-185
+184
 00:06:43,266 --> 00:06:44,333
 a maintenance hatch
 
-186
+185
 00:06:44,400 --> 00:06:45,200
 and a way in
 
-187
+186
 00:06:45,933 --> 00:06:48,733
 and the last thing you absolutely need is the cable diode
 
-188
+187
 00:06:48,900 --> 00:06:51,466
 and the 4 amp MV diode will work just fine to begin
 
-189
+188
 00:06:52,200 --> 00:06:53,300
 stick the diode in a wall
 
-190
+189
 00:06:53,300 --> 00:06:54,833
 and run the right amount of power in
 
-191
+190
 00:06:57,066 --> 00:06:58,233
 as the quest book suggests
 
-192
+191
 00:06:58,233 --> 00:07:00,233
 you need to give the cleanroom 40 EU per tick
 
-193
+192
 00:07:00,266 --> 00:07:02,466
 so two LV generators will do the job
 
-194
+193
 00:07:03,133 --> 00:07:04,800
 you probably remember from dealing with the EBF
 
-195
+194
 00:07:04,800 --> 00:07:07,100
 that an energy hatch can take 2 amps of power
 
-196
+195
 00:07:07,233 --> 00:07:09,000
 so send power from both right on in
 
-197
+196
 00:07:09,333 --> 00:07:11,300
 and don't forget to send the power into the diode too
 
-198
+197
 00:07:13,066 --> 00:07:14,000
 do some maintenance
 
-199
+198
 00:07:14,000 --> 00:07:15,666
 then pop on in and turn the cleaner on
 
-200
+199
 00:07:16,133 --> 00:07:16,833
 if all is well
 
-201
+200
 00:07:16,833 --> 00:07:18,000
 you'll see it starts working
 
-202
+201
 00:07:18,000 --> 00:07:21,333
 and very slowly increases the efficiency by one percent at a time
 
-203
+202
 00:07:21,833 --> 00:07:23,500
 anything less than 100% efficiency
 
-204
+203
 00:07:23,500 --> 00:07:24,733
 and you might void an item
 
-205
+204
 00:07:24,866 --> 00:07:26,666
 and if it happens to be a mainframe circuit
 
-206
+205
 00:07:26,666 --> 00:07:28,000
 you're gonna have a bad time
 
-207
+206
 00:07:28,733 --> 00:07:31,000
 opening the door to the clean room lowers the efficiency
 
-208
+207
 00:07:31,000 --> 00:07:32,933
 so replace it with an elevator or a travel anchor
 
-209
+208
 00:07:32,933 --> 00:07:34,266
 and act like you never made it
 
-210
+209
 00:07:35,066 --> 00:07:36,300
 run some cable from the diode
 
-211
+210
 00:07:36,300 --> 00:07:39,333
 and plop down the cutting machine, laser engraver and the circuit assembler
 
-212
+211
 00:07:40,266 --> 00:07:42,533
 you'll need HV power in the clean room very soon
 
-213
+212
 00:07:42,533 --> 00:07:43,433
 but for the moment
 
-214
+213
 00:07:43,533 --> 00:07:44,333
 you're gaming
 
-215
+214
 00:07:45,500 --> 00:07:47,733
 if you figured out chlorine enough to get the polytetra
 
-216
+215
 00:07:47,733 --> 00:07:50,733
 hopefully you have some spare for a massive batch of iron (III) chloride
 
-217
+216
 00:07:51,066 --> 00:07:53,166
 you were able to put off the circuit boards last episode
 
-218
+217
 00:07:53,166 --> 00:07:54,300
 but not anymore
 
-219
+218
 00:07:55,000 --> 00:07:56,133
 aside from just the chlorine
 
-220
+219
 00:07:56,133 --> 00:08:01,733
 you're about to use the most insane quantity of copper that you have ever seen required by modded Minecraft
 
-221
+220
 00:08:01,733 --> 00:08:02,666
 at least so far
 
-222
+221
 00:08:03,233 --> 00:08:05,466
 be sure to use the best recipes you can afford
 
-223
+222
 00:08:05,900 --> 00:08:07,833
 and if you think you have enough circuit supplies
 
-224
+223
 00:08:07,833 --> 00:08:08,666
 you don't
 
-225
+224
 00:08:09,233 --> 00:08:11,800
 it might take an entire day to accumulate enough stuff here
 
-226
+225
 00:08:12,400 --> 00:08:13,733
 start with eight stacks of boards
 
-227
+226
 00:08:13,733 --> 00:08:15,433
 but be ready for eight more behind that
 
-228
+227
 00:08:16,266 --> 00:08:18,233
 the circuit quantities are about to explode
 
-229
+228
 00:08:18,700 --> 00:08:21,133
 to make the single IV mainframe you need for the quest
 
-230
+229
 00:08:21,133 --> 00:08:23,200
 you'll need 14 plastic boards
 
-231
+230
 00:08:23,466 --> 00:08:24,900
 it escalates quickly from here
 
-232
+231
 00:08:27,666 --> 00:08:28,700
 on the bright side
 
-233
+232
 00:08:28,700 --> 00:08:32,000
 you can make ULV, LV and MV circuits in a single step now
 
-234
+233
 00:08:32,000 --> 00:08:33,466
 and for as cheap as they're gonna get
 
-235
+234
 00:08:33,700 --> 00:08:35,233
 stock up on LV circuits
 
-236
+235
 00:08:35,333 --> 00:08:36,133
 you'll need them
 
-237
+236
 00:08:37,000 --> 00:08:38,866
 and once you've worked your way up to the EV circuit
 
-238
+237
 00:08:38,866 --> 00:08:43,533
 which by the way use a fluid extractor-fluid solidifier combination for the blue alloy bolts
 
-239
+238
 00:08:43,533 --> 00:08:44,533
 you'll thank yourself
 
-240
+239
 00:08:45,066 --> 00:08:46,333
 you can make the vacuum freezer
 
-241
+240
 00:08:46,333 --> 00:08:48,100
 which you should do as a priority
 
-242
+241
 00:08:48,700 --> 00:08:50,133
 no more silly coolant cooling
 
-243
+242
 00:08:50,600 --> 00:08:51,733
 and no better time either
 
-244
+243
 00:08:51,733 --> 00:08:54,833
 because you've just realized how important those cheaper circuit components are
 
-245
+244
 00:08:54,833 --> 00:08:59,666
 and you want to cook copious volumes of tantalum you've just extracted from the nether with your shiny new miners
 
-246
+245
 00:09:01,966 --> 00:09:05,600
 so add an HV diode, an HV generator and the HV circuit assembler
 
-247
+246
 00:09:05,600 --> 00:09:07,433
 and make your first IV circuits
 
-248
+247
 00:09:07,666 --> 00:09:09,433
 my God they're pricey
 
-249
+248
 00:09:10,900 --> 00:09:12,700
 and go ahead and make the NASA workbench too
 
-250
+249
 00:09:12,833 --> 00:09:14,133
 it'll make you feel good to have it
 
-251
+250
 00:09:14,233 --> 00:09:15,200
 however briefly
 
-252
+251
 00:09:16,033 --> 00:09:18,033
 you can grab the implosion compressor now as well
 
-253
+252
 00:09:18,066 --> 00:09:19,700
 at this point an easy craft
 
-254
+253
 00:09:19,933 --> 00:09:22,533
 the problem is you need explosives
 
-255
+254
 00:09:23,433 --> 00:09:26,833
 I'm going to take this as another opportunity to encourage getting into bees
 
-256
+255
 00:09:26,833 --> 00:09:31,100
 because staying in supply of iTNT without them is going to be a little bit more complicated
 
-257
+256
 00:09:31,733 --> 00:09:33,733
 another shameless plug of Aditya's bees guide
 
-258
+257
 00:09:33,866 --> 00:09:35,500
 watch them, use them
 
-259
+258
 00:09:35,633 --> 00:09:36,933
 hold them in highest esteem
 
-260
+259
 00:09:37,866 --> 00:09:39,533
 in case that doesn't interest you at all
 
-261
+260
 00:09:39,600 --> 00:09:40,800
 here's your alternatives
 
-262
+261
 00:09:41,266 --> 00:09:43,700
 more setups for hydrogen oxygen and nitrogen
 
-263
+262
 00:09:43,800 --> 00:09:45,333
 being used to make ammonia
 
-264
+263
 00:09:45,333 --> 00:09:46,466
 nitrogen oxide
 
-265
+264
 00:09:46,466 --> 00:09:47,800
 nitrogen dioxide
 
-266
+265
 00:09:47,800 --> 00:09:49,500
 and then nitric acid
 
-267
+266
 00:09:50,300 --> 00:09:52,600
 it's still a bit early to centralize fluids easily
 
-268
+267
 00:09:52,800 --> 00:09:55,133
 but you'll need these chemicals again for the cetane-boosted diesel
 
-269
+268
 00:09:55,133 --> 00:09:56,200
 so keep that in mind
 
-270
+269
 00:09:56,600 --> 00:09:58,900
 you can probably share at least this setup if you're smart
 
-271
+270
 00:09:59,866 --> 00:10:03,200
 if you're mixing sulfuric acid from the hydrogen sulfide you're getting from the oil line
 
-272
+271
 00:10:03,200 --> 00:10:05,266
 route some over here and combine it with a nitric acid
 
-273
+272
 00:10:05,633 --> 00:10:08,300
 otherwise divert some oxygen from your local setup
 
-274
+273
 00:10:08,433 --> 00:10:12,000
 and mix some fresh on site to combine with a nitric acid for a nitration mixture
 
-275
+274
 00:10:12,266 --> 00:10:14,600
 and use the LCR recipe, it's easier
 
-276
+275
 00:10:15,133 --> 00:10:17,033
 you got the toluene from distilling naphtha
 
-277
+276
 00:10:17,266 --> 00:10:20,200
 so send it through a ball mold in the fluid solidifier for gelled toluene
 
-278
+277
 00:10:20,900 --> 00:10:21,800
 if you're set up for it
 
-279
+278
 00:10:21,800 --> 00:10:24,700
 you get better returns on the toluene using sugar and polyethylene
 
-280
+279
 00:10:25,200 --> 00:10:27,066
 but when's the last time you checked on your farms
 
-281
+280
 00:10:28,233 --> 00:10:30,533
 do bees really seem that bad to do now
 
-282
+281
 00:10:30,866 --> 00:10:32,433
 it's not getting any better from here
 
-283
+282
 00:10:32,800 --> 00:10:33,600
 trust me
 
-284
+283
 00:10:33,900 --> 00:10:35,966
 after you have a couple dozen stacks of iTNT or so
 
-285
+284
 00:10:35,966 --> 00:10:37,700
 you can make compressed plates
 
-286
+285
 00:10:38,300 --> 00:10:41,066
 you're going to use an insane amount of resources here
 
-287
+286
 00:10:41,066 --> 00:10:42,433
 if you follow the order of the guide
 
-288
+287
 00:10:42,433 --> 00:10:46,300
 this represents days and days of effort and smelting and crafting
 
-289
+288
 00:10:46,633 --> 00:10:47,933
 the videos have been snappy
 
-290
+289
 00:10:47,933 --> 00:10:50,266
 but don't mistake that for progress being fast
 
-291
+290
 00:10:52,066 --> 00:10:55,300
 as usual the quest book does an excellent job of laying out the steps
 
-292
+291
 00:10:55,300 --> 00:10:56,666
 you need most of the stuff here
 
-293
+292
 00:10:56,933 --> 00:10:59,333
 slowly but surely make your way towards the rocket
 
-294
+293
 00:10:59,333 --> 00:11:00,400
 the tier 1 lander
 
-295
+294
 00:11:00,400 --> 00:11:01,466
 the oxygen gear
 
-296
+295
 00:11:01,466 --> 00:11:02,600
 and the launch equipment
 
-297
+296
 00:11:03,700 --> 00:11:04,666
 and when you have it all
 
-298
+297
 00:11:04,666 --> 00:11:06,200
 you'll need to gas up the beast
 
-299
+298
 00:11:06,600 --> 00:11:07,733
 you have two choices
 
-300
+299
 00:11:07,866 --> 00:11:10,466
 cetane-boosted diesel or RP1 rocket fuel
 
-301
+300
 00:11:11,000 --> 00:11:14,200
 and cetane is going to be pretty easy if you follow it along pretty closely
 
-302
+301
 00:11:14,833 --> 00:11:17,900
 you've got nitric acid and sulfuric acid standing by for making TNT
 
-303
+302
 00:11:17,900 --> 00:11:19,333
 and extra ethylene from distilling naphtha
 
-304
+303
 00:11:19,333 --> 00:11:21,333
 you can mix with oxygen for acetic acid
 
-305
+304
 00:11:21,500 --> 00:11:23,333
 the last chemical you need to get ethenone
 
-306
+305
 00:11:23,466 --> 00:11:26,733
 and ultimately tetranitromethane once you react it with the nitric acid
 
-307
+306
 00:11:27,200 --> 00:11:28,466
 mix that with a bit of fuel
 
-308
+307
 00:11:28,466 --> 00:11:29,866
 and you're ready for space flight
 
-309
+308
 00:11:30,333 --> 00:11:32,033
 if you can automate this whole process
 
-310
+309
 00:11:32,033 --> 00:11:34,633
 this is a pretty big upgrade from regular fuel for your base too
 
-311
+310
 00:11:36,100 --> 00:11:37,466
 snag up that space gear
 
-312
+311
 00:11:37,500 --> 00:11:39,066
 and it's time for final checks
 
-313
+312
 00:11:39,133 --> 00:11:40,466
 and be sure you make them
 
-314
+313
 00:11:41,400 --> 00:11:42,633
 go ahead and fill your oxygen
 
-315
+314
 00:11:42,933 --> 00:11:45,200
 you'll notice that the galacticraft blocks are sided
 
-316
+315
 00:11:45,233 --> 00:11:47,000
 so make sure the energy is actually going in
 
-317
+316
 00:11:47,000 --> 00:11:49,400
 and the oxygen is actually coming out on the collector
 
-318
+317
 00:11:49,433 --> 00:11:51,233
 and that both are going in on the compressor
 
-319
+318
 00:11:51,700 --> 00:11:52,866
 goofy little blocks
 
-320
+319
 00:11:53,133 --> 00:11:54,333
 and don't forget to bring them with you
 
-321
+320
 00:11:55,666 --> 00:11:57,033
 then it's confirming:
 
-322
+321
 00:11:57,033 --> 00:12:06,433
 oxygen, tanks, miners, compressed chests, generators, fuel, leaves, a fuel loader, glowstone torches, EnderIO capacitor and energy conduits
 
-323
+322
 00:12:07,133 --> 00:12:08,266
 check check check
 
-324
+323
 00:12:09,033 --> 00:12:10,533
 you can collect oxygen on the moon too
 
-325
+324
 00:12:10,533 --> 00:12:12,233
 that's why you're bringing the stack of leaves
 
-326
+325
 00:12:12,233 --> 00:12:13,300
 just cut out a cave
 
-327
+326
 00:12:13,300 --> 00:12:14,166
 line them with leaves
 
-328
+327
 00:12:14,166 --> 00:12:15,333
 and plop the collector down
 
-329
+328
 00:12:16,100 --> 00:12:17,833
 the more leaves close by the better
 
-330
+329
 00:12:18,433 --> 00:12:19,233
 and with that
 
-331
+330
 00:12:19,466 --> 00:12:20,600
 you're ready to launch
 
-332
+331
 00:12:20,866 --> 00:12:21,833
 don't forget anything
 
-333
+332
 00:12:58,833 --> 00:12:59,833
 mission control
 
-334
+333
 00:12:59,833 --> 00:13:00,866
 this is flight commander
 
-335
+334
 00:13:01,066 --> 00:13:02,066
 we have impact
 
-336
+335
 00:13:03,433 --> 00:13:04,533
 no time to waste
 
-337
+336
 00:13:04,833 --> 00:13:07,000
 slay monsters and light the night if you need to
 
-338
+337
 00:13:07,066 --> 00:13:08,833
 otherwise get right to work prospecting
 
-339
+338
 00:13:08,833 --> 00:13:10,600
 and looking around for the dungeon entrance
 
-340
+339
 00:13:10,666 --> 00:13:12,100
 basically just a big hole in the ground
 
-341
+340
 00:13:12,100 --> 00:13:13,700
 and you can see bricks at the bottom of it
 
-342
+341
 00:13:14,800 --> 00:13:19,300
 you're looking for neodymium, bauxite, ilmenite, chromite and aluminum
 
-343
+342
 00:13:19,833 --> 00:13:22,033
 tons of goodies here to supply life on earth
 
-344
+343
 00:13:22,466 --> 00:13:25,033
 get your miners out. get them set, and get them chunk loaded
 
-345
+344
 00:13:25,033 --> 00:13:26,133
 then go boss hunting
 
-346
+345
 00:13:27,700 --> 00:13:28,733
 even if you can't fly
 
-347
+346
 00:13:28,733 --> 00:13:31,466
 you can really just zip right through the dungeon straight to the boss arena
 
-348
+347
 00:13:32,000 --> 00:13:34,700
 and kill the boss very very easily
 
-349
+348
 00:13:48,800 --> 00:13:50,433
 grab the key, check the chest
 
-350
+349
 00:13:50,433 --> 00:13:52,866
 and cross your fingers for a tier 2 rocket template
 
-351
+350
 00:14:02,700 --> 00:14:03,500
 eh
 
-352
+351
 00:14:03,733 --> 00:14:04,666
 if you don't get one
 
-353
+352
 00:14:04,666 --> 00:14:07,100
 find more dungeons and kill more bosses until you do
 
-354
+353
 00:14:07,100 --> 00:14:08,200
 it won't take long
 
-355
+354
 00:14:10,433 --> 00:14:12,433
 once you're content with your haul, head on home
 
-356
+355
 00:14:12,733 --> 00:14:15,200
 don't feel bad about making a home location on the moon either
 
-357
+356
 00:14:15,200 --> 00:14:17,300
 no one is judging you because no one knows you did it
 
-358
+357
 00:14:20,800 --> 00:14:21,800
 and all that's left now
 
-359
+358
 00:14:21,800 --> 00:14:24,133
 is processing the aluminate and bauxite into rutile
 
-360
+359
 00:14:25,933 --> 00:14:28,666
 full on maxing out the production is going to be worth it here
 
-361
+360
 00:14:28,666 --> 00:14:30,733
 so macerate the bauxite ore down to crush form
 
-362
+361
 00:14:30,733 --> 00:14:32,966
 then send it through a chemical bath with sodium persulfate
 
-363
+362
 00:14:33,533 --> 00:14:36,900
 you can expand on this by processing the purified bauxite into bauxite slurry
 
-364
+363
 00:14:36,900 --> 00:14:38,866
 and investing in the full bauxite line
 
-365
+364
 00:14:39,133 --> 00:14:41,266
 we ain't going to cover it now, but look it up
 
-366
+365
 00:14:41,333 --> 00:14:44,133
 insane returns, insane
 
-367
+366
 00:14:44,733 --> 00:14:46,600
 you can do some similar things with the ilmenite too
 
-368
+367
 00:14:46,600 --> 00:14:48,133
 except using sulfuric acid for insane returns on rutile
 
-369
-00:14:48,133 --> 00:14:49,833
-（向上合并）
-
-370
+368
 00:14:49,833 --> 00:14:52,100
 and a closed loop for getting the sulfuric acid back
 
-371
+369
 00:14:52,266 --> 00:14:53,200
 but not until EV
 
-372
+370
 00:14:53,700 --> 00:14:54,466
 if you're desperate
 
-373
+371
 00:14:54,466 --> 00:14:56,066
 you can run ilmenite through the full
 
-374
+372
 00:14:56,066 --> 00:14:58,300
 macerator-washer-macerator-centrifuge line
 
-375
+373
 00:14:58,300 --> 00:14:59,433
 for some bonus rutile
 
-376
+374
 00:14:59,733 --> 00:15:02,000
 but you're probably better off just getting more bauxite
 
-377
+375
 00:15:03,300 --> 00:15:04,533
 once you're all set on rutile
 
-378
+376
 00:15:04,533 --> 00:15:06,333
 you can start converting it into titanium
 
-379
+377
 00:15:07,133 --> 00:15:08,333
 the quest book explains it
 
-380
+378
 00:15:08,333 --> 00:15:08,866
 but in short
 
-381
+379
 00:15:08,866 --> 00:15:10,833
 the whole processing line is a giant closed loop
 
-382
+380
 00:15:10,833 --> 00:15:12,333
 where the only input is rutile
 
-383
+381
 00:15:12,833 --> 00:15:13,533
 to kick start it
 
-384
+382
 00:15:13,533 --> 00:15:16,266
 you need chlorine and carbon to go with the rutile at an LCR
 
-385
+383
 00:15:16,633 --> 00:15:18,666
 electrolyze the resulting carbon monoxide
 
-386
+384
 00:15:18,666 --> 00:15:21,333
 send the titanium chloride to the EBF with magnesium
 
-387
+385
 00:15:21,633 --> 00:15:23,300
 cool the resulting hot titanium
 
+386
+00:15:23,300 --> 00:15:28,066
+and send the magnesium chloride to a chemical reactor to combine with sodium for the magnesium back and some salt
+
+387
+00:15:28,066 --> 00:15:31,633
+which you can electrolyze for your original chlorine and the sodium you just used
+
 388
-00:15:23,300 --> 00:15:27,466
-and send the magnesium chloride to a chemical reactor to combine with sodium for the magnesium back
-
-389
-00:15:27,466 --> 00:15:31,633
-and some salt which you can electrolyze for your original chlorine and the sodium you just used
-
-390
 00:15:32,700 --> 00:15:34,400
 all it takes is a little logistics
 
-391
+389
 00:15:34,400 --> 00:15:36,400
 and it can run as long as you stay in rutile
 
-392
+390
 00:15:39,300 --> 00:15:42,533
 and you're gonna want to run it for a long long time
 
-393
+391
 00:15:43,066 --> 00:15:43,866
 you've done it
 
-394
+392
 00:15:43,900 --> 00:15:45,100
 you're out of the early game
 
-395
+393
 00:15:45,300 --> 00:15:47,533
 you're officially no longer a beginner
 
-396
+394
 00:15:48,000 --> 00:15:49,466
 just in time for new beginnings
 
-397
+395
 00:15:49,666 --> 00:15:51,133
 this is GTNH after all
 
-398
+396
 00:15:51,333 --> 00:15:52,933
 the learning is never done
 
-399
+397
 00:15:53,666 --> 00:15:55,333
 there's a lot more to do in HV too
 
-400
+398
 00:15:55,400 --> 00:15:56,800
 but you know how to look around now
 
-401
+399
 00:15:57,266 --> 00:15:59,466
 Applied Energistics is on the horizon
 
-402
+400
 00:15:59,600 --> 00:16:01,633
 if you can get enough titanium that is
 
-403
+401
 00:16:02,033 --> 00:16:05,700
 hopefully this guide sets you up with enough information to take a real crack at the pack
 
-404
+402
 00:16:05,933 --> 00:16:06,933
 you won't regret it
 
-405
+403
 00:16:07,400 --> 00:16:08,333
 see you in the game
 
-406
+404
 00:16:08,866 --> 00:16:11,233
 and hey stay positive out there
 
-407
+405
 00:00:02,033 --> 00:00:02,933
 就是现在
 
-408
+406
 00:00:03,333 --> 00:00:05,866
-你的发电
+你的发电高得吓人
 
-409
+407
 00:00:06,200 --> 00:00:08,066
 你的化工仓储都快爆仓了
 
-410
+408
 00:00:08,833 --> 00:00:11,200
 你的高炉已经运行了好几天了
 
-411
+409
 00:00:11,866 --> 00:00:13,666
 你手里不锈钢多到离谱
 
-412
+410
 00:00:14,066 --> 00:00:16,733
 但现在你得迈向其他星球
 
-413
+411
 00:00:17,300 --> 00:00:19,866
 太空的真空对没做好准备的人是致命的
 
-414
+412
 00:00:20,833 --> 00:00:21,866
 但这就是你为什么点开这个视频
 
-415
+413
 00:00:22,066 --> 00:00:23,433
 现在到了冲刺阶段
 
-416
+414
 00:00:23,666 --> 00:00:25,333
 你已经站在中期的门槛上
 
-417
+415
 00:00:25,733 --> 00:00:27,500
 准备告别新手阶段
 
-418
+416
 00:00:27,833 --> 00:00:30,000
 所以这次我们将奔赴太空
 
-419
+417
 00:00:30,233 --> 00:00:31,833
 这是第八集
 
-420
-00:00:32,133 --> 00:00:32,933
-HV
-
-421
+418
 00:00:33,300 --> 00:00:35,633
 向着渺渺星辰进发
 
-422
+419
 00:00:48,800 --> 00:00:50,300
 MV任务基本是一条直线推进
 
-423
+420
 00:00:50,533 --> 00:00:52,200
 一个漂亮的小独立章节
 
-424
+421
 00:00:52,633 --> 00:00:54,133
 HV则相反
 
-425
+422
 00:00:54,466 --> 00:00:56,833
 你会在任务书里跳来跳去
 
-426
+423
 00:00:57,500 --> 00:00:59,100
 这些基本套路你应该已经熟了
 
-427
+424
 00:00:59,100 --> 00:01:01,000
 所以还是先从“你会讨厌这个的”任务开始
 
-428
+425
 00:01:01,400 --> 00:01:02,200
 只是提醒一下
 
-429
+426
 00:01:02,233 --> 00:01:04,500
 每个电压阶段都会有一堆新内容
 
-430
+427
 00:01:04,600 --> 00:01:06,433
 但也总有一些重复的老套路
 
-431
+428
 00:01:08,200 --> 00:01:09,400
 制造机器部件
 
-432
+429
 00:01:09,800 --> 00:01:11,100
 升级机器
 
-433
+430
 00:01:11,333 --> 00:01:12,700
 做能源仓
 
-434
+431
 00:01:12,866 --> 00:01:13,800
 制作线圈
 
-435
+432
 00:01:14,133 --> 00:01:15,100
 制造塑料
 
-436
+433
 00:01:15,633 --> 00:01:17,100
 并改进电路板
 
-437
+434
 00:01:17,433 --> 00:01:18,900
 有时顺序会发生变化
 
-438
+435
 00:01:19,200 --> 00:01:21,066
 有些事你可以拖很久再做
 
-439
+436
 00:01:21,266 --> 00:01:23,066
 但最后你都得补课
 
-440
+437
 00:01:23,800 --> 00:01:25,600
 假设你已经烧好了需要的不锈钢
 
-441
+438
 00:01:25,600 --> 00:01:27,200
 也别忘了继续挖基础矿物
 
-442
+439
 00:01:27,200 --> 00:01:28,466
 尤其是铜
 
-443
+440
 00:01:28,733 --> 00:01:30,633
 没有什么可以阻挡你去挖铜
 
-444
+441
 00:01:31,133 --> 00:01:32,833
 你可以立刻做MV电路组装机
 
-445
+442
 00:01:32,833 --> 00:01:34,266
 电路板生产速度会直接起飞
 
-446
+443
 00:01:34,600 --> 00:01:37,200
 不过有超净间之前你还做不了新电路板
 
-447
+444
 00:01:37,466 --> 00:01:38,300
 我们后面会讲到这一点
 
-448
+445
 00:01:38,466 --> 00:01:40,000
 你现在可以利用它的处理速度的提升
 
-449
+446
 00:01:40,000 --> 00:01:41,633
 并获得一些重要的升级
 
-450
+447
 00:01:42,800 --> 00:01:45,133
 HV矿机非常值得拥有
 
-451
+448
 00:01:45,300 --> 00:01:48,033
 也是你迈向多方块采矿机前的最后一站
 
-452
+449
 00:01:48,133 --> 00:01:49,100
 直接做3到4台
 
-453
+450
 00:01:49,100 --> 00:01:51,666
 让它们全天不停机
 
-454
+451
 00:01:51,900 --> 00:01:53,333
 压缩箱子也顺手做上
 
-455
+452
 00:01:53,666 --> 00:01:54,466
 它们很贵
 
-456
+453
 00:01:54,466 --> 00:01:56,066
 但是优点是拆掉会保留内容物
 
-457
+454
 00:01:56,066 --> 00:01:58,933
 对采矿流程来说是极大的提升
 
-458
+455
 00:01:59,466 --> 00:02:01,666
 HV机器还增加了一个输出槽
 
-459
+456
 00:02:01,666 --> 00:02:05,300
 这样你能在矿处的各阶段获得副产物
 
-460
+457
 00:02:05,800 --> 00:02:07,466
 不是每种副产物都值得留下
 
-461
+458
 00:02:07,500 --> 00:02:08,933
 有些只会把产线堵死
 
-462
+459
 00:02:09,000 --> 00:02:13,033
 所以这阶段若没用上一些魔法手段，过滤和自动化会有点难办
 
-463
+460
 00:02:13,066 --> 00:02:16,033
 配几台研磨机、洗矿机和离心机
 
-464
+461
 00:02:16,033 --> 00:02:17,933
 你的资源就能一直很充足
 
-465
+462
 00:02:18,233 --> 00:02:20,500
 尤其是铜处理，能产出不少额外的金
 
-466
+463
 00:02:20,600 --> 00:02:22,500
 但是很多东西都值得一试
 
-467
+464
 00:02:22,700 --> 00:02:24,300
 镍矿先过研磨
 
-468
+465
 00:02:24,300 --> 00:02:26,066
 再过汞化学浸洗
 
-469
+466
 00:02:26,066 --> 00:02:28,200
 能在前期顺带得到可观的铂产出
 
-470
+467
 00:02:28,900 --> 00:02:30,866
 你应该把车间里的机器都升级一遍
 
-471
-00:02:30,866 --> 00:02:33,000
+468
+00:02:30,866 --> 00:02:34,900
 但直到你的化工和硅等被动产线速度跟不上之前
 
-472
-00:02:33,000 --> 00:02:34,933
-（向上合并）
-
-473
+469
 00:02:34,933 --> 00:02:36,300
 别急着升级
 
-474
+470
 00:02:36,333 --> 00:02:39,033
 不然只会更早跳电
 
-475
+471
 00:02:39,266 --> 00:02:39,733
 在这个阶段
 
-476
+472
 00:02:39,733 --> 00:02:43,733
 这个阶段最吃电的是EBF和你新搭的矿处
 
-477
+473
 00:02:44,133 --> 00:02:46,000
 用你所有的燃料来维持它们的运转
 
-478
+474
 00:02:46,000 --> 00:02:47,900
 有余电再供给车间
 
-479
+475
 00:02:48,233 --> 00:02:50,866
 如果没有，现在你可以利用你的之前蒸汽基础设施
 
-480
+476
 00:02:50,866 --> 00:02:53,733
 给手搓用的机器慢慢充电也行
 
-481
+477
 00:02:54,300 --> 00:02:57,333
 等电池充电再用单方块很烦
 
-482
+478
 00:02:57,333 --> 00:03:01,200
 但EBF吞材料后返工更痛苦
 
-483
+479
 00:03:01,633 --> 00:03:03,500
 如果你已经等得受不了了
 
-484
+480
 00:03:03,500 --> 00:03:05,200
 就该扩建发电了
 
-485
+481
 00:03:05,400 --> 00:03:06,633
 如果你的发电撑得住
 
-486
+482
 00:03:06,633 --> 00:03:07,933
 就直接去做超净间
 
-487
+483
 00:03:08,033 --> 00:03:09,866
 不管怎么样，以下的建议你都应该听听
 
-488
+484
 00:03:11,000 --> 00:03:12,266
 如果你是走石油发电路线
 
-489
+485
 00:03:12,266 --> 00:03:13,700
 坦白说，即使没有
 
-490
+486
 00:03:13,800 --> 00:03:15,400
 你也该考虑上油气流体钻机
 
-491
+487
 00:03:15,400 --> 00:03:16,700
 再配长距离管道
 
-492
+488
 00:03:17,233 --> 00:03:18,500
 拿探矿器在基岩上勘探
 
-493
+489
 00:03:18,500 --> 00:03:20,233
 找一个普通原油的虚拟油气田
 
-494
+490
 00:03:20,500 --> 00:03:22,133
 地下油田的储量非常大
 
-495
+491
 00:03:22,133 --> 00:03:24,400
 能保证你在这里抽很长一段时间
 
-496
+492
 00:03:24,866 --> 00:03:26,300
 把多方块油气流体钻机搭起来
 
-497
+493
 00:03:26,300 --> 00:03:28,033
 接好长距离管道输入
 
-498
+494
 00:03:28,033 --> 00:03:28,866
 加载区块
 
-499
+495
 00:03:28,900 --> 00:03:31,100
 一路铺管道回到基地
 
-500
+496
 00:03:32,266 --> 00:03:33,500
 当你回来的时候
 
-501
+497
 00:03:33,500 --> 00:03:35,500
 把原油送进你新建的蒸馏塔
 
-502
+498
 00:03:35,933 --> 00:03:39,066
 这个多方块有不少配置方案
 
-503
+499
 00:03:39,466 --> 00:03:40,800
 要弄清楚你改用哪一个
 
-504
+500
 00:03:40,800 --> 00:03:42,333
 先看你跑的是哪条配方
 
-505
+501
 00:03:42,900 --> 00:03:44,033
 从蒸馏开始
 
-506
+502
 00:03:44,033 --> 00:03:47,000
 MV阶段蒸馏原油会给4种输出
 
-507
+503
 00:03:47,200 --> 00:03:48,333
 正如 tooltip 写的那样
 
-508
+504
 00:03:48,333 --> 00:03:50,233
 每一层最多放一个流体输出仓
 
-509
+505
 00:03:50,233 --> 00:03:52,266
 物品输出必须放底层
 
-510
+506
 00:03:52,400 --> 00:03:54,133
 所以塔至少要5层高
 
-511
+507
 00:03:54,466 --> 00:03:55,433
 很容易对吧
 
-512
+508
 00:03:55,900 --> 00:03:56,933
 就像单方块蒸馏一样
 
-513
+509
 00:03:56,933 --> 00:03:58,666
 这些输出的馏分都含硫
 
-514
+510
 00:03:58,800 --> 00:04:01,100
 要和氢反应脱硫后才是洁净产物
 
-515
+511
 00:04:01,500 --> 00:04:04,466
 如果你使用有五个输入仓的大化反
 
-516
+512
 00:04:04,466 --> 00:04:06,500
 每种石油产物一个输入仓，再加一个氢输入仓
 
-517
+513
 00:04:06,500 --> 00:04:07,700
 再配两个输出仓
 
-518
+514
 00:04:07,700 --> 00:04:10,600
 一台机器就能把整套产物都脱硫
 
-519
+515
 00:04:10,900 --> 00:04:12,833
 你可能需要专门的制氢设备
 
-520
+516
 00:04:12,833 --> 00:04:16,033
 记得把硫化氢存起来，后面做硫酸要用
 
-521
+517
 00:04:16,266 --> 00:04:19,433
 你很快就会需要每一滴你能拿到的东西
 
-522
+518
 00:04:19,733 --> 00:04:21,200
 一旦你得到干净的输出
 
-523
+519
 00:04:21,200 --> 00:04:22,700
 是时候决定怎么处理它们了
 
-524
+520
 00:04:22,900 --> 00:04:24,666
 我建议起步这样配
 
-525
+521
 00:04:25,000 --> 00:04:26,933
 轻燃油和重燃油混合成柴油
 
-526
+522
 00:04:27,066 --> 00:04:28,933
 这样你要么多了一个补充燃料源
 
-527
+523
 00:04:28,933 --> 00:04:30,533
 要么直接提升了你的现有燃料产线
 
-528
+524
 00:04:31,500 --> 00:04:33,600
 石脑油送进多方块石油裂化机
 
-529
+525
 00:04:33,600 --> 00:04:34,700
 轻度蒸汽裂化
 
-530
+526
 00:04:34,700 --> 00:04:37,400
 再送进满配蒸馏塔
 
-531
+527
 00:04:37,700 --> 00:04:40,333
 也就是12层高、11个流体输出的蒸馏塔
 
-532
+528
 00:04:40,433 --> 00:04:42,100
 每一个输出仓都配超级缸
 
-533
+529
 00:04:42,433 --> 00:04:43,866
 每一种化学品都用得上
 
-534
+530
 00:04:43,866 --> 00:04:45,866
 有些产物很快就会发挥关键作用
 
-535
+531
 00:04:46,466 --> 00:04:47,733
 至于炼油气
 
-536
+532
 00:04:47,733 --> 00:04:50,333
 它也能蒸汽裂化后，送进6层高的蒸馏塔蒸馏
 
-537
+533
 00:04:50,433 --> 00:04:51,200
 但目前
 
-538
+534
 00:04:51,200 --> 00:04:52,733
 如果你暂时只想用单方块蒸馏机
 
-539
+535
 00:04:52,733 --> 00:04:55,466
 先多产点乙烯去喂聚乙烯产线
 
-540
+536
 00:04:55,500 --> 00:04:56,633
 我完全能理解
 
-541
+537
 00:04:57,100 --> 00:04:58,866
 你还可以从石脑油中提取乙烯
 
-542
+538
 00:04:58,866 --> 00:05:00,033
 你应该都准备好了
 
-543
+539
 00:05:00,800 --> 00:05:01,933
 如果你选择所有机器都用单方块
 
-544
+540
 00:05:01,933 --> 00:05:03,933
 除了石油裂化机和蒸馏塔
 
-545
+541
 00:05:04,033 --> 00:05:06,266
 如果你搭好了整条产线，它大概看起来这样
 
-546
+542
 00:05:06,266 --> 00:05:08,266
 把柴油变成高十六烷值柴油
 
-547
+543
 00:05:08,733 --> 00:05:10,533
 是不是一团麻花？
 
-548
+544
 00:05:11,700 --> 00:05:13,300
 所以让我们回到大化反
 
-549
+545
 00:05:13,600 --> 00:05:15,066
 你要做很多这样的东西
 
-550
+546
 00:05:15,066 --> 00:05:17,033
 所以现在就开始用最合适
 
-551
+547
 00:05:17,500 --> 00:05:19,200
 你需要HV等级的塑料
 
-552
+548
 00:05:19,266 --> 00:05:20,900
 聚四氟乙烯
 
-553
+549
 00:05:21,500 --> 00:05:23,833
 这在任务书里算个小资源门槛
 
-554
+550
 00:05:23,833 --> 00:05:26,266
 你需要足够的氟和氯
 
-555
+551
 00:05:26,333 --> 00:05:29,200
 这两种气体都不像标准气体那样容易获得
 
-556
+552
 00:05:30,100 --> 00:05:32,100
 如果你没有碰蜜蜂或IC2作物
 
-557
+553
 00:05:32,100 --> 00:05:35,866
 最好的办法是电解冰晶石生成氟，电解盐生成氯
 
-558
+554
 00:05:36,700 --> 00:05:37,533
 好消息是
 
-559
+555
 00:05:37,533 --> 00:05:39,900
 至少在当前阶段，这东西主要就是拿来做大化反
 
-560
+556
 00:05:41,066 --> 00:05:43,000
 你要尽快做出它的核心原因是
 
-561
+557
 00:05:43,000 --> 00:05:45,266
 它能直接对多种流体输入进行化学反应
 
-562
+558
 00:05:45,433 --> 00:05:47,800
 没错，告别单元管理
 
-563
+559
 00:05:47,933 --> 00:05:49,300
 至少对化学反应釜来说
 
-564
+560
 00:05:49,300 --> 00:05:50,866
 隔壁小孩儿都乐哭了
 
-565
+561
 00:05:51,066 --> 00:05:53,433
 这东西可以放一大堆输入和输出仓
 
-566
+562
 00:05:53,433 --> 00:05:54,800
 并且可以过滤输出
 
-567
+563
 00:05:55,133 --> 00:05:56,666
 只是记得注意配方的电压等级
 
-568
+564
 00:05:56,666 --> 00:05:58,633
 合理控制供电多少
 
-569
+565
 00:05:59,400 --> 00:06:01,666
 接下来，可以开始烧新的单晶硅
 
-570
+566
 00:06:01,933 --> 00:06:02,866
 要得到磷
 
-571
+567
 00:06:02,866 --> 00:06:04,833
 可以处理磷酸三钙
 
-572
+568
 00:06:05,000 --> 00:06:07,333
 主世界的磷灰石矿脉就能挖到
 
-573
+569
 00:06:07,933 --> 00:06:09,733
 电高炉中还需要氮气
 
-574
+570
 00:06:09,733 --> 00:06:13,033
 可以把压缩空气单元循环送离心机来产氮
 
-575
+571
 00:06:13,833 --> 00:06:14,666
 再一次
 
-576
+572
 00:06:14,666 --> 00:06:15,833
 这又是一轮长时间烧炼
 
-577
+573
 00:06:16,100 --> 00:06:17,633
 幸好你刚升级了燃料
 
-578
+574
 00:06:17,933 --> 00:06:19,266
 这些不是硬性要求
 
-579
+575
 00:06:19,266 --> 00:06:20,600
 除了完成任务
 
-580
+576
 00:06:20,600 --> 00:06:22,100
 但就像其他的电路板组件一样
 
-581
+577
 00:06:22,100 --> 00:06:24,500
 你的原料越好，产品就越高级
 
-582
+578
 00:06:25,466 --> 00:06:26,400
 在单晶硅慢慢烧的同时
 
-583
+579
 00:06:26,400 --> 00:06:28,266
 就该开始准备超净间了
 
-584
+580
 00:06:28,700 --> 00:06:30,800
 任务书解释得很明白
 
-585
+581
 00:06:30,800 --> 00:06:32,066
 简单总结一下
 
-586
+582
 00:06:32,466 --> 00:06:34,433
 建一个5x5x5的盒子
 
-587
+583
 00:06:34,600 --> 00:06:36,133
 将控制器放在顶部中间
 
-588
+584
 00:06:36,400 --> 00:06:38,200
 用过滤机械方块包围它
 
-589
+585
 00:06:38,266 --> 00:06:40,200
 其余部分用塑料混凝土方块
 
-590
+586
 00:06:41,233 --> 00:06:43,000
 放一个LV能源仓
 
-591
+587
 00:06:43,266 --> 00:06:44,333
 维护仓
 
-592
+588
 00:06:44,400 --> 00:06:45,200
 再留一个入口
 
-593
+589
 00:06:45,933 --> 00:06:48,733
 最后还必须有线缆二极管
 
-594
+590
 00:06:48,900 --> 00:06:51,466
 4A MV二极管就够了
 
-595
+591
 00:06:52,200 --> 00:06:53,300
 把二极管塞入墙里
 
-596
+592
 00:06:53,300 --> 00:06:54,833
 接入合适的电力
 
-597
+593
 00:06:57,066 --> 00:06:58,233
 正如任务书写的那样
 
-598
+594
 00:06:58,233 --> 00:07:00,233
 超净间需要持续消耗40 EU/t
 
-599
+595
 00:07:00,266 --> 00:07:02,466
 所以两台LV发电机就能带起来
 
-600
+596
 00:07:03,133 --> 00:07:04,800
 你应该还记得EBF那套供电规则
 
-601
+597
 00:07:04,800 --> 00:07:07,100
 能源仓能吃2A输入
 
-602
+598
 00:07:07,233 --> 00:07:09,000
 所以两路电都直接喂进去
 
-603
+599
 00:07:09,333 --> 00:07:11,300
 别忘了把电也送到二极管里
 
-604
+600
 00:07:13,066 --> 00:07:14,000
 先把维护做了
 
-605
+601
 00:07:14,000 --> 00:07:15,666
 然后进去把超净间开起来
 
-606
+602
 00:07:16,133 --> 00:07:16,833
 如果一切顺利
 
-607
+603
 00:07:16,833 --> 00:07:18,000
 你会看到它开始工作了
 
-608
+604
 00:07:18,000 --> 00:07:21,333
 效率会很慢地每次涨1%
 
-609
+605
 00:07:21,833 --> 00:07:23,500
 只要低于100%效率
 
-610
+606
 00:07:23,500 --> 00:07:24,733
 就有概率配方失败
 
-611
+607
 00:07:24,866 --> 00:07:26,666
 如果它碰巧是一个主机电路板
 
-612
+608
 00:07:26,666 --> 00:07:28,000
 你的天空会是灰蓝色的
 
-613
+609
 00:07:28,733 --> 00:07:31,000
 打开超净间的门会降低效率
 
-614
+610
 00:07:31,000 --> 00:07:32,933
 所以你可以转用电梯或旅行锚
 
-615
+611
 00:07:32,933 --> 00:07:34,266
 当它从来没装过门就行
 
-616
+612
 00:07:35,066 --> 00:07:36,300
 从二极管接出一些电缆
 
-617
+613
 00:07:36,300 --> 00:07:39,333
 把切割机、激光刻蚀机和电路组装机摆进去
 
-618
+614
 00:07:40,266 --> 00:07:42,533
 超净间很快就要用HV电了
 
-619
+615
 00:07:42,533 --> 00:07:43,433
 但目前
 
-620
+616
 00:07:43,533 --> 00:07:44,333
 你已经起飞了
 
-621
+617
 00:07:45,500 --> 00:07:47,733
 如果你的氯足够制造聚四氟乙烯
 
-622
+618
 00:07:47,733 --> 00:07:50,733
 希望你还有余量做一大批三氯化铁
 
-623
+619
 00:07:51,066 --> 00:07:53,166
 上集你还能暂时不做电路基板
 
-624
+620
 00:07:53,166 --> 00:07:54,300
 但这集不行了
 
-625
+621
 00:07:55,000 --> 00:07:56,133
 除了氯
 
-626
+622
 00:07:56,133 --> 00:08:01,733
 你马上会见识到MC整合包史上最离谱的铜消耗
 
-627
+623
 00:08:01,733 --> 00:08:02,666
 至少是目前为止最多的
 
-628
+624
 00:08:03,233 --> 00:08:05,466
 务必使用你负担得起的最高级配方
 
-629
+625
 00:08:05,900 --> 00:08:07,833
 如果你以为你有足够的电路板库存
 
-630
+626
 00:08:07,833 --> 00:08:08,666
 不，你没有
 
-631
+627
 00:08:09,233 --> 00:08:11,800
 你可能要花一整天才能攒出这里展示的东西
 
-632
+628
 00:08:12,400 --> 00:08:13,733
 先做8组电路基板起步
 
-633
+629
 00:08:13,733 --> 00:08:15,433
 然后准备好再做8组
 
-634
+630
 00:08:16,266 --> 00:08:18,233
 电路板数量即将爆炸
 
-635
+631
 00:08:18,700 --> 00:08:21,133
 为了任务里的那一个IV主机
 
-636
+632
 00:08:21,133 --> 00:08:23,200
 你就得花费14块塑料电路基板
 
-637
+633
 00:08:23,466 --> 00:08:24,900
 后面只会要得越来越多
 
-638
+634
 00:08:27,666 --> 00:08:28,700
 往好了看
 
-639
+635
 00:08:28,700 --> 00:08:32,000
 现在ULV、LV、MV电路板都能一步合成
 
-640
+636
 00:08:32,000 --> 00:08:33,466
 而且成本已经最低了
 
-641
+637
 00:08:33,700 --> 00:08:35,233
 赶紧囤LV电路板
 
-642
+638
 00:08:35,333 --> 00:08:36,133
 你会需要它们的
 
-643
+639
 00:08:37,000 --> 00:08:38,866
 当你一路做到EV电路板
 
-644
+640
 00:08:38,866 --> 00:08:43,533
 顺便一提，使用流体提取器+流体固化器制作蓝色合金螺栓
 
-645
+641
 00:08:43,533 --> 00:08:44,533
 你会感谢自己的
 
-646
+642
 00:08:45,066 --> 00:08:46,333
 你就能做真空冷冻机
 
-647
+643
 00:08:46,333 --> 00:08:48,100
 这个必须优先做
 
-648
+644
 00:08:48,700 --> 00:08:50,133
 再也不用那套拉完了的冷却液降温
 
-649
+645
 00:08:50,600 --> 00:08:51,733
 现在就是换代最好的时候
 
-650
+646
 00:08:51,733 --> 00:08:54,833
 因为你已经意识到了便宜的电路元件有多重要
 
-651
+647
 00:08:54,833 --> 00:08:59,666
 你会想大规模烧新矿机从下界挖来的钽
 
-652
+648
 00:09:01,966 --> 00:09:05,600
 那就加一个HV二极管、HV发电机和HV电路组装机
 
-653
+649
 00:09:05,600 --> 00:09:07,433
 做出你的第一批IV电路板
 
-654
+650
 00:09:07,666 --> 00:09:09,433
 天哪，太贵了
 
-655
+651
 00:09:10,900 --> 00:09:12,700
 NASA工作台也顺手做了
 
-656
+652
 00:09:12,833 --> 00:09:14,133
 拥有它会让你感觉很好
 
-657
+653
 00:09:14,233 --> 00:09:15,200
 感觉很好，暂时的
 
-658
+654
 00:09:16,033 --> 00:09:18,033
 你现在也可以做出聚爆压缩机了
 
-659
+655
 00:09:18,066 --> 00:09:19,700
 这个阶段它已经不算难做
 
-660
+656
 00:09:19,933 --> 00:09:22,533
 问题是你需要爆炸物
 
-661
+657
 00:09:23,433 --> 00:09:26,833
 我再借机劝一次：去养蜂
 
-662
+658
 00:09:26,833 --> 00:09:31,100
 不养蜂的话，持续供应工业TNT会很麻烦
 
-663
+659
 00:09:31,733 --> 00:09:33,733
 再次无耻安利Aditya的养蜂指南
 
-664
+660
 00:09:33,866 --> 00:09:35,500
 去看，去用
 
-665
+661
 00:09:35,633 --> 00:09:36,933
 并致以最高敬意
 
-666
+662
 00:09:37,866 --> 00:09:39,533
 如果你一点都不感兴趣
 
-667
+663
 00:09:39,600 --> 00:09:40,800
 替代方案是：
 
-668
+664
 00:09:41,266 --> 00:09:43,700
 做更多的氢气、氧气和氮气产线
 
-669
+665
 00:09:43,800 --> 00:09:45,333
 用于合成氨
 
-670
+666
 00:09:45,333 --> 00:09:46,466
 一氧化氮
 
-671
+667
 00:09:46,466 --> 00:09:47,800
 二氧化氮
 
-672
+668
 00:09:47,800 --> 00:09:49,500
 然后是硝酸
 
-673
+669
 00:09:50,300 --> 00:09:52,600
 这阶段想集中流体还太早
 
-674
+670
 00:09:52,800 --> 00:09:55,133
 但这些化学原料后面做高十六烷值柴油还会再用到
 
-675
+671
 00:09:55,133 --> 00:09:56,200
 所以记住这一点
 
-676
+672
 00:09:56,600 --> 00:09:58,900
 如果你聪明的话，你至少可以共用这个产线
 
-677
+673
 00:09:59,866 --> 00:10:03,200
 如果你在用石油产线里的硫化氢来混合出硫酸
 
-678
+674
 00:10:03,200 --> 00:10:05,266
 分一点硫酸到这边，和硝酸混合
 
-679
+675
 00:10:05,633 --> 00:10:08,300
 或者从附近的产线里借一些氧气
 
-680
+676
 00:10:08,433 --> 00:10:12,000
 当场生产硫酸，再和硝酸混合出硝酸混酸
 
-681
+677
 00:10:12,266 --> 00:10:14,600
 这一步用大化反配方更省事
 
-682
+678
 00:10:15,133 --> 00:10:17,033
 你从蒸馏石脑油中得到甲苯
 
-683
+679
 00:10:17,266 --> 00:10:20,200
 把甲苯通入球模具的流体固化机做出胶凝甲苯
 
-684
+680
 00:10:20,900 --> 00:10:21,800
 如果你准备好了
 
-685
+681
 00:10:21,800 --> 00:10:24,700
 如果条件允许，用糖+聚乙烯能让甲苯产率更高
 
-686
+682
 00:10:25,200 --> 00:10:27,066
 但是你上次检查你的农场是什么时候？
 
-687
+683
 00:10:28,233 --> 00:10:30,533
 你现在还觉得蜜蜂很难搞吗？
 
-688
+684
 00:10:30,866 --> 00:10:32,433
 后面只会更难搞
 
-689
+685
 00:10:32,800 --> 00:10:33,600
 相信我
 
-690
+686
 00:10:33,900 --> 00:10:35,966
 在你有几十组工业TNT之后
 
-691
+687
 00:10:35,966 --> 00:10:37,700
 你可以做压缩板了
 
-692
+688
 00:10:38,300 --> 00:10:41,066
 你需要在此挥霍大量资源
 
-693
+689
 00:10:41,066 --> 00:10:42,433
 如果你按教程的顺序推进
 
-694
+690
 00:10:42,433 --> 00:10:46,300
 这代表了日复一日的努力、烧制和合成
 
-695
+691
 00:10:46,633 --> 00:10:47,933
 视频剪得很快
 
-696
+692
 00:10:47,933 --> 00:10:50,266
 但别误会成线下的进度也很快
 
-697
+693
 00:10:52,066 --> 00:10:55,300
 任务书的指引一如既往的好
 
-698
+694
 00:10:55,300 --> 00:10:56,666
 你需要这里的大部分东西
 
-699
+695
 00:10:56,933 --> 00:10:59,333
 慢慢一步一步做出火箭
 
-700
+696
 00:10:59,333 --> 00:11:00,400
 1阶着陆器
 
-701
+697
 00:11:00,400 --> 00:11:01,466
 供氧装置
 
-702
+698
 00:11:01,466 --> 00:11:02,600
 发射设备
 
-703
+699
 00:11:03,700 --> 00:11:04,666
 当你拥有了这一切
 
-704
+700
 00:11:04,666 --> 00:11:06,200
 你得给这大家伙加满燃料
 
-705
+701
 00:11:06,600 --> 00:11:07,733
 你有两个选择
 
-706
+702
 00:11:07,866 --> 00:11:10,466
 高十六烷值柴油或RP-1火箭燃料
 
-707
+703
 00:11:11,000 --> 00:11:14,200
 按流程走的话，高十六烷比较轻松
 
-708
+704
 00:11:14,833 --> 00:11:17,900
 你已经在制造TNT的时候准备了硝酸和硫酸
 
-709
+705
 00:11:17,900 --> 00:11:19,333
 再加上蒸馏石脑油拿到的额外乙烯
 
-710
+706
 00:11:19,333 --> 00:11:21,333
 你可以和氧气混合制乙酸
 
-711
+707
 00:11:21,500 --> 00:11:23,333
 这是合成乙烯酮所需的最后一种化学品
 
-712
+708
 00:11:23,466 --> 00:11:26,733
 把乙烯酮和硝酸反应得到四硝基甲烷
 
-713
+709
 00:11:27,200 --> 00:11:28,466
 把它和一些柴油混合
 
-714
+710
 00:11:28,466 --> 00:11:29,866
 你就已经准备好上太空了
 
-715
+711
 00:11:30,333 --> 00:11:32,033
 如果你能自动化整个过程
 
-716
+712
 00:11:32,033 --> 00:11:34,633
 这对你的基地来说也是一个相当大的升级
 
-717
+713
 00:11:36,100 --> 00:11:37,466
 拿齐太空装备
 
-718
+714
 00:11:37,500 --> 00:11:39,066
 现在是最后检查的时候了
 
-719
+715
 00:11:39,133 --> 00:11:40,466
 一定要确认每项都有
 
-720
+716
 00:11:41,400 --> 00:11:42,633
 先把氧气补满
 
-721
+717
 00:11:42,933 --> 00:11:45,200
 你会发现星系模组的机器区分朝向
 
-722
+718
 00:11:45,233 --> 00:11:47,000
 务必确认电确实进去了
 
-723
+719
 00:11:47,000 --> 00:11:49,400
 氧气确实从收集器出来
 
-724
+720
 00:11:49,433 --> 00:11:51,233
 压缩机里面电和氧气都够
 
-725
+721
 00:11:51,700 --> 00:11:52,866
 难用的机器
 
-726
+722
 00:11:53,133 --> 00:11:54,333
 别忘了带上它们
 
-727
+723
 00:11:55,666 --> 00:11:57,033
 然后确认最终清单：
 
-728
+724
 00:11:57,033 --> 00:12:06,433
 氧气、储罐、矿机、压缩箱子、发电机、燃料、树叶、燃料注入机、萤石火把、EIO电容与能量导管
 
-729
+725
 00:12:07,133 --> 00:12:08,266
 勾上，勾上，勾上
 
-730
+726
 00:12:09,033 --> 00:12:10,533
 你也可以在月球上收集氧气
 
-731
+727
 00:12:10,533 --> 00:12:12,233
 这就是你要带一组树叶的原因
 
-732
+728
 00:12:12,233 --> 00:12:13,300
 随便挖个洞
 
-733
+729
 00:12:13,300 --> 00:12:14,166
 周围铺满树叶
 
-734
+730
 00:12:14,166 --> 00:12:15,333
 把收集器放下就行
 
-735
+731
 00:12:16,100 --> 00:12:17,833
 附近的树叶越多越好
 
-736
+732
 00:12:18,433 --> 00:12:19,233
 这样一来
 
-737
+733
 00:12:19,466 --> 00:12:20,600
 你就可以发射了
 
-738
+734
 00:12:20,866 --> 00:12:21,833
 别忘了什么
 
-739
+735
 00:12:58,833 --> 00:12:59,833
 控制中心
 
-740
+736
 00:12:59,833 --> 00:13:00,866
 这里是队长
 
-741
+737
 00:13:01,066 --> 00:13:02,066
 我们已成功着陆
 
-742
+738
 00:13:03,433 --> 00:13:04,533
 没时间浪费了
 
-743
+739
 00:13:04,833 --> 00:13:07,000
 如果有必要可以清怪并把周围点亮
 
-744
+740
 00:13:07,066 --> 00:13:08,833
 不然就立刻开探矿
 
-745
+741
 00:13:08,833 --> 00:13:10,600
 顺便找地牢入口
 
-746
+742
 00:13:10,666 --> 00:13:12,100
 基本上就是地上的一个大洞
 
-747
+743
 00:13:12,100 --> 00:13:13,700
 你可以看到它底部的砖块
 
-748
+744
 00:13:14,800 --> 00:13:19,300
 目标矿物：钕矿、铝土矿、钛铁矿、铬铁矿、铝矿
 
-749
+745
 00:13:19,833 --> 00:13:22,033
-这里有大量好东西，足够供养（maybe pick up a better word）主世界
+这里有大量好东西，足够供养主世界
 
-750
+746
 00:13:22,466 --> 00:13:25,033
 把矿机摆好、配置好，加载区块
 
-751
+747
 00:13:25,033 --> 00:13:26,133
 然后去打boss
 
-752
+748
 00:13:27,700 --> 00:13:28,733
 即使你不会飞
 
-753
+749
 00:13:28,733 --> 00:13:31,466
 你也可以直接穿过地牢，进入boss战场地
 
-754
+750
 00:13:32,000 --> 00:13:34,700
 然后轻松击败boss
 
-755
+751
 00:13:48,800 --> 00:13:50,433
 拿钥匙，开箱子
 
-756
+752
 00:13:50,433 --> 00:13:52,866
 祈祷出2阶火箭蓝图
 
-757
+753
 00:14:02,700 --> 00:14:03,500
 呃呃
 
-758
+754
 00:14:03,733 --> 00:14:04,666
 如果没出蓝图
 
-759
+755
 00:14:04,666 --> 00:14:07,100
 就继续找地牢刷boss，直到出为止
 
-760
+756
 00:14:07,100 --> 00:14:08,200
 不会花太多时间的
 
-761
+757
 00:14:10,433 --> 00:14:12,433
 一旦你对你的收获满意了，就回家吧
 
-762
+758
 00:14:12,733 --> 00:14:15,200
 顺手在月球 /sethome 也别有心理负担
 
-763
+759
 00:14:15,200 --> 00:14:17,300
 没人会对你指指点点，因为没人知道你干了
 
-764
+760
 00:14:20,800 --> 00:14:21,800
 现在要干的事
 
-765
+761
 00:14:21,800 --> 00:14:24,133
 就是把铝酸盐和铝土矿处理成金红石
 
-766
+762
 00:14:25,933 --> 00:14:28,666
 把产量拉满非常值得
 
-767
+763
 00:14:28,666 --> 00:14:30,733
 先把铝土矿研磨成粗碎矿
 
-768
+764
 00:14:30,733 --> 00:14:32,966
 再用硫酸钠化学浸洗
 
-769
+765
 00:14:33,533 --> 00:14:36,900
 你还可以把纯净铝土矿做成铝土矿浆，扩展整条产线
 
-770
+766
 00:14:36,900 --> 00:14:38,866
 并研究一下铝土矿处理产线
 
-771
+767
 00:14:39,133 --> 00:14:41,266
 这里不展开讲，但建议去查一下
 
-772
+768
 00:14:41,333 --> 00:14:44,133
 回报离谱，真的离谱
 
-773
+769
 00:14:44,733 --> 00:14:46,600
 钛铁矿也有类似处理方法
 
-774
+770
 00:14:46,600 --> 00:14:48,133
 区别是用硫酸来产生大量的金红石
 
-775
-00:14:48,133 --> 00:14:49,833
-（向上合并）
-
-776
+771
 00:14:49,833 --> 00:14:52,100
 并做一个硫酸循环
 
-777
+772
 00:14:52,266 --> 00:14:53,200
 但要这等到EV
 
-778
+773
 00:14:53,700 --> 00:14:54,466
 如果你实在缺金红石
 
-779
+774
 00:14:54,466 --> 00:14:56,066
 也可以让钛铁矿跑完整的
 
-780
+775
 00:14:56,066 --> 00:14:58,300
 “研磨-洗矿-研磨-离心”线
 
-781
+776
 00:14:58,300 --> 00:14:59,433
 来获得一点额外的金红石
 
-782
+777
 00:14:59,733 --> 00:15:02,000
 但最好还是得多挖铝土矿
 
-783
+778
 00:15:03,300 --> 00:15:04,533
 当你金红石准备充足
 
-784
+779
 00:15:04,533 --> 00:15:06,333
 就可以开始把它们转化成钛了
 
-785
+780
 00:15:07,133 --> 00:15:08,333
 任务书解释了怎么做
 
-786
+781
 00:15:08,333 --> 00:15:08,866
 但总而言之
 
-787
+782
 00:15:08,866 --> 00:15:10,833
 整条产线是一个大的闭环
 
-788
+783
 00:15:10,833 --> 00:15:12,333
 唯一的输入是金红石
 
-789
+784
 00:15:12,833 --> 00:15:13,533
 要启动这产线
 
-790
+785
 00:15:13,533 --> 00:15:16,266
 你需要在大化反里让金红石和氯、碳反应
 
-791
+786
 00:15:16,633 --> 00:15:18,666
 把产出的一氧化碳电解处理
 
-792
+787
 00:15:18,666 --> 00:15:21,333
 四氯化钛和镁一起送进EBF
 
-793
+788
 00:15:21,633 --> 00:15:23,300
 冷却得到的热钛
 
-794
-00:15:23,300 --> 00:15:27,466
-再把氯化镁送入化学反应釜与钠反应回收镁
+789
+00:15:23,300 --> 00:15:28,066
+再把氯化镁送入化学反应釜与钠反应回收镁和一些盐
 
-795
-00:15:27,466 --> 00:15:31,633
-和一些盐；盐再电解就能返还你刚用掉的氯和钠
+790
+00:15:28,066 --> 00:15:31,633
+盐再电解就能返还你刚用掉的氯和钠
 
-796
+791
 00:15:32,700 --> 00:15:34,400
 只需要一点物流
 
-797
+792
 00:15:34,400 --> 00:15:36,400
 只要金红石不断，这产线就能一直跑
 
-798
+793
 00:15:39,300 --> 00:15:42,533
 而且你会希望它跑很久很久
 
-799
+794
 00:15:43,066 --> 00:15:43,866
 你做到了
 
-800
+795
 00:15:43,900 --> 00:15:45,100
 你已经走出前期了
 
-801
+796
 00:15:45,300 --> 00:15:47,533
 你已经不是新手了
 
-802
+797
 00:15:48,000 --> 00:15:49,466
 新的明天在等待着你
 
-803
+798
 00:15:49,666 --> 00:15:51,133
 这毕竟是GTNH
 
-804
+799
 00:15:51,333 --> 00:15:52,933
 学习永远不会停止
 
-805
+800
 00:15:53,666 --> 00:15:55,333
 HV也有很多事情要做
 
-806
+801
 00:15:55,400 --> 00:15:56,800
 但你现在已经有方法论了
 
-807
+802
 00:15:57,266 --> 00:15:59,466
 AE已经近在咫尺
 
-808
+803
 00:15:59,600 --> 00:16:01,633
 前提是你能得到足够的钛
 
-809
+804
 00:16:02,033 --> 00:16:05,700
 希望这期指南给了你足够信息，能真正上手这个整合包
 
-810
+805
 00:16:05,933 --> 00:16:06,933
 你不会后悔的
 
-811
+806
 00:16:07,400 --> 00:16:08,333
 游戏里见
 
-812
+807
 00:16:08,866 --> 00:16:11,233
 最后，保持积极，继续加油
 
