@@ -7,13 +7,14 @@ assignees: [yfrua, Eniei]
 ---
 
 ## Description
-Briefly describe the task.
+Video Title, linked [here](url).
+Subtitle file located in ``.
 
 ## Workflow
 - [ ] Upload subtitle
 - [ ] AI translation
 - [ ] Manual translation
-- [ ] Polish
+- [ ] Review/Polish
 - [ ] Final editing
 
 ## Additional Context
