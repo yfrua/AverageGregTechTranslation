@@ -176,7 +176,7 @@ this was also made easier thanks to the advanced Mega Oil Cracker
 
 45
 00:02:10,700 --> 00:02:14,000
-which removes the stricts requirements for input placements
+which removes the strict requirements for input placements
 
 46
 00:02:14,266 --> 00:02:17,066
@@ -448,7 +448,7 @@ and this one also will increase its parallel by becoming taller
 
 113
 00:05:13,300 --> 00:05:15,466
-next we made some microbacteria vats
+next we made some micro-bacteria vats
 
 114
 00:05:15,733 --> 00:05:17,733
@@ -468,7 +468,7 @@ in their smaller form
 
 118
 00:05:28,500 --> 00:05:32,600
-and yes those two can grow in size to achieve more parallelizer speed
+and yes those two can grow in size to achieve more parallelized speed
 
 119
 00:05:33,133 --> 00:05:35,233
@@ -520,7 +520,7 @@ and on top of that it can also do infinite parallels
 
 131
 00:06:04,833 --> 00:06:07,066
-keeping up with our new starcore miner
+keeping up with our new star core miner
 
 132
 00:06:07,066 --> 00:06:09,633
@@ -712,7 +712,7 @@ we can increase our energy production super linearly
 
 179
 00:08:35,933 --> 00:08:39,800
-however there is a limit at how much energy each our reciving station can collect
+however there is a limit at how much energy each our receiving station can collect
 
 180
 00:08:39,866 --> 00:08:41,633
@@ -780,7 +780,7 @@ like the star core miner
 
 196
 00:09:19,200 --> 00:09:21,866
-or the daisonsphere ray receiving stations
+or the dyson sphere ray receiving stations
 
 197
 00:09:22,200 --> 00:09:23,233
@@ -856,7 +856,7 @@ will save us from having to automate the Nano forge tier 4
 
 215
 00:10:11,733 --> 00:10:14,933
-but the real game changer was the indestinct tentacle
+but the real game changer was the indistinct tentacle
 
 216
 00:10:14,933 --> 00:10:18,133
@@ -904,7 +904,7 @@ building and chunk loading it was the real hassle
 
 227
 00:10:46,700 --> 00:10:51,100
-and with that, we can finally start crafting our first Stargate all in one craft
+and with that, we can finally start crafting our first stargate all in one craft
 
 228
 00:10:51,333 --> 00:10:53,233
@@ -1468,7 +1468,7 @@ General Ore Processing TST
 
 368
 00:06:04,833 --> 00:06:07,066
-足以跟上新的 Starcore Miner
+足以跟上新的星核钻机
 
 369
 00:06:07,066 --> 00:06:09,633
@@ -1700,7 +1700,7 @@ Miracle Top 能对任何电路和电路部件实现完美超频
 
 426
 00:09:02,066 --> 00:09:04,900
-它能做一些新部件和更便宜的 Tesseract
+它能做一些新部件和更便宜的超立方体
 
 427
 00:09:04,900 --> 00:09:07,700
@@ -1724,7 +1724,7 @@ Miracle Top 能对任何电路和电路部件实现完美超频
 
 432
 00:09:17,433 --> 00:09:18,866
-比如 Starcore Miner
+比如星核钻机
 
 433
 00:09:19,200 --> 00:09:21,866
