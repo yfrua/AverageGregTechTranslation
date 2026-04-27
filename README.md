@@ -3,6 +3,7 @@
 Cooperative subtitle translation project for GregTech-related videos.
 
 ## Resources
+- YouTube video downloader (needed for `downloader.bat`): https://github.com/yt-dlp/yt-dlp
 - GTNH wiki: https://gtnh.miraheze.org/wiki/Main_Page
 - GTNH Chinese wiki: https://gtnh.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
 - GTNH Chinese translation: https://paratranz.cn/projects/4964/terms
