@@ -1,7 +1,14 @@
 # AverageGregTechTranslation
 
-Cooperative subtitle translation project for GregTech-related clips.
+Cooperative subtitle translation project for GregTech-related videos.
 
+## Resources
+- GTNH wiki: https://gtnh.miraheze.org/wiki/Main_Page
+- GTNH Chinese wiki: https://gtnh.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5
+- GTNH Chinese translation: https://paratranz.cn/projects/4964/terms
+- online quest book (both Eng and Chs, toggle at upper right): https://gtnhquestsbook.top/
+- online NEI (Chinese, server may be down): https://nei.gtnh.work/index?dataSource=273
+- online NEI (English): https://shadowtheage.github.io/gtnh/
 
 ## Quick Start (Git Newcomer)
 
@@ -69,8 +76,8 @@ git diff
 Commit:
 
 ```bash
-git add clips/hot_ingots.srt
-git commit -m "Translate hot_ingots.srt (section 1-80)"
+git add <path_to_file>
+git commit -m "<your_commit_message>"
 ```
 
 ### 6) Push your changes
@@ -142,4 +149,3 @@ git pull origin main           # Get latest main updates
 git push                       # Push your branch
 git checkout -b <branch-name>  # Create and switch branch
 ```
-
