@@ -4,7 +4,7 @@ hello everyone
 
 2
 00:00:00,833 --> 00:00:03,233
-today we are going to start on new adventuring, gregtech 6
+today we are going to start a new adventure in gregtech 6
 
 3
 00:00:03,233 --> 00:00:04,466
@@ -32,7 +32,7 @@ and capable of chopping down multiple logs at once
 
 9
 00:00:14,700 --> 00:00:16,833
-but it's slow and has low durability
+but it's slow and it has a low durability
 
 10
 00:00:16,833 --> 00:00:19,600
@@ -60,7 +60,7 @@ tools made out of this rock can even harvest obsidian
 
 16
 00:00:31,800 --> 00:00:33,266
-but the speeder isn't that good
+but the speed isn't that good
 
 17
 00:00:33,266 --> 00:00:35,300
@@ -76,7 +76,7 @@ but that's not much of a big deal
 
 20
 00:00:38,433 --> 00:00:40,033
-since we can just look around the pebbles
+since we can just look around pebbles
 
 21
 00:00:40,033 --> 00:00:41,600
@@ -88,7 +88,7 @@ once we locate the solid rock
 
 23
 00:00:43,466 --> 00:00:45,700
-we just have to break this stone twice with a hammer
+we just have to break the stone twice with a hammer
 
 24
 00:00:45,700 --> 00:00:48,133
@@ -112,7 +112,7 @@ since we might need chlorine in the future
 
 29
 00:00:57,533 --> 00:00:59,733
-settling by this side is probably a good idea
+setting by the seaside is probably a good idea
 
 30
 00:01:00,000 --> 00:01:01,600
@@ -120,7 +120,7 @@ and that totally wasn't an excuse
 
 31
 00:01:01,600 --> 00:01:04,533
-so that we could have a nicer house with a view on the sunset
+so we could have a nice sea house with view on the sun set
 
 32
 00:01:04,533 --> 00:01:06,333
@@ -156,7 +156,7 @@ we started digging deeper to investigate
 
 40
 00:01:26,233 --> 00:01:29,066
-and we eventually found more and more copper rich rocks
+and we eventually found more and more copper-rich rocks
 
 41
 00:01:29,100 --> 00:01:32,533
@@ -176,7 +176,7 @@ but to properly alloy together those two metals
 
 45
 00:01:39,266 --> 00:01:42,466
-we have to heat up the mix stew at 1400 Calvin
+we have to heat up the mixture at 1400K
 
 46
 00:01:42,900 --> 00:01:44,833
@@ -184,7 +184,7 @@ that has to be done inside a crucible
 
 47
 00:01:44,833 --> 00:01:46,900
-which you can easily craft with some clay
+which we can easily craft with some clay
 
 48
 00:01:47,133 --> 00:01:47,900
@@ -212,7 +212,7 @@ we can pour out the molten metal into a pickaxe mold
 
 54
 00:02:00,266 --> 00:02:02,066
-to celebrate the advent of Bronze Age
+to celebrate the advent of bronze age
 
 55
 00:02:02,066 --> 00:02:03,333
@@ -224,7 +224,7 @@ which we can eat in a single bite
 
 57
 00:02:05,900 --> 00:02:08,933
-and that's how long it took our crucible to turn yellow
+and that's how long it took for our crucible to turn yellow
 
 58
 00:02:09,500 --> 00:02:11,433
@@ -236,7 +236,7 @@ the crucible melted
 
 60
 00:02:13,033 --> 00:02:16,333
-indeed in GragTech 6 everything has a melting point
+indeed, in gregtech 6, everything has a melting point
 
 61
 00:02:16,600 --> 00:02:18,200
@@ -244,11 +244,11 @@ how quickly we reach that temperature
 
 62
 00:02:18,200 --> 00:02:20,233
-depends on the Thermal mass we are trying to heat up
+depends on the thermal mass we are trying to heat up
 
 63
 00:02:20,233 --> 00:02:23,033
-and how much energy heat we are adding to that thing
+and how much heat energy we add to the thing
 
 64
 00:02:23,300 --> 00:02:27,100
@@ -260,11 +260,11 @@ a better way is to craft a thermometer
 
 66
 00:02:29,466 --> 00:02:31,600
-to craft it we will need some mercury
+to craft it, we will need some mercury
 
 67
 00:02:31,600 --> 00:02:33,866
-so we adventure in search of new minerals
+so we adventured in search of new minerals
 
 68
 00:02:34,000 --> 00:02:35,266
@@ -276,11 +276,11 @@ we found huge deposits of coal
 
 70
 00:02:37,000 --> 00:02:39,200
-and huge deposits of iron rich sand
+and huge deposits of iron-rich sand
 
 71
 00:02:39,700 --> 00:02:41,900
-underground we found all sorts of holes
+underground we found all sorts of ores
 
 72
 00:02:41,900 --> 00:02:44,433
@@ -304,7 +304,7 @@ and a huge amount of all sorts of metals
 
 77
 00:02:54,400 --> 00:02:57,800
-we then found already worked metal parts in some nearby drawers
+we even found already worked metal parts in some nearby drawers
 
 78
 00:02:57,900 --> 00:03:00,300
@@ -312,7 +312,7 @@ and as if all of those goodies weren't enough
 
 79
 00:03:00,400 --> 00:03:03,666
-we then found the Holy Grail of LeBron's age, a lighter
+we even found the holy grail of the bronze age: a lighter
 
 80
 00:03:03,900 --> 00:03:06,133
@@ -320,7 +320,7 @@ this one has a 100 percent success rate
 
 81
 00:03:06,133 --> 00:03:08,333
-and we even found some propane to refill it
+and we even have some spare propane to refill it
 
 82
 00:03:08,800 --> 00:03:10,600
@@ -360,11 +360,11 @@ with this, we can finally measure temperature more precisely
 
 91
 00:03:32,033 --> 00:03:34,066
-using the metal alloying process
+easing the metal alloying process
 
 92
 00:03:35,633 --> 00:03:39,066
-the next step was to connect our thermometer to a Redstone sensor
+the next step was to connect our thermometer to a redstone sensor
 
 93
 00:03:39,100 --> 00:03:41,700
@@ -384,11 +384,11 @@ then we connect it to the molds
 
 97
 00:03:48,066 --> 00:03:50,200
-and enable auto output on Redstone
+and enable out output on redstone
 
 98
 00:03:50,466 --> 00:03:53,733
-next we configure a pair of hoppers with the correct input to ratio
+next we configure a pair of hoppers with the correct input ratio
 
 99
 00:03:53,900 --> 00:03:55,733
@@ -396,7 +396,7 @@ and to avoid overfilling our crucible
 
 100
 00:03:55,733 --> 00:03:58,133
-we use a proper configurator with sensor
+we use a properly configured weight sensor
 
 101
 00:03:58,633 --> 00:04:00,866
@@ -480,7 +480,7 @@ which will break the big rocks into smaller chunks
 
 121
 00:04:48,433 --> 00:04:50,233
-then we run those crushed rocks in a sieve
+then we run those crushed rocks in a sluice
 
 122
 00:04:50,233 --> 00:04:52,900
@@ -488,15 +488,15 @@ to separate the stone from the actual minerals
 
 123
 00:04:53,266 --> 00:04:55,733
-next we run the purified ore through a centrifuge
+next we run the purified ores through a centrifuge
 
 124
 00:04:55,733 --> 00:04:57,233
-to filter out mobile products
+to filter out more byproducts
 
 125
 00:04:57,300 --> 00:05:00,200
-finally we musterate all of the centrifuge ore in a shredder
+finally, we macerate all of the centrifuged ores in a shredder
 
 126
 00:05:00,200 --> 00:05:01,900
@@ -508,11 +508,11 @@ however those dusts won't have all the same size
 
 128
 00:05:06,433 --> 00:05:08,266
-to properly sort out all of those dusts
+to properly sort out all of those dust
 
 129
 00:05:08,266 --> 00:05:09,900
-we use a system of 4 person fans
+we use a system of hoppers and funnels
 
 130
 00:05:09,900 --> 00:05:12,633
@@ -532,7 +532,7 @@ others require some extra refinement
 
 134
 00:05:19,933 --> 00:05:22,533
-so we build some more specific processing lines
+so we built some ore-specific processing lines
 
 135
 00:05:22,533 --> 00:05:24,200
@@ -684,7 +684,7 @@ we manually handle all sorts of chemicals
 
 172
 00:06:56,833 --> 00:06:59,700
-to process some of the bulk site left over into titanium
+of the bauxite leftovers into titanium
 
 173
 00:07:00,033 --> 00:07:02,133
@@ -748,11 +748,11 @@ such as magnetic units made from an electromagnet to power polarizers
 
 188
 00:07:46,500 --> 00:07:49,800
-and lasers units made by a carbon dioxide laser
+and laser units, made by a CO2 laser
 
 189
 00:07:49,800 --> 00:07:51,733
-which will have many uses in the future
+which will have many usages in the future
 
 190
 00:07:51,733 --> 00:07:54,600
@@ -796,15 +796,15 @@ in this setup
 
 200
 00:08:13,133 --> 00:08:16,566
-we are using some isothermal coolant to get the heat out of the reactor
+we are using some IC2 coolant to get the heat out of the reactor
 
 201
 00:08:16,566 --> 00:08:18,600
-and bring it to some heat exchanger
+and bring it to some heat exchangers
 
 202
 00:08:18,600 --> 00:08:21,666
-where as usual we boil water to spin a turbine
+where, as usual, we boil water to spin a turbine
 
 203
 00:08:21,733 --> 00:08:22,433
@@ -840,19 +840,19 @@ to run our new cryogenic distillation tower
 
 211
 00:08:40,933 --> 00:08:43,900
-to obtain some noble gases for an on scale fabricator
+to obtain some noble gasses for a nano-scale fabricator
 
 212
 00:08:44,000 --> 00:08:45,433
-use that to make graphing parts
+used to make graphene parts
 
 213
 00:08:45,433 --> 00:08:48,200
-which have incredible starts to the side being super cheap
+which have incredible stats despite being super cheap
 
 214
 00:08:48,400 --> 00:08:50,633
-notably we can now make a carbon crucibles
+notably, we can now make carbon crucibles
 
 215
 00:08:50,633 --> 00:08:53,333
