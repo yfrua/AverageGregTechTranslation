@@ -780,7 +780,7 @@ to get started
 
 196
 00:08:05,500 --> 00:08:07,400
-we are going to fuel it using uranium chutrite
+we are going to fuel it using uranium 238
 
 197
 00:08:07,400 --> 00:08:09,033
@@ -916,7 +916,7 @@ we use some of that heater to keep the water loop going
 
 230
 00:09:32,633 --> 00:09:35,600
-and the rest goes into heating two large inbar boilers
+and the rest goes into heating two large invar boilers
 
 231
 00:09:35,733 --> 00:09:38,700
