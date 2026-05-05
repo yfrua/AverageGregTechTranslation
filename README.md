@@ -35,25 +35,21 @@ cd AverageGregTechTranslation
 
 ### 3) Pick a workflow mode
 
-For a small two-person team, direct work on `main` is fine if both of you sync frequently.
+This step determine which brach you are going to use.
 
-Option A: Direct on `main` (recommended for this repo now)
+**Option A: Direct on `main`**
 
 ```bash
 git checkout main
-git pull origin main
 ```
+You may even not need to do this, because you are at main branch by default.
 
-Option B: Branch + PR (safer, use this for larger or riskier edits)
+**Option B: Branch + PR (recommended)**
 
 ```bash
-git checkout -b translate/<your-name>/<file-or-topic>
+git checkout -b translate/<file-or-topic>
 ```
-
-Examples:
-
-- `translate/alex/hot-ingots-pass1`
-- `translate/lee/fix-typos-hot-ingots`
+to create a new brach named `translate/<file-or-topic>` if it doesn't exist and switch to that branch.
 
 ### 4) Edit subtitle files
 
@@ -67,7 +63,7 @@ Please do **not** change:
 
 ### 5) Commit your work
 
-Check what changed:
+Check what changed (not necessary):
 
 ```bash
 git status
@@ -83,70 +79,63 @@ git commit -m "<your_commit_message>"
 
 ### 6) Push your changes
 
-If you are using direct `main` workflow:
-
+Sync any change from remote repo before your commit:
 ```bash
-git pull --rebase origin main
-git push origin main
+git pull
+```
+or
+```bash
+git pull --rebase origin <your-branch>
 ```
 
-If you are using branch workflow:
+To push your commit to the remote repo:
 
+If this is your first time pushing this exact branch:
 ```bash
-git push -u origin translate/<your-name>/<file-or-topic>
+git push -u origin translate/<file-or-topic>
+```
+so that `git remote` configuration is automatically set.
+
+Afterward, you can simple run `git push` to push any commit of that branch:
+
+Once every steps of translation are done, you can open GitHub and create a pull request (PR) from your branch into `main`. A branch after merging into `main` is usually deleted in remote, but you also need to delete it locally:
+```bash
+git branch -D translate/<file-or-topic>
 ```
 
-Then open GitHub and create a PR from your branch into `main`.
+## Sync from Remote Repository
 
-## Daily Sync Workflow
+The idea of feature branch is to keep `main` branch stable while every feature branch active.
 
-Before starting each work session:
+It would not make you free from doing `git pull` to keep in sync with everyone else, but make works in different projects not interference each other. The `main` branch is clean unless the whole procedure of translation on other branch is done and got merged into it.
 
+So, before you start each work session, sync with remote repository:
 ```bash
-git checkout main
-git pull origin main
+git pull --all
 ```
 
-If you are on a branch, bring latest `main` into your branch:
-
+If there are any updata in `main` branch, bring latest `main` into your branch:
 ```bash
-git checkout translate/<your-name>/<file-or-topic>
+git checkout translate/<file-or-topic>
 git merge main
 ```
 
-If there is a merge conflict, ask for help immediately or resolve it carefully in the conflicted `.srt` file, then:
+If there is a merge conflict, ask for help immediately or resolve it carefully in the conflicted files, then:
 
 ```bash
 git add <conflicted-file>
 git commit
 ```
 
-## Commit Message Suggestions
-
-Good commit messages:
-
-- `Translate hot_ingots.srt entries 1-80`
-- `Revise terminology in hot_ingots.srt`
-- `Fix punctuation and consistency in hot_ingots.srt`
-
-## Team Safety Rules for Direct main Workflow
-
-If both of you commit directly to `main`, follow these rules:
-
-- Always run `git pull origin main` before editing.
-- Keep each commit small (one file or one subtitle range).
-- Push frequently so the other person can sync.
-- If both are editing the same file, split by subtitle entry ranges first.
-- Use branch + PR temporarily for large rewrites.
-
 ## Common Git Commands Cheat Sheet
 
 ```bash
-git status                     # See changed files
-git diff                       # See exact line changes
-git add <file>                 # Stage a file
-git commit -m "message"        # Commit staged changes
-git pull origin main           # Get latest main updates
-git push                       # Push your branch
-git checkout -b <branch-name>  # Create and switch branch
+git status                # See changed files
+git diff                  # See exact line changes
+git add <file>            # Stage a file
+git commit -m "message"   # Commit staged changes
+git pull origin <branch>  # Get latest <branch> updates
+git push                  # Push your branch
+git checkout -b <branch>  # Create and switch branch
+git branch -D <branch>    # Delete local branch
 ```
