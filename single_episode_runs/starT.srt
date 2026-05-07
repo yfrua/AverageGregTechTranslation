@@ -80,7 +80,7 @@ to power all of that
 
 21
 00:00:51,366 --> 00:00:53,400
-we built a couple of steam turbines
+we built a couple of Steam Turbines
 
 22
 00:00:54,166 --> 00:00:56,733
@@ -104,7 +104,7 @@ we also have some perfectly overclocking multiblocks
 
 27
 00:01:07,100 --> 00:01:09,933
-which we are now powering with some nuclear reactors
+which we are now powering with some Nuclear Reactors
 
 28
 00:01:10,933 --> 00:01:13,500
@@ -112,7 +112,7 @@ building all of those reactors reminded us that
 
 29
 00:01:13,500 --> 00:01:16,466
-it was time to assemble a fusion reactor
+it was time to assemble a Fusion Reactor
 
 30
 00:01:16,466 --> 00:01:18,866
@@ -120,11 +120,11 @@ however, that didn't look good enough
 
 31
 00:01:18,966 --> 00:01:22,366
-so we built a research station to research a better version
+so we built a Research Station to research a better version
 
 32
 00:01:22,766 --> 00:01:26,733
-but not even those fusion reactors satisfied us
+but not even those Fusion Reactors satisfied us
 
 33
 00:01:26,733 --> 00:01:28,700
@@ -144,7 +144,7 @@ we should also have a heat chamber
 
 37
 00:01:38,466 --> 00:01:41,566
-which goes side by side with a mega blast furnace
+which goes side by side with a Mega Blast Furnace
 
 38
 00:01:41,800 --> 00:01:45,366
@@ -192,7 +192,7 @@ following our instinct
 
 49
 00:02:15,766 --> 00:02:18,666
-we built an exponential amount of fusion reactors
+we built an exponential amount of Fusion Reactors
 
 50
 00:02:18,666 --> 00:02:21,933
@@ -264,7 +264,7 @@ that device brought us in a room on a familiar corridor
 
 67
 00:03:02,666 --> 00:03:05,966
-but most interestingly to a research station
+but most interestingly to a Research Station
 
 68
 00:03:06,766 --> 00:03:07,666
@@ -320,7 +320,7 @@ that turbine was also really plasma hungry
 
 81
 00:03:46,566 --> 00:03:50,533
-so we had to build an auxiliary fusion reactor to keep up with it
+so we had to build an auxiliary Fusion Reactor to keep up with it
 
 82
 00:03:50,766 --> 00:03:52,600
@@ -340,23 +340,23 @@ we managed to secure a good source of hydrocarbons
 
 86
 00:04:02,700 --> 00:04:06,133
-which we use to build a Runic manifold manipulator
+which we use to build a Runic Manifold Manipulator
 
 87
 00:04:06,266 --> 00:04:10,033
-this machine will use the product of our newly grown fusion reactors
+this machine will use the product of our newly grown Fusion Reactors
 
 88
 00:04:10,033 --> 00:04:14,600
-to fold the structure parts required for our new Runic Stargate assembler
+to fold the structure parts required for our new Runic Stargate Assembler
 
 89
 00:04:14,900 --> 00:04:17,566
-with it  we can restore the ancient Stargate
+with it, we can restore the ancient Stargate
 
 90
 00:04:17,733 --> 00:04:19,733
-which will bring us in a dier place
+which will bring us in a dire place
 
 91
 00:04:20,133 --> 00:04:22,100
@@ -368,7 +368,7 @@ finding all sorts of fluids
 
 93
 00:04:24,266 --> 00:04:27,966
-but what mostly attracted our curiosity was a husk of the flame
+but what mostly attracted our curiosity was a Husk of the Flame
 
 94
 00:04:28,466 --> 00:04:29,433
@@ -380,11 +380,11 @@ with the help of some heavily processed nether rack
 
 96
 00:04:32,200 --> 00:04:34,466
-we managed to build a hell forge
+we managed to build a Hell Forge
 
 97
 00:04:34,666 --> 00:04:37,300
-and while that isn't as good as a god forge
+and while that isn't as good as a God Forge
 
 98
 00:04:37,500 --> 00:04:40,066
@@ -404,7 +404,7 @@ luckily we received a helping hand from the sky
 
 102
 00:04:49,100 --> 00:04:52,266
-that allowed us to build a mega alloy blast smelter
+that allowed us to build a Mega Alloy Blast Smelter
 
 103
 00:04:52,533 --> 00:04:55,100
@@ -416,11 +416,11 @@ and just quantum cooling wasn't good enough
 
 105
 00:04:58,133 --> 00:05:01,100
-hoping to promote our vacuum freezer to void freezer
+hoping to promote our Vacuum Freezer to Void Freezer
 
 106
 00:05:01,200 --> 00:05:04,600
-we built yet another star gate towards the end dimension
+we built yet another Stargate towards the end dimension
 
 107
 00:05:04,733 --> 00:05:07,133
@@ -432,7 +432,7 @@ we then proceeded into a quick expedition to locate a dragon head
 
 109
 00:05:11,366 --> 00:05:14,800
-which we used to research our new draconic infusion array
+which we used to research our new Draconic Infusion Array
 
 110
 00:05:15,333 --> 00:05:18,100
@@ -440,7 +440,7 @@ with this we can now upgrade our technology
 
 111
 00:05:18,366 --> 00:05:22,200
-such as the 48 Blocks Range wireless power transmitter
+such as the 48 blocks range Wireless Power Transmitter
 
 112
 00:05:22,200 --> 00:05:25,700
@@ -452,7 +452,7 @@ but also 64 amps hatches
 
 114
 00:05:28,133 --> 00:05:31,700
-we also gained access to the next tier of fusion reactors
+we also gained access to the next tier of Fusion Reactors
 
 115
 00:05:31,966 --> 00:05:33,600
@@ -460,7 +460,7 @@ but most importantly
 
 116
 00:05:33,866 --> 00:05:37,000
-we can now make a room that is cleaner than a sterile room
+we can now make a room that is cleaner than a Sterile Room
 
 117
 00:05:37,366 --> 00:05:40,933
@@ -472,7 +472,7 @@ allowing for the crafting of the highest level of draconian technology
 
 119
 00:05:45,300 --> 00:05:49,800
-which will culminate with the second tier of auxiliary boosted fusion reactor
+which will culminate with the second tier of Auxiliary Boosted Fusion Reactor
 
 120
 00:05:49,800 --> 00:05:52,266
@@ -544,7 +544,7 @@ expensive
 
 137
 00:06:36,666 --> 00:06:38,866
-ruins of the old fusion reactors
+ruins of the old Fusion Reactors
 
 138
 00:06:39,266 --> 00:06:40,200
@@ -900,15 +900,15 @@ please be careful and don't twist the fabric of space time
 
 226
 00:04:02,700 --> 00:04:06,133
-我们用它来造了一台符文歧管机械手
+我们用它来造了一台（符文流形操纵者？）
 
 227
 00:04:06,266 --> 00:04:10,033
-这台机器会消耗我们新建的聚变反应堆产出
+这台机器会使用我们新建的聚变堆的产物
 
 228
 00:04:10,033 --> 00:04:14,600
-来折叠新符文星门组装机所需的结构部件
+来折叠出新符文星门组装机所需的结构部件
 
 229
 00:04:14,900 --> 00:04:17,566
@@ -920,7 +920,7 @@ please be careful and don't twist the fabric of space time
 
 231
 00:04:20,133 --> 00:04:22,100
-我们四处游荡了一段时间
+我们四处游荡了一会
 
 232
 00:04:22,333 --> 00:04:24,133
@@ -928,7 +928,7 @@ please be careful and don't twist the fabric of space time
 
 233
 00:04:24,266 --> 00:04:27,966
-但最吸引我们好奇心的，是火焰残壳
+但最吸引我们好奇心的是（火焰残壳？）
 
 234
 00:04:28,466 --> 00:04:29,433
@@ -940,11 +940,11 @@ please be careful and don't twist the fabric of space time
 
 236
 00:04:32,200 --> 00:04:34,466
-我们成功造出了地狱锻造厂
+我们成功造出了（地狱锻炉？）
 
 237
 00:04:34,666 --> 00:04:37,300
-虽然它不如神锻炉那么好
+虽然它不如神之锻炉那么好
 
 238
 00:04:37,500 --> 00:04:40,066
@@ -952,7 +952,7 @@ please be careful and don't twist the fabric of space time
 
 239
 00:04:40,100 --> 00:04:43,000
-我们把它冷却进了新的量子冷却器里
+我们用新的（量子冷却器？）冷却等离子体
 
 240
 00:04:43,100 --> 00:04:46,000
@@ -960,11 +960,11 @@ please be careful and don't twist the fabric of space time
 
 241
 00:04:46,466 --> 00:04:49,100
-幸运的是，天上有人伸出了援手
+幸运的是，有高人伸出援手
 
 242
 00:04:49,100 --> 00:04:52,266
-这让我们得以造出巨型合金爆裂冶炼厂
+这让我们得以造出巨型合金冶炼炉
 
 243
 00:04:52,533 --> 00:04:55,100
@@ -980,7 +980,7 @@ please be careful and don't twist the fabric of space time
 
 246
 00:05:01,200 --> 00:05:04,600
-于是又建了一座通往末地维度的星门
+于是又建了一座通往末地的星门
 
 247
 00:05:04,733 --> 00:05:07,133
@@ -988,15 +988,15 @@ please be careful and don't twist the fabric of space time
 
 248
 00:05:07,466 --> 00:05:11,266
-然后我们快速出发，去找一个龙头
+然后我们快速找到一个龙首
 
 249
 00:05:11,366 --> 00:05:14,800
-并用它来研究新的龙之灌注阵列
+并用它来研究新的（龙之注魔阵列？）
 
 250
 00:05:15,333 --> 00:05:18,100
-有了它，我们现在可以升级技术了
+有了它，我们现在可以升级科技了
 
 251
 00:05:18,366 --> 00:05:22,200
@@ -1008,7 +1008,7 @@ please be careful and don't twist the fabric of space time
 
 253
 00:05:25,700 --> 00:05:27,533
-还支持 64 安培接口
+还支持 64 A 能源仓
 
 254
 00:05:28,133 --> 00:05:31,700
@@ -1032,11 +1032,11 @@ please be careful and don't twist the fabric of space time
 
 259
 00:05:45,300 --> 00:05:49,800
-最终会落到第二级辅助增压聚变反应堆上
+最终变成二阶（辅助增压聚变反应堆？）
 
 260
 00:05:49,800 --> 00:05:52,266
-它能够产出 Maxwellium
+它能够产出（麦克斯韦素？）
 
 261
 00:05:52,466 --> 00:05:57,666
@@ -1044,7 +1044,7 @@ please be careful and don't twist the fabric of space time
 
 262
 00:05:57,866 --> 00:06:00,666
-我们终于把它造好了，还得到了一位新朋友
+我们终于把它造好了，还获得了一位新朋友
 
 263
 00:06:01,400 --> 00:06:03,766
@@ -1052,7 +1052,7 @@ please be careful and don't twist the fabric of space time
 
 264
 00:06:03,933 --> 00:06:06,766
-我们就把他接起来，好带他看看新家
+我们把他捧起来，好带他看看新家
 
 265
 00:06:07,400 --> 00:06:10,400
@@ -1088,11 +1088,11 @@ please be careful and don't twist the fabric of space time
 
 273
 00:06:28,366 --> 00:06:30,766
-负责被动工序的随机机器
+负责被动产线的路边机器
 
 274
 00:06:31,200 --> 00:06:34,366
-负责加工我们需要的一切的随机机器
+负责加工我们需要的一切的路边机器
 
 275
 00:06:34,366 --> 00:06:34,933
@@ -1100,7 +1100,7 @@ please be careful and don't twist the fabric of space time
 
 276
 00:06:35,666 --> 00:06:36,366
-贵
+贵机器
 
 277
 00:06:36,666 --> 00:06:38,866
@@ -1116,5 +1116,5 @@ please be careful and don't twist the fabric of space time
 
 280
 00:06:42,733 --> 00:06:46,666
-请小心，别扭曲时空的结构
+小心，别扭曲了时空的结构
 
