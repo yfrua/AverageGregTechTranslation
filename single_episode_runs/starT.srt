@@ -140,7 +140,7 @@ and talking about plasma hot machines
 
 36
 00:01:36,333 --> 00:01:38,466
-we should also have a heat chamber
+we should also have a Heat Chamber
 
 37
 00:01:38,466 --> 00:01:41,566
@@ -700,7 +700,7 @@ please be careful and don't twist the fabric of space time
 
 176
 00:01:36,333 --> 00:01:38,466
-我们也该有一个（加热仓？）
+我们也该有一个（加热仓？无游戏内译名）
 
 177
 00:01:38,466 --> 00:01:41,566
@@ -900,7 +900,7 @@ please be careful and don't twist the fabric of space time
 
 226
 00:04:02,700 --> 00:04:06,133
-我们用它来造了一台（符文流形操纵者？）
+我们用它来造了一台（符文流形操纵者？无游戏内译名，全称 Runic Inscriber and Manifold Manipulator）
 
 227
 00:04:06,266 --> 00:04:10,033
@@ -928,7 +928,7 @@ please be careful and don't twist the fabric of space time
 
 233
 00:04:24,266 --> 00:04:27,966
-但最吸引我们好奇心的是（火焰残壳？）
+但最吸引我们好奇心的是（火焰残壳？无游戏内译名）
 
 234
 00:04:28,466 --> 00:04:29,433
@@ -940,7 +940,7 @@ please be careful and don't twist the fabric of space time
 
 236
 00:04:32,200 --> 00:04:34,466
-我们成功造出了（地狱锻炉？）
+我们成功造出了（地狱锻炉？无游戏内译名）
 
 237
 00:04:34,666 --> 00:04:37,300
@@ -952,7 +952,7 @@ please be careful and don't twist the fabric of space time
 
 239
 00:04:40,100 --> 00:04:43,000
-我们用新的（量子冷却器？）冷却等离子体
+我们用新的（量子冷却器？无游戏内译名，全称 Cryostate Quantum Chiller）冷却等离子体
 
 240
 00:04:43,100 --> 00:04:46,000
@@ -992,7 +992,7 @@ please be careful and don't twist the fabric of space time
 
 249
 00:05:11,366 --> 00:05:14,800
-并用它来研究新的（龙之注魔阵列？）
+并用它来研究新的（龙之注魔阵列？无游戏内译名）
 
 250
 00:05:15,333 --> 00:05:18,100
@@ -1032,11 +1032,11 @@ please be careful and don't twist the fabric of space time
 
 259
 00:05:45,300 --> 00:05:49,800
-最终变成二阶（辅助增压聚变反应堆？）
+最终变成二阶（辅助增压聚变反应堆？无游戏内译名）
 
 260
 00:05:49,800 --> 00:05:52,266
-它能够产出（麦克斯韦素？）
+它能够产出（麦克斯韦素？无游戏内译名）
 
 261
 00:05:52,466 --> 00:05:57,666
