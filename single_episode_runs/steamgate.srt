@@ -1,6 +1,6 @@
 1
 00:00:16,333 --> 00:00:21,500
- but the most useful thing we can craft with some more steel is a charcoal pile igniter
+but the most useful thing we can craft with some more steel is a charcoal pile igniter
 
 2
 00:00:21,500 --> 00:00:24,200
@@ -520,7 +520,7 @@ we turn it on to compress steam into solid form
 
 131
 00:07:13,300 --> 00:07:20,200
-this new material will allow us to craft the most advanced technology we could only dream of in ingasious steam age
+this new material will allow us to craft the most advanced technology we could only dream of in gaseous steam age
 
 132
 00:07:20,733 --> 00:07:21,533
