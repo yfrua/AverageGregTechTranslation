@@ -1,0 +1,912 @@
+1
+00:00:00,966 --> 00:00:02,200
+if you're watching this video
+
+2
+00:00:02,200 --> 00:00:04,333
+you are probably wondering what this game is about
+
+3
+00:00:04,666 --> 00:00:07,133
+maybe you have already been told great things about this game
+
+4
+00:00:07,200 --> 00:00:09,600
+or maybe you have been impressed by some of its videos
+
+5
+00:00:09,733 --> 00:00:11,966
+but I think the best description of this game is that
+
+6
+00:00:11,966 --> 00:00:14,166
+it feels incredibly rewarding and meaningful
+
+7
+00:00:14,466 --> 00:00:16,600
+but let's see what this game is actually about
+
+8
+00:00:16,733 --> 00:00:17,966
+since it's a Minecraft modpack
+
+9
+00:00:17,966 --> 00:00:19,566
+you start in the middle of nowhere
+
+10
+00:00:19,700 --> 00:00:21,066
+all you're given is a guidebook
+
+11
+00:00:21,066 --> 00:00:23,900
+that contains all of the required information to complete the game
+
+12
+00:00:24,300 --> 00:00:25,066
+at the beginning
+
+13
+00:00:25,066 --> 00:00:26,833
+you will have to survive the wild animals
+
+14
+00:00:26,833 --> 00:00:28,966
+while also trying to maintain a balanced diet
+
+15
+00:00:29,666 --> 00:00:32,766
+then you will go through all of the steps of the industrial and silicon revolution
+
+16
+00:00:33,000 --> 00:00:36,600
+reaching sci-fi technologies up to the point of finally crafting a Stargate
+
+17
+00:00:37,100 --> 00:00:38,666
+but doing so is not too easy
+
+18
+00:00:39,000 --> 00:00:44,933
+every new age will indeed unlock new kinds of machines that will require new sorts of understandings to be successfully operated
+
+19
+00:00:45,200 --> 00:00:48,333
+you will have to explore many new planets to collect rare materials
+
+20
+00:00:48,333 --> 00:00:51,566
+that will require huge complex machine construction to be fully refined
+
+21
+00:00:52,133 --> 00:00:53,966
+and while each step will solve a past issue
+
+22
+00:00:53,966 --> 00:00:56,933
+it will open countless new possibilities and tasks to accomplish
+
+23
+00:00:57,200 --> 00:01:00,066
+but saying it this way doesn't make justice to this game
+
+24
+00:01:00,166 --> 00:01:01,300
+because as they say
+
+25
+00:01:01,300 --> 00:01:03,400
+the real joy isn't in the reaching the destination
+
+26
+00:01:03,500 --> 00:01:05,000
+but in the journey itself
+
+27
+00:01:05,133 --> 00:01:05,933
+with that said
+
+28
+00:01:05,933 --> 00:01:07,933
+let's now see what makes this journey special
+
+29
+00:01:10,100 --> 00:01:13,266
+GTNH is famous for its incredibly high waiting times
+
+30
+00:01:13,733 --> 00:01:17,066
+while some people consider this its main weakness for how the game is designed
+
+31
+00:01:17,066 --> 00:01:18,733
+that's actually one of its strengths
+
+32
+00:01:19,200 --> 00:01:22,366
+that's because the game will force you into actually understanding what's going on
+
+33
+00:01:22,366 --> 00:01:24,766
+and then let you decide how you want to deal with it
+
+34
+00:01:25,200 --> 00:01:25,966
+for example
+
+35
+00:01:25,966 --> 00:01:27,966
+making your first steel will require 1 hour
+
+36
+00:01:28,000 --> 00:01:30,533
+and the amount produced this way will be basically nothing
+
+37
+00:01:30,933 --> 00:01:33,466
+this should push the player into building more blast furnaces
+
+38
+00:01:33,466 --> 00:01:36,000
+and designing all that's required to keep those furnaces working
+
+39
+00:01:36,666 --> 00:01:38,600
+however, overdoing it will cause new issues
+
+40
+00:01:38,600 --> 00:01:40,133
+such as excessive pollution
+
+41
+00:01:40,166 --> 00:01:43,166
+which will then require additional effort to be properly managed
+
+42
+00:01:43,166 --> 00:01:47,866
+otherwise, one could also use those waiting times to expand one of the many extra optional activities
+
+43
+00:01:47,866 --> 00:01:50,766
+that will still provide some nice quality of life improvements
+
+44
+00:01:51,600 --> 00:01:52,533
+exponential growth
+
+45
+00:01:53,000 --> 00:01:54,900
+this is my favorite thing in GTNH
+
+46
+00:01:55,000 --> 00:01:56,533
+things scale incredibly quickly
+
+47
+00:01:56,933 --> 00:01:59,600
+after many hours spent manually managing a steel workshop
+
+48
+00:01:59,600 --> 00:02:04,600
+we finally managed to build a fully automated electric blast furnace capable of working 70 times faster
+
+49
+00:02:05,100 --> 00:02:06,466
+and it still can be upgraded
+
+50
+00:02:06,700 --> 00:02:09,800
+we can upgrade it with better materials and more precise circuitry
+
+51
+00:02:10,000 --> 00:02:14,000
+allowing it to work at higher temperatures to speed up the process by hundreds of times
+
+52
+00:02:14,500 --> 00:02:16,733
+but at some point this still won't be enough
+
+53
+00:02:16,866 --> 00:02:18,500
+so we can build a bigger version
+
+54
+00:02:18,500 --> 00:02:22,066
+capable of working thousands of ingots at a time and at super high speeds
+
+55
+00:02:22,400 --> 00:02:25,366
+finally, in the endgame we will unlock the forge of the gods
+
+56
+00:02:25,500 --> 00:02:27,633
+this incredible multiblock has its own skill tree
+
+57
+00:02:27,633 --> 00:02:31,533
+where we can purchase upgrades with points we make by expanding or using it
+
+58
+00:02:31,666 --> 00:02:34,066
+and that's how we make trillions of steel ingots
+
+59
+00:02:34,766 --> 00:02:35,600
+gameplay length
+
+60
+00:02:36,066 --> 00:02:38,266
+the next thing GTNH is famous for is that
+
+61
+00:02:38,266 --> 00:02:40,066
+it takes thousands of hours to complete
+
+62
+00:02:40,133 --> 00:02:41,100
+that's not a downside
+
+63
+00:02:41,100 --> 00:02:44,766
+but just something that you can enjoy without it finishing before you realize
+
+64
+00:02:45,466 --> 00:02:46,300
+complexity
+
+65
+00:02:46,600 --> 00:02:49,600
+finally, the main selling point of GTNH is its complexity
+
+66
+00:02:49,900 --> 00:02:52,800
+this game isn't hard as in requiring a particular skill
+
+67
+00:02:52,866 --> 00:02:56,166
+but in the incredible level of problem solving and dedication required
+
+68
+00:02:56,366 --> 00:03:00,066
+the first real challenge you'll find is probably managing your power network
+
+69
+00:03:00,366 --> 00:03:00,933
+in most games
+
+70
+00:03:00,933 --> 00:03:03,066
+you just connect everything to a main power line 
+
+71
+00:03:03,066 --> 00:03:04,866
+without really worrying about it too much
+
+72
+00:03:04,866 --> 00:03:06,400
+but here things are more pronounced
+
+73
+00:03:06,700 --> 00:03:11,066
+so much that you will eventually get lost in labyrinths of cables that you will have to build
+
+74
+00:03:11,200 --> 00:03:13,866
+from the beginning you can choose from a huge variety of cables
+
+75
+00:03:14,066 --> 00:03:16,000
+each one with a different cost and stats
+
+76
+00:03:16,600 --> 00:03:18,566
+and if you pick a cable that can't do the job
+
+77
+00:03:18,566 --> 00:03:20,066
+it will eventually catch fire
+
+78
+00:03:20,366 --> 00:03:22,500
+and that could cause other problems too
+
+79
+00:03:22,800 --> 00:03:25,100
+each cable also has a different resistance
+
+80
+00:03:25,266 --> 00:03:26,766
+causing a different voltage drop
+
+81
+00:03:26,766 --> 00:03:28,066
+which could hinder machines
+
+82
+00:03:28,500 --> 00:03:31,100
+each recipe indeed has a minimum power requirement
+
+83
+00:03:31,133 --> 00:03:32,366
+and if it's not met
+
+84
+00:03:32,466 --> 00:03:35,933
+the machine will get jammed and start the process all over again
+
+85
+00:03:36,300 --> 00:03:38,266
+but that's just the best case scenario
+
+86
+00:03:38,466 --> 00:03:42,000
+bigger machines will get jammed to the point where manual intervention will be required
+
+87
+00:03:42,200 --> 00:03:45,100
+and the items that were being processed will be completely destroyed
+
+88
+00:03:45,733 --> 00:03:48,500
+and if that was in a crafting chain with some looping byproducts
+
+89
+00:03:48,500 --> 00:03:50,100
+that will make the issue even worse
+
+90
+00:03:50,533 --> 00:03:51,766
+but even worse is the case
+
+91
+00:03:51,766 --> 00:03:55,700
+in which you accidentally give too much voltage to a machine that can't handle it
+
+92
+00:03:55,966 --> 00:03:59,366
+and those were just the basics of proper power management in GregTech
+
+93
+00:03:59,366 --> 00:04:02,966
+which as far as I know are already way far and beyond what most games do
+
+94
+00:04:03,400 --> 00:04:06,466
+another complex wiring management task is a AE2
+
+95
+00:04:06,600 --> 00:04:07,400
+if you didn't know
+
+96
+00:04:07,400 --> 00:04:12,100
+Applied Energistics is a mod used for managing resources by almost every Minecraft modpack
+
+97
+00:04:12,266 --> 00:04:16,266
+not only this mod allows you to view all of what you have in your chests, warehouses and tanks
+
+98
+00:04:16,266 --> 00:04:17,766
+it also restocks other machines
+
+99
+00:04:17,766 --> 00:04:20,566
+and even allows for crafting things on demand or passively
+
+100
+00:04:21,100 --> 00:04:24,666
+this model alone in its original form already deserves a multi video series
+
+101
+00:04:24,666 --> 00:04:29,166
+but GTNH adds extra features to push even farther to manage GTNH's tasks
+
+102
+00:04:30,266 --> 00:04:34,100
+next part of the game that some people consider complex is some of the processing lines 
+
+103
+00:04:34,266 --> 00:04:40,066
+which often times will require you to concatenate dozens of machines to refine a single last out of an ore
+
+104
+00:04:40,066 --> 00:04:46,666
+one more task that is usually considered a little bit complicated is figuring out how to solve some of the puzzles required to operate some of the machines
+
+105
+00:04:47,400 --> 00:04:51,533
+indeed, in GTNH it's quite common to find yourself coding something using diagram blocks
+
+106
+00:04:51,566 --> 00:04:52,933
+working with redstone circuitries
+
+107
+00:04:52,933 --> 00:04:53,966
+or making a spreadsheet
+
+108
+00:04:53,966 --> 00:04:56,866
+or even graphs to figure out how to make something work properly
+
+109
+00:04:57,066 --> 00:04:57,733
+and with that
+
+110
+00:04:57,733 --> 00:05:01,566
+I think I managed to scratch the surface of what's needed to know about this game
+
+111
+00:05:01,966 --> 00:05:03,133
+if you want to know more about it
+
+112
+00:05:03,133 --> 00:05:04,066
+I made other videos
+
+113
+00:05:04,066 --> 00:05:07,766
+and the community is one of the most friendly I have ever seen
+
+114
+00:05:07,766 --> 00:05:10,300
+and thus, it's up to you to join us, bye bye
+
+115
+00:00:00,966 --> 00:00:02,200
+如果你正在看这个视频
+
+116
+00:00:02,200 --> 00:00:04,333
+你可能想知道这个游戏是关于什么的
+
+117
+00:00:04,666 --> 00:00:07,133
+也许你已经被告知这个游戏的伟大之处
+
+118
+00:00:07,200 --> 00:00:09,600
+或者你可能对它的一些视频印象深刻
+
+119
+00:00:09,733 --> 00:00:11,966
+但我认为对这场比赛最好的描述是
+
+120
+00:00:11,966 --> 00:00:14,166
+这感觉非常有价值和意义
+
+121
+00:00:14,466 --> 00:00:16,600
+让我们来看看这个游戏到底是怎么回事
+
+122
+00:00:16,733 --> 00:00:17,966
+因为它是Minecraft模组包
+
+123
+00:00:17,966 --> 00:00:19,566
+你从一个偏僻的地方开始
+
+124
+00:00:19,700 --> 00:00:21,066
+你得到的只是一本指南
+
+125
+00:00:21,066 --> 00:00:23,900
+包含完成游戏所需的所有信息
+
+126
+00:00:24,300 --> 00:00:25,066
+一开始
+
+127
+00:00:25,066 --> 00:00:26,833
+你将不得不在野生动物中幸存下来
+
+128
+00:00:26,833 --> 00:00:28,966
+同时也努力保持均衡的饮食
+
+129
+00:00:29,666 --> 00:00:32,766
+然后你将经历工业和硅革命的所有步骤
+
+130
+00:00:33,000 --> 00:00:36,600
+将科幻科技发展到最终制造星际之门的地步
+
+131
+00:00:37,100 --> 00:00:38,666
+但这样做并不容易
+
+132
+00:00:39,000 --> 00:00:44,933
+每个新时代都将开启新种类的机器，这些机器将需要新种类的理解才能成功操作
+
+133
+00:00:45,200 --> 00:00:48,333
+你将不得不探索许多新的行星来收集稀有材料
+
+134
+00:00:48,333 --> 00:00:51,566
+这需要庞大复杂的机器结构才能完全完善
+
+135
+00:00:52,133 --> 00:00:53,966
+虽然每一步都将解决过去的问题
+
+136
+00:00:53,966 --> 00:00:56,933
+它将打开无数新的可能性和任务来完成
+
+137
+00:00:57,200 --> 00:01:00,066
+但这样说并不能为这场比赛赢得公正
+
+138
+00:01:00,166 --> 00:01:01,300
+因为正如他们所说
+
+139
+00:01:01,300 --> 00:01:03,400
+真正的快乐不在于到达目的地
+
+140
+00:01:03,500 --> 00:01:05,000
+而是在旅途中
+
+141
+00:01:05,133 --> 00:01:05,933
+这么说
+
+142
+00:01:05,933 --> 00:01:07,933
+让我们来看看这次旅程的特别之处
+
+143
+00:01:10,100 --> 00:01:13,266
+GTNH以其令人难以置信的高等待时间而闻名
+
+144
+00:01:13,733 --> 00:01:17,066
+虽然有些人认为这是游戏设计的主要弱点
+
+145
+00:01:17,066 --> 00:01:18,733
+这其实是它的强项之一
+
+146
+00:01:19,200 --> 00:01:22,366
+那是因为游戏会迫使你真正理解发生了什么
+
+147
+00:01:22,366 --> 00:01:24,766
+然后让你决定如何处理它
+
+148
+00:01:25,200 --> 00:01:25,966
+例如
+
+149
+00:01:25,966 --> 00:01:27,966
+制作您的第一块钢材需要1小时
+
+150
+00:01:28,000 --> 00:01:30,533
+这样生产的数量基本上是零
+
+151
+00:01:30,933 --> 00:01:33,466
+这将推动玩家建造更多的高炉
+
+152
+00:01:33,466 --> 00:01:36,000
+并设计出维持熔炉运转所需的一切
+
+153
+00:01:36,666 --> 00:01:38,600
+但是，过度使用会导致新的问题
+
+154
+00:01:38,600 --> 00:01:40,133
+比如过度污染
+
+155
+00:01:40,166 --> 00:01:43,166
+这将需要额外的努力来妥善管理
+
+156
+00:01:43,166 --> 00:01:47,866
+否则，您也可以利用这些等待时间来扩展许多额外的可选活动之一
+
+157
+00:01:47,866 --> 00:01:50,766
+这仍然会提供一些不错的生活质量改善
+
+158
+00:01:51,600 --> 00:01:52,533
+指数增长
+
+159
+00:01:53,000 --> 00:01:54,900
+这是我在GTNH最喜欢的东西
+
+160
+00:01:55,000 --> 00:01:56,533
+事物的规模非常快
+
+161
+00:01:56,933 --> 00:01:59,600
+在花了许多时间手动管理钢铁车间后
+
+162
+00:01:59,600 --> 00:02:04,600
+我们终于成功建造了一个全自动的高炉，工作速度快了70倍。
+
+163
+00:02:05,100 --> 00:02:06,466
+它仍然可以升级。
+
+164
+00:02:06,700 --> 00:02:09,800
+我们可以用更好的材料和更精确的电路来升级它
+
+165
+00:02:10,000 --> 00:02:14,000
+允许它在更高的温度下工作，以将过程加快数百倍
+
+166
+00:02:14,500 --> 00:02:16,733
+但在某些时候，这仍然不够。
+
+167
+00:02:16,866 --> 00:02:18,500
+所以我们可以建造一个更大的版本
+
+168
+00:02:18,500 --> 00:02:22,066
+能够一次以超高速加工数千锭
+
+169
+00:02:22,400 --> 00:02:25,366
+最后，在游戏结束时，我们将打开众神的熔炉
+
+170
+00:02:25,500 --> 00:02:27,633
+这个不可思议的多街区有自己的技能树
+
+171
+00:02:27,633 --> 00:02:31,533
+我们可以通过扩展或使用积分购买升级
+
+172
+00:02:31,666 --> 00:02:34,066
+这就是我们制造数万亿钢锭的方法
+
+173
+00:02:34,766 --> 00:02:35,600
+游戏长度
+
+174
+00:02:36,066 --> 00:02:38,266
+接下来GTNH出名的是
+
+175
+00:02:38,266 --> 00:02:40,066
+需要数千小时才能完成
+
+176
+00:02:40,133 --> 00:02:41,100
+这不是缺点
+
+177
+00:02:41,100 --> 00:02:44,766
+但只是一些你可以享受的东西，而不是在你意识到之前完成
+
+178
+00:02:45,466 --> 00:02:46,300
+复杂性
+
+179
+00:02:46,600 --> 00:02:49,600
+最后，GTNH的主要卖点是它的复杂性
+
+180
+00:02:49,900 --> 00:02:52,800
+这个游戏并不难，因为需要特定的技能
+
+181
+00:02:52,866 --> 00:02:56,166
+但是在令人难以置信的解决问题和奉献精神的水平上
+
+182
+00:02:56,366 --> 00:03:00,066
+第一个真正的挑战你会发现可能是管理您的电力网络
+
+183
+00:03:00,366 --> 00:03:00,933
+在大多数游戏中
+
+184
+00:03:00,933 --> 00:03:03,066
+你只要把所有东西都连接到主电源线上
+
+185
+00:03:03,066 --> 00:03:04,866
+不用太担心
+
+186
+00:03:04,866 --> 00:03:06,400
+但在这里事情更明显
+
+187
+00:03:06,700 --> 00:03:11,066
+如此之多，以至于你最终会迷失在迷宫般的电缆中，你将不得不建造
+
+188
+00:03:11,200 --> 00:03:13,866
+从一开始您可以选择从一个巨大的各种各样的电缆
+
+189
+00:03:14,066 --> 00:03:16,000
+每个都有不同的成本和统计数据
+
+190
+00:03:16,600 --> 00:03:18,566
+如果你选了一根不能胜任这项工作的电缆
+
+191
+00:03:18,566 --> 00:03:20,066
+它最终会着火
+
+192
+00:03:20,366 --> 00:03:22,500
+这也可能导致其他问题
+
+193
+00:03:22,800 --> 00:03:25,100
+每根电缆也有不同的电阻
+
+194
+00:03:25,266 --> 00:03:26,766
+导致不同的电压降
+
+195
+00:03:26,766 --> 00:03:28,066
+这可能会阻碍机器
+
+196
+00:03:28,500 --> 00:03:31,100
+每个配方都有最低功率要求
+
+197
+00:03:31,133 --> 00:03:32,366
+如果没有满足
+
+198
+00:03:32,466 --> 00:03:35,933
+机器会卡住，重新开始这个过程
+
+199
+00:03:36,300 --> 00:03:38,266
+但这只是最好的情况
+
+200
+00:03:38,466 --> 00:03:42,000
+更大的机器会被卡住，以至于需要人工干预
+
+201
+00:03:42,200 --> 00:03:45,100
+正在处理的物品将被完全销毁
+
+202
+00:03:45,733 --> 00:03:48,500
+如果这是在一个带有循环副产品的工艺链中
+
+203
+00:03:48,500 --> 00:03:50,100
+这会让问题变得更糟
+
+204
+00:03:50,533 --> 00:03:51,766
+但更糟糕的是情况
+
+205
+00:03:51,766 --> 00:03:55,700
+你不小心给一台不能处理它的机器施加了太多电压
+
+206
+00:03:55,966 --> 00:03:59,366
+这些只是GregTech适当电源管理的基础
+
+207
+00:03:59,366 --> 00:04:02,966
+据我所知，这已经远远超出了大多数游戏的范围。
+
+208
+00:04:03,400 --> 00:04:06,466
+另一个复杂的布线管理任务是AE2
+
+209
+00:04:06,600 --> 00:04:07,400
+如果你不知道
+
+210
+00:04:07,400 --> 00:04:12,100
+应用能量学是几乎每个Minecraft模组包用于管理资源的模组
+
+211
+00:04:12,266 --> 00:04:16,266
+不仅这个mod允许您查看您的箱子、仓库和坦克中的所有物品
+
+212
+00:04:16,266 --> 00:04:17,766
+它还补货其他机器
+
+213
+00:04:17,766 --> 00:04:20,566
+甚至允许按需或被动地制作东西
+
+214
+00:04:21,100 --> 00:04:24,666
+这个模型本身的原始形式已经值得一个多视频系列
+
+215
+00:04:24,666 --> 00:04:29,166
+但GTNH增加了额外的功能，以进一步推动管理GTNH的任务
+
+216
+00:04:30,266 --> 00:04:34,100
+游戏的下一个部分有些人认为是复杂的是一些处理线
+
+217
+00:04:34,266 --> 00:04:40,066
+这通常需要你连接几十台机器才能从矿石中提炼出最后一个
+
+218
+00:04:40,066 --> 00:04:46,666
+另一个任务通常被认为是有点复杂是弄清楚如何解决一些难题所需的操作一些机器
+
+219
+00:04:47,400 --> 00:04:51,533
+事实上，在GTNH中，发现自己使用图表块编码是很常见的
+
+220
+00:04:51,566 --> 00:04:52,933
+使用红石电路
+
+221
+00:04:52,933 --> 00:04:53,966
+或制作电子表格
+
+222
+00:04:53,966 --> 00:04:56,866
+甚至是图表来弄清楚如何使某些东西正常工作
+
+223
+00:04:57,066 --> 00:04:57,733
+有了这个
+
+224
+00:04:57,733 --> 00:05:01,566
+我想我大概了解了这个游戏的一些细节
+
+225
+00:05:01,966 --> 00:05:03,133
+如果你想了解更多
+
+226
+00:05:03,133 --> 00:05:04,066
+我拍了其他视频
+
+227
+00:05:04,066 --> 00:05:07,766
+这个社区是我见过的最友好的社区之一
+
+228
+00:05:07,766 --> 00:05:10,300
+因此，你要加入我们，再见
+
