@@ -144,7 +144,7 @@ and the amount produced this way will be basically nothing
 
 37
 00:01:30,933 --> 00:01:33,466
-this should push the player into building more blast furnaces
+this should push the player into building more Blast Furnaces
 
 38
 00:01:33,466 --> 00:01:36,000
@@ -188,7 +188,7 @@ after many hours spent manually managing a steel workshop
 
 48
 00:01:59,600 --> 00:02:04,600
-we finally managed to build a fully automated electric blast furnace capable of working 70 times faster
+we finally managed to build a fully automated Electric Blast Furnace capable of working 70 times faster
 
 49
 00:02:05,100 --> 00:02:06,466
@@ -216,7 +216,7 @@ capable of working thousands of ingots at a time and at super high speeds
 
 55
 00:02:22,400 --> 00:02:25,366
-finally, in the endgame we will unlock the forge of the gods
+finally, in the endgame we will unlock the Forge of the Gods
 
 56
 00:02:25,500 --> 00:02:27,633
@@ -396,7 +396,7 @@ and even allows for crafting things on demand or passively
 
 100
 00:04:21,100 --> 00:04:24,666
-this model alone in its original form already deserves a multi video series
+this model alone in its original form already deserves a multi-video series
 
 101
 00:04:24,666 --> 00:04:29,166
