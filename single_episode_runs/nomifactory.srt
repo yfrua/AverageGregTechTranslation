@@ -40,7 +40,7 @@ with that stuff we make our first steam machinery
 
 11
 00:00:35,166 --> 00:00:39,133
-required to craft a bricked blast furnace to get access to steel
+required to craft a Bricked Blast Furnace to get access to steel
 
 12
 00:00:39,766 --> 00:00:43,800
@@ -48,7 +48,7 @@ and acquiring steel means that we can now build LV machinery
 
 13
 00:00:44,266 --> 00:00:47,066
-which we use to build an electric blast furnace
+which we use to build an Electric Blast Furnace
 
 14
 00:00:47,400 --> 00:00:50,900
@@ -72,7 +72,7 @@ and that will be of great help inside our new clean room to craft the complex ne
 
 19
 00:01:06,666 --> 00:01:10,333
-and the first usage for our new circuitry is a vacuum freezer
+and the first usage for our new circuitry is a Vacuum Freezer
 
 20
 00:01:10,566 --> 00:01:12,700
@@ -88,11 +88,11 @@ that way, we can easily gather the materials required to expand our solar boiler
 
 23
 00:01:25,100 --> 00:01:29,000
-but those large steam turbines didn't last longer than their rotors
+but those Large Steam Turbines didn't last longer than their rotors
 
 24
 00:01:29,366 --> 00:01:32,266
-because we already have a large combustion engine
+because we already have a Large Combustion Engine
 
 25
 00:01:32,866 --> 00:01:36,866
@@ -200,7 +200,7 @@ to make them stand out, we need parallel control hatches
 
 51
 00:03:13,400 --> 00:03:17,066
- however, crafting those will require a lot of nether stars
+however, crafting those will require a lot of nether stars
 
 52
 00:03:17,466 --> 00:03:19,600
@@ -220,7 +220,7 @@ so the best way to obtain these is to get them from another universe
 
 56
 00:03:28,933 --> 00:03:33,866
-thus, we equip our tier 4 Microverse mining drone with some swords to do the task
+thus, we equip our tier 4 Microverse Mining Drone with some swords to do the task
 
 57
 00:03:34,200 --> 00:03:36,433
@@ -228,7 +228,7 @@ making it tier four and a half
 
 58
 00:03:36,433 --> 00:03:40,233
-once built, we send it in our slightly bigger version of Microverse
+once built, we send it in our slightly bigger version of microverse
 
 59
 00:03:40,233 --> 00:03:42,366
@@ -288,11 +288,11 @@ those aren't for a blast furnace
 
 73
 00:04:18,566 --> 00:04:21,933
-but for something that will be built by our new assembly line
+but for something that will be built by our new Assembly Line
 
 74
 00:04:21,933 --> 00:04:23,466
-a fusion reactor
+a Fusion Reactor
 
 75
 00:04:24,066 --> 00:04:26,733
@@ -372,7 +372,7 @@ until we manage to craft a new tier of rocket out of it
 
 94
 00:05:30,700 --> 00:05:34,366
-and this one requires a new tier of Microverse projector
+and this one requires a new tier of Microverse Projector
 
 95
 00:05:34,766 --> 00:05:37,500
@@ -380,7 +380,7 @@ this time we will be scouting for dragon hearts
 
 96
 00:05:37,500 --> 00:05:42,200
-which we shall use to make a celestial manipulator to make the nights fly away
+which we shall use to make a Celestial Manipulator to make the nights fly away
 
 97
 00:05:42,400 --> 00:05:44,800
@@ -404,7 +404,7 @@ and what we found out is that
 
 102
 00:05:56,666 --> 00:05:58,800
-with a new tier of fusion reactor
+with a new tier of Fusion Reactor
 
 103
 00:05:58,933 --> 00:06:00,400
@@ -412,7 +412,7 @@ we can get tritanium
 
 104
 00:06:00,600 --> 00:06:05,766
-and the first thing we can do with it is to upgrade our clean room into a sterile room
+and the first thing we can do with it is to upgrade our Clean Room into a Sterile Room
 
 105
 00:06:06,333 --> 00:06:08,900
@@ -476,7 +476,7 @@ but that was still not enough
 
 120
 00:06:49,766 --> 00:06:53,466
-so we built a network switch to chain even more computers together
+so we built a Network Switch to chain even more computers together
 
 121
 00:06:53,600 --> 00:06:56,933
@@ -496,11 +496,11 @@ and with that, we now have unlocked the highest tier of circuit in the game
 
 125
 00:07:08,533 --> 00:07:12,200
-which we shall use to make the highest tier of fusion reactor
+which we shall use to make the highest tier of Fusion Reactor
 
 126
 00:07:12,333 --> 00:07:18,100
-which will allow us to produce the material required for the highest tier of micro universe harvester
+which will allow us to produce the material required for the highest tier of Micro Universe Harvester
 
 127
 00:07:18,333 --> 00:07:20,133
@@ -528,11 +528,11 @@ we managed to finally build the highest tier of rocket
 
 133
 00:07:35,533 --> 00:07:37,766
-which produced the halth of an universe
+which produced the half of an universe
 
 134
 00:07:37,966 --> 00:07:41,533
-the first use we have for those is stabilizing micro miners
+the first use we have for those is Stabilizing Micro Miners
 
 135
 00:07:42,066 --> 00:07:45,533
@@ -544,11 +544,11 @@ thus giving us virtually infinite goodies
 
 137
 00:07:48,000 --> 00:07:53,366
-all at the cost of building one extra multiblock with the cost of about half a fusion reactor
+all at the cost of building one extra multiblock with the cost of about half a Fusion Reactor
 
 138
 00:07:53,366 --> 00:07:57,000
-and with that, we can go back on our road to the Infinity ingot
+and with that, we can go back on our road to the infinity ingot
 
 139
 00:07:57,000 --> 00:08:00,866
@@ -580,7 +580,7 @@ and all of this air must be cooled with our new chiller
 
 146
 00:08:16,233 --> 00:08:18,733
-and distilled with a bigger fractionating tower
+and distilled with a bigger Fractionating Tower
 
 147
 00:08:19,066 --> 00:08:22,266
@@ -608,7 +608,7 @@ using UIV power
 
 153
 00:08:36,933 --> 00:08:41,400
-and all of those items are then processed in our new assembly line cluster
+and all of those items are then processed in our new Assembly Line cluster
 
 154
 00:08:41,600 --> 00:08:43,666
@@ -628,7 +628,7 @@ but the best solution was the most simple one
 
 158
 00:08:50,766 --> 00:08:54,133
-using a tick accelerator on neutronium solar panels
+using a tick accelerator on Neutronium Solar Panels
 
 159
 00:08:54,500 --> 00:08:56,733
@@ -648,7 +648,7 @@ and now that we fixed about all of the main issues
 
 163
 00:09:09,700 --> 00:09:12,066
-we can start working on the creative Chest
+we can start working on the Creative Chest
 
 164
 00:09:12,600 --> 00:09:15,000
@@ -676,7 +676,7 @@ we can get those either by opening loot boxes or with social engineering
 
 170
 00:09:32,166 --> 00:09:34,333
-butrather than doing those two things
+but rather than doing those two things
 
 171
 00:09:34,500 --> 00:09:36,500
@@ -720,11 +720,11 @@ accelerated ultimate crafting
 
 181
 00:10:00,100 --> 00:10:02,133
-a second draconic crafter
+a second Draconic Crafter
 
 182
 00:10:02,500 --> 00:10:04,400
-more microverse projectors
+more Microverse Projectors
 
 183
 00:10:04,800 --> 00:10:06,400
@@ -732,19 +732,19 @@ more actuators
 
 184
 00:10:07,066 --> 00:10:08,933
-more alloy blast smelters
+more Alloy Blast Smelters
 
 185
 00:10:09,500 --> 00:10:11,066
-more fusion reactors
+more Fusion Reactors
 
 186
 00:10:11,533 --> 00:10:13,600
-a bigger Royal Distillery plant
+a bigger Royal Distillery Plant
 
 187
 00:10:13,866 --> 00:10:15,500
-a bigger breeder reactor
+a bigger Breeder Reactor
 
 188
 00:10:15,733 --> 00:10:18,700
@@ -760,7 +760,7 @@ we needed a more versatile energy source
 
 191
 00:10:24,300 --> 00:10:27,200
-so we quickly craft an infinite GT EU emitter
+so we quickly craft an Infinite GT EU Emitter
 
 192
 00:10:27,200 --> 00:10:29,400
@@ -816,11 +816,11 @@ we add a bunch more crafting units
 
 205
 00:11:01,133 --> 00:11:02,800
-increase our mega blast furnace count
+increase our Mega Blast Furnace count
 
 206
 00:11:02,933 --> 00:11:04,400
-we overclock our nuclear reactor
+we overclock our Nuclear Reactor
 
 207
 00:11:04,400 --> 00:11:05,866
@@ -832,7 +832,7 @@ we build more electrolyzers
 
 209
 00:11:06,966 --> 00:11:08,133
-we add more fusion reactors
+we add more Fusion Reactors
 
 210
 00:11:08,133 --> 00:11:09,266
@@ -852,11 +852,11 @@ and build more and more overclock package crafters
 
 214
 00:11:12,000 --> 00:11:12,900
-we build more fusion reactors
+we build more Fusion Reactors
 
 215
 00:11:12,900 --> 00:11:14,133
-we increase our sugar cane farming capability
+we increase our sugarcane farming capability
 
 216
 00:11:22,066 --> 00:11:23,933
@@ -892,7 +892,7 @@ and now that we put together all the pieces
 
 224
 00:11:39,066 --> 00:11:41,533
-the creative chest is finally ours
+the Creative Chest is finally ours
 
 225
 00:11:42,066 --> 00:11:43,933
@@ -1132,7 +1132,7 @@ bye bye
 
 284
 00:03:28,933 --> 00:03:33,866
-因此，我们为4层Microverse采矿无人机配备了一些剑来完成任务
+因此，我们为4层microverse采矿无人机配备了一些剑来完成任务
 
 285
 00:03:34,200 --> 00:03:36,433
@@ -1140,7 +1140,7 @@ bye bye
 
 286
 00:03:36,433 --> 00:03:40,233
-一旦建成，我们将它发送到我们稍微大一点的Microverse版本中
+一旦建成，我们将它发送到我们稍微大一点的microverse版本中
 
 287
 00:03:40,233 --> 00:03:42,366
@@ -1284,7 +1284,7 @@ bye bye
 
 322
 00:05:30,700 --> 00:05:34,366
-这个需要一层新的Microverse投影仪
+这个需要一层新的microverse投影仪
 
 323
 00:05:34,766 --> 00:05:37,500
