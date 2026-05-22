@@ -8,7 +8,7 @@ and if you have been following my latest run
 
 3
 00:00:02,966 --> 00:00:04,600
-you know I haven't been pastive anything
+you know I haven't been passive anything
 
 4
 00:00:04,600 --> 00:00:06,400
@@ -24,7 +24,7 @@ so I'm going to make this video to better explain why of this decision
 
 7
 00:00:12,933 --> 00:00:19,500
-and while the main reason was actually that I simply wanted to play in a different way than the usual factorio satisfactory way of making passive lines
+and while the main reason was actually that I simply wanted to play in a different way than the usual Factorio Satisfactory way of making passive lines
 
 8
 00:00:20,000 --> 00:00:22,733
@@ -40,7 +40,7 @@ I am currently in UHV
 
 11
 00:00:27,566 --> 00:00:30,800
-and my world base has a single mega distilation tower
+and my world base has a single Mega Distillation Tower
 
 12
 00:00:31,400 --> 00:00:33,700
@@ -48,19 +48,19 @@ and especially in single player that means that
 
 13
 00:00:33,700 --> 00:00:36,300
-I won't have to upgrade a distilation tower for the platline
+I won't have to upgrade a distillation tower for the platline
 
 14
 00:00:36,300 --> 00:00:39,266
-I won't have to upgrade a distilation tower for the naquadah-line
+I won't have to upgrade a distillation tower for the naquadah-line
 
 15
 00:00:39,400 --> 00:00:42,466
-I won't have to upgrade a distilation tower for the netherite line
+I won't have to upgrade a distillation tower for the netherite-line
 
 16
 00:00:42,566 --> 00:00:45,333
-I have a single mega distilation tower to worry about
+I have a single Mega Distillation Tower to worry about
 
 17
 00:00:45,800 --> 00:00:47,966
@@ -148,7 +148,7 @@ which was only about this different way of playing
 
 38
 00:01:44,733 --> 00:01:51,800
-a better explanation on how to do it I think belongs more to a AE2 or a gregtech tutorial video rather than this one
+a better explanation on how to do it I think belongs more to a AE2 or a GregTech tutorial video rather than this one
 
 39
 00:01:52,100 --> 00:01:53,433
