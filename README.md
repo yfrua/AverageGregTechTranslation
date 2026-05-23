@@ -35,7 +35,7 @@ cd AverageGregTechTranslation
 
 ### 3) Pick a workflow mode
 
-This step determine which brach you are going to use.
+This step determine which branch you are going to use. Check this [video](https://www.bilibili.com/video/BV19e4y1q7JJ/) out to have better understanding of feature branch workflow.
 
 **Option A: Direct on `main`**
 
