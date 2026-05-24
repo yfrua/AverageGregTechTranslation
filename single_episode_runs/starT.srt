@@ -48,7 +48,7 @@ we further improved our technology with electricity
 
 13
 00:00:32,066 --> 00:00:34,900
-to the point of making an electric blast furnace
+to the point of making an Electric Blast Furnace
 
 14
 00:00:35,333 --> 00:00:37,633
@@ -280,7 +280,7 @@ all we needed was some good lubricant
 
 71
 00:03:13,366 --> 00:03:15,366
-made by (Dutan Commons oil ?)
+made by (Dutton Common's?) oil
 
 72
 00:03:15,533 --> 00:03:17,866
@@ -840,7 +840,7 @@ please be careful and don't twist the fabric of space time
 
 211
 00:03:13,366 --> 00:03:15,366
-由Dutton Commons 的油制成
+由 Dutton Common 的油制成
 
 212
 00:03:15,533 --> 00:03:17,866
@@ -1117,4 +1117,8 @@ please be careful and don't twist the fabric of space time
 280
 00:06:42,733 --> 00:06:46,666
 小心，不要扭曲了时空的结构
+
+281
+00:07:00,633 --> 00:07:04,566
+（我忍不住要加上这个）
 
