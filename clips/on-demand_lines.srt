@@ -1,0 +1,327 @@
+1
+00:00:00,200 --> 00:00:00,900
+hello everyone
+
+2
+00:00:00,900 --> 00:00:02,966
+and if you have been following my latest run
+
+3
+00:00:02,966 --> 00:00:04,600
+you know I haven't been passive anything
+
+4
+00:00:04,600 --> 00:00:06,400
+but I have been doing everything on demand
+
+5
+00:00:07,133 --> 00:00:08,900
+that caused a little bit of discussions
+
+6
+00:00:08,966 --> 00:00:12,533
+so I'm going to make this video to better explain why of this decision
+
+7
+00:00:12,933 --> 00:00:19,500
+and while the main reason was actually that I simply wanted to play in a different way than the usual Factorio Satisfactory way of making passive lines
+
+8
+00:00:20,000 --> 00:00:22,733
+I figured out this way is actually a little bit better
+
+9
+00:00:23,133 --> 00:00:25,666
+and right here I think we can see the main difference
+
+10
+00:00:26,166 --> 00:00:27,566
+I am currently in UHV
+
+11
+00:00:27,566 --> 00:00:30,800
+and my world base has a single Mega Distillation Tower
+
+12
+00:00:31,400 --> 00:00:33,700
+and especially in single player that means that
+
+13
+00:00:33,700 --> 00:00:36,300
+I won't have to upgrade a distillation tower for the platline
+
+14
+00:00:36,300 --> 00:00:39,266
+I won't have to upgrade a distillation tower for the naquadah-line
+
+15
+00:00:39,400 --> 00:00:42,466
+I won't have to upgrade a distillation tower for the netherite-line
+
+16
+00:00:42,566 --> 00:00:45,333
+I have a single Mega Distillation Tower to worry about
+
+17
+00:00:45,800 --> 00:00:47,966
+I think that could already sum up the whole video
+
+18
+00:00:47,966 --> 00:00:52,000
+but let's better see what it means to have a single machine for each kind of task
+
+19
+00:00:52,333 --> 00:00:54,100
+and also how to manage it
+
+20
+00:00:54,100 --> 00:00:57,400
+and at this point I realize that maybe I shouldn't even be finishing this video
+
+21
+00:00:57,566 --> 00:01:01,700
+one of the main reason for saying that is that I'm lazy and also I'm not good at explaining things
+
+22
+00:01:02,000 --> 00:01:04,966
+the main reason is that there isn't really anything to explain
+
+23
+00:01:05,500 --> 00:01:06,900
+it's just that for me now
+
+24
+00:01:06,900 --> 00:01:10,466
+it's more fun to build a single machine and figure out how to make patterns that work
+
+25
+00:01:10,766 --> 00:01:14,066
+rather than spamming machines where stuff goes in and stuff comes out
+
+26
+00:01:14,366 --> 00:01:16,333
+and while I was playing in this weird way
+
+27
+00:01:16,333 --> 00:01:19,500
+I realized it took me only half an hour to set up kevlar
+
+28
+00:01:19,666 --> 00:01:24,800
+which is way faster than when it took me one whole weekend to make a passive line dedicated to kevlar
+
+29
+00:01:25,166 --> 00:01:27,933
+and since I drastically reduced the amount of machines I have
+
+30
+00:01:27,933 --> 00:01:29,466
+it takes less time to upgrade those
+
+31
+00:01:29,466 --> 00:01:31,100
+and they also produce less lag
+
+32
+00:01:31,533 --> 00:01:33,533
+some people may argue that if I play that way
+
+33
+00:01:33,533 --> 00:01:34,966
+I will have more level maintainers
+
+34
+00:01:34,966 --> 00:01:36,566
+and those will be a source of lag
+
+35
+00:01:36,566 --> 00:01:39,333
+but I think that's only if you set those improperly
+
+36
+00:01:39,800 --> 00:01:41,933
+and I think that's it about this video
+
+37
+00:01:41,933 --> 00:01:44,300
+which was only about this different way of playing
+
+38
+00:01:44,733 --> 00:01:51,800
+a better explanation on how to do it I think belongs more to a AE2 or a GregTech tutorial video rather than this one
+
+39
+00:01:52,100 --> 00:01:53,433
+so see you next time
+
+40
+00:01:53,433 --> 00:01:53,900
+bye bye
+
+41
+00:00:00,200 --> 00:00:00,900
+大家好
+
+42
+00:00:00,900 --> 00:00:02,966
+如果你有关注我最近的游戏直播
+
+43
+00:00:02,966 --> 00:00:04,600
+你应该知道我没有把所有东西都变成被动生产
+
+44
+00:00:04,600 --> 00:00:06,400
+而是按需/下单做所有东西
+
+45
+00:00:07,133 --> 00:00:08,900
+这也引发了一些讨论
+
+46
+00:00:08,966 --> 00:00:12,533
+所以我做这个视频，是想更清楚地说明我作这个决定的原因
+
+47
+00:00:12,933 --> 00:00:19,500
+主要原因其实很简单：我只是想用不同于通常（像 Factorio 
+或 Satisfactory）的做法来玩，不再一味做被动产线
+
+48
+00:00:20,000 --> 00:00:22,733
+我发现我的做法其实更有优势一些
+
+49
+00:00:23,133 --> 00:00:25,666
+在这里，我想我们可以看出主要的不同之处
+
+50
+00:00:26,166 --> 00:00:27,566
+我现在在 UHV 阶段
+
+51
+00:00:27,566 --> 00:00:30,800
+我的基地里只有一座大型蒸馏塔
+
+52
+00:00:31,400 --> 00:00:33,700
+尤其是在单人游戏，这意味着
+
+53
+00:00:33,700 --> 00:00:36,300
+我不用为铂处理去升级蒸馏塔
+
+54
+00:00:36,300 --> 00:00:39,266
+不用为硅岩产线升级蒸馏塔
+
+55
+00:00:39,400 --> 00:00:42,466
+不用为下界合金产线升级蒸馏塔
+
+56
+00:00:42,566 --> 00:00:45,333
+我只需要操心这一座大型蒸馏塔
+
+57
+00:00:45,800 --> 00:00:47,966
+这差不多就是整个视频要表达的意思
+
+58
+00:00:47,966 --> 00:00:52,000
+但我们还是来看看，每项任务只用一台机器到底意味着什么
+
+59
+00:00:52,333 --> 00:00:54,100
+以及如何去管理它们
+
+60
+00:00:54,100 --> 00:00:57,400
+我现在想到，也许根本没必要把这个视频做得太长
+
+61
+00:00:57,566 --> 00:01:01,700
+其中一个主要原因是我比较懒，而且不太擅长解释事情
+
+62
+00:01:02,000 --> 00:01:04,966
+真正的原因是，其实也没什么好解释的
+
+63
+00:01:05,500 --> 00:01:06,900
+只是现在对我来说
+
+64
+00:01:06,900 --> 00:01:10,466
+建造一台机器并弄清楚如何设计出可行的样板更有意思
+
+65
+00:01:10,766 --> 00:01:14,066
+而不是堆很多机器，让东西进进出出
+
+66
+00:01:14,366 --> 00:01:16,333
+当我用这种“奇怪的”方式玩的时候
+
+67
+00:01:16,333 --> 00:01:19,500
+我发现只花了半个小时就能把凯夫拉产线搭好
+
+68
+00:01:19,666 --> 00:01:24,800
+这比我以前花一整个周末
+去搭一条专门的凯夫拉被动产线要快得多
+
+69
+00:01:25,166 --> 00:01:27,933
+而且因为大幅减少了机器数量的缘故
+
+70
+00:01:27,933 --> 00:01:29,466
+升级它们所需的时间也更少
+
+71
+00:01:29,466 --> 00:01:31,100
+同时也能减少卡顿
+
+72
+00:01:31,533 --> 00:01:33,533
+有人可能会说，如果我这么玩
+
+73
+00:01:33,533 --> 00:01:34,966
+我会需要更多的 ME 请求器
+
+74
+00:01:34,966 --> 00:01:36,566
+这些可能会成为卡顿的来源
+
+75
+00:01:36,566 --> 00:01:39,333
+不过我认为，这只有在你设置不当的情况下才会发生
+
+76
+00:01:39,800 --> 00:01:41,933
+这差不多就是本视频的全部内容
+
+77
+00:01:41,933 --> 00:01:44,300
+这只是对这种不同玩法的介绍
+
+78
+00:01:44,733 --> 00:01:51,800
+关于如何具体实现，我觉得更适合放在
+ AE2 或 GT 的教程视频里，而不是在这段视频里
+
+79
+00:01:52,100 --> 00:01:53,433
+下次见
+
+80
+00:01:53,433 --> 00:01:53,900
+拜拜
+
+81
+00:00:00,900 --> 00:00:02,966
+（速通TST）
+
