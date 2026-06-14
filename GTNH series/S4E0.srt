@@ -388,7 +388,7 @@ I just showed you how to make flint
 
 98
 00:05:20,566 --> 00:05:22,666
-this one this oneuh
+this one this one
 
 99
 00:05:22,666 --> 00:05:25,333
@@ -1208,7 +1208,7 @@ I want to start actually doing something with the next video
 
 303
 00:16:19,366 --> 00:16:22,300
-this looks like a nice area for my new baseuh
+this looks like a nice area for my new base
 
 304
 00:16:22,300 --> 00:16:25,466
@@ -1252,7 +1252,7 @@ maybe some people want to keep inventory
 
 314
 00:16:53,800 --> 00:16:55,933
-which I kind of suggestlike
+which I kind of suggest
 
 315
 00:16:56,066 --> 00:16:57,966
@@ -1620,7 +1620,7 @@ I don't even remember what this is supposed to mean
 
 406
 00:21:02,000 --> 00:21:04,733
- there are different playstyles I think that was inside this one
+there are different play styles I think that was inside this one
 
 407
 00:21:04,733 --> 00:21:06,766
