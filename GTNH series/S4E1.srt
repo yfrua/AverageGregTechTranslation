@@ -632,7 +632,7 @@ which should be one priority once you get to Steam Age
 
 159
 00:08:45,933 --> 00:08:50,800
-find a Montain made out terracotta and macerate it
+find a mountain made out terracotta and macerate it
 
 160
 00:08:51,000 --> 00:08:57,100
@@ -1684,7 +1684,7 @@ because most likely 99 percent of those things are things I already know about
 
 422
 00:22:06,500 --> 00:22:09,266
-here you can see an example of a bigger wallshare
+here you can see an example of a bigger wall share
 
 423
 00:22:12,933 --> 00:22:15,466
@@ -2112,7 +2112,7 @@ but most ores are above 64
 
 529
 00:27:30,233 --> 00:27:32,066
-so unless you go on a montain
+so unless you go on a mountain
 
 530
 00:27:32,066 --> 00:27:33,266
@@ -2188,7 +2188,7 @@ anyways to make the ore finder wand
 
 548
 00:28:23,866 --> 00:28:26,233
-you basically need only iron, glod and Redstone
+you basically need only iron, gold and Redstone
 
 549
 00:28:26,666 --> 00:28:28,500
