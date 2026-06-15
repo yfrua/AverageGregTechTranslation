@@ -1,0 +1,3308 @@
+1
+00:00:00,866 --> 00:00:02,333
+welcome back everyone
+
+2
+00:00:02,766 --> 00:00:06,500
+and today I'm going to start the 4th season of GTNH
+
+3
+00:00:07,200 --> 00:00:08,733
+now, this season
+
+4
+00:00:10,866 --> 00:00:16,166
+this season I'm going to do things slightly different from the previous seasons
+
+5
+00:00:16,166 --> 00:00:18,000
+like usually I always made a script 
+
+6
+00:00:18,000 --> 00:00:20,866
+and then I heavily edited everything around that script
+
+7
+00:00:21,133 --> 00:00:23,933
+I played around trying to make a script do
+
+8
+00:00:23,933 --> 00:00:30,200
+but the thing is that if I start again a season trying to fit it into script
+
+9
+00:00:30,200 --> 00:00:33,333
+  or make a script (think?) what to put in the video or not
+
+10
+00:00:33,400 --> 00:00:41,500
+I will end up with a 10 minutes video that I could title how I made the 100 stargates in 10 minutes
+
+11
+00:00:42,466 --> 00:00:45,000
+this time I'm going to improvise a little bit more
+
+12
+00:00:47,733 --> 00:00:51,366
+also, I was thinking about making more tutorial like
+
+13
+00:00:51,366 --> 00:00:55,600
+but there are already so many tutorials of GTNH on YouTube
+
+14
+00:00:57,533 --> 00:01:00,500
+the only thing left is yet another let's play
+
+15
+00:01:00,666 --> 00:01:02,500
+like every other let's play there is
+
+16
+00:01:03,400 --> 00:01:10,333
+so, what I decide to do is that I'm going to try to keep it interesting and useful
+
+17
+00:01:10,700 --> 00:01:13,400
+I'm going to behave a little bit like when I livestream
+
+18
+00:01:13,466 --> 00:01:16,800
+but I can cut out all of the boring parts
+
+19
+00:01:16,933 --> 00:01:20,866
+and I can do retakes if something doesn't show up nicely
+
+20
+00:01:21,466 --> 00:01:23,066
+since I don't have to follow chat
+
+21
+00:01:23,066 --> 00:01:24,666
+I can be more focused on the game
+
+22
+00:01:25,533 --> 00:01:31,066
+maybe we do a few livestreams when I will be doing grinding stuff without progress
+
+23
+00:01:31,066 --> 00:01:34,566
+so I can also answer your questions and better show stuff
+
+24
+00:01:35,200 --> 00:01:36,800
+that that's probably more like it
+
+25
+00:01:39,800 --> 00:01:42,600
+it's going to be filled with tips like
+
+26
+00:01:42,600 --> 00:01:45,966
+the main idea is that I'm going to show how and why I do things
+
+27
+00:01:49,566 --> 00:01:50,966
+we'll see how it goes
+
+28
+00:01:51,566 --> 00:01:55,533
+I just started the game as you saw
+
+29
+00:01:55,533 --> 00:01:56,800
+the quest book
+
+30
+00:01:57,100 --> 00:01:58,466
+I threw it away
+
+31
+00:01:58,466 --> 00:02:00,566
+you can set a shortcut in the 
+
+32
+00:02:04,366 --> 00:02:05,533
+you can set a shortcut (here)
+
+33
+00:02:06,533 --> 00:02:08,466
+I'm going to fill this season with tips
+
+34
+00:02:08,466 --> 00:02:09,300
+so, first thing
+
+35
+00:02:09,300 --> 00:02:10,400
+check out the shortcuts
+
+36
+00:02:11,400 --> 00:02:15,733
+at the beginning probably you only need a few of those
+
+37
+00:02:15,933 --> 00:02:18,666
+the thing is that when you see me doing weird things
+
+38
+00:02:18,666 --> 00:02:21,466
+most likely I'm impressing some shortcut
+
+39
+00:02:21,466 --> 00:02:22,700
+maybe asking the comments
+
+40
+00:02:22,700 --> 00:02:25,266
+or if I will livestream, on livestream
+
+41
+00:02:25,866 --> 00:02:28,300
+my best livestreams are used to be a little bit
+
+42
+00:02:28,466 --> 00:02:29,300
+let's say
+
+43
+00:02:30,866 --> 00:02:32,600
+not too friendly
+
+44
+00:02:33,066 --> 00:02:36,400
+because I wanted to gameplay
+
+45
+00:02:36,866 --> 00:02:39,866
+this time I'm instead doing gameplay without having to follow chat
+
+46
+00:02:39,866 --> 00:02:43,800
+and I will follow the comments and some livestreams to follow the chat
+
+47
+00:02:45,400 --> 00:02:46,500
+it was fine
+
+48
+00:02:46,500 --> 00:02:48,766
+uh, the quest book, that's a new version
+
+49
+00:02:48,766 --> 00:02:50,666
+they change so many thing
+
+50
+00:02:50,666 --> 00:02:53,666
+every new GTNH version, they change so many things
+
+51
+00:02:54,166 --> 00:02:56,333
+so yeah, you didn't even check this version really
+
+52
+00:02:56,333 --> 00:02:59,100
+I just jumped in like that, recording
+
+53
+00:02:59,400 --> 00:03:01,400
+should have should have made a test
+
+54
+00:03:01,400 --> 00:03:02,933
+instead of jumping in like that
+
+55
+00:03:03,300 --> 00:03:04,200
+this is still a beta
+
+56
+00:03:04,200 --> 00:03:06,100
+but by the time you're watching this
+
+57
+00:03:06,100 --> 00:03:08,766
+most likely the new version is already out
+
+58
+00:03:10,300 --> 00:03:11,333
+okay there are many new book
+
+59
+00:03:11,566 --> 00:03:12,500
+I was going to say
+
+60
+00:03:12,700 --> 00:03:15,733
+if you follow the quest book and do those quests
+
+61
+00:03:15,733 --> 00:03:18,533
+by the time you read all of these and do this quest
+
+62
+00:03:18,533 --> 00:03:19,700
+it's going to be already night
+
+63
+00:03:19,800 --> 00:03:22,900
+and this pack has a really harsh night
+
+64
+00:03:22,900 --> 00:03:25,066
+my tip is that you can
+
+65
+00:03:25,066 --> 00:03:27,333
+one thing is that you can put the difficulty in peaceful
+
+66
+00:03:28,733 --> 00:03:31,266
+another tip is that if you keep wandering around
+
+67
+00:03:31,266 --> 00:03:34,800
+at some point you can find some buildings
+
+68
+00:03:35,000 --> 00:03:36,266
+most likely a brick house
+
+69
+00:03:36,266 --> 00:03:37,733
+there is a house made out of brick
+
+70
+00:03:37,733 --> 00:03:38,600
+if you can find it
+
+71
+00:03:38,600 --> 00:03:39,600
+it's super useful
+
+72
+00:03:39,933 --> 00:03:42,300
+I'm going to look for it at some point later
+
+73
+00:03:42,300 --> 00:03:43,566
+but for the bricks
+
+74
+00:03:44,100 --> 00:03:45,333
+if you find it super early game
+
+75
+00:03:45,333 --> 00:03:47,600
+there is a bed in that brick house
+
+76
+00:03:48,100 --> 00:03:49,500
+and you can just take that bed
+
+77
+00:03:49,500 --> 00:03:51,866
+and the night will no longer be an issue
+
+78
+00:03:52,266 --> 00:03:55,300
+I feel like trying to survive the night in this pack
+
+79
+00:03:55,300 --> 00:03:56,333
+just don't do it
+
+80
+00:03:56,400 --> 00:03:58,533
+just get a bed to sleep skip the nights
+
+81
+00:03:59,900 --> 00:04:01,933
+some people don't
+
+82
+00:04:02,666 --> 00:04:04,966
+right now I'm looking for some sheep
+
+83
+00:04:05,200 --> 00:04:07,566
+because if I can't find that brick house
+
+84
+00:04:07,566 --> 00:04:08,766
+I'm going to rush a bed
+
+85
+00:04:08,800 --> 00:04:11,866
+you can totally get a bed in the first day
+
+86
+00:04:11,866 --> 00:04:13,533
+I don't know how many times I did it
+
+87
+00:04:14,466 --> 00:04:16,666
+this time I'm wasting too much time talking
+
+88
+00:04:20,100 --> 00:04:22,966
+that's just a first day thing
+
+89
+00:04:25,533 --> 00:04:26,533
+I don't know what to say
+
+90
+00:04:26,533 --> 00:04:27,700
+so I'm gonna do
+
+91
+00:04:53,533 --> 00:04:56,066
+you need like 6 flint if I remember correctly
+
+92
+00:04:56,066 --> 00:04:57,366
+you need like 6 gravel
+
+93
+00:04:57,466 --> 00:05:02,400
+you use that to make 2 flint and a little bit of wood
+
+94
+00:05:04,866 --> 00:05:06,400
+to make a crafting table
+
+95
+00:05:08,733 --> 00:05:11,100
+crafting tables in GTNH are quite expensive
+
+96
+00:05:11,166 --> 00:05:13,966
+you need logs, not planks, and flint
+
+97
+00:05:14,966 --> 00:05:19,266
+I just showed you how to make flint
+
+98
+00:05:20,566 --> 00:05:22,666
+this one this oneuh
+
+99
+00:05:22,666 --> 00:05:25,333
+you need the soft mallet
+
+100
+00:05:25,966 --> 00:05:27,800
+is that how you make it, no
+
+101
+00:05:28,400 --> 00:05:30,366
+gotta be like that, OK
+
+102
+00:05:31,000 --> 00:05:37,833
+I'm going by memory to see if I can remember how to actually make a bed by memory
+
+103
+00:05:39,466 --> 00:05:42,200
+but you can totally look it up in NEI
+
+104
+00:05:43,766 --> 00:05:45,966
+just like to see
+
+105
+00:05:45,966 --> 00:05:47,666
+that you need two of those
+
+106
+00:06:03,800 --> 00:06:05,366
+yes, OK
+
+107
+00:06:06,100 --> 00:06:08,266
+can totally see, I 
+
+108
+00:06:09,066 --> 00:06:10,666
+I mean, I didn't take
+
+109
+00:06:10,733 --> 00:06:11,800
+I didn't go too slowly
+
+110
+00:06:11,966 --> 00:06:16,700
+but I usually can get it by 12:00 am in the game
+
+111
+00:06:17,100 --> 00:06:18,800
+usually takes me like half the
+
+112
+00:06:18,800 --> 00:06:19,266
+not half
+
+113
+00:06:19,733 --> 00:06:21,400
+you can do it in half the time
+
+114
+00:06:23,066 --> 00:06:24,266
+there was still time left
+
+115
+00:06:24,600 --> 00:06:25,700
+otherwise you can just (put?) play
+
+116
+00:06:25,700 --> 00:06:29,733
+like I'm just telling you ways that you can deal with the first night in the game
+
+117
+00:06:29,733 --> 00:06:30,600
+there are many ways
+
+118
+00:06:30,933 --> 00:06:32,533
+probably there are better tutorials
+
+119
+00:06:33,200 --> 00:06:35,533
+also found a village I think
+
+120
+00:06:36,066 --> 00:06:37,066
+let's go to the village
+
+121
+00:06:38,300 --> 00:06:39,700
+OK, and this village
+
+122
+00:06:40,200 --> 00:06:42,433
+let's see if it has one useful thing
+
+123
+00:06:42,433 --> 00:06:44,366
+or he's so useless
+
+124
+00:06:45,400 --> 00:06:46,000
+new foods
+
+125
+00:06:46,266 --> 00:06:47,133
+not even grown
+
+126
+00:06:48,166 --> 00:06:51,666
+from the map, it should be easier
+
+127
+00:06:52,566 --> 00:06:53,800
+I think this one has smeltery
+
+128
+00:06:53,866 --> 00:06:56,200
+if it has smeltery, it's good, useful
+
+129
+00:06:56,666 --> 00:06:59,000
+this one may contain the things
+
+130
+00:06:59,000 --> 00:06:59,700
+let's see
+
+131
+00:07:02,400 --> 00:07:03,533
+uh, where is this
+
+132
+00:07:03,533 --> 00:07:05,166
+is that a smeltery or not
+
+133
+00:07:06,633 --> 00:07:07,966
+yes, OK
+
+134
+00:07:07,966 --> 00:07:10,133
+I found a smeltery, good
+
+135
+00:07:10,133 --> 00:07:11,766
+later on this will be useful
+
+136
+00:07:12,600 --> 00:07:13,533
+then looking
+
+137
+00:07:13,533 --> 00:07:15,000
+oh what is the, oh food
+
+138
+00:07:16,000 --> 00:07:17,133
+is that a new building
+
+139
+00:07:17,333 --> 00:07:18,766
+I don't recall this building
+
+140
+00:07:19,666 --> 00:07:22,200
+did they have new buildings to the villages
+
+141
+00:07:23,033 --> 00:07:24,333
+yeah I guess so
+
+142
+00:07:25,333 --> 00:07:28,600
+not even know where I could find stuff now
+
+143
+00:07:31,766 --> 00:07:34,066
+maybe that's the old thing and I don't remember
+
+144
+00:07:34,333 --> 00:07:36,100
+yeah and then of course, some people
+
+145
+00:07:38,400 --> 00:07:40,866
+I'm just an average GregTech player
+
+146
+00:07:40,866 --> 00:07:45,266
+don't take what I do, what I say, or anything too seriously
+
+147
+00:07:45,900 --> 00:07:47,266
+just trying to enjoy the game
+
+148
+00:07:47,266 --> 00:07:49,333
+and showcase how to play it
+
+149
+00:07:49,700 --> 00:07:52,366
+how many cauldrons does this have
+
+150
+00:07:53,000 --> 00:07:54,133
+oh, thanks
+
+151
+00:07:56,600 --> 00:07:58,366
+sleep sleep sleep sleep sleep
+
+152
+00:08:02,900 --> 00:08:04,200
+also if you didn't know
+
+153
+00:08:05,133 --> 00:08:08,000
+you can't eat the same food like 4 times in a row
+
+154
+00:08:08,366 --> 00:08:10,133
+then you start having issues
+
+155
+00:08:11,700 --> 00:08:13,266
+you have to balance your diet
+
+156
+00:08:13,766 --> 00:08:16,200
+if you can manage to get everything like that
+
+157
+00:08:16,466 --> 00:08:18,533
+you get some constant buffs
+
+158
+00:08:18,533 --> 00:08:23,800
+I think it's speed and haste if you get everything up there
+
+159
+00:08:23,800 --> 00:08:25,066
+if it goes too low
+
+160
+00:08:25,133 --> 00:08:29,066
+you start getting slowness and other debuffs
+
+161
+00:08:32,166 --> 00:08:33,500
+that that is totally new
+
+162
+00:08:33,500 --> 00:08:39,200
+this update of GTNH added quite a new few structures to villages
+
+163
+00:08:40,800 --> 00:08:46,166
+ so I have no clue which one of those could contain some useful stuff now
+
+164
+00:08:48,133 --> 00:08:50,333
+probably should just cut out
+
+165
+00:08:50,333 --> 00:08:52,200
+and when I find something interesting
+
+166
+00:08:53,000 --> 00:08:54,333
+just show all of it now
+
+167
+00:08:54,333 --> 00:08:55,333
+I want to see this
+
+168
+00:08:55,333 --> 00:08:56,133
+this one seems
+
+169
+00:08:56,333 --> 00:08:57,533
+this one should have
+
+170
+00:08:59,100 --> 00:09:00,833
+his one has the tinker's
+
+171
+00:09:00,833 --> 00:09:01,900
+uh wait
+
+172
+00:09:02,466 --> 00:09:03,566
+uh no it's ink and paper
+
+173
+00:09:05,000 --> 00:09:06,966
+I don't want to do
+
+174
+00:09:06,966 --> 00:09:09,000
+this one this one has the (correct?) stuff, OK OK
+
+175
+00:09:09,866 --> 00:09:14,600
+let's see if I got any useful parts for the early game pickaxes
+
+176
+00:09:14,600 --> 00:09:15,333
+oh, as you notice
+
+177
+00:09:15,333 --> 00:09:17,333
+I'm not doing anything in the quest book
+
+178
+00:09:17,600 --> 00:09:20,333
+my tip is before starting the quest book
+
+179
+00:09:20,333 --> 00:09:23,466
+you should first of all, rush a bed
+
+180
+00:09:26,533 --> 00:09:29,100
+the main thing is Day 0, get a bed
+
+181
+00:09:29,266 --> 00:09:30,000
+that's my take
+
+182
+00:09:30,000 --> 00:09:32,366
+if you don't want to put peaceful
+
+183
+00:09:33,466 --> 00:09:36,133
+if you can't get the bed before the first night
+
+184
+00:09:36,300 --> 00:09:37,933
+just start over a new game
+
+185
+00:09:37,933 --> 00:09:40,866
+restart the game if you can't get a bed in day 1
+
+186
+00:09:40,900 --> 00:09:41,866
+that's my take
+
+187
+00:09:41,866 --> 00:09:44,133
+unless you want to put peaceful or anything else
+
+188
+00:09:49,066 --> 00:09:50,366
+can I make a pickaxe
+
+189
+00:09:52,866 --> 00:09:54,366
+oh wait, I found this
+
+190
+00:09:55,666 --> 00:09:58,600
+I could really make a pickaxe there
+
+191
+00:10:00,600 --> 00:10:03,200
+so, with this, I can make
+
+192
+00:10:05,066 --> 00:10:07,533
+I'm going to have to craft it anyways later
+
+193
+00:10:08,300 --> 00:10:10,100
+for the quest book probably
+
+194
+00:10:13,866 --> 00:10:14,566
+I'm thinking now
+
+195
+00:10:14,566 --> 00:10:16,300
+why do I even want a pickaxe
+
+196
+00:10:17,933 --> 00:10:19,733
+I don't really need it
+
+197
+00:10:20,600 --> 00:10:23,233
+but good to have
+
+198
+00:10:25,700 --> 00:10:27,700
+let's get this one I guess
+
+199
+00:10:27,966 --> 00:10:33,733
+and there I have a pickaxe before even starting the quest book
+
+200
+00:10:33,733 --> 00:10:34,133
+good
+
+201
+00:10:35,100 --> 00:10:38,200
+then I can take this one with me so I can repair it
+
+202
+00:10:39,733 --> 00:10:41,133
+this is basically useless
+
+203
+00:10:43,566 --> 00:10:44,900
+oh there is a (axe head?)
+
+204
+00:10:44,933 --> 00:10:47,166
+I can make an axe too maybe
+
+205
+00:10:50,966 --> 00:10:52,166
+yeah, OK, later
+
+206
+00:10:52,400 --> 00:10:53,200
+maybe later
+
+207
+00:10:56,200 --> 00:10:57,500
+the other thing I wanted to say
+
+208
+00:10:57,600 --> 00:11:00,666
+those obsidian parts are really really good
+
+209
+00:11:02,300 --> 00:11:06,466
+later on this stuff could be quite handy to do some tier skips
+
+210
+00:11:07,466 --> 00:11:10,733
+Obsidian parts can be good for tier skipping
+
+211
+00:11:10,933 --> 00:11:14,466
+we will talk about it in a few episodes
+
+212
+00:11:16,066 --> 00:11:18,200
+I have no idea how this series is going to turn out
+
+213
+00:11:20,300 --> 00:11:24,600
+I think I want to start the quests in the actual first episode
+
+214
+00:11:24,600 --> 00:11:26,600
+this one was like a prequel or something
+
+215
+00:11:28,933 --> 00:11:32,133
+by the way, you can find those gardens everywhere
+
+216
+00:11:32,133 --> 00:11:32,966
+if you didn't know
+
+217
+00:11:32,966 --> 00:11:35,133
+you can pick those up with right click
+
+218
+00:11:35,566 --> 00:11:36,766
+and if you pick it up
+
+219
+00:11:36,766 --> 00:11:38,066
+you can later on plant it
+
+220
+00:11:38,066 --> 00:11:39,666
+and it will slowly spread
+
+221
+00:11:39,666 --> 00:11:41,666
+so you can plant those and have those grow
+
+222
+00:11:42,400 --> 00:11:46,600
+or you can just destroy it with left click to get (wood?)
+
+223
+00:11:50,866 --> 00:11:52,200
+uh was saying
+
+224
+00:11:52,533 --> 00:11:53,866
+like one year ago
+
+225
+00:11:54,000 --> 00:11:55,766
+it used to be that, to make water
+
+226
+00:12:00,600 --> 00:12:03,066
+years ago, you needed this tank to make water
+
+227
+00:12:03,666 --> 00:12:05,500
+this one worked depending on humidity
+
+228
+00:12:05,666 --> 00:12:08,266
+and if you had like 20% humidity
+
+229
+00:12:08,500 --> 00:12:12,000
+this thing will produce one fifth of the optimal water
+
+230
+00:12:13,000 --> 00:12:14,800
+you can see the humidity
+
+231
+00:12:14,800 --> 00:12:15,700
+here it's 20%
+
+232
+00:12:17,000 --> 00:12:18,966
+here is 90%
+
+233
+00:12:18,966 --> 00:12:22,000
+so it used to be that if I made my house
+
+234
+00:12:22,200 --> 00:12:23,600
+my factory here
+
+235
+00:12:23,766 --> 00:12:26,900
+I would get one fifth of the water
+
+236
+00:12:27,300 --> 00:12:29,500
+that I would get if I made it there
+
+237
+00:12:30,200 --> 00:12:31,600
+in this game version
+
+238
+00:12:31,700 --> 00:12:34,700
+we got other ways of getting water early
+
+239
+00:12:34,700 --> 00:12:35,800
+that was only early game
+
+240
+00:12:35,800 --> 00:12:37,066
+later on you have better ways
+
+241
+00:12:37,066 --> 00:12:39,866
+but that used to be the early game
+
+242
+00:12:40,966 --> 00:12:44,266
+I think in this version it's no longer an issue
+
+243
+00:12:46,466 --> 00:12:47,466
+in my last speedrun
+
+244
+00:12:47,466 --> 00:12:50,600
+we actually made our base in a biome that had no rain
+
+245
+00:12:51,266 --> 00:12:52,900
+you can see desert
+
+246
+00:12:53,066 --> 00:12:55,466
+this biome has no precipitation
+
+247
+00:12:55,466 --> 00:12:57,100
+now this one has zero humidity
+
+248
+00:12:57,100 --> 00:13:01,500
+so I think I if you make a water tank in a desert
+
+249
+00:13:01,500 --> 00:13:03,166
+I think it doesn't even make water
+
+250
+00:13:03,366 --> 00:13:04,566
+I may be making this up
+
+251
+00:13:04,566 --> 00:13:05,066
+I don't know
+
+252
+00:13:05,066 --> 00:13:06,266
+I would have to test it
+
+253
+00:13:06,700 --> 00:13:11,466
+but anyways, the point is that if I build where there are no precipitations
+
+254
+00:13:14,866 --> 00:13:16,066
+there will be no rain
+
+255
+00:13:16,800 --> 00:13:17,966
+the issue is that rain
+
+256
+00:13:18,466 --> 00:13:21,366
+if you have an electric machine and it rains on it
+
+257
+00:13:21,366 --> 00:13:23,200
+the machine will blow up
+
+258
+00:13:23,200 --> 00:13:27,400
+maybe building your house in a no precipitation biome could be an idea
+
+259
+00:13:28,166 --> 00:13:29,200
+but you have to be careful
+
+260
+00:13:30,966 --> 00:13:32,900
+you can see two hours to the next storm
+
+261
+00:13:33,000 --> 00:13:34,466
+so if I made my house here
+
+262
+00:13:34,466 --> 00:13:36,133
+and I had an electric machine here
+
+263
+00:13:36,533 --> 00:13:39,200
+and by mistake I had one missing block on top
+
+264
+00:13:39,200 --> 00:13:41,066
+and it rained over a machine there
+
+265
+00:13:41,066 --> 00:13:42,066
+it will blow up
+
+266
+00:13:45,100 --> 00:13:45,966
+just in case
+
+267
+00:13:46,000 --> 00:13:47,733
+protect your machines
+
+268
+00:13:47,733 --> 00:13:50,266
+another funny thing which I don't know if they changed it
+
+269
+00:13:50,266 --> 00:13:55,000
+it used to be that if you place an electric machine under a river
+
+270
+00:13:55,066 --> 00:13:56,300
+it will not blow up
+
+271
+00:13:56,800 --> 00:14:01,133
+so you could put a bucket of water above machines to protect machines from rain
+
+272
+00:14:01,866 --> 00:14:03,933
+I think they fix it
+
+273
+00:14:03,933 --> 00:14:05,100
+but I'm not sure
+
+274
+00:14:08,200 --> 00:14:11,366
+I'm going to build a builder roof anyways
+
+275
+00:14:11,366 --> 00:14:17,166
+I think most likely I'm going to settle in a biome I like
+
+276
+00:14:18,066 --> 00:14:21,966
+and this is one of my favorite biomes
+
+277
+00:14:21,966 --> 00:14:23,900
+the cherry blossom
+
+278
+00:14:23,900 --> 00:14:27,066
+I think I want to set my base somewhere in this biome
+
+279
+00:14:28,500 --> 00:14:30,533
+now, do I build it
+
+280
+00:14:32,166 --> 00:14:32,966
+I was going to say
+
+281
+00:14:32,966 --> 00:14:34,800
+do I build it on stream or off stream
+
+282
+00:14:34,800 --> 00:14:36,900
+when it's going to be off stream anyways
+
+283
+00:14:36,900 --> 00:14:38,900
+it's going to be either recorded or not
+
+284
+00:14:39,766 --> 00:14:42,066
+most likely we'll also do a few livestreams
+
+285
+00:14:42,066 --> 00:14:43,500
+I still have to figure things out
+
+286
+00:14:43,500 --> 00:14:46,700
+also I don't have too much time those days
+
+287
+00:14:47,300 --> 00:14:52,933
+I'm starting slowly and trying to figure out how I want to do this season
+
+288
+00:14:53,133 --> 00:14:56,000
+there are probably many many things I'm forgetting
+
+289
+00:15:00,700 --> 00:15:04,166
+I was looking for a nice flat area for my new base
+
+290
+00:15:04,166 --> 00:15:05,100
+I think I got it
+
+291
+00:15:05,266 --> 00:15:11,933
+but what I found is the brick house I was talking about at the beginning of this stream
+
+292
+00:15:12,133 --> 00:15:16,366
+you can either keep rolling new worlds until you find one before the first night
+
+293
+00:15:17,933 --> 00:15:21,700
+otherwise, it's rather easy to find and it's super useful
+
+294
+00:15:21,933 --> 00:15:24,966
+those bricks are extremely valuable
+
+295
+00:15:25,000 --> 00:15:27,566
+later on in the playthrough or some point you will see
+
+296
+00:15:28,333 --> 00:15:30,433
+those being quite needed
+
+297
+00:15:30,433 --> 00:15:31,500
+now give me a moment
+
+298
+00:15:47,766 --> 00:15:49,066
+here you can find a bed
+
+299
+00:15:49,500 --> 00:15:50,466
+so you can sleep
+
+300
+00:15:51,733 --> 00:15:56,533
+and then I'm going to start actually doing thing in the next episode
+
+301
+00:16:09,900 --> 00:16:14,566
+I think that's more or less it for this episode
+
+302
+00:16:14,566 --> 00:16:18,400
+I want to start actually doing something with the next video
+
+303
+00:16:19,366 --> 00:16:22,300
+this looks like a nice area for my new baseuh
+
+304
+00:16:22,300 --> 00:16:25,466
+by the way, down there there is a dungeon with a really good loot
+
+305
+00:16:25,466 --> 00:16:28,166
+which I may explore in next episode I don't know
+
+306
+00:16:28,466 --> 00:16:30,600
+we'll see how I want to go with this
+
+307
+00:16:31,400 --> 00:16:34,333
+this was just a rush debug basically
+
+308
+00:16:34,333 --> 00:16:36,933
+and seeing how to configure everything
+
+309
+00:16:37,533 --> 00:16:43,533
+but the main thing is that I was planning on doing this from few months
+
+310
+00:16:44,700 --> 00:16:46,966
+I also wanted to explain how to install the game
+
+311
+00:16:46,966 --> 00:16:48,566
+how to search chunkloading, homes
+
+312
+00:16:49,066 --> 00:16:52,000
+talk about you can play however you want
+
+313
+00:16:52,100 --> 00:16:53,800
+maybe some people want to keep inventory
+
+314
+00:16:53,800 --> 00:16:55,933
+which I kind of suggestlike
+
+315
+00:16:56,066 --> 00:16:57,966
+if you're not doing some kind of challenge
+
+316
+00:16:58,066 --> 00:17:00,533
+or hardcore player or whatever whatever
+
+317
+00:17:01,066 --> 00:17:02,966
+keeping inventory is really nice to have
+
+318
+00:17:03,966 --> 00:17:08,100
+this one is a thing to reduce lag
+
+319
+00:17:08,733 --> 00:17:10,533
+so I wanted to talk about this stuff
+
+320
+00:17:10,533 --> 00:17:12,966
+but then I figured out I'm not good at explaining things
+
+321
+00:17:12,966 --> 00:17:16,266
+and there is a dude who made a tutorial which is a really really nice
+
+322
+00:17:16,266 --> 00:17:17,933
+I'm going to link him in the description
+
+323
+00:17:18,500 --> 00:17:20,933
+actually I didn't even fully watch his video
+
+324
+00:17:20,933 --> 00:17:24,566
+but he covered everything I wanted to do and even better
+
+325
+00:17:26,066 --> 00:17:27,300
+this goes away
+
+326
+00:17:28,400 --> 00:17:31,200
+then I wanted to talk a little bit about priorities OK
+
+327
+00:17:31,300 --> 00:17:32,100
+priorities
+
+328
+00:17:32,800 --> 00:17:34,900
+this is something I'm going to keep mentioning
+
+329
+00:17:35,400 --> 00:17:37,733
+maybe hopefully in the future
+
+330
+00:17:39,200 --> 00:17:42,700
+I wanted to explain how I decide what to do, when to do
+
+331
+00:17:45,466 --> 00:17:49,200
+having priorities figured out is mostly if you want to speedrun
+
+332
+00:17:49,333 --> 00:17:51,266
+but I'm going to mention it a few times
+
+333
+00:17:51,500 --> 00:17:52,566
+like if you are waiting
+
+334
+00:17:53,533 --> 00:17:55,466
+it's not like you are playing the game wrong
+
+335
+00:17:55,466 --> 00:17:56,566
+but I keep saying
+
+336
+00:17:56,566 --> 00:18:00,600
+if you find yourself idling in GTNH, you are playing the game wrong
+
+337
+00:18:00,933 --> 00:18:02,800
+it's not true, but
+
+338
+00:18:03,800 --> 00:18:05,666
+there are many things you can do in GTNH
+
+339
+00:18:05,666 --> 00:18:08,900
+eventually we will talk about this
+
+340
+00:18:08,933 --> 00:18:11,000
+and that's what's more important actually
+
+341
+00:18:11,100 --> 00:18:11,900
+that's the thing
+
+342
+00:18:11,966 --> 00:18:13,200
+before priorities have fun
+
+343
+00:18:13,200 --> 00:18:14,000
+it's a game
+
+344
+00:18:14,100 --> 00:18:15,100
+remember to have fun
+
+345
+00:18:15,100 --> 00:18:15,866
+you're playing this
+
+346
+00:18:15,866 --> 00:18:17,566
+I mean I think you're playing this for fun
+
+347
+00:18:21,733 --> 00:18:23,666
+let's assume you for fun
+
+348
+00:18:23,666 --> 00:18:26,866
+I mean one can do a speedrun
+
+349
+00:18:26,866 --> 00:18:28,666
+I mean even if you do a speedrun
+
+350
+00:18:28,666 --> 00:18:32,500
+you do it for fun at the end of the day
+
+351
+00:18:37,066 --> 00:18:38,600
+yeah, I wanted to tell you
+
+352
+00:18:38,966 --> 00:18:41,533
+there are many things that not even I know
+
+353
+00:18:42,200 --> 00:18:44,000
+so most of the time
+
+354
+00:18:44,300 --> 00:18:47,166
+instead of looking around for a solution or an answer
+
+355
+00:18:48,266 --> 00:18:51,733
+I just want to tell you try and see yourself what happens
+
+356
+00:18:51,733 --> 00:18:53,700
+like make a test world
+
+357
+00:18:53,700 --> 00:18:57,166
+make an error where you can try to do something
+
+358
+00:18:57,200 --> 00:18:58,866
+and try to guess what's the do
+
+359
+00:18:58,900 --> 00:19:00,766
+make a backup make a backup
+
+360
+00:19:01,333 --> 00:19:02,533
+do whatever you want
+
+361
+00:19:02,533 --> 00:19:04,466
+if something happens load a backup
+
+362
+00:19:05,200 --> 00:19:08,100
+like sometimes it's more fun to
+
+363
+00:19:08,100 --> 00:19:09,300
+or at least that's OK
+
+364
+00:19:09,300 --> 00:19:10,400
+that's probably the issue
+
+365
+00:19:10,400 --> 00:19:11,600
+that's probably that's my opinion
+
+366
+00:19:12,900 --> 00:19:16,733
+other people may like more to go around
+
+367
+00:19:16,733 --> 00:19:19,400
+and read somewhere what happens if you do something
+
+368
+00:19:19,400 --> 00:19:23,066
+I'm more kind of the person who rather makes a backup
+
+369
+00:19:23,533 --> 00:19:25,266
+blows something up to see what happens
+
+370
+00:19:25,266 --> 00:19:26,533
+and then loads a backup
+
+371
+00:19:27,000 --> 00:19:28,666
+you can test things in the game
+
+372
+00:19:31,166 --> 00:19:33,866
+and that's about finding your own way of playing
+
+373
+00:19:33,866 --> 00:19:37,200
+figure out how you like to play the game
+
+374
+00:19:37,200 --> 00:19:39,466
+also, you don't have to play this game
+
+375
+00:19:39,933 --> 00:19:44,266
+sometime I'm going through this because some people
+
+376
+00:19:44,266 --> 00:19:46,000
+I had comments asking me
+
+377
+00:19:46,000 --> 00:19:48,233
+how can you enjoy this game
+
+378
+00:19:48,233 --> 00:19:50,200
+oh, look at how boring this game is
+
+379
+00:19:50,200 --> 00:19:53,266
+don't you get tired of building factories
+
+380
+00:19:53,500 --> 00:19:54,866
+why do you always do long
+
+381
+00:19:54,933 --> 00:19:56,066
+and all of those comments
+
+382
+00:19:56,066 --> 00:19:57,000
+and I get tired
+
+383
+00:19:57,000 --> 00:19:59,466
+I mean, can I play however I like
+
+384
+00:19:59,966 --> 00:20:01,500
+if you don't like this game
+
+385
+00:20:01,566 --> 00:20:02,966
+you don't have to play this game
+
+386
+00:20:02,966 --> 00:20:03,900
+if you don't like it
+
+387
+00:20:03,900 --> 00:20:05,366
+don't play it
+
+388
+00:20:06,733 --> 00:20:09,000
+I'm going to show you how I play
+
+389
+00:20:09,666 --> 00:20:10,933
+many people ask
+
+390
+00:20:11,200 --> 00:20:14,000
+I was also wonder how I'm so fast out
+
+391
+00:20:14,533 --> 00:20:15,600
+I I don't think I'm that good
+
+392
+00:20:15,600 --> 00:20:17,666
+there are people who are better than me at this game
+
+393
+00:20:17,666 --> 00:20:20,600
+but I'm going to show you in this season mostly "why"
+
+394
+00:20:20,600 --> 00:20:24,966
+I'm going to try to emphasize why I do things in a specific way
+
+395
+00:20:25,333 --> 00:20:27,366
+I'm not doing a speedrun tutorial
+
+396
+00:20:27,366 --> 00:20:30,100
+but I'm going to try to explain you my decisions
+
+397
+00:20:30,266 --> 00:20:33,466
+then again, oftentimes I do things that are not optimal
+
+398
+00:20:33,466 --> 00:20:36,133
+because I like more than an optimal way than the optimal one
+
+399
+00:20:36,133 --> 00:20:37,133
+also I'm quite lazy
+
+400
+00:20:37,133 --> 00:20:38,166
+so there is that too
+
+401
+00:20:40,166 --> 00:20:43,200
+I will never remember everything that I have to place inside a video
+
+402
+00:20:43,533 --> 00:20:45,300
+I know that there are things that
+
+403
+00:20:46,533 --> 00:20:51,666
+someone is going to come up with questions I couldn't have figured out before someone asks anyways
+
+404
+00:20:53,266 --> 00:20:55,666
+I can only put only so much stuff in the videos
+
+405
+00:20:56,266 --> 00:20:59,166
+I don't even remember what this is supposed to mean
+
+406
+00:21:02,000 --> 00:21:04,733
+ there are different playstyles I think that was inside this one
+
+407
+00:21:04,733 --> 00:21:06,766
+so now I can delete this file
+
+408
+00:21:10,200 --> 00:21:13,566
+so that was like a prequel for this season
+
+409
+00:21:14,200 --> 00:21:17,333
+hopefully it won't be too boring or I don't know
+
+410
+00:21:17,966 --> 00:21:20,300
+yeahI don't even know what I'm doing in my life
+
+411
+00:21:21,533 --> 00:21:23,966
+we see how this goes, OK
+
+412
+00:21:24,066 --> 00:21:26,166
+see you with the first episode
+
+413
+00:21:26,166 --> 00:21:28,866
+because I'm going to call this episode 0
+
+414
+00:21:28,866 --> 00:21:29,366
+bye bye
+
+415
+00:00:00,866 --> 00:00:02,333
+欢迎大家回来
+
+416
+00:00:02,766 --> 00:00:06,500
+今天我要开始GTNH的第四季
+
+417
+00:00:07,200 --> 00:00:08,733
+现在，这个季节
+
+418
+00:00:10,866 --> 00:00:16,166
+这一季我要做一些与前几季略有不同的事情
+
+419
+00:00:16,166 --> 00:00:18,000
+就像往常一样，我总是写一个脚本 
+
+420
+00:00:18,000 --> 00:00:20,866
+然后我对剧本进行了大量编辑
+
+421
+00:00:21,133 --> 00:00:23,933
+我四处玩弄试图让剧本完成
+
+422
+00:00:23,933 --> 00:00:30,200
+但问题是，如果我重新开始一个赛季，试图把它融入剧本
+
+423
+00:00:30,200 --> 00:00:33,333
+  或者制作脚本（想吗？）在视频中放什么或不放什么
+
+424
+00:00:33,400 --> 00:00:41,500
+我将以一个10分钟的视频结束，我可以命名为我是如何在10分钟内建造100个星门的。
+
+425
+00:00:42,466 --> 00:00:45,000
+这次我要即兴发挥一下
+
+426
+00:00:47,733 --> 00:00:51,366
+另外，我在考虑制作更多的教程，比如
+
+427
+00:00:51,366 --> 00:00:55,600
+但是YouTube上已经有这么多GTNH的教程了
+
+428
+00:00:57,533 --> 00:01:00,500
+唯一剩下的是另一个让我们玩吧
+
+429
+00:01:00,666 --> 00:01:02,500
+就像其他的一样，让我们在那里玩
+
+430
+00:01:03,400 --> 00:01:10,333
+所以，我决定做的是，我要努力让它变得有趣和有用。
+
+431
+00:01:10,700 --> 00:01:13,400
+我要表现得有点像我直播的时候
+
+432
+00:01:13,466 --> 00:01:16,800
+但我可以去掉所有无聊的部分
+
+433
+00:01:16,933 --> 00:01:20,866
+如果有什么东西表现不好，我可以重拍。
+
+434
+00:01:21,466 --> 00:01:23,066
+既然我不用关注聊天
+
+435
+00:01:23,066 --> 00:01:24,666
+我可以更专注于比赛
+
+436
+00:01:25,533 --> 00:01:31,066
+也许我们会做一些直播，而我会在没有进展的情况下做研磨工作
+
+437
+00:01:31,066 --> 00:01:34,566
+这样我也可以回答你的问题，更好地展示东西。
+
+438
+00:01:35,200 --> 00:01:36,800
+那可能更像是
+
+439
+00:01:39,800 --> 00:01:42,600
+里面会装满小费，比如
+
+440
+00:01:42,600 --> 00:01:45,966
+大意是，我将展示我如何以及为什么做事
+
+441
+00:01:49,566 --> 00:01:50,966
+我们看看进展如何
+
+442
+00:01:51,566 --> 00:01:55,533
+如你所见我刚开始比赛
+
+443
+00:01:55,533 --> 00:01:56,800
+任务书
+
+444
+00:01:57,100 --> 00:01:58,466
+我把它扔了
+
+445
+00:01:58,466 --> 00:02:00,566
+您可以在
+
+446
+00:02:04,366 --> 00:02:05,533
+您可以设置快捷方式（此处）
+
+447
+00:02:06,533 --> 00:02:08,466
+我要用小费填满这个季节
+
+448
+00:02:08,466 --> 00:02:09,300
+所以，第一件事
+
+449
+00:02:09,300 --> 00:02:10,400
+查看快捷方式
+
+450
+00:02:11,400 --> 00:02:15,733
+一开始可能你只需要几个
+
+451
+00:02:15,933 --> 00:02:18,666
+问题是当你看到我做奇怪的事情
+
+452
+00:02:18,666 --> 00:02:21,466
+很有可能我在抄捷径
+
+453
+00:02:21,466 --> 00:02:22,700
+也许问一下评论
+
+454
+00:02:22,700 --> 00:02:25,266
+或者我是否会直播，在直播中
+
+455
+00:02:25,866 --> 00:02:28,300
+我最好的直播过去是有点
+
+456
+00:02:28,466 --> 00:02:29,300
+比如说
+
+457
+00:02:30,866 --> 00:02:32,600
+不太友好
+
+458
+00:02:33,066 --> 00:02:36,400
+因为我想玩游戏
+
+459
+00:02:36,866 --> 00:02:39,866
+这次我不用关注聊天而是做游戏
+
+460
+00:02:39,866 --> 00:02:43,800
+我会关注评论和一些直播来关注聊天
+
+461
+00:02:45,400 --> 00:02:46,500
+很好
+
+462
+00:02:46,500 --> 00:02:48,766
+任务书是新版本
+
+463
+00:02:48,766 --> 00:02:50,666
+他们改变了很多东西
+
+464
+00:02:50,666 --> 00:02:53,666
+每一个新的GTNH版本，他们改变了很多东西
+
+465
+00:02:54,166 --> 00:02:56,333
+所以是的，你甚至没有检查这个版本真的
+
+466
+00:02:56,333 --> 00:02:59,100
+我就这样跳了进去，录音
+
+467
+00:02:59,400 --> 00:03:01,400
+应该应该做个测试
+
+468
+00:03:01,400 --> 00:03:02,933
+而不是那样跳进去
+
+469
+00:03:03,300 --> 00:03:04,200
+这仍然是一个测试版
+
+470
+00:03:04,200 --> 00:03:06,100
+但是当你看到这个的时候
+
+471
+00:03:06,100 --> 00:03:08,766
+很可能新版本已经出来了
+
+472
+00:03:10,300 --> 00:03:11,333
+好吧有很多新书
+
+473
+00:03:11,566 --> 00:03:12,500
+我本来想说
+
+474
+00:03:12,700 --> 00:03:15,733
+如果你按照任务书做这些任务
+
+475
+00:03:15,733 --> 00:03:18,533
+当你阅读所有这些并完成这项任务时
+
+476
+00:03:18,533 --> 00:03:19,700
+现在已经是晚上了
+
+477
+00:03:19,800 --> 00:03:22,900
+这个狼群有一个非常恶劣的夜晚
+
+478
+00:03:22,900 --> 00:03:25,066
+我的建议是你可以
+
+479
+00:03:25,066 --> 00:03:27,333
+一件事是你可以把困难放在和平中
+
+480
+00:03:28,733 --> 00:03:31,266
+另一个提示是如果你继续四处游荡
+
+481
+00:03:31,266 --> 00:03:34,800
+在某个时候你可以找到一些建筑
+
+482
+00:03:35,000 --> 00:03:36,266
+很可能是砖房
+
+483
+00:03:36,266 --> 00:03:37,733
+有一座砖砌的房子
+
+484
+00:03:37,733 --> 00:03:38,600
+如果你能找到它
+
+485
+00:03:38,600 --> 00:03:39,600
+它超级有用
+
+486
+00:03:39,933 --> 00:03:42,300
+我以后会去找的
+
+487
+00:03:42,300 --> 00:03:43,566
+但是对于砖块
+
+488
+00:03:44,100 --> 00:03:45,333
+如果你发现它超级早期的游戏
+
+489
+00:03:45,333 --> 00:03:47,600
+那间砖房里有一张床
+
+490
+00:03:48,100 --> 00:03:49,500
+你可以睡那张床
+
+491
+00:03:49,500 --> 00:03:51,866
+夜晚将不再是问题
+
+492
+00:03:52,266 --> 00:03:55,300
+我想在这个狼群里熬过今晚
+
+493
+00:03:55,300 --> 00:03:56,333
+别做就是了
+
+494
+00:03:56,400 --> 00:03:58,533
+找张床睡觉，跳过夜晚
+
+495
+00:03:59,900 --> 00:04:01,933
+有些人不知道
+
+496
+00:04:02,666 --> 00:04:04,966
+现在我在找一些羊
+
+497
+00:04:05,200 --> 00:04:07,566
+因为如果我找不到那间砖房
+
+498
+00:04:07,566 --> 00:04:08,766
+我要赶床了
+
+499
+00:04:08,800 --> 00:04:11,866
+你完全可以在第一天得到一张床
+
+500
+00:04:11,866 --> 00:04:13,533
+我不知道我做了多少次
+
+501
+00:04:14,466 --> 00:04:16,666
+这次我浪费了太多时间说话
+
+502
+00:04:20,100 --> 00:04:22,966
+那只是第一天的事
+
+503
+00:04:25,533 --> 00:04:26,533
+我不知道该说什么
+
+504
+00:04:26,533 --> 00:04:27,700
+所以我要做
+
+505
+00:04:53,533 --> 00:04:56,066
+如果我没记错的话，你需要6个打火石。
+
+506
+00:04:56,066 --> 00:04:57,366
+你需要6块砾石。
+
+507
+00:04:57,466 --> 00:05:02,400
+你用它做2个打火石和一点木头
+
+508
+00:05:04,866 --> 00:05:06,400
+做一张手工桌子
+
+509
+00:05:08,733 --> 00:05:11,100
+在GTNH中制作桌子相当昂贵
+
+510
+00:05:11,166 --> 00:05:13,966
+你需要的是原木不是木板还有打火石
+
+511
+00:05:14,966 --> 00:05:19,266
+我刚教你怎么做打火石
+
+512
+00:05:20,566 --> 00:05:22,666
+这个这个呃
+
+513
+00:05:22,666 --> 00:05:25,333
+你需要软木槌
+
+514
+00:05:25,966 --> 00:05:27,800
+你是这样做的吗？不
+
+515
+00:05:28,400 --> 00:05:30,366
+一定要那样，好吗？
+
+516
+00:05:31,000 --> 00:05:37,833
+我要凭记忆来看看我能不能记住怎样凭记忆来铺床。
+
+517
+00:05:39,466 --> 00:05:42,200
+但你完全可以在NEI中查找它
+
+518
+00:05:43,766 --> 00:05:45,966
+只是想看看
+
+519
+00:05:45,966 --> 00:05:47,666
+你需要两个这样的
+
+520
+00:06:03,800 --> 00:06:05,366
+是的，OK
+
+521
+00:06:06,100 --> 00:06:08,266
+完全可以看到我
+
+522
+00:06:09,066 --> 00:06:10,666
+我是说我没拿
+
+523
+00:06:10,733 --> 00:06:11,800
+我没有走得太慢
+
+524
+00:06:11,966 --> 00:06:16,700
+但我通常能在夜里12点前拿到
+
+525
+00:06:17,100 --> 00:06:18,800
+通常要花我一半的时间
+
+526
+00:06:18,800 --> 00:06:19,266
+不是一半
+
+527
+00:06:19,733 --> 00:06:21,400
+你可以在一半的时间内完成
+
+528
+00:06:23,066 --> 00:06:24,266
+还有时间。
+
+529
+00:06:24,600 --> 00:06:25,700
+否则你就只能（放？）玩了
+
+530
+00:06:25,700 --> 00:06:29,733
+就像我只是在告诉你如何应对游戏的第一晚
+
+531
+00:06:29,733 --> 00:06:30,600
+有很多方法
+
+532
+00:06:30,933 --> 00:06:32,533
+可能有更好的教程
+
+533
+00:06:33,200 --> 00:06:35,533
+我想还找到了一个村庄
+
+534
+00:06:36,066 --> 00:06:37,066
+我们到村子里去
+
+535
+00:06:38,300 --> 00:06:39,700
+好的，这个村庄
+
+536
+00:06:40,200 --> 00:06:42,433
+让我们看看它是否有什么有用的东西
+
+537
+00:06:42,433 --> 00:06:44,366
+或者他太没用了
+
+538
+00:06:45,400 --> 00:06:46,000
+新食品
+
+539
+00:06:46,266 --> 00:06:47,133
+甚至没有长大
+
+540
+00:06:48,166 --> 00:06:51,666
+从地图上看，应该更容易
+
+541
+00:06:52,566 --> 00:06:53,800
+我觉得这个有味道
+
+542
+00:06:53,866 --> 00:06:56,200
+如果它有气味，那就是好的，有用的
+
+543
+00:06:56,666 --> 00:06:59,000
+这个可能包含东西
+
+544
+00:06:59,000 --> 00:06:59,700
+我们来看看。
+
+545
+00:07:02,400 --> 00:07:03,533
+呃，这是哪里
+
+546
+00:07:03,533 --> 00:07:05,166
+那是不是冶炼厂？
+
+547
+00:07:06,633 --> 00:07:07,966
+是的，OK
+
+548
+00:07:07,966 --> 00:07:10,133
+我找到一个冶炼厂，很好
+
+549
+00:07:10,133 --> 00:07:11,766
+稍后这将很有用
+
+550
+00:07:12,600 --> 00:07:13,533
+然后寻找
+
+551
+00:07:13,533 --> 00:07:15,000
+哦，什么是，哦，食物
+
+552
+00:07:16,000 --> 00:07:17,133
+那是一栋新建筑吗？
+
+553
+00:07:17,333 --> 00:07:18,766
+我不记得这栋楼了
+
+554
+00:07:19,666 --> 00:07:22,200
+他们在村子里建了新建筑吗？
+
+555
+00:07:23,033 --> 00:07:24,333
+嗯，我也这么想。
+
+556
+00:07:25,333 --> 00:07:28,600
+甚至不知道我现在在哪里可以找到东西
+
+557
+00:07:31,766 --> 00:07:34,066
+也许那是以前的事了我不记得了
+
+558
+00:07:34,333 --> 00:07:36,100
+是的，当然，有些人
+
+559
+00:07:38,400 --> 00:07:40,866
+我只是个普通的GregTech玩家
+
+560
+00:07:40,866 --> 00:07:45,266
+不要把我做的，我说的，或者任何事情看得太重
+
+561
+00:07:45,900 --> 00:07:47,266
+只是想享受比赛
+
+562
+00:07:47,266 --> 00:07:49,333
+并展示如何玩它
+
+563
+00:07:49,700 --> 00:07:52,366
+这个有多少个大锅
+
+564
+00:07:53,000 --> 00:07:54,133
+哦，谢啦
+
+565
+00:07:56,600 --> 00:07:58,366
+睡眠睡眠睡眠睡眠睡眠
+
+566
+00:08:02,900 --> 00:08:04,200
+另外，如果你不知道
+
+567
+00:08:05,133 --> 00:08:08,000
+你不能连续吃4次同样的食物
+
+568
+00:08:08,366 --> 00:08:10,133
+然后你开始有问题
+
+569
+00:08:11,700 --> 00:08:13,266
+你得平衡饮食
+
+570
+00:08:13,766 --> 00:08:16,200
+如果你能设法得到这样的一切
+
+571
+00:08:16,466 --> 00:08:18,533
+你会得到一些持续的缓冲
+
+572
+00:08:18,533 --> 00:08:23,800
+我认为如果你把所有东西都放在上面，那就是速度和匆忙。
+
+573
+00:08:23,800 --> 00:08:25,066
+如果价格太低
+
+574
+00:08:25,133 --> 00:08:29,066
+你开始变得缓慢和其他沮丧
+
+575
+00:08:32,166 --> 00:08:33,500
+那是全新的
+
+576
+00:08:33,500 --> 00:08:39,200
+GTNH的这次更新为村庄增加了相当多的新结构
+
+577
+00:08:40,800 --> 00:08:46,166
+ 所以我现在不知道哪一个可能包含一些有用的东西。
+
+578
+00:08:48,133 --> 00:08:50,333
+也许应该停下来
+
+579
+00:08:50,333 --> 00:08:52,200
+当我发现一些有趣的东西时
+
+580
+00:08:53,000 --> 00:08:54,333
+现在就全部展示出来
+
+581
+00:08:54,333 --> 00:08:55,333
+我想看看这个
+
+582
+00:08:55,333 --> 00:08:56,133
+这个似乎
+
+583
+00:08:56,333 --> 00:08:57,533
+这个应该有
+
+584
+00:08:59,100 --> 00:09:00,833
+他的那个有修补匠的
+
+585
+00:09:00,833 --> 00:09:01,900
+呃等等
+
+586
+00:09:02,466 --> 00:09:03,566
+呃不是墨水和纸
+
+587
+00:09:05,000 --> 00:09:06,966
+我不想做
+
+588
+00:09:06,966 --> 00:09:09,000
+这个这个有（正确的？）东西，好的，好的
+
+589
+00:09:09,866 --> 00:09:14,600
+让我们看看我有没有早期游戏镐的有用零件
+
+590
+00:09:14,600 --> 00:09:15,333
+哦你注意到了
+
+591
+00:09:15,333 --> 00:09:17,333
+我不会在任务书里做任何事
+
+592
+00:09:17,600 --> 00:09:20,333
+我的提示是在开始任务书之前
+
+593
+00:09:20,333 --> 00:09:23,466
+你首先应该赶紧上床
+
+594
+00:09:26,533 --> 00:09:29,100
+最重要的是第0天，找张床
+
+595
+00:09:29,266 --> 00:09:30,000
+那是我的选择
+
+596
+00:09:30,000 --> 00:09:32,366
+如果你不想把和平
+
+597
+00:09:33,466 --> 00:09:36,133
+如果你不能在第一天晚上之前上床
+
+598
+00:09:36,300 --> 00:09:37,933
+重新开始一个新游戏
+
+599
+00:09:37,933 --> 00:09:40,866
+如果您在第一天找不到床，请重新开始游戏
+
+600
+00:09:40,900 --> 00:09:41,866
+那是我的选择
+
+601
+00:09:41,866 --> 00:09:44,133
+除非你想把和平或其他任何东西
+
+602
+00:09:49,066 --> 00:09:50,366
+我可以做一把镐吗？
+
+603
+00:09:52,866 --> 00:09:54,366
+哦等等我找到了这个
+
+604
+00:09:55,666 --> 00:09:58,600
+我真的可以在那里做一把镐
+
+605
+00:10:00,600 --> 00:10:03,200
+所以，有了这个，我可以
+
+606
+00:10:05,066 --> 00:10:07,533
+反正我以后也得动手了
+
+607
+00:10:08,300 --> 00:10:10,100
+可能是为了任务书
+
+608
+00:10:13,866 --> 00:10:14,566
+我现在正在思考
+
+609
+00:10:14,566 --> 00:10:16,300
+为什么我甚至想要一把镐？
+
+610
+00:10:17,933 --> 00:10:19,733
+我真的不需要它
+
+611
+00:10:20,600 --> 00:10:23,233
+但很高兴拥有
+
+612
+00:10:25,700 --> 00:10:27,700
+我想我们买这个吧。
+
+613
+00:10:27,966 --> 00:10:33,733
+在开始任务书之前，我就有一把镐。
+
+614
+00:10:33,733 --> 00:10:34,133
+好
+
+615
+00:10:35,100 --> 00:10:38,200
+那我可以把这个带走，这样我就可以修理它了。
+
+616
+00:10:39,733 --> 00:10:41,133
+这基本上没用
+
+617
+00:10:43,566 --> 00:10:44,900
+哦有一个（斧头？）
+
+618
+00:10:44,933 --> 00:10:47,166
+也许我也可以做一把斧头
+
+619
+00:10:50,966 --> 00:10:52,166
+嗯，好的，等会儿
+
+620
+00:10:52,400 --> 00:10:53,200
+也许以后
+
+621
+00:10:56,200 --> 00:10:57,500
+我想说的另一件事
+
+622
+00:10:57,600 --> 00:11:00,666
+那些黑曜石部分真的很好
+
+623
+00:11:02,300 --> 00:11:06,466
+稍后这些东西可以很方便地跳过一些层
+
+624
+00:11:07,466 --> 00:11:10,733
+黑曜石部分可以很好地跳过层
+
+625
+00:11:10,933 --> 00:11:14,466
+我们过几集再说
+
+626
+00:11:16,066 --> 00:11:18,200
+我不知道这个系列会怎么样
+
+627
+00:11:20,300 --> 00:11:24,600
+我想从第一集开始
+
+628
+00:11:24,600 --> 00:11:26,600
+这个就像前传什么的
+
+629
+00:11:28,933 --> 00:11:32,133
+顺便说一句，那些花园随处可见
+
+630
+00:11:32,133 --> 00:11:32,966
+如果你不知道
+
+631
+00:11:32,966 --> 00:11:35,133
+你可以用右键拿起那些。
+
+632
+00:11:35,566 --> 00:11:36,766
+如果你捡起来
+
+633
+00:11:36,766 --> 00:11:38,066
+你可以稍后种植它
+
+634
+00:11:38,066 --> 00:11:39,666
+它会慢慢传播
+
+635
+00:11:39,666 --> 00:11:41,666
+所以你可以种植它们并让它们生长
+
+636
+00:11:42,400 --> 00:11:46,600
+或者你可以用左键摧毁它来获得（木头？）
+
+637
+00:11:50,866 --> 00:11:52,200
+呃在说
+
+638
+00:11:52,533 --> 00:11:53,866
+就像一年前一样
+
+639
+00:11:54,000 --> 00:11:55,766
+以前是这样的，用来制水
+
+640
+00:12:00,600 --> 00:12:03,066
+十年前你需要这个水箱来制水
+
+641
+00:12:03,666 --> 00:12:05,500
+这个根据湿度工作
+
+642
+00:12:05,666 --> 00:12:08,266
+如果你有20%的湿度
+
+643
+00:12:08,500 --> 00:12:12,000
+这东西能产生五分之一的最佳水量
+
+644
+00:12:13,000 --> 00:12:14,800
+你可以看到湿度
+
+645
+00:12:14,800 --> 00:12:15,700
+这里是20%。
+
+646
+00:12:17,000 --> 00:12:18,966
+这里是90%
+
+647
+00:12:18,966 --> 00:12:22,000
+所以过去如果我建造我的房子
+
+648
+00:12:22,200 --> 00:12:23,600
+我的工厂在这里
+
+649
+00:12:23,766 --> 00:12:26,900
+我会得到五分之一的水
+
+650
+00:12:27,300 --> 00:12:29,500
+如果我到了那里，我会得到的。
+
+651
+00:12:30,200 --> 00:12:31,600
+在这个游戏版本中
+
+652
+00:12:31,700 --> 00:12:34,700
+我们还有其他办法提早取水
+
+653
+00:12:34,700 --> 00:12:35,800
+那只是早期的比赛
+
+654
+00:12:35,800 --> 00:12:37,066
+以后你有更好的方法
+
+655
+00:12:37,066 --> 00:12:39,866
+但那曾经是早期的游戏
+
+656
+00:12:40,966 --> 00:12:44,266
+我认为在这个版本中，这不再是一个问题
+
+657
+00:12:46,466 --> 00:12:47,466
+在我最后一次超速跑中
+
+658
+00:12:47,466 --> 00:12:50,600
+我们实际上把基地建在一个没有降雨的生物群落里。
+
+659
+00:12:51,266 --> 00:12:52,900
+你可以看到沙漠
+
+660
+00:12:53,066 --> 00:12:55,466
+这个生物群落没有沉淀
+
+661
+00:12:55,466 --> 00:12:57,100
+现在这个湿度为零
+
+662
+00:12:57,100 --> 00:13:01,500
+所以我想如果你在沙漠里做一个水箱
+
+663
+00:13:01,500 --> 00:13:03,166
+我想它甚至不制水。
+
+664
+00:13:03,366 --> 00:13:04,566
+这可能是我编的
+
+665
+00:13:04,566 --> 00:13:05,066
+我不知道。
+
+666
+00:13:05,066 --> 00:13:06,266
+我得测试一下
+
+667
+00:13:06,700 --> 00:13:11,466
+但不管怎样，重点是如果我在没有降雨的地方建造
+
+668
+00:13:14,866 --> 00:13:16,066
+不会有雨
+
+669
+00:13:16,800 --> 00:13:17,966
+问题是雨
+
+670
+00:13:18,466 --> 00:13:21,366
+如果你有一台电动机器，它下雨了。
+
+671
+00:13:21,366 --> 00:13:23,200
+机器会爆炸
+
+672
+00:13:23,200 --> 00:13:27,400
+也许在没有降水的生物群落里建造你的房子是个好主意
+
+673
+00:13:28,166 --> 00:13:29,200
+但你必须小心
+
+674
+00:13:30,966 --> 00:13:32,900
+离下一场风暴还有两个小时
+
+675
+00:13:33,000 --> 00:13:34,466
+所以如果我把房子建在这里
+
+676
+00:13:34,466 --> 00:13:36,133
+我这里有一台电动机器。
+
+677
+00:13:36,533 --> 00:13:39,200
+我错把上面少了一块。
+
+678
+00:13:39,200 --> 00:13:41,066
+那里的一台机器上下雨了
+
+679
+00:13:41,066 --> 00:13:42,066
+它会爆炸的
+
+680
+00:13:45,100 --> 00:13:45,966
+以防万一
+
+681
+00:13:46,000 --> 00:13:47,733
+保护您的机器
+
+682
+00:13:47,733 --> 00:13:50,266
+另一个有趣的事情，我不知道他们是否改变了它。
+
+683
+00:13:50,266 --> 00:13:55,000
+过去，如果你把一台电机放在河底
+
+684
+00:13:55,066 --> 00:13:56,300
+它不会爆炸
+
+685
+00:13:56,800 --> 00:14:01,133
+所以你可以在机器上方放一桶水来保护机器免受雨水的侵害
+
+686
+00:14:01,866 --> 00:14:03,933
+我想他们修好了
+
+687
+00:14:03,933 --> 00:14:05,100
+但我不确定
+
+688
+00:14:08,200 --> 00:14:11,366
+反正我要建一个建筑屋顶
+
+689
+00:14:11,366 --> 00:14:17,166
+我想我很可能会在一个我喜欢的生物群落里定居下来
+
+690
+00:14:18,066 --> 00:14:21,966
+这是我最喜欢的生物群落之一
+
+691
+00:14:21,966 --> 00:14:23,900
+樱花
+
+692
+00:14:23,900 --> 00:14:27,066
+我想在这个生物群落的某个地方建立我的基地
+
+693
+00:14:28,500 --> 00:14:30,533
+现在，我要建造它吗？
+
+694
+00:14:32,166 --> 00:14:32,966
+我本来想说
+
+695
+00:14:32,966 --> 00:14:34,800
+我是在流上构建它还是在流外构建它？
+
+696
+00:14:34,800 --> 00:14:36,900
+反正什么时候会断流
+
+697
+00:14:36,900 --> 00:14:38,900
+要么被记录要么不记录
+
+698
+00:14:39,766 --> 00:14:42,066
+很可能我们还会做一些直播
+
+699
+00:14:42,066 --> 00:14:43,500
+我还得把事情搞清楚
+
+700
+00:14:43,500 --> 00:14:46,700
+那几天我也没有太多时间。
+
+701
+00:14:47,300 --> 00:14:52,933
+我开始得很慢，想弄清楚这个赛季我想怎么做
+
+702
+00:14:53,133 --> 00:14:56,000
+可能有很多很多事情我都忘记了
+
+703
+00:15:00,700 --> 00:15:04,166
+我正在为我的新基地寻找一个漂亮的平坦区域
+
+704
+00:15:04,166 --> 00:15:05,100
+我想我明白了。
+
+705
+00:15:05,266 --> 00:15:11,933
+但我找到的是这条小溪开始时我说的砖房
+
+706
+00:15:12,133 --> 00:15:16,366
+你可以继续滚动新的世界直到你在第一晚之前找到一个
+
+707
+00:15:17,933 --> 00:15:21,700
+否则，它很容易找到，而且非常有用。
+
+708
+00:15:21,933 --> 00:15:24,966
+那些砖头非常值钱
+
+709
+00:15:25,000 --> 00:15:27,566
+稍后在播放中或某个时候你会看到
+
+710
+00:15:28,333 --> 00:15:30,433
+那些非常需要的
+
+711
+00:15:30,433 --> 00:15:31,500
+现在给我一点时间
+
+712
+00:15:47,766 --> 00:15:49,066
+在这里你可以找到一张床
+
+713
+00:15:49,500 --> 00:15:50,466
+这样你就可以睡觉了
+
+714
+00:15:51,733 --> 00:15:56,533
+然后我要在下一集开始真正做一些事情
+
+715
+00:16:09,900 --> 00:16:14,566
+我想这一集差不多就是这样了
+
+716
+00:16:14,566 --> 00:16:18,400
+我想在下一个视频中真正做点什么。
+
+717
+00:16:19,366 --> 00:16:22,300
+这看起来是我新基地的好地方
+
+718
+00:16:22,300 --> 00:16:25,466
+顺便说一下，下面有一个地牢，里面有很好的战利品。
+
+719
+00:16:25,466 --> 00:16:28,166
+我可能会在下一集探索，我不知道。
+
+720
+00:16:28,466 --> 00:16:30,600
+我们看看我想怎么做
+
+721
+00:16:31,400 --> 00:16:34,333
+这基本上只是一个紧急调试
+
+722
+00:16:34,333 --> 00:16:36,933
+并查看如何配置所有内容
+
+723
+00:16:37,533 --> 00:16:43,533
+但最重要的是，我计划从几个月开始这样做。
+
+724
+00:16:44,700 --> 00:16:46,966
+我还想解释一下如何安装游戏
+
+725
+00:16:46,966 --> 00:16:48,566
+如何搜索分块、房屋
+
+726
+00:16:49,066 --> 00:16:52,000
+说你想怎么玩就怎么玩
+
+727
+00:16:52,100 --> 00:16:53,800
+也许有些人想保留库存
+
+728
+00:16:53,800 --> 00:16:55,933
+我有点建议
+
+729
+00:16:56,066 --> 00:16:57,966
+如果你不是来挑战的
+
+730
+00:16:58,066 --> 00:17:00,533
+或者铁杆玩家什么的
+
+731
+00:17:01,066 --> 00:17:02,966
+保留库存真的很好
+
+732
+00:17:03,966 --> 00:17:08,100
+这是一个减少延迟的东西
+
+733
+00:17:08,733 --> 00:17:10,533
+所以我想谈谈这件事
+
+734
+00:17:10,533 --> 00:17:12,966
+但后来我发现我不擅长解释
+
+735
+00:17:12,966 --> 00:17:16,266
+有一个人做了一个教程，非常非常好。
+
+736
+00:17:16,266 --> 00:17:17,933
+我要在描述中把他联系起来
+
+737
+00:17:18,500 --> 00:17:20,933
+实际上我甚至没有完全看完他的视频
+
+738
+00:17:20,933 --> 00:17:24,566
+但他涵盖了我想做的一切，甚至更好
+
+739
+00:17:26,066 --> 00:17:27,300
+这就消失了
+
+740
+00:17:28,400 --> 00:17:31,200
+然后我想谈谈优先级。好的。
+
+741
+00:17:31,300 --> 00:17:32,100
+优先事项
+
+742
+00:17:32,800 --> 00:17:34,900
+这是我要一直提到的事情
+
+743
+00:17:35,400 --> 00:17:37,733
+也许希望将来
+
+744
+00:17:39,200 --> 00:17:42,700
+我想解释我如何决定做什么，什么时候做
+
+745
+00:17:45,466 --> 00:17:49,200
+弄清楚优先事项主要是如果你想加速跑
+
+746
+00:17:49,333 --> 00:17:51,266
+但我要再提几次
+
+747
+00:17:51,500 --> 00:17:52,566
+就像如果你在等待
+
+748
+00:17:53,533 --> 00:17:55,466
+又不是你玩游戏玩错了
+
+749
+00:17:55,466 --> 00:17:56,566
+但我一直在说
+
+750
+00:17:56,566 --> 00:18:00,600
+如果你发现自己在GTNH闲置，你就玩错了游戏
+
+751
+00:18:03,800 --> 00:18:05,666
+在GTNH你可以做很多事情
+
+752
+00:18:05,666 --> 00:18:08,900
+最终我们会讨论这个
+
+753
+00:18:08,933 --> 00:18:11,000
+实际上这才是更重要的
+
+754
+00:18:11,100 --> 00:18:11,900
+事情就是这样
+
+755
+00:18:11,966 --> 00:18:13,200
+在优先事项有乐趣之前
+
+756
+00:18:13,200 --> 00:18:14,000
+这是个游戏
+
+757
+00:18:14,100 --> 00:18:15,100
+记得玩得开心
+
+758
+00:18:15,100 --> 00:18:15,866
+你在玩这个
+
+759
+00:18:15,866 --> 00:18:17,566
+我觉得你玩这个是为了好玩
+
+760
+00:18:21,733 --> 00:18:23,666
+让我们假设你是为了好玩
+
+761
+00:18:23,666 --> 00:18:26,866
+我是说一个人可以做一个超速跑
+
+762
+00:18:26,866 --> 00:18:28,666
+我是说即使你做了超速跑
+
+763
+00:18:28,666 --> 00:18:32,500
+你在一天结束时这样做是为了好玩
+
+764
+00:18:37,066 --> 00:18:38,600
+是的，我想告诉你
+
+765
+00:18:38,966 --> 00:18:41,533
+有很多事连我都不知道
+
+766
+00:18:42,200 --> 00:18:44,000
+所以大多数时候
+
+767
+00:18:44,300 --> 00:18:47,166
+而不是四处寻找解决方案或答案
+
+768
+00:18:48,266 --> 00:18:51,733
+我只是想告诉你试着看看你自己会发生什么
+
+769
+00:18:51,733 --> 00:18:53,700
+就像制造一个测试世界
+
+770
+00:18:53,700 --> 00:18:57,166
+犯一个错误，你可以尝试做某事
+
+771
+00:18:57,200 --> 00:18:58,866
+试着猜猜该怎么办
+
+772
+00:18:58,900 --> 00:19:00,766
+做备份做备份
+
+773
+00:19:01,333 --> 00:19:02,533
+你想做什么就做什么
+
+774
+00:19:02,533 --> 00:19:04,466
+如果发生什么事，请加载备份
+
+775
+00:19:05,200 --> 00:19:08,100
+有时候更有趣的是
+
+776
+00:19:08,100 --> 00:19:09,300
+或者至少没问题
+
+777
+00:19:09,300 --> 00:19:10,400
+这可能就是问题所在。
+
+778
+00:19:10,400 --> 00:19:11,600
+那可能是我的意见
+
+779
+00:19:12,900 --> 00:19:16,733
+其他人可能更喜欢四处走动
+
+780
+00:19:16,733 --> 00:19:19,400
+并在某处阅读如果你做某事会发生什么
+
+781
+00:19:19,400 --> 00:19:23,066
+我更喜欢做备份
+
+782
+00:19:23,533 --> 00:19:25,266
+炸掉一些东西看看会发生什么
+
+783
+00:19:25,266 --> 00:19:26,533
+然后加载备份
+
+784
+00:19:27,000 --> 00:19:28,666
+你可以在游戏中测试东西
+
+785
+00:19:31,166 --> 00:19:33,866
+这是关于找到你自己的游戏方式
+
+786
+00:19:33,866 --> 00:19:37,200
+弄清楚你喜欢怎么玩这个游戏
+
+787
+00:19:37,200 --> 00:19:39,466
+还有你也不用玩这个游戏
+
+788
+00:19:39,933 --> 00:19:44,266
+有时候我经历这些是因为有些人
+
+789
+00:19:44,266 --> 00:19:46,000
+有评论问我
+
+790
+00:19:46,000 --> 00:19:48,233
+你怎么能享受这个游戏
+
+791
+00:19:48,233 --> 00:19:50,200
+看看这游戏多无聊
+
+792
+00:19:50,200 --> 00:19:53,266
+你不厌倦建工厂吗
+
+793
+00:19:53,500 --> 00:19:54,866
+你为什么总是做很长时间？
+
+794
+00:19:54,933 --> 00:19:56,066
+以及所有这些评论
+
+795
+00:19:56,066 --> 00:19:57,000
+我感到疲倦
+
+796
+00:19:57,000 --> 00:19:59,466
+我是说，我可以随心所欲地演奏吗？
+
+797
+00:19:59,966 --> 00:20:01,500
+如果你不喜欢这个游戏
+
+798
+00:20:01,566 --> 00:20:02,966
+你不必玩这个游戏
+
+799
+00:20:02,966 --> 00:20:03,900
+如果你不喜欢
+
+800
+00:20:03,900 --> 00:20:05,366
+别弹了
+
+801
+00:20:06,733 --> 00:20:09,000
+我将向你们展示我是如何演奏的
+
+802
+00:20:09,666 --> 00:20:10,933
+很多人问
+
+803
+00:20:11,200 --> 00:20:14,000
+我也想知道我怎么这么快就出来了
+
+804
+00:20:14,533 --> 00:20:15,600
+我觉得我没那么好
+
+805
+00:20:15,600 --> 00:20:17,666
+在这个游戏里有比我更厉害的人
+
+806
+00:20:17,666 --> 00:20:20,600
+但我将在这一季向你们展示主要是“为什么”
+
+807
+00:20:20,600 --> 00:20:24,966
+我会试着强调为什么我用特定的方式做事。
+
+808
+00:20:25,333 --> 00:20:27,366
+我不是在做超速跑教程
+
+809
+00:20:27,366 --> 00:20:30,100
+但我会试着向你解释我的决定
+
+810
+00:20:30,266 --> 00:20:33,466
+再说一次，我经常做一些不是最佳的事情
+
+811
+00:20:33,466 --> 00:20:36,133
+因为我喜欢的不仅仅是最佳方式，而不是最佳方式。
+
+812
+00:20:36,133 --> 00:20:37,133
+我也很懒。
+
+813
+00:20:37,133 --> 00:20:38,166
+所以也有那个
+
+814
+00:20:40,166 --> 00:20:43,200
+我永远不会记得我必须在视频中放置的所有内容
+
+815
+00:20:43,533 --> 00:20:45,300
+我知道有些事情
+
+816
+00:20:46,533 --> 00:20:51,666
+有人会在有人问之前提出我无法解决的问题
+
+817
+00:20:53,266 --> 00:20:55,666
+我只能在视频中放这么多东西。
+
+818
+00:20:56,266 --> 00:20:59,166
+我都不记得这是什么意思了
+
+819
+00:21:02,000 --> 00:21:04,733
+ 我想这里面有不同的游戏风格。
+
+820
+00:21:04,733 --> 00:21:06,766
+所以现在我可以删除这个文件了
+
+821
+00:21:10,200 --> 00:21:13,566
+这就像这一季的前传
+
+822
+00:21:14,200 --> 00:21:17,333
+希望不会太无聊或者我不知道
+
+823
+00:21:17,966 --> 00:21:20,300
+我甚至不知道我这辈子在做什么
+
+824
+00:21:21,533 --> 00:21:23,966
+我们看情况如何
+
+825
+00:21:24,066 --> 00:21:26,166
+第一集见
+
+826
+00:21:26,166 --> 00:21:28,866
+因为我将把这一集称为第0集
+
+827
+00:21:28,866 --> 00:21:29,366
+拜拜
+
