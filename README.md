@@ -10,6 +10,7 @@ Cooperative subtitle translation project for GregTech-related videos.
 - online quest book (both Eng and Chs, toggle at upper right): https://gtnhquestsbook.top/
 - online NEI (Chinese, server may be down): https://nei.gtnh.work/index?dataSource=273
 - online NEI (English): https://shadowtheage.github.io/gtnh/
+- **Terminology database for this project**: [`terms.json`](terms.json) — consistent EN→CN term mappings for subtitle translation
 
 ## Quick Start (Git Newcomer)
 
