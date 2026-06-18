@@ -5,7 +5,6 @@
     "last_updated": "2026-06-17",
     "usage": "When translating English subtitles to Chinese, consult this glossary for consistent terminology and known conventions."
   },
-
   "known_conventions": {
     "_note": "These are conventions observed across the existing translations. Prefer these over alternatives.",
     "macerator": "研磨机",
@@ -97,7 +96,7 @@
     "bending_machine": "卷板机",
     "wiremill": "线材轧机",
     "forming_press": "冲压机床",
-    "pyrolyse_oven": "热解炉",
+    "pyrolyze_oven": "热解炉",
     "ore_washer": "洗矿机",
     "rock_breaker": "碎石机",
     "canning_machine": "罐装机",
@@ -162,7 +161,6 @@
     "buffer": "缓冲",
     "americium": "镅"
   },
-
   "world_generation": {
     "vein": "矿脉",
     "ore vein": "矿脉",
@@ -190,7 +188,6 @@
     "vein stats": "矿脉信息",
     "indicator ore": "指示矿石"
   },
-
   "materials_and_items": {
     "_ref": "See known_conventions for most materials. This section covers remaining items.",
     "hot ingot": "热锭",
@@ -245,7 +242,6 @@
     "xenon": "氙",
     "radon": "氡"
   },
-
   "machines": {
     "_ref": "See known_conventions for common machines. This section covers additional ones.",
     "electric blast furnace": "电高炉",
@@ -286,7 +282,6 @@
     "wall share": "共享结构方块",
     "wall sharing": "共享结构方块"
   },
-
   "mod_names": {
     "GregTech": "格雷科技",
     "GT": "GT",
@@ -328,7 +323,6 @@
     "Computronics": "电脑外设",
     "Draconic Evolution": "龙之研究"
   },
-
   "game_mechanics": {
     "quest": "任务",
     "quests": "任务",
@@ -401,7 +395,6 @@
     "stock": "库存",
     "stash": "囤积"
   },
-
   "ui_and_controls": {
     "UI": "界面",
     "recipe": "配方",
@@ -409,20 +402,18 @@
     "check usages": "查看用途",
     "check recipes": "查看配方"
   },
-
   "video_and_streaming": {
     "season": "季",
     "episode": "集",
     "stream": "直播",
-    "playthrough": "通关"
+    "playthrough": "通关",
     "YouTube channel": "YouTube 频道",
     "video": "视频",
     "podcast": "播客",
     "guide": "指南",
     "tutorial": "教程",
-    "series": "系列",
+    "series": "系列"
   },
-
   "building_and_aesthetics": {
     "aesthetics": "美观",
     "building blocks": "建筑方块",
@@ -442,7 +433,6 @@
     "stone bricks": "石砖",
     "brick house": "砖房"
   },
-
   "phrases_and_fillers": {
     "by the way": "顺便说一下",
     "anyway": "不管怎样",
