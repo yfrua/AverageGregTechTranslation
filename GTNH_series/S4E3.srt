@@ -324,7 +324,7 @@ the first one i want to do is the steam grinder
 
 82
 00:05:10,400 --> 00:05:14,333
-that is because the single block maserator is basically impossible to use
+that is because the single block macerater is basically impossible to use
 
 83
 00:05:14,333 --> 00:05:15,466
@@ -720,7 +720,7 @@ did they have this one too
 
 181
 00:11:19,266 --> 00:11:23,100
-OK, and there are still a lot of bricks under this dungean
+OK, and there are still a lot of bricks under this dungeon
 
 182
 00:11:23,400 --> 00:11:26,833
@@ -816,7 +816,7 @@ that's the minimum i will get
 
 205
 00:12:55,000 --> 00:12:59,066
-then usually work towards twelve or even sixteen brick balst furnaces
+then usually work towards twelve or even sixteen brick blast furnaces
 
 206
 00:12:59,066 --> 00:13:02,433
@@ -968,7 +968,7 @@ so i'm going to craft a bunch
 
 243
 00:15:04,966 --> 00:15:08,233
-and so we can wallshare a lot of coke ovens
+and so we can wall share a lot of coke ovens
 
 244
 00:15:08,233 --> 00:15:14,800
@@ -1048,7 +1048,7 @@ but if you want
 
 263
 00:16:18,300 --> 00:16:21,300
-you can just craft a converoy belt
+you can just craft a conveyor belt
 
 264
 00:16:21,300 --> 00:16:23,700
@@ -1080,7 +1080,7 @@ but it works sixteen times better than before
 
 271
 00:16:44,500 --> 00:16:47,666
-by the way, if you misclick and place a plate on a pipe
+by the way, if you mis-click and place a plate on a pipe
 
 272
 00:16:47,666 --> 00:16:49,666
@@ -1140,7 +1140,7 @@ drop the wood into drawer
 
 286
 00:17:42,066 --> 00:17:47,600
-and it will slowly make charcoal that we can use on our brick balst furnaces
+and it will slowly make charcoal that we can use on our brick blast furnaces
 
 287
 00:17:49,066 --> 00:17:53,700
@@ -1520,7 +1520,7 @@ bye bye
 
 381
 00:05:10,400 --> 00:05:14,333
-那是因为单块maserator基本上不可能使用
+那是因为单块研磨机基本上不可能使用
 
 382
 00:05:14,333 --> 00:05:15,466
