@@ -84,7 +84,7 @@ we are going to need some steam
 
 22
 00:00:55,400 --> 00:00:59,000
-and we already made in the last episode two small coal boilers
+and we already made in the last episode two Small Coal Boilers
 
 23
 00:00:59,600 --> 00:01:02,133
@@ -292,7 +292,7 @@ this tank is not from GregTech but it's from railcraft
 
 74
 00:03:21,933 --> 00:03:25,800
-that means you cannot wallshare this one
+that means you cannot wall share this one
 
 75
 00:03:25,800 --> 00:03:27,200
@@ -376,7 +376,7 @@ OK, steam is pushed out from the sides of those
 
 95
 00:04:43,266 --> 00:04:46,266
-while water can be inputed from the bottom, OK
+while water can be input from the bottom, OK
 
 96
 00:04:48,566 --> 00:04:50,600
@@ -672,7 +672,7 @@ so, that recipe we are doing should take three thousand energy units
 
 169
 00:09:06,933 --> 00:09:10,400
-if this Steam it's six thousand mili-buckets of Steam
+if this Steam it's six thousand milli-buckets of Steam
 
 170
 00:09:14,666 --> 00:09:17,200
@@ -728,7 +728,7 @@ like to see the items inside inventories without opening inventories
 
 183
 00:09:58,366 --> 00:10:02,166
-you need to keep in your baubles the hologlasses
+you need to keep in your baubles the Holo Glasses
 
 184
 00:10:02,600 --> 00:10:06,133
@@ -1208,7 +1208,7 @@ we can finally get new machines
 
 303
 00:16:44,900 --> 00:16:47,766
-the first machine we will get is the maserator
+the first machine we will get is the macerater
 
 304
 00:16:48,266 --> 00:16:50,000
@@ -2596,7 +2596,7 @@ GTNH中略有不同的是
 
 650
 00:16:44,900 --> 00:16:47,766
-我们将获得的第一台机器是maserator
+我们将获得的第一台机器是研磨机
 
 651
 00:16:48,266 --> 00:16:50,000
