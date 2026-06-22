@@ -1,0 +1,2392 @@
+1
+00:00:00,566 --> 00:00:01,766
+welcome back everyone
+
+2
+00:00:02,333 --> 00:00:06,900
+and today we are going to start with the most valuable lesson we will ever be taught in GTNH
+
+3
+00:00:07,400 --> 00:00:09,366
+rely on the old way of doing things
+
+4
+00:00:10,000 --> 00:00:13,666
+just because you unlocked a new way of doing things a little bit more efficiently
+
+5
+00:00:13,733 --> 00:00:16,466
+it doesn't mean you have to start using it right away
+
+6
+00:00:16,966 --> 00:00:22,933
+indeed, in the last episode we figured out we can get three times the amount of plates out of the same ore by using those steam machines
+
+7
+00:00:23,200 --> 00:00:26,966
+the issue is that while we get a way better yield by using those machines
+
+8
+00:00:27,400 --> 00:00:30,333
+those machines are also incredibly slow
+
+9
+00:00:31,100 --> 00:00:34,866
+so, we are going to ignore those machines and go back to the good old Vanilla furnaces
+
+10
+00:00:34,966 --> 00:00:40,000
+which we are powering with the creosote oil leftover from the coke ovens which we have to use somehow
+
+11
+00:00:40,466 --> 00:00:46,733
+using the hammer, we are getting so many resources anyways that that's a sufficient way of processing ores is not a big deal
+
+12
+00:00:46,966 --> 00:00:52,866
+and with that, we have so many ingots that we can just smash those with a hammer
+
+13
+00:00:52,866 --> 00:00:55,366
+and stock up iron plates just like that
+
+14
+00:00:56,300 --> 00:00:59,900
+and while we could work on the main objective of these ages just like that
+
+15
+00:00:59,933 --> 00:01:03,466
+we are not going to use those iron plates for that main objective
+
+16
+00:01:04,166 --> 00:01:09,166
+what we are using those plates for is to upgrade our single block workshop into a multi block workshop
+
+17
+00:01:10,466 --> 00:01:14,266
+we are crafting so much stuff that even NEI auto crafting is too slow
+
+18
+00:01:15,133 --> 00:01:16,733
+and after crafting a bunch of parts
+
+19
+00:01:16,733 --> 00:01:19,366
+we can start actually building something
+
+20
+00:01:19,366 --> 00:01:21,800
+so, the first thing we will have is a steam tank
+
+21
+00:01:21,933 --> 00:01:24,800
+this will act as a buffer for the steam we produce
+
+22
+00:01:25,600 --> 00:01:32,600
+i know it sounds weird, storing steam in a tank, it should like condense and fall down as water
+
+23
+00:01:32,766 --> 00:01:34,933
+but don't think too much about it
+
+24
+00:01:36,100 --> 00:01:39,133
+um, this time i'm going to be lit on the roof of my house
+
+25
+00:01:39,366 --> 00:01:42,966
+because i'm going to do solar boilers, my favorite way of making energy
+
+26
+00:01:42,966 --> 00:01:45,733
+but right now that's going to be it
+
+27
+00:01:46,133 --> 00:01:51,866
+then i already prepared a two big of a burning box
+
+28
+00:01:52,766 --> 00:01:54,800
+i think i'm going to use it like that at the beginning
+
+29
+00:01:54,866 --> 00:01:59,066
+but soon enough, i will turn these into bigger size
+
+30
+00:01:59,066 --> 00:02:00,766
+can be also one block taller
+
+31
+00:02:00,766 --> 00:02:03,933
+but for the moment, just this one
+
+32
+00:02:05,733 --> 00:02:07,600
+OK, the bigger you make this tank
+
+33
+00:02:07,600 --> 00:02:09,066
+the more it takes to heat up
+
+34
+00:02:09,533 --> 00:02:11,100
+i want a bigger tank too
+
+35
+00:02:11,100 --> 00:02:16,133
+but i'm going to get steam press before finishing the rest
+
+36
+00:02:17,400 --> 00:02:18,533
+then to make water
+
+37
+00:02:19,533 --> 00:02:23,466
+the power of this one probably it's enough to use that water tank
+
+38
+00:02:23,500 --> 00:02:26,700
+but i want to make right away the better water pump
+
+39
+00:02:27,166 --> 00:02:30,300
+this one can handle way more machines
+
+40
+00:02:31,900 --> 00:02:32,866
+that we go
+
+41
+00:02:33,300 --> 00:02:36,400
+we pipe it up so it can actually get some steam to work
+
+42
+00:02:36,600 --> 00:02:40,166
+OK, the downside of this water pump is that it takes some steam to work
+
+43
+00:02:43,100 --> 00:02:45,966
+it makes way more water than using the other tanks
+
+44
+00:02:46,066 --> 00:02:49,733
+but it does require a little bit of power in the form of steam
+
+45
+00:02:50,366 --> 00:02:53,666
+and then we need some water here to kick start this one
+
+46
+00:02:56,600 --> 00:02:57,600
+there you go
+
+47
+00:02:57,600 --> 00:03:00,000
+and we can start heating it up
+
+48
+00:03:00,000 --> 00:03:03,366
+once again, has to reach one hundred degrees before it makes any steam
+
+49
+00:03:03,366 --> 00:03:07,066
+so first remember this one, the hotter it is the more it makes steam
+
+50
+00:03:07,733 --> 00:03:10,666
+uh, there are other boilers
+
+51
+00:03:10,666 --> 00:03:12,600
+but i like this one
+
+52
+00:03:14,066 --> 00:03:16,366
+and we must not forget to pipe the water
+
+53
+00:03:18,700 --> 00:03:20,100
+to the boiler
+
+54
+00:03:21,400 --> 00:03:25,066
+and here i also have a handy water pipe for the future
+
+55
+00:03:25,566 --> 00:03:32,000
+usually i heavily suggest taking all of the pipe to make it flow nicer
+
+56
+00:03:34,500 --> 00:03:37,100
+OK, once the steam reaches half
+
+57
+00:03:37,100 --> 00:03:39,300
+it will start pushing into the tank
+
+58
+00:03:39,666 --> 00:03:41,166
+this tank has some valves
+
+59
+00:03:41,600 --> 00:03:43,366
+this tank is made out of three blocks
+
+60
+00:03:43,366 --> 00:03:47,333
+there is the main structure block, glass which is like the cheaper
+
+61
+00:03:47,666 --> 00:03:51,100
+and there are those valves that allow you to input/output
+
+62
+00:03:51,766 --> 00:03:55,066
+the output is only from the bottom
+
+63
+00:03:57,066 --> 00:03:59,566
+the tank automatically outputs from the bottom
+
+64
+00:03:59,566 --> 00:04:05,400
+so you can attach a pipe on the bottom of this one, and the tank will push steam into that pipe
+
+65
+00:04:05,766 --> 00:04:08,566
+but it does not do that on the sides or on the top
+
+66
+00:04:10,566 --> 00:04:15,533
+so as we were saying on the bottom soon enough we would have some steam
+
+67
+00:04:16,166 --> 00:04:19,666
+and then we can run this steam to the machines
+
+68
+00:04:20,733 --> 00:04:22,966
+want to keep some of the old machines too
+
+69
+00:04:22,966 --> 00:04:25,533
+but i'm going to build multi blocks too
+
+70
+00:04:25,533 --> 00:04:26,866
+i mean we already have those machines
+
+71
+00:04:26,866 --> 00:04:31,200
+so may as well keep those for a few times we need to craft a little bit of things
+
+72
+00:04:31,566 --> 00:04:33,733
+those bigger multi blocks work in batches
+
+73
+00:04:35,166 --> 00:04:38,300
+but those multi blocks are also quite expensive to build
+
+74
+00:04:38,500 --> 00:04:42,333
+so we may as well start saving some materials by using these small multi blocks
+
+75
+00:04:42,333 --> 00:04:47,333
+which we can now power a little bit easier with the new boiler
+
+76
+00:04:48,666 --> 00:04:49,766
+at this point of the game
+
+77
+00:04:49,766 --> 00:04:52,333
+we probably also want to have a little bit of automation
+
+78
+00:04:52,566 --> 00:04:57,600
+so, with this machine, the automation consists of just using hopper
+
+79
+00:04:57,600 --> 00:05:01,800
+so hopper in stuff, hopper out into chests, the output
+
+80
+00:05:02,700 --> 00:05:07,566
+and with that, we can now more easily craft some more expensive machines that would work way better
+
+81
+00:05:07,733 --> 00:05:10,200
+the first one i want to do is the steam grinder
+
+82
+00:05:10,400 --> 00:05:14,333
+that is because the single block maserator is basically impossible to use
+
+83
+00:05:14,333 --> 00:05:15,466
+it's just too slow
+
+84
+00:05:15,933 --> 00:05:22,133
+while the forge hammer and alloy smelter are the same I will say for the moment 
+
+85
+00:05:23,100 --> 00:05:26,933
+so, you prepare all of the blocks required
+
+86
+00:05:28,600 --> 00:05:29,733
+just prepare everything
+
+87
+00:05:29,800 --> 00:05:31,966
+then you can manually build it
+
+88
+00:05:31,966 --> 00:05:38,066
+or you can just craft one of those multiblock structure hologram projector
+
+89
+00:05:38,933 --> 00:05:42,000
+and then you click on the thing and it builds for you
+
+90
+00:05:42,333 --> 00:05:46,000
+so my suggestion is first figure out where you want the hatches
+
+91
+00:05:46,300 --> 00:05:50,333
+and then once you decided where to put the hatches build the machine
+
+92
+00:05:50,333 --> 00:05:59,100
+by the way, the amount of those you use when you try to build the machine will change the tier of the machine
+
+93
+00:05:59,100 --> 00:06:01,333
+so if you click with a single spell
+
+94
+00:06:01,466 --> 00:06:03,366
+it will do a level one machine
+
+95
+00:06:03,733 --> 00:06:05,666
+if you click with a stack of two
+
+96
+00:06:05,766 --> 00:06:07,666
+it will try to make a tier two
+
+97
+00:06:08,966 --> 00:06:14,200
+for instance with this multiblock tier one means bronze, tier two means steel
+
+98
+00:06:15,366 --> 00:06:18,800
+the next thing we have to worry about is the pipe to hook it up
+
+99
+00:06:19,466 --> 00:06:23,466
+now to figure out which pipe to use is not too easy
+
+100
+00:06:24,933 --> 00:06:28,500
+right now you probably can only use bronze pipes
+
+101
+00:06:29,133 --> 00:06:31,766
+and each pipe has a different capacity
+
+102
+00:06:33,133 --> 00:06:40,066
+now if you look at the controller usage you can get an idea of how much steam it could take
+
+103
+00:06:40,066 --> 00:06:46,133
+the issue is that some recipe use way more steam than then the others
+
+104
+00:06:46,133 --> 00:06:48,966
+so figuring out what pipe to use can be tricky
+
+105
+00:06:49,466 --> 00:06:52,566
+for the moment, i'm just going to use some normal pipes
+
+106
+00:06:52,566 --> 00:06:57,166
+and in the future i will decide if and what pipe to use
+
+107
+00:06:57,766 --> 00:07:00,600
+and by the way, by now i can also upgrade the tank
+
+108
+00:07:01,000 --> 00:07:06,066
+and i have already upgraded the boiler because this small one was not keeping up even with the simple box
+
+109
+00:07:06,933 --> 00:07:10,966
+and there we have our bigger tank with two thousand buckets of capacity
+
+110
+00:07:12,266 --> 00:07:18,466
+another thing you may want to pay attention to is that this one is quite efficient
+
+111
+00:07:19,800 --> 00:07:26,100
+the steam usage you see here is not the one you should be looking at when you look at the multiblock
+
+112
+00:07:26,133 --> 00:07:30,866
+because this multiblock has a speed buff, a steam usage discount
+
+113
+00:07:30,866 --> 00:07:32,866
+but most importantly some parallels
+
+114
+00:07:33,266 --> 00:07:35,666
+so if you look for example at the
+
+115
+00:07:38,266 --> 00:07:39,766
+random iron ore
+
+116
+00:07:41,366 --> 00:07:44,700
+all of the ores should have the same amount of steam used
+
+117
+00:07:45,366 --> 00:07:47,533
+which is supposed to be eighty liters per second
+
+118
+00:07:47,900 --> 00:07:49,133
+but as you can see here
+
+119
+00:07:49,133 --> 00:07:50,533
+it's actually using four hundred
+
+120
+00:07:51,066 --> 00:07:54,066
+that's because it has a eight parallel
+
+121
+00:07:55,000 --> 00:07:57,133
+but if you do eighty times eighty
+
+122
+00:07:58,566 --> 00:07:59,400
+enter
+
+123
+00:07:59,400 --> 00:08:05,200
+you can also use a calculator just by opening the chat and typing equals space and then the calculation you want to do
+
+124
+00:08:05,533 --> 00:08:07,900
+so you can see it's supposed to be say six hundred forty
+
+125
+00:08:07,933 --> 00:08:11,400
+but we have to account also for the discount which is sixty two
+
+126
+00:08:12,766 --> 00:08:16,366
+uh, so we have sixty two five
+
+127
+00:08:16,666 --> 00:08:18,166
+and now you get four hundred
+
+128
+00:08:18,933 --> 00:08:21,500
+that zero zero zero zero six is the float
+
+129
+00:08:25,533 --> 00:08:27,533
+so you can see the math, math out
+
+130
+00:08:28,133 --> 00:08:31,133
+so if we use this one only to crush ores
+
+131
+00:08:31,800 --> 00:08:36,733
+(a four under pipe?) which is half of a small bronze pipe will be enough
+
+132
+00:08:37,133 --> 00:08:39,166
+but of course we are going to power other machines
+
+133
+00:08:39,333 --> 00:08:45,366
+and someday we will probably macerate something that will take more steam than this pipe can carry
+
+134
+00:08:45,866 --> 00:08:49,800
+but for the moment, i think it's better to chip out a little bit on pipes
+
+135
+00:08:49,933 --> 00:08:51,566
+and later on when it's an issue
+
+136
+00:08:52,366 --> 00:08:55,200
+craft some bigger pipes and repurpose the old pipes
+
+137
+00:08:56,066 --> 00:08:58,133
+and you also have to be careful about that
+
+138
+00:08:58,133 --> 00:08:59,666
+because unlike single block
+
+139
+00:08:59,700 --> 00:09:01,766
+if a multi block runs out of steam
+
+140
+00:09:02,000 --> 00:09:04,333
+it won't simply restart the process
+
+141
+00:09:04,333 --> 00:09:08,166
+but it will power fail and void whatever it was processing
+
+142
+00:09:08,800 --> 00:09:14,366
+so, you actually do lose items if those multi blocks run out of steam
+
+143
+00:09:14,600 --> 00:09:18,466
+but that's the mechanism you're going to have to deal multiple times with
+
+144
+00:09:20,000 --> 00:09:24,166
+if that happens and you want to be a little bit more careful
+
+145
+00:09:24,866 --> 00:09:28,200
+one way is to open the control panel and reduce the parallel
+
+146
+00:09:28,466 --> 00:09:31,966
+because parallel is what causes the cost to really increase
+
+147
+00:09:32,200 --> 00:09:36,300
+so if you lower the parallel, you will also lower the energy consumption
+
+148
+00:09:37,666 --> 00:09:40,600
+but of course the best solution is to use bigger pipes
+
+149
+00:09:40,600 --> 00:09:43,666
+and to increase your power production
+
+150
+00:09:44,100 --> 00:09:46,000
+here i have two boilers now
+
+151
+00:09:46,566 --> 00:09:49,200
+and now that our workshop is really well set
+
+152
+00:09:49,333 --> 00:09:51,866
+we can finally start working on the brick blast furnace
+
+153
+00:09:52,500 --> 00:09:54,466
+now this is quite expensive
+
+154
+00:09:54,900 --> 00:09:58,266
+so you probably want a few tips on how to deal with this
+
+155
+00:09:58,400 --> 00:10:01,700
+i mean the first tip was to get all of the steam multiblocks
+
+156
+00:10:01,700 --> 00:10:04,900
+but let's see how to use those at the best way possible
+
+157
+00:10:05,866 --> 00:10:07,766
+and the main thing is that it looks
+
+158
+00:10:07,766 --> 00:10:09,066
+like you need a lot of clay
+
+159
+00:10:09,200 --> 00:10:11,600
+but you don't actually need any clay
+
+160
+00:10:12,300 --> 00:10:14,100
+clay is required for two things
+
+161
+00:10:14,600 --> 00:10:19,133
+one is bricks and one is clay dust for the concrete
+
+162
+00:10:19,600 --> 00:10:22,400
+but instead of collecting clay in normal way
+
+163
+00:10:22,400 --> 00:10:26,433
+it's way better to collect terracotta and then macerate it
+
+164
+00:10:26,433 --> 00:10:28,533
+terracotta for the clay dust
+
+165
+00:10:28,533 --> 00:10:30,966
+and bricks from a dungeon for the brick dust
+
+166
+00:10:32,766 --> 00:10:36,300
+if you are lucky but not even too much lucky
+
+167
+00:10:36,300 --> 00:10:37,100
+you can find
+
+168
+00:10:39,166 --> 00:10:44,866
+can find a Canyon biome which basically has (warm?) mountains made out of Terracotta
+
+169
+00:10:45,400 --> 00:10:48,533
+that biome looks orange and reddish
+
+170
+00:10:49,366 --> 00:10:50,933
+it's not too hard to find
+
+171
+00:10:51,100 --> 00:10:54,066
+but i didn't explore much this playthrough
+
+172
+00:10:54,066 --> 00:10:55,666
+so i didn't find any
+
+173
+00:10:56,800 --> 00:11:00,800
+you can also find some on mountain biome
+
+174
+00:11:00,800 --> 00:11:03,166
+which has still a lot of that stuff
+
+175
+00:11:03,800 --> 00:11:06,166
+so just collect it and then macerate
+
+176
+00:11:06,800 --> 00:11:09,500
+for the bricks just look for a brick dungeon
+
+177
+00:11:09,533 --> 00:11:11,700
+you can take all of the bricks on the house above
+
+178
+00:11:11,700 --> 00:11:13,666
+but once you collect all of those
+
+179
+00:11:13,900 --> 00:11:16,100
+there is still a lot of bricks
+
+180
+00:11:16,333 --> 00:11:17,800
+did they have this one too
+
+181
+00:11:19,266 --> 00:11:23,100
+OK, and there are still a lot of bricks under this dungean
+
+182
+00:11:23,400 --> 00:11:26,833
+have been told that there are like there are 1000 and even more blocks
+
+183
+00:11:27,033 --> 00:11:28,266
+it depends on where it spawns
+
+184
+00:11:28,700 --> 00:11:32,466
+depending on the (Epsilon?) at which is spawner
+
+185
+00:11:32,766 --> 00:11:35,533
+it can be deeper and thus have more bricks
+
+186
+00:11:36,133 --> 00:11:39,366
+this is a relatively easy to find dungeon usually
+
+187
+00:11:39,866 --> 00:11:41,366
+so it shouldn't be hard to find
+
+188
+00:11:41,366 --> 00:11:44,300
+i already found two of those in this playthrough
+
+189
+00:11:44,300 --> 00:11:47,533
+but usually you can find a lot of those dungeons
+
+190
+00:11:47,733 --> 00:11:49,066
+it's not hard to find
+
+191
+00:11:49,100 --> 00:11:50,266
+look around a lot
+
+192
+00:11:51,166 --> 00:11:53,800
+you can find good stuff in those dungeons too
+
+193
+00:11:54,866 --> 00:11:58,133
+to macerate one of those bricks, it takes one second to get one dust
+
+194
+00:11:58,666 --> 00:12:03,733
+to macerate the brick, it takes twenty times as much to get one quarter
+
+195
+00:12:05,566 --> 00:12:12,366
+and then you just use the good machines to stock up your inventory with the main parts of the brick blast furnaces
+
+196
+00:12:12,733 --> 00:12:18,000
+then my suggestion is to fill up your inventory with water buckets and just craft the thing
+
+197
+00:12:18,966 --> 00:12:24,733
+now, it used to be life saving using the forestry worktable
+
+198
+00:12:24,900 --> 00:12:28,200
+because that will save your recipe and craft nicely
+
+199
+00:12:28,300 --> 00:12:32,133
+but nowadays we got NEI auto crafting
+
+200
+00:12:32,566 --> 00:12:36,133
+and then you just start spam crafting as many bricks as you can
+
+201
+00:12:37,500 --> 00:12:41,866
+now, as you can see i'm crafting way more bricks than the quest book asks for
+
+202
+00:12:42,133 --> 00:12:46,100
+and that's because of course, one brick blast furnace will be basically useless
+
+203
+00:12:46,133 --> 00:12:52,333
+you will want, i would say, a minimum of four brick blast furnaces
+
+204
+00:12:52,600 --> 00:12:54,500
+that's the minimum i will get
+
+205
+00:12:55,000 --> 00:12:59,066
+then usually work towards twelve or even sixteen brick balst furnaces
+
+206
+00:12:59,066 --> 00:13:02,433
+but there are many things you can do in this modpack
+
+207
+00:13:02,433 --> 00:13:04,100
+so while you wait for this
+
+208
+00:13:04,200 --> 00:13:06,166
+this is an awfully slow process
+
+209
+00:13:06,166 --> 00:13:09,933
+it takes six minutes per each ingot of steel per each furnace
+
+210
+00:13:10,600 --> 00:13:16,200
+so with four brick blast furnaces, you don't get even one steel ingot per minute
+
+211
+00:13:16,333 --> 00:13:17,133
+you get less
+
+212
+00:13:17,133 --> 00:13:21,500
+you need six brick blast furnaces just to get one ingot of steel per minute
+
+213
+00:13:21,766 --> 00:13:23,933
+and you will want a lot of steel
+
+214
+00:13:23,966 --> 00:13:26,200
+so get a lot of brick blast furnaces
+
+215
+00:13:26,966 --> 00:13:31,600
+by the way we build those brick blast furnaces all of the way back there because those make a lot of pollution
+
+216
+00:13:31,733 --> 00:13:33,766
+you can disable pollution in configuration
+
+217
+00:13:33,800 --> 00:13:36,700
+but i like to keep it enabled as it is by default
+
+218
+00:13:37,200 --> 00:13:43,200
+so build those a little bit far from your main house if you don't want the pollution to make a disaster
+
+219
+00:13:43,366 --> 00:13:45,000
+and while the steel is being produced
+
+220
+00:13:45,133 --> 00:13:46,266
+you can work on other things
+
+221
+00:13:46,266 --> 00:13:47,966
+for example you can work on crops
+
+222
+00:13:48,100 --> 00:13:51,200
+which i'm probably going to do in a livestream between episodes
+
+223
+00:13:51,700 --> 00:13:53,800
+or you can worry about the fuel
+
+224
+00:13:54,133 --> 00:13:57,366
+talking of which, it is also an issue for our current steam production
+
+225
+00:13:58,533 --> 00:13:59,066
+right now
+
+226
+00:13:59,066 --> 00:14:07,266
+i'm burning planks because i can easily chop down the huge rainforest trees that have a lot of logs inside
+
+227
+00:14:08,233 --> 00:14:12,766
+and then i can simply double the amount of fuel value by crafting those into planks
+
+228
+00:14:13,400 --> 00:14:19,066
+uh, by the way, to get these rainforest Oak which is a really nice to farm
+
+229
+00:14:19,566 --> 00:14:23,533
+you can just craft this sapling with a super easy recipe
+
+230
+00:14:23,533 --> 00:14:25,400
+and it makes a lot of wood
+
+231
+00:14:26,133 --> 00:14:28,333
+remember to repair your axes between things
+
+232
+00:14:28,866 --> 00:14:32,133
+but the thing i actually want to use is coke ovens
+
+233
+00:14:33,933 --> 00:14:35,966
+OK, getting those now is way easier
+
+234
+00:14:35,966 --> 00:14:37,533
+because you can use this recipe
+
+235
+00:14:37,533 --> 00:14:41,933
+and you can work with the machines to get more coke ovens
+
+236
+00:14:41,933 --> 00:14:44,266
+and you can also automate those now
+
+237
+00:14:45,733 --> 00:14:48,800
+while our brick blast furnaces is slowly working
+
+238
+00:14:48,866 --> 00:14:50,733
+we can start preparing more coke ovens
+
+239
+00:14:50,733 --> 00:14:53,733
+and this time we're going to try to automate those nicely
+
+240
+00:14:55,100 --> 00:15:01,600
+so, after crafting all of the blocks for the coke ovens and the new coke oven hatches that will allow to automate those
+
+241
+00:15:01,766 --> 00:15:02,733
+never use those
+
+242
+00:15:02,733 --> 00:15:04,566
+so i'm going to craft a bunch
+
+243
+00:15:04,966 --> 00:15:08,233
+and so we can wallshare a lot of coke ovens
+
+244
+00:15:08,233 --> 00:15:14,800
+and then set those new hatches to do the function we want
+
+245
+00:15:15,400 --> 00:15:18,200
+and once we figure out how we want to layout the pipes
+
+246
+00:15:18,266 --> 00:15:19,466
+we connect up everything
+
+247
+00:15:20,166 --> 00:15:26,566
+you have to be careful with item pipes because most likely you only want to use a tin item pipes
+
+248
+00:15:26,566 --> 00:15:29,766
+and those cannot be removed using an iron ranch
+
+249
+00:15:30,066 --> 00:15:34,800
+you need an actual steel wrench to be able to remove those
+
+250
+00:15:34,800 --> 00:15:36,400
+so be careful if you place this
+
+251
+00:15:36,900 --> 00:15:42,100
+uh, the other issue is that two input ingredients
+
+252
+00:15:44,733 --> 00:15:48,500
+most likely if you try to use a hopper
+
+253
+00:15:48,600 --> 00:15:50,600
+which you totally can do
+
+254
+00:15:51,200 --> 00:15:53,766
+it's going to be slow, i think
+
+255
+00:15:55,566 --> 00:15:59,200
+because the hopper can only push items one at a time
+
+256
+00:15:59,466 --> 00:16:02,933
+and the item pipe can only take items every four seconds
+
+257
+00:16:03,133 --> 00:16:04,900
+it could take a full stack
+
+258
+00:16:04,966 --> 00:16:07,966
+but the hopper only pushes one
+
+259
+00:16:08,400 --> 00:16:11,666
+so it gets one item every four seconds
+
+260
+00:16:11,666 --> 00:16:12,933
+and that's rather slow
+
+261
+00:16:13,700 --> 00:16:15,733
+it may be good enough for the moment
+
+262
+00:16:16,300 --> 00:16:17,733
+but if you want
+
+263
+00:16:18,300 --> 00:16:21,300
+you can just craft a converoy belt
+
+264
+00:16:21,300 --> 00:16:23,700
+which is a little bit expensive but totally usable
+
+265
+00:16:23,700 --> 00:16:26,200
+it doesn't even take any steel
+
+266
+00:16:27,366 --> 00:16:29,766
+and then you add it to the pipe
+
+267
+00:16:30,666 --> 00:16:34,466
+shift click, import, to make it work properly
+
+268
+00:16:34,466 --> 00:16:39,333
+and this one will pull one full stack at a time working way better
+
+269
+00:16:40,533 --> 00:16:41,333
+it's sixteen
+
+270
+00:16:41,600 --> 00:16:44,500
+but it works sixteen times better than before
+
+271
+00:16:44,500 --> 00:16:47,666
+by the way, if you misclick and place a plate on a pipe
+
+272
+00:16:47,666 --> 00:16:49,666
+you can recover it using a crowbar
+
+273
+00:16:49,766 --> 00:16:56,166
+this mechanic can be quite handy for example with the steam pipes that will hurt you if you get too close
+
+274
+00:16:56,766 --> 00:17:02,566
+so you can put for example stone plates which is probably the cheapest plate you can make
+
+275
+00:17:02,666 --> 00:17:05,066
+or i mean if you want you can use any metal
+
+276
+00:17:05,300 --> 00:17:07,166
+that way you can walk on it nicely
+
+277
+00:17:07,800 --> 00:17:11,900
+also pipes sometimes bug out a little bit like
+
+278
+00:17:12,800 --> 00:17:17,466
+not exactly a flat thing when you walk walk over it
+
+279
+00:17:17,666 --> 00:17:19,866
+so maybe sometimes it glitch out
+
+280
+00:17:20,100 --> 00:17:21,800
+so maybe you want to put a plate on it
+
+281
+00:17:21,800 --> 00:17:25,600
+so you can walk really nicely on pipes if you do that
+
+282
+00:17:26,733 --> 00:17:30,366
+anyways, now we can go back to our currently manual farm
+
+283
+00:17:30,600 --> 00:17:32,666
+in the future we will automate this
+
+284
+00:17:32,666 --> 00:17:39,133
+but for the moment it's relatively easy to just chop down those huge trees like that
+
+285
+00:17:40,066 --> 00:17:42,066
+drop the wood into drawer
+
+286
+00:17:42,066 --> 00:17:47,600
+and it will slowly make charcoal that we can use on our brick balst furnaces
+
+287
+00:17:49,066 --> 00:17:53,700
+those coke ovens will also produce creosote oil as we saw at the beginning of the series
+
+288
+00:17:54,333 --> 00:18:00,333
+and we can use that creosote oil into a fluid burning boiler
+
+289
+00:18:00,333 --> 00:18:03,866
+which will turn all of that creosote oil into steam
+
+290
+00:18:04,933 --> 00:18:10,100
+and now we can just build more brick blast furnaces and maybe work on our crops
+
+291
+00:18:10,733 --> 00:18:12,666
+as soon as we will have enough steel
+
+292
+00:18:12,733 --> 00:18:15,533
+we can just move on to the next age
+
+293
+00:18:16,800 --> 00:18:18,133
+which is LV
+
+294
+00:18:18,733 --> 00:18:25,400
+basically all we need to move on to the next tier is just a little bit of steel
+
+295
+00:18:25,966 --> 00:18:29,533
+but i think this stuff are really counts as electricity
+
+296
+00:18:29,533 --> 00:18:32,000
+so this is going to be for the next episode
+
+297
+00:18:32,900 --> 00:18:35,933
+and with that, i think i'm going to close here
+
+298
+00:18:37,000 --> 00:18:38,366
+see you next time
+
+299
+00:18:38,366 --> 00:18:38,966
+bye bye
+
+300
+00:00:00,566 --> 00:00:01,766
+欢迎大家回来
+
+301
+00:00:02,333 --> 00:00:06,900
+今天我们将从GTNH教给我们的最有价值的一课开始
+
+302
+00:00:07,400 --> 00:00:09,366
+倚老卖老
+
+303
+00:00:10,000 --> 00:00:13,666
+仅仅因为你开启了一种更有效率的做事方式
+
+304
+00:00:13,733 --> 00:00:16,466
+这并不意味着你必须马上开始使用它
+
+305
+00:00:16,966 --> 00:00:22,933
+事实上，在上一集里，我们发现我们可以从同样的矿石中得到三倍数量的盘子，通过使用这些蒸汽机器。
+
+306
+00:00:23,200 --> 00:00:26,966
+问题是，虽然我们通过使用这些机器获得了更好的产量
+
+307
+00:00:27,400 --> 00:00:30,333
+这些机器也非常慢。
+
+308
+00:00:31,100 --> 00:00:34,866
+所以，我们将忽略这些机器，回到旧的香草熔炉
+
+309
+00:00:34,966 --> 00:00:40,000
+我们用焦炉剩余的杂酚油为其供电，我们必须以某种方式使用它
+
+310
+00:00:40,466 --> 00:00:46,733
+使用锤子，反正我们得到了这么多资源，这是一个足够的处理矿石的方法，没什么大不了的。
+
+311
+00:00:46,966 --> 00:00:52,866
+有了这个，我们有这么多元宝，我们可以用锤子打碎它们。
+
+312
+00:00:52,866 --> 00:00:55,366
+就这样囤积铁板
+
+313
+00:00:56,300 --> 00:00:59,900
+虽然我们可以像这样致力于这些时代的主要目标
+
+314
+00:00:59,933 --> 00:01:03,466
+我们不会用那些铁板来实现这个主要目标
+
+315
+00:01:04,166 --> 00:01:09,166
+我们使用这些板是为了将我们的单块车间升级为多块车间
+
+316
+00:01:10,466 --> 00:01:14,266
+我们制作了这么多东西，即使是NEI汽车制作也太慢了。
+
+317
+00:01:15,133 --> 00:01:16,733
+在制作了一堆零件之后
+
+318
+00:01:16,733 --> 00:01:19,366
+我们可以开始真正建造一些东西。
+
+319
+00:01:19,366 --> 00:01:21,800
+所以，我们首先会有一个蒸汽罐
+
+320
+00:01:21,933 --> 00:01:24,800
+这将作为我们产生的蒸汽的缓冲
+
+321
+00:01:25,600 --> 00:01:32,600
+我知道这听起来很奇怪，把蒸汽储存在水箱里，它应该会凝结成水。
+
+322
+00:01:32,766 --> 00:01:34,933
+但不要想太多
+
+323
+00:01:36,100 --> 00:01:39,133
+嗯，这次我要在我家屋顶上被点燃
+
+324
+00:01:39,366 --> 00:01:42,966
+因为我要做太阳能锅炉，我最喜欢的发电方式。
+
+325
+00:01:42,966 --> 00:01:45,733
+但现在就是这样
+
+326
+00:01:46,133 --> 00:01:51,866
+那我已经准备了两个大的燃烧盒了
+
+327
+00:01:52,766 --> 00:01:54,800
+我想我会在开始时这样使用它
+
+328
+00:01:54,866 --> 00:01:59,066
+但很快，我会把这些换成更大的尺寸。
+
+329
+00:01:59,066 --> 00:02:00,766
+也可以高一个街区
+
+330
+00:02:00,766 --> 00:02:03,933
+但目前，只有这个。
+
+331
+00:02:05,733 --> 00:02:07,600
+好吧，你把这个坦克造得越大
+
+332
+00:02:07,600 --> 00:02:09,066
+越需要加热
+
+333
+00:02:09,533 --> 00:02:11,100
+我也想要一个更大的坦克。
+
+334
+00:02:11,100 --> 00:02:16,133
+但我要在完成剩下的之前得到蒸汽压力机。
+
+335
+00:02:17,400 --> 00:02:18,533
+然后做水
+
+336
+00:02:19,533 --> 00:02:23,466
+这个的功率可能足以使用那个水箱
+
+337
+00:02:23,500 --> 00:02:26,700
+但我想马上做更好的水泵。
+
+338
+00:02:27,166 --> 00:02:30,300
+这个可以处理更多的机器
+
+339
+00:02:31,900 --> 00:02:32,866
+我们去
+
+340
+00:02:33,300 --> 00:02:36,400
+我们用管道把它连接起来，这样它就可以得到一些蒸汽来工作。
+
+341
+00:02:36,600 --> 00:02:40,166
+这个水泵的缺点是需要一些蒸汽来工作
+
+342
+00:02:43,100 --> 00:02:45,966
+它比使用其他水箱制造更多的水
+
+343
+00:02:46,066 --> 00:02:49,733
+但它确实需要一点蒸汽形式的能量
+
+344
+00:02:50,366 --> 00:02:53,666
+然后我们需要一些水来启动这个。
+
+345
+00:02:56,600 --> 00:02:57,600
+给你。
+
+346
+00:02:57,600 --> 00:03:00,000
+我们可以开始加热它
+
+347
+00:03:00,000 --> 00:03:03,366
+再一次，必须达到100度才能产生蒸汽
+
+348
+00:03:03,366 --> 00:03:07,066
+所以首先记住这个，它越热，产生的蒸汽就越多。
+
+349
+00:03:07,733 --> 00:03:10,666
+呃还有其他的锅炉
+
+350
+00:03:10,666 --> 00:03:12,600
+但我喜欢这个。
+
+351
+00:03:14,066 --> 00:03:16,366
+我们不能忘记用水管
+
+352
+00:03:18,700 --> 00:03:20,100
+到锅炉
+
+353
+00:03:21,400 --> 00:03:25,066
+这里我还有一个方便的未来水管。
+
+354
+00:03:25,566 --> 00:03:32,000
+通常我强烈建议把所有的管道都拿走，让它流动得更好。
+
+355
+00:03:34,500 --> 00:03:37,100
+好的，一旦蒸汽达到一半
+
+356
+00:03:37,100 --> 00:03:39,300
+它会开始推进油箱
+
+357
+00:03:39,666 --> 00:03:41,166
+这个水箱有一些阀门
+
+358
+00:03:41,600 --> 00:03:43,366
+这个坦克由三个街区组成
+
+359
+00:03:43,366 --> 00:03:47,333
+有主要的结构块，玻璃，就像更便宜的一样
+
+360
+00:03:47,666 --> 00:03:51,100
+还有那些阀门可以让你输入/输出
+
+361
+00:03:51,766 --> 00:03:55,066
+输出只从底部
+
+362
+00:03:57,066 --> 00:03:59,566
+油箱从底部自动输出
+
+363
+00:03:59,566 --> 00:04:05,400
+所以你可以在这个底部连接一根管道，水箱会将蒸汽推入管道
+
+364
+00:04:05,766 --> 00:04:08,566
+但它在侧面或顶部都不会这样做
+
+365
+00:04:10,566 --> 00:04:15,533
+所以正如我们在底部所说，很快我们就会有一些蒸汽。
+
+366
+00:04:16,166 --> 00:04:19,666
+然后我们可以把蒸汽输送到机器上
+
+367
+00:04:20,733 --> 00:04:22,966
+也想保留一些旧机器
+
+368
+00:04:22,966 --> 00:04:25,533
+但我也要构建多个块
+
+369
+00:04:25,533 --> 00:04:26,866
+我是说我们已经有那些机器了
+
+370
+00:04:26,866 --> 00:04:31,200
+所以不妨保留这些几次，我们需要制作一点东西。
+
+371
+00:04:31,566 --> 00:04:33,733
+那些更大的多块分批工作
+
+372
+00:04:35,166 --> 00:04:38,300
+但是那些多街区的建造成本也很高。
+
+373
+00:04:38,500 --> 00:04:42,333
+所以我们不妨开始使用这些小多块来节省一些材料
+
+374
+00:04:42,333 --> 00:04:47,333
+我们现在可以用新锅炉更容易地供电了
+
+375
+00:04:48,666 --> 00:04:49,766
+在比赛的这一点上
+
+376
+00:04:49,766 --> 00:04:52,333
+我们可能还想有一点自动化。
+
+377
+00:04:52,566 --> 00:04:57,600
+所以，有了这台机器，自动化就包括使用料斗
+
+378
+00:04:57,600 --> 00:05:01,800
+所以漏斗放入东西，漏斗进入箱子，输出
+
+379
+00:05:02,700 --> 00:05:07,566
+有了这个，我们现在可以更容易地制造一些更昂贵的机器，这些机器会工作得更好。
+
+380
+00:05:07,733 --> 00:05:10,200
+我想做的第一个是蒸汽研磨机
+
+381
+00:05:10,400 --> 00:05:14,333
+那是因为单块maserator基本上不可能使用
+
+382
+00:05:14,333 --> 00:05:15,466
+只是太慢了
+
+383
+00:05:15,933 --> 00:05:22,133
+虽然锻锤和合金冶炼厂是一样的，但我暂时会说 
+
+384
+00:05:23,100 --> 00:05:26,933
+你准备好所有需要的方块
+
+385
+00:05:28,600 --> 00:05:29,733
+只要准备好一切
+
+386
+00:05:29,800 --> 00:05:31,966
+然后你可以手动构建它
+
+387
+00:05:31,966 --> 00:05:38,066
+或者你可以制作一台多块结构全息投影仪
+
+388
+00:05:38,933 --> 00:05:42,000
+然后你点击那个东西，它就为你建造了。
+
+389
+00:05:42,333 --> 00:05:46,000
+所以我的建议是先弄清楚你想把舱门放在哪里
+
+390
+00:05:46,300 --> 00:05:50,333
+一旦你决定把舱门放在哪里，就建造机器。
+
+391
+00:05:50,333 --> 00:05:59,100
+顺便说一句，当你试图建造机器时，你使用的数量会改变机器的层
+
+392
+00:05:59,100 --> 00:06:01,333
+所以如果你用一个咒语点击
+
+393
+00:06:01,466 --> 00:06:03,366
+它会做一级机器
+
+394
+00:06:03,733 --> 00:06:05,666
+如果你点击一叠两个
+
+395
+00:06:05,766 --> 00:06:07,666
+它会试着做第二层
+
+396
+00:06:08,966 --> 00:06:14,200
+比如这个多层块第一层是青铜第二层是钢
+
+397
+00:06:15,366 --> 00:06:18,800
+接下来我们要担心的是连接它的管道
+
+398
+00:06:19,466 --> 00:06:23,466
+现在弄清楚用哪个管子不太容易
+
+399
+00:06:24,933 --> 00:06:28,500
+现在你可能只能用青铜管
+
+400
+00:06:29,133 --> 00:06:31,766
+每个管道都有不同的容量
+
+401
+00:06:33,133 --> 00:06:40,066
+现在，如果您查看控制器的使用情况，您可以了解它可能需要多少蒸汽
+
+402
+00:06:40,066 --> 00:06:46,133
+问题是有些食谱比其他食谱使用更多的蒸汽
+
+403
+00:06:46,133 --> 00:06:48,966
+所以弄清楚使用什么管道可能很棘手。
+
+404
+00:06:49,466 --> 00:06:52,566
+现在我只是用一些普通的管子
+
+405
+00:06:52,566 --> 00:06:57,166
+将来我会决定是否使用以及使用什么管道
+
+406
+00:06:57,766 --> 00:07:00,600
+顺便说一句，现在我也可以升级坦克了。
+
+407
+00:07:01,000 --> 00:07:06,066
+我已经升级了锅炉，因为这个小锅炉甚至跟不上简单的盒子。
+
+408
+00:07:06,933 --> 00:07:10,966
+在那里，我们有更大的水箱，有2000桶容量。
+
+409
+00:07:12,266 --> 00:07:18,466
+你可能要注意的另一件事是这个相当有效
+
+410
+00:07:19,800 --> 00:07:26,100
+您在此处看到的蒸汽使用情况不是您在查看多块时应该查看的情况
+
+411
+00:07:26,133 --> 00:07:30,866
+因为这个多块有速度缓冲，蒸汽使用折扣
+
+412
+00:07:30,866 --> 00:07:32,866
+但最重要的是有些相似之处
+
+413
+00:07:33,266 --> 00:07:35,666
+因此，如果您查看例如
+
+414
+00:07:38,266 --> 00:07:39,766
+随机铁矿石
+
+415
+00:07:41,366 --> 00:07:44,700
+所有的矿石都应该使用相同数量的蒸汽
+
+416
+00:07:45,366 --> 00:07:47,533
+应该是每秒八十升
+
+417
+00:07:47,900 --> 00:07:49,133
+但正如你在这里看到的
+
+418
+00:07:49,133 --> 00:07:50,533
+它实际上使用了四百个
+
+419
+00:07:51,066 --> 00:07:54,066
+那是因为它有八个平行
+
+420
+00:07:55,000 --> 00:07:57,133
+但是如果你做八十乘以八十
+
+421
+00:07:58,566 --> 00:07:59,400
+进入
+
+422
+00:07:59,400 --> 00:08:05,200
+您也可以使用计算器，只需打开聊天并输入等于空格，然后进行您要进行的计算
+
+423
+00:08:05,533 --> 00:08:07,900
+所以你可以看到应该是六百四十英镑。
+
+424
+00:08:07,933 --> 00:08:11,400
+但我们还必须考虑62英镑的折扣。
+
+425
+00:08:12,766 --> 00:08:16,366
+呃，所以我们有六十二五
+
+426
+00:08:16,666 --> 00:08:18,166
+现在你得到了四百
+
+427
+00:08:18,933 --> 00:08:21,500
+那个零零零六是浮点数
+
+428
+00:08:25,533 --> 00:08:27,533
+所以你可以看到数学，数学出来了
+
+429
+00:08:28,133 --> 00:08:31,133
+所以如果我们只用这个来粉碎矿石
+
+430
+00:08:31,800 --> 00:08:36,733
+（一个四下管？）这是一个小青铜管的一半就足够了
+
+431
+00:08:37,133 --> 00:08:39,166
+但是我们当然会为其他机器提供动力
+
+432
+00:08:39,333 --> 00:08:45,366
+有一天，我们可能会浸渍一些东西，这些东西需要的蒸汽比这个管道能携带的还要多。
+
+433
+00:08:45,866 --> 00:08:49,800
+但现在我觉得还是在管子上多修一点比较好
+
+434
+00:08:49,933 --> 00:08:51,566
+以后有问题的时候
+
+435
+00:08:52,366 --> 00:08:55,200
+制作一些更大的管道并重新利用旧管道
+
+436
+00:08:56,066 --> 00:08:58,133
+你也必须小心这一点
+
+437
+00:08:58,133 --> 00:08:59,666
+因为与单个块不同
+
+438
+00:08:59,700 --> 00:09:01,766
+如果多块耗尽蒸汽
+
+439
+00:09:02,000 --> 00:09:04,333
+它不会简单地重新启动进程
+
+440
+00:09:04,333 --> 00:09:08,166
+但它会断电并使其处理的任何东西无效
+
+441
+00:09:08,800 --> 00:09:14,366
+所以，如果这些多块耗尽蒸汽，你确实会丢失物品。
+
+442
+00:09:14,600 --> 00:09:18,466
+但这是你必须多次处理的机制
+
+443
+00:09:20,000 --> 00:09:24,166
+如果发生这种情况，你想更加小心一点
+
+444
+00:09:24,866 --> 00:09:28,200
+一种方法是打开控制面板，减少并联
+
+445
+00:09:28,466 --> 00:09:31,966
+因为平行是导致成本真正增加的原因
+
+446
+00:09:32,200 --> 00:09:36,300
+所以如果你降低平行度，你也会降低能耗
+
+447
+00:09:37,666 --> 00:09:40,600
+但当然最好的解决方案是使用更大的管道
+
+448
+00:09:40,600 --> 00:09:43,666
+并增加您的电力生产
+
+449
+00:09:44,100 --> 00:09:46,000
+这里我现在有两个锅炉
+
+450
+00:09:46,566 --> 00:09:49,200
+现在我们的工作室布置得很好
+
+451
+00:09:49,333 --> 00:09:51,866
+我们终于可以开始研究砖砌高炉了
+
+452
+00:09:52,500 --> 00:09:54,466
+这很贵。
+
+453
+00:09:54,900 --> 00:09:58,266
+所以你可能想要一些关于如何处理这个问题的建议。
+
+454
+00:09:58,400 --> 00:10:01,700
+我的意思是第一个技巧是得到所有的蒸汽多块
+
+455
+00:10:01,700 --> 00:10:04,900
+但是让我们看看如何以最好的方式使用它们
+
+456
+00:10:05,866 --> 00:10:07,766
+最重要的是它看起来
+
+457
+00:10:07,766 --> 00:10:09,066
+就像你需要很多粘土一样
+
+458
+00:10:09,200 --> 00:10:11,600
+但你实际上不需要任何粘土
+
+459
+00:10:12,300 --> 00:10:14,100
+粘土需要做两件事
+
+460
+00:10:14,600 --> 00:10:19,133
+一种是砖块，一种是混凝土的粘土粉尘
+
+461
+00:10:19,600 --> 00:10:22,400
+但不是以正常方式收集粘土
+
+462
+00:10:22,400 --> 00:10:26,433
+收集陶土然后浸渍会更好
+
+463
+00:10:26,433 --> 00:10:28,533
+陶土尘
+
+464
+00:10:28,533 --> 00:10:30,966
+和地牢里的砖头换砖灰
+
+465
+00:10:32,766 --> 00:10:36,300
+如果你很幸运，但不是太幸运
+
+466
+00:10:36,300 --> 00:10:37,100
+你可以找到
+
+467
+00:10:39,166 --> 00:10:44,866
+可以找到一个峡谷生物群落，基本上有（温暖的？）由兵马俑制成的山脉
+
+468
+00:10:45,400 --> 00:10:48,533
+那个生物群落看起来是橙色和红色
+
+469
+00:10:49,366 --> 00:10:50,933
+这并不难找
+
+470
+00:10:51,100 --> 00:10:54,066
+但我没怎么探索这个游戏
+
+471
+00:10:54,066 --> 00:10:55,666
+所以我没有找到任何
+
+472
+00:10:56,800 --> 00:11:00,800
+你也可以在山地生物群系中找到一些
+
+473
+00:11:00,800 --> 00:11:03,166
+那里还有很多那种东西。
+
+474
+00:11:03,800 --> 00:11:06,166
+所以只需收集然后浸渍
+
+475
+00:11:06,800 --> 00:11:09,500
+对于砖块，只需寻找砖块地牢
+
+476
+00:11:09,533 --> 00:11:11,700
+你可以拿走上面房子上所有的砖头
+
+477
+00:11:11,700 --> 00:11:13,666
+但是一旦你收集了所有这些
+
+478
+00:11:13,900 --> 00:11:16,100
+还有很多砖头
+
+479
+00:11:16,333 --> 00:11:17,800
+他们也有这个吗？
+
+480
+00:11:19,266 --> 00:11:23,100
+这地牢下面还有很多砖块
+
+481
+00:11:23,400 --> 00:11:26,833
+被告知有1000个甚至更多的块
+
+482
+00:11:27,033 --> 00:11:28,266
+这取决于它在哪里产卵
+
+483
+00:11:28,700 --> 00:11:32,466
+取决于产卵者所在的（Epsilon？）
+
+484
+00:11:32,766 --> 00:11:35,533
+它可以更深，因此有更多的砖
+
+485
+00:11:36,133 --> 00:11:39,366
+这通常是一个相对容易找到的地牢
+
+486
+00:11:39,866 --> 00:11:41,366
+所以应该不难找到
+
+487
+00:11:41,366 --> 00:11:44,300
+我已经在这个游戏中找到了两个
+
+488
+00:11:44,300 --> 00:11:47,533
+但通常你可以找到很多这样的地牢
+
+489
+00:11:47,733 --> 00:11:49,066
+这并不难找
+
+490
+00:11:49,100 --> 00:11:50,266
+四处看看
+
+491
+00:11:51,166 --> 00:11:53,800
+你也可以在地牢里找到好东西
+
+492
+00:11:54,866 --> 00:11:58,133
+浸渍其中一块砖需要一秒钟才能得到一粒灰尘
+
+493
+00:11:58,666 --> 00:12:03,733
+浸渍砖需要20倍的量才能得到四分之一
+
+494
+00:12:05,566 --> 00:12:12,366
+然后你就用好的机器用砖高炉的主要部分来储存你的库存。
+
+495
+00:12:12,733 --> 00:12:18,000
+那么我的建议是用水桶填满你的库存，然后制作这个东西。
+
+496
+00:12:18,966 --> 00:12:24,733
+过去，利用林业工作台可以拯救生命。
+
+497
+00:12:24,900 --> 00:12:28,200
+因为这将很好地保存您的食谱和工艺
+
+498
+00:12:28,300 --> 00:12:32,133
+但现在我们有NEI汽车工艺
+
+499
+00:12:32,566 --> 00:12:36,133
+然后你就开始垃圾邮件制作尽可能多的砖块。
+
+500
+00:12:37,500 --> 00:12:41,866
+如你所见我做的砖头比任务书要求的多得多
+
+501
+00:12:42,133 --> 00:12:46,100
+这当然是因为，一个砖砌高炉基本上是无用的。
+
+502
+00:12:46,133 --> 00:12:52,333
+你至少需要四个砖砌的高炉
+
+503
+00:12:52,600 --> 00:12:54,500
+这是我能得到的最低限度。
+
+504
+00:12:55,000 --> 00:12:59,066
+然后通常朝着十二个甚至十六个砖熔炉的方向努力
+
+505
+00:12:59,066 --> 00:13:02,433
+但是在这个modpack中你可以做很多事情
+
+506
+00:13:02,433 --> 00:13:04,100
+所以在你等这个的时候
+
+507
+00:13:04,200 --> 00:13:06,166
+这是一个非常缓慢的过程
+
+508
+00:13:06,166 --> 00:13:09,933
+每炉每锭钢锭需要六分钟
+
+509
+00:13:10,600 --> 00:13:16,200
+用四个砖砌的高炉，你每分钟连一个钢锭都得不到。
+
+510
+00:13:16,333 --> 00:13:17,133
+你得到的更少
+
+511
+00:13:17,133 --> 00:13:21,500
+你需要六个砖高炉才能每分钟得到一锭钢
+
+512
+00:13:21,766 --> 00:13:23,933
+你会需要很多钢铁
+
+513
+00:13:23,966 --> 00:13:26,200
+所以买很多砖高炉
+
+514
+00:13:26,966 --> 00:13:31,600
+顺便说一下，我们在后面建那些砖高炉，因为它们会产生很多污染。
+
+515
+00:13:31,733 --> 00:13:33,766
+您可以在配置中禁用污染
+
+516
+00:13:33,800 --> 00:13:36,700
+但我喜欢默认启用它
+
+517
+00:13:37,200 --> 00:13:43,200
+所以如果你不想污染造成灾难，就把它们建在离你主屋稍远一点的地方。
+
+518
+00:13:43,366 --> 00:13:45,000
+在生产钢铁的同时
+
+519
+00:13:45,133 --> 00:13:46,266
+你可以做其他事情
+
+520
+00:13:46,266 --> 00:13:47,966
+例如，您可以在农作物上工作
+
+521
+00:13:48,100 --> 00:13:51,200
+我可能会在剧集之间的直播中这样做
+
+522
+00:13:51,700 --> 00:13:53,800
+或者你可以担心燃料
+
+523
+00:13:54,133 --> 00:13:57,366
+说起来也是我们现在蒸汽生产的一个问题
+
+524
+00:13:58,533 --> 00:13:59,066
+现在
+
+525
+00:13:59,066 --> 00:14:07,266
+我在烧木板，因为我可以很容易地砍掉里面有很多原木的巨大雨林树
+
+526
+00:14:08,233 --> 00:14:12,766
+然后我就可以把它们做成木板把燃料价值翻倍
+
+527
+00:14:13,400 --> 00:14:19,066
+呃，顺便说一下，为了得到这些雨林橡树，这是一个非常好的农场
+
+528
+00:14:19,566 --> 00:14:23,533
+你可以用一个超级简单的食谱制作这棵树苗
+
+529
+00:14:23,533 --> 00:14:25,400
+它能制造很多木头
+
+530
+00:14:26,133 --> 00:14:28,333
+记住在事物之间修理你的斧头
+
+531
+00:14:28,866 --> 00:14:32,133
+但我真正想用的是焦炉
+
+532
+00:14:33,933 --> 00:14:35,966
+好的，现在买这些要容易得多。
+
+533
+00:14:35,966 --> 00:14:37,533
+因为你可以用这个食谱
+
+534
+00:14:37,533 --> 00:14:41,933
+你可以和机器一起买更多的焦炉。
+
+535
+00:14:41,933 --> 00:14:44,266
+你现在也可以自动化这些。
+
+536
+00:14:45,733 --> 00:14:48,800
+而我们的砖砌高炉正在慢慢运转
+
+537
+00:14:48,866 --> 00:14:50,733
+我们可以开始准备更多的焦炉
+
+538
+00:14:50,733 --> 00:14:53,733
+这次我们将尝试很好地自动化这些
+
+539
+00:14:55,100 --> 00:15:01,600
+所以，在为焦炉和新的焦炉舱口制作了所有的模块后，这些模块将允许自动化
+
+540
+00:15:01,766 --> 00:15:02,733
+永远不要用那些
+
+541
+00:15:02,733 --> 00:15:04,566
+所以我要制作一堆
+
+542
+00:15:04,966 --> 00:15:08,233
+所以我们可以分享很多焦炉。
+
+543
+00:15:08,233 --> 00:15:14,800
+然后设置这些新舱口来完成我们想要的功能
+
+544
+00:15:15,400 --> 00:15:18,200
+一旦我们想出如何布置管道
+
+545
+00:15:18,266 --> 00:15:19,466
+我们连接一切
+
+546
+00:15:20,166 --> 00:15:26,566
+你必须小心物品管道，因为很可能你只想使用锡物品管道。
+
+547
+00:15:26,566 --> 00:15:29,766
+那些不能用铁牧场移除的
+
+548
+00:15:30,066 --> 00:15:34,800
+您需要一个真正的钢扳手才能移除这些
+
+549
+00:15:34,800 --> 00:15:36,400
+所以如果你放这个要小心
+
+550
+00:15:36,900 --> 00:15:42,100
+呃，另一个问题是两种输入成分
+
+551
+00:15:44,733 --> 00:15:48,500
+最有可能的是，如果您尝试使用漏斗
+
+552
+00:15:48,600 --> 00:15:50,600
+你完全可以做到。
+
+553
+00:15:51,200 --> 00:15:53,766
+我想会很慢
+
+554
+00:15:55,566 --> 00:15:59,200
+因为漏斗一次只能推送一个商品
+
+555
+00:15:59,466 --> 00:16:02,933
+物品管道只能每四秒取一次物品。
+
+556
+00:16:03,133 --> 00:16:04,900
+可能需要一大堆
+
+557
+00:16:04,966 --> 00:16:07,966
+但是漏斗只推一个
+
+558
+00:16:08,400 --> 00:16:11,666
+所以它每四秒就有一件商品。
+
+559
+00:16:11,666 --> 00:16:12,933
+这相当缓慢
+
+560
+00:16:13,700 --> 00:16:15,733
+目前可能已经足够好了
+
+561
+00:16:16,300 --> 00:16:17,733
+但如果你愿意
+
+562
+00:16:18,300 --> 00:16:21,300
+你可以制作一条转轮皮带
+
+563
+00:16:21,300 --> 00:16:23,700
+这有点贵，但完全可用。
+
+564
+00:16:23,700 --> 00:16:26,200
+它甚至不需要任何钢铁
+
+565
+00:16:27,366 --> 00:16:29,766
+然后你把它添加到管道中
+
+566
+00:16:30,666 --> 00:16:34,466
+shift点击，导入，使其正常工作
+
+567
+00:16:34,466 --> 00:16:39,333
+这个会一次拉一个完整的堆栈，效果更好。
+
+568
+00:16:40,533 --> 00:16:41,333
+是十六
+
+569
+00:16:41,600 --> 00:16:44,500
+但效果比以前好16倍
+
+570
+00:16:44,500 --> 00:16:47,666
+顺便说一句，如果你按错了，把盘子放在管子上
+
+571
+00:16:47,666 --> 00:16:49,666
+你可以用撬棍把它找回来
+
+572
+00:16:49,766 --> 00:16:56,166
+这个机械师可以很方便例如与蒸汽管道会伤害你如果你太接近
+
+573
+00:16:56,766 --> 00:17:02,566
+所以你可以放例如石盘，这可能是你能做的最便宜的盘子。
+
+574
+00:17:02,666 --> 00:17:05,066
+或者我的意思是，如果你愿意，你可以使用任何金属
+
+575
+00:17:05,300 --> 00:17:07,166
+这样你可以很好地在上面行走
+
+576
+00:17:07,800 --> 00:17:11,900
+管道有时bug有点像
+
+577
+00:17:12,800 --> 00:17:17,466
+当你走过它时，它不完全是一个平坦的东西
+
+578
+00:17:17,666 --> 00:17:19,866
+所以也许有时它会出故障
+
+579
+00:17:20,100 --> 00:17:21,800
+所以也许你想放个盘子在上面
+
+580
+00:17:21,800 --> 00:17:25,600
+如果你这样做，你可以在管道上走得很好。
+
+581
+00:17:26,733 --> 00:17:30,366
+不管怎样，现在我们可以回到我们目前的人工农场了
+
+582
+00:17:30,600 --> 00:17:32,666
+未来我们将实现自动化
+
+583
+00:17:32,666 --> 00:17:39,133
+但就目前而言，像这样砍倒那些大树相对容易
+
+584
+00:17:40,066 --> 00:17:42,066
+把木头扔进抽屉
+
+585
+00:17:42,066 --> 00:17:47,600
+它会慢慢制造木炭，我们可以用在砖炉上。
+
+586
+00:17:49,066 --> 00:17:53,700
+这些焦炉也会产生杂酚油，就像我们在系列开始时看到的那样
+
+587
+00:17:54,333 --> 00:18:00,333
+我们可以将杂酚油用于液体燃烧锅炉
+
+588
+00:18:00,333 --> 00:18:03,866
+它会把所有的杂酚油变成蒸汽
+
+589
+00:18:04,933 --> 00:18:10,100
+现在我们可以建造更多的砖砌高炉，也许可以种植庄稼。
+
+590
+00:18:10,733 --> 00:18:12,666
+只要我们有足够的钢铁
+
+591
+00:18:12,733 --> 00:18:15,533
+我们可以进入下一个时代
+
+592
+00:18:16,800 --> 00:18:18,133
+哪个是LV
+
+593
+00:18:18,733 --> 00:18:25,400
+基本上我们只需要一点点钢铁就能进入下一层
+
+594
+00:18:25,966 --> 00:18:29,533
+但我觉得这东西真的算电
+
+595
+00:18:29,533 --> 00:18:32,000
+所以这将是下一集的内容
+
+596
+00:18:32,900 --> 00:18:35,933
+就这样我想我要结束了
+
+597
+00:18:37,000 --> 00:18:38,366
+下次见
+
+598
+00:18:38,366 --> 00:18:38,966
+拜拜
+
