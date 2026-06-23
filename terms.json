@@ -1,8 +1,8 @@
 {
   "meta": {
     "description": "GTNH video subtitle EN→CN terminology database — sourced from existing translations in this repo",
-    "version": "2.0",
-    "last_updated": "2026-06-17",
+    "version": "2.1",
+    "last_updated": "2026-06-23",
     "usage": "When translating English subtitles to Chinese, consult this glossary for consistent terminology and known conventions."
   },
   "known_conventions": {
@@ -78,6 +78,22 @@
     "axe": "斧",
     "hoe": "锄",
     "lumber_axe": "伐木斧",
+    "backpack": "背包",
+    "baubles": "饰品栏",
+    "flint_and_steel": "打火石",
+    "holo_glasses": "全息眼镜",
+    "lapis_lazuli": "青金石",
+    "milli_bucket": "mB",
+    "obzenite": "锌耀钢",
+    "piston_boots": "活塞靴子",
+    "raw_rubber": "生橡胶",
+    "resin_spot": "树脂囊",
+    "slime_ball": "黏液球",
+    "sticky_resin": "黏性树脂",
+    "treetap": "木龙头",
+    "zinc": "锌",
+    "wooden_pipe": "木质管道",
+    "bronze_pipe": "青铜管道",
     "hammer": "锤",
     "wrench": "扳手",
     "screwdriver": "螺丝刀",
