@@ -140,3 +140,9 @@ git push                  # Push your branch
 git checkout -b <branch>  # Create and switch branch
 git branch -D <branch>    # Delete local branch
 ```
+
+## Prompt for AI Translation
+```
+Update the Chinese translation at the second half of subtitles based on the first English half. Don't modify the English half unless there are some obvious errors, also don't delete words in bracket because that's something I'm not sure about when writting down what my heard.
+You can find a terminology database at @terms.json , use it to translate the term you don't know. And you can make some addition to it after translating the whole subtitles.
+```
