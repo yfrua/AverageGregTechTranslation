@@ -1,0 +1,1708 @@
+1
+00:00:00,166 --> 00:00:03,466
+hello and welcome to the HamCrop Guide to GTNH Particle Physics
+
+2
+00:00:03,666 --> 00:00:04,500
+in this video
+
+3
+00:00:04,600 --> 00:00:10,100
+we will go over the upcoming Large Hadron Collider multiblock which will be added to GTNH in 2.9
+
+4
+00:00:10,200 --> 00:00:13,166
+this multiblock was designed and implemented by me
+
+5
+00:00:13,466 --> 00:00:14,366
+well mostly me
+
+6
+00:00:14,400 --> 00:00:18,066
+with a lot of help from many members of the dev team and GTNH community
+
+7
+00:00:18,533 --> 00:00:19,333
+that's right
+
+8
+00:00:19,333 --> 00:00:21,700
+the LHC is Literally HamCorp
+
+9
+00:00:21,733 --> 00:00:26,300
+you can try the LHC and all the other new 2.9 features now if you play on the dailies
+
+10
+00:00:26,666 --> 00:00:29,000
+please do that and find bugs for me so I can fix them
+
+11
+00:00:29,133 --> 00:00:29,866
+thanks
+
+12
+00:00:29,866 --> 00:00:32,800
+at the time of recording 2.9 is still in development
+
+13
+00:00:32,900 --> 00:00:36,733
+and the LHC and beamcrafting still require balancing and bug fixing
+
+14
+00:00:36,900 --> 00:00:40,900
+check the pinned comment to see if changes in how the system works have been made since this video
+
+15
+00:00:41,400 --> 00:00:43,900
+minor balancing changes are not going to be covered in that comment
+
+16
+00:00:44,100 --> 00:00:48,900
+the LHC is a replacement for the old compact Cyclotron or comet which will be removed
+
+17
+00:00:49,300 --> 00:00:53,200
+the LHC and beam crafting multites use the existing beamline mechanics
+
+18
+00:00:53,200 --> 00:00:56,300
+and are actually compatible with the beamline multites
+
+19
+00:00:56,300 --> 00:01:00,200
+in fact you may even be able to use the LHC to do beamline recipes
+
+20
+00:01:00,200 --> 00:01:04,200
+but that's not something that's been extensively tested at the time of recording this video
+
+21
+00:01:04,666 --> 00:01:06,200
+I can confirm that it's possible
+
+22
+00:01:06,600 --> 00:01:09,466
+but not if it's actually viable in the actual game
+
+23
+00:01:09,600 --> 00:01:11,666
+the beam line is technically still optional
+
+24
+00:01:11,666 --> 00:01:13,533
+but considering the LHC is not
+
+25
+00:01:13,533 --> 00:01:15,766
+I expect to see a lot more beamlines
+
+26
+00:01:16,200 --> 00:01:20,100
+the LHC will be the new method of obtaining Quark Releasing Catalysts
+
+27
+00:01:20,100 --> 00:01:23,400
+yes, long time HamCrop fans may be making the link now
+
+28
+00:01:23,600 --> 00:01:28,733
+this multi was indeed born entirely out of me being overly pedantic about particle physics
+
+29
+00:01:29,133 --> 00:01:31,933
+anyway, the LHC now gates Grade 8 water
+
+30
+00:01:32,166 --> 00:01:35,266
+the beamcrafter which can be used before you get an LHC
+
+31
+00:01:35,400 --> 00:01:38,133
+now gates Unknown Particles and the Quantum Anomaly
+
+32
+00:01:38,466 --> 00:01:42,533
+all recipes that formerly used particles as items now use particles as beams
+
+33
+00:01:42,766 --> 00:01:46,833
+particles no longer exist as items with the exception of the unknown particle
+
+34
+00:01:46,833 --> 00:01:49,733
+first, let's cover the basics of particles in GTNH
+
+35
+00:01:50,366 --> 00:01:52,500
+particles in beams travel as packets
+
+36
+00:01:52,900 --> 00:01:55,333
+similar to the research station computation packets
+
+37
+00:01:55,733 --> 00:01:58,033
+particle packets have four attributes
+
+38
+00:01:58,033 --> 00:02:00,066
+type, energy, amount and focus
+
+39
+00:02:00,466 --> 00:02:01,733
+type is the type of particle
+
+40
+00:02:01,733 --> 00:02:04,100
+so electron, muon, photon and so on
+
+41
+00:02:04,266 --> 00:02:06,766
+energy is the energy of the particle in electron volts
+
+42
+00:02:07,200 --> 00:02:14,566
+amount which is sometimes sort of inconsistently called rate here and there can be interpreted as the number of individual particles in the packet
+
+43
+00:02:14,700 --> 00:02:17,366
+this is what determines crafting speed in the beamcrafter
+
+44
+00:02:17,366 --> 00:02:19,266
+and is the quantity you want to maximize
+
+45
+00:02:19,566 --> 00:02:22,366
+focus is not relevant for the LHC and beamcrafting
+
+46
+00:02:22,800 --> 00:02:25,733
+but it's a quantity that represents the collimation of the beam
+
+47
+00:02:25,733 --> 00:02:26,966
+this matters for beamline
+
+48
+00:02:26,966 --> 00:02:29,266
+but we will completely ignore it in this video
+
+49
+00:02:29,266 --> 00:02:31,700
+next, let's talk about how the LHC actually works
+
+50
+00:02:32,133 --> 00:02:35,366
+I will continue based on the assumption that you have read the tooltip for details
+
+51
+00:02:35,566 --> 00:02:38,500
+the LHC takes any charged particle as input
+
+52
+00:02:38,866 --> 00:02:41,000
+and generates output depending on:
+
+53
+00:02:41,000 --> 00:02:45,366
+1. the energy of the collision and 2. which module you draw outputs from
+
+54
+00:02:45,400 --> 00:02:48,566
+the LHC has two modes accelerator and collider
+
+55
+00:02:48,900 --> 00:02:50,166
+it cycles once per second
+
+56
+00:02:50,166 --> 00:02:55,533
+and automatically switches from accelerator to collider when the player set acceleration cycle count is reached
+
+57
+00:02:55,900 --> 00:02:56,766
+in the interface
+
+58
+00:02:56,766 --> 00:02:58,000
+if you click this button
+
+59
+00:02:58,066 --> 00:02:59,733
+you are able to set two values
+
+60
+00:02:59,800 --> 00:03:02,966
+the target beam energy and the acceleration cycle count
+
+61
+00:03:03,266 --> 00:03:05,400
+once you set these and turn on the LHC
+
+62
+00:03:05,500 --> 00:03:07,666
+it will start accelerating the incoming beam
+
+63
+00:03:08,100 --> 00:03:12,533
+this input beam cannot have any of its four parameters change during operation
+
+64
+00:03:12,533 --> 00:03:14,133
+or the LHC will shut down
+
+65
+00:03:14,266 --> 00:03:16,733
+using the incoming beam's values as the starting point
+
+66
+00:03:16,900 --> 00:03:19,900
+the LHC will accelerate the beam in accelerator mode
+
+67
+00:03:20,200 --> 00:03:22,700
+meaning the beam energy increases once per cycle
+
+68
+00:03:22,733 --> 00:03:25,600
+if the beam energy reaches the player set target energy
+
+69
+00:03:25,966 --> 00:03:29,266
+further LHC cycles will instead increase the current beam amount
+
+70
+00:03:29,500 --> 00:03:31,500
+but how do you know what target energy to set
+
+71
+00:03:32,066 --> 00:03:34,266
+well, the beam energy serves one purpose
+
+72
+00:03:34,566 --> 00:03:37,166
+adding particle types to the pool of potential outputs
+
+73
+00:03:37,400 --> 00:03:39,866
+if you have an accelerated beam energy of E
+
+74
+00:03:39,966 --> 00:03:42,966
+then the collision energy when particles collide is 2 times E
+
+75
+00:03:43,000 --> 00:03:48,566
+the types of particles that can appear in the outputs now are simply all those particles whose mass is 2E or lower
+
+76
+00:03:49,000 --> 00:03:52,466
+so if you're targeting a particle of mass 100 giga electron volts
+
+77
+00:03:52,600 --> 00:03:55,666
+then set your target energy to at least 50 giga electron volts
+
+78
+00:03:55,666 --> 00:03:56,800
+then the collision is 100
+
+79
+00:03:56,800 --> 00:03:58,100
+and you can get these particles
+
+80
+00:03:58,366 --> 00:04:01,566
+there's no benefit to increasing energy beyond what you need
+
+81
+00:04:01,566 --> 00:04:04,066
+also, not all particles can appear in all modules
+
+82
+00:04:04,666 --> 00:04:07,666
+each LHC module can only produce a subset of particles
+
+83
+00:04:07,700 --> 00:04:08,933
+you can see this in NEI
+
+84
+00:04:08,933 --> 00:04:11,200
+the power draw of the LHC can be very high
+
+85
+00:04:11,266 --> 00:04:13,133
+since it increases quadratically with time
+
+86
+00:04:13,133 --> 00:04:15,033
+and it also scales with beam amount
+
+87
+00:04:15,033 --> 00:04:20,733
+that said, I have done an analysis of how the resulting crafting speed in the beam crafter scales with the power draw
+
+88
+00:04:21,000 --> 00:04:23,800
+and I found that it's best to do as many cycles as possible
+
+89
+00:04:24,266 --> 00:04:25,733
+the more cycles you do the closer
+
+90
+00:04:25,733 --> 00:04:27,166
+you get to perfect overclocking
+
+91
+00:04:27,766 --> 00:04:31,833
+details of this analysis are in an optional advanced section later in the video
+
+92
+00:04:31,833 --> 00:04:32,766
+OK, that was a lot
+
+93
+00:04:33,133 --> 00:04:34,766
+let's talk about how to use these particles
+
+94
+00:04:34,933 --> 00:04:38,500
+the Beamcrafter is a multi that takes fluid, item and particle inputs
+
+95
+00:04:38,766 --> 00:04:41,666
+the craft begins as soon as input items and fluids are detected
+
+96
+00:04:42,000 --> 00:04:43,800
+the machine then waits for particle inputs
+
+97
+00:04:43,800 --> 00:04:45,466
+which provide progress to the craft
+
+98
+00:04:45,766 --> 00:04:47,400
+no particles means no progress
+
+99
+00:04:47,700 --> 00:04:50,566
+the recipe does not shut down if the particle beams are interrupted
+
+100
+00:04:50,966 --> 00:04:54,300
+NEI shows the cumulative beam amounts required for the crafts
+
+101
+00:04:54,566 --> 00:04:57,666
+and energy is consumed constantly while the craft is going
+
+102
+00:04:57,933 --> 00:05:02,266
+note that at the time of recording the beamcrafter does not work with the crafting input buses of buffers
+
+103
+00:05:02,600 --> 00:05:05,366
+you don't really need them though since there's not that many recipes
+
+104
+00:05:05,366 --> 00:05:08,600
+and your processing is going to be limited by the LHC rates anyway
+
+105
+00:05:09,100 --> 00:05:11,000
+also the Beamcrafter can buffer particles
+
+106
+00:05:11,166 --> 00:05:14,500
+but it's only able to accept particles while a recipe is running
+
+107
+00:05:14,800 --> 00:05:18,300
+this may be changed to allow constant buffering at all times
+
+108
+00:05:18,366 --> 00:05:20,266
+but for now this is how it's going to be
+
+109
+00:05:20,533 --> 00:05:22,700
+just gonna quickly mention these because they exist
+
+110
+00:05:22,966 --> 00:05:25,900
+but they're all fairly easy to understand by reading the tooltips
+
+111
+00:05:26,300 --> 00:05:30,600
+the Beam Mirror allows you to turn a particle beam by 90 or 180 degrees
+
+112
+00:05:30,966 --> 00:05:33,366
+the Beam Stabilizer acts as a small buffer
+
+113
+00:05:33,466 --> 00:05:37,400
+allowing you to make an intermittent beam of high amount a constant beam of low amount
+
+114
+00:05:37,700 --> 00:05:43,100
+and the Beam Splitter allows you to split a mixed stream of particle packets into four separate configurable lines
+
+115
+00:05:44,266 --> 00:05:47,300
+OK, and here's a little bit of fun stuff for the nerds in here
+
+116
+00:05:47,366 --> 00:05:48,466
+I know you're out there
+
+117
+00:05:48,566 --> 00:05:52,333
+I said before that the LHC overclocking is a bit weird
+
+118
+00:05:52,366 --> 00:05:54,766
+and it's kind of its own thing, so
+
+119
+00:05:55,300 --> 00:05:57,766
+if you're interested in finding out how it actually works
+
+120
+00:05:58,000 --> 00:05:59,000
+this is how it works
+
+121
+00:05:59,166 --> 00:06:00,300
+we've got two equations
+
+122
+00:06:00,533 --> 00:06:02,400
+R equals R0 a to the N
+
+123
+00:06:02,700 --> 00:06:04,566
+and P equals R N squared
+
+124
+00:06:05,266 --> 00:06:06,900
+R is the accelerated rate
+
+125
+00:06:06,933 --> 00:06:09,900
+the rate with which you do collisions in the LHC
+
+126
+00:06:10,666 --> 00:06:12,300
+R0 is the initial rate
+
+127
+00:06:12,333 --> 00:06:13,300
+the input rate
+
+128
+00:06:13,466 --> 00:06:15,066
+a is the multiplication factor
+
+129
+00:06:15,066 --> 00:06:16,900
+which currently is 1.1
+
+130
+00:06:16,900 --> 00:06:18,933
+but that might be changed for balancing reasons
+
+131
+00:06:18,933 --> 00:06:20,300
+so I've just left it as a
+
+132
+00:06:20,500 --> 00:06:21,500
+N is the cycle count
+
+133
+00:06:21,500 --> 00:06:24,133
+and P is the power draw in amps of UV
+
+134
+00:06:24,133 --> 00:06:25,166
+in these two equations
+
+135
+00:06:25,500 --> 00:06:27,733
+you can solve for N in the bottom one
+
+136
+00:06:27,733 --> 00:06:29,500
+and plug it into the equation in the top
+
+137
+00:06:29,666 --> 00:06:31,300
+and then after a bit of simplification
+
+138
+00:06:31,700 --> 00:06:34,500
+you get the base relationship which is this
+
+139
+00:06:34,766 --> 00:06:35,566
+pretty ugly
+
+140
+00:06:35,700 --> 00:06:38,166
+there's not really much I can say with just this equation
+
+141
+00:06:38,333 --> 00:06:39,533
+so we ask the question
+
+142
+00:06:39,666 --> 00:06:41,666
+what happens if we overclock
+
+143
+00:06:42,066 --> 00:06:45,366
+remember that R determines crafting speed in the beam crafter
+
+144
+00:06:45,366 --> 00:06:46,400
+and P is the power
+
+145
+00:06:46,600 --> 00:06:50,566
+you can't really overclock the LHC by increasing the energy hatch
+
+146
+00:06:50,566 --> 00:06:54,900
+what I mean by overclock in this case is running more cycles because the power draw is going to increase
+
+147
+00:06:54,900 --> 00:07:00,500
+so the question becomes what happens if you run enough cycles that the power draw has increased by a factor of 4
+
+148
+00:07:00,600 --> 00:07:01,400
+in other words
+
+149
+00:07:01,733 --> 00:07:04,700
+if P becomes 4P, then what happens to rate
+
+150
+00:07:05,200 --> 00:07:08,133
+and I declare that R becomes k times R
+
+151
+00:07:08,166 --> 00:07:09,466
+the question is what is k
+
+152
+00:07:09,800 --> 00:07:11,266
+for a normal multiblock
+
+153
+00:07:11,466 --> 00:07:16,333
+k is equal to 4 or k is equal to 2 if it's perfectly overclocking or if it's not perfectly overclocking
+
+154
+00:07:16,866 --> 00:07:18,500
+but in the LHC case
+
+155
+00:07:18,533 --> 00:07:20,133
+it's a little more weird
+
+156
+00:07:20,200 --> 00:07:24,766
+so we transform P to 4P and we transform R to kR in the base relationship
+
+157
+00:07:24,800 --> 00:07:26,800
+and then we get the overclocked relationship
+
+158
+00:07:27,366 --> 00:07:32,166
+which is basically the same thing but P has become 4P and R has become kR
+
+159
+00:07:32,200 --> 00:07:34,400
+this still isn't really enough to say anything
+
+160
+00:07:34,766 --> 00:07:37,466
+so what we need to do is compare the two relationships
+
+161
+00:07:37,500 --> 00:07:43,733
+we compare the overclocked relationship with the base relationship by taking the ratios of the left hand sides and the right hand sides
+
+162
+00:07:44,166 --> 00:07:45,533
+we get this equation
+
+163
+00:07:46,066 --> 00:07:47,466
+after a bit of simplification
+
+164
+00:07:47,566 --> 00:07:49,133
+a lot of stuff cancels out
+
+165
+00:07:49,266 --> 00:07:51,900
+and we just get a relationship between k and R
+
+166
+00:07:52,133 --> 00:07:54,166
+you can try to solve for k
+
+167
+00:07:54,400 --> 00:07:56,466
+but it's not gonna work
+
+168
+00:07:56,700 --> 00:07:58,300
+you need a Lambert function and stuff
+
+169
+00:07:58,300 --> 00:07:59,333
+it's not worth your time
+
+170
+00:07:59,400 --> 00:08:00,966
+so just plot this implicitly
+
+171
+00:08:01,066 --> 00:08:02,466
+and then we can draw some conclusions
+
+172
+00:08:02,500 --> 00:08:08,000
+this is the plot where y is k and x is R over R0
+
+173
+00:08:08,300 --> 00:08:09,566
+and as you can see
+
+174
+00:08:09,566 --> 00:08:10,900
+it is very weird
+
+175
+00:08:11,700 --> 00:08:17,200
+keep in mind that normal multiblocks just have a constant y equals 2 or y equals 4 line
+
+176
+00:08:17,666 --> 00:08:22,133
+but the LHC has something that changes with time basically
+
+177
+00:08:22,266 --> 00:08:25,400
+as you run more cycles, the overclocking factor improves
+
+178
+00:08:25,600 --> 00:08:28,433
+and in fact it's worse than a regular overclock
+
+179
+00:08:28,433 --> 00:08:32,666
+until you get to about five times the beam rate that you started with
+
+180
+00:08:33,133 --> 00:08:34,600
+after that it's as good as a regular
+
+181
+00:08:34,600 --> 00:08:37,600
+and then it continues to increase, but not forever
+
+182
+00:08:37,600 --> 00:08:39,733
+it asymptotes to a perfect overclock
+
+183
+00:08:39,966 --> 00:08:42,500
+I tried to zoom out a bit here but it's really not obvious
+
+184
+00:08:42,500 --> 00:08:44,500
+you have to do a lot of cycles
+
+185
+00:08:44,500 --> 00:08:48,866
+like an unbelievable number of cycles to actually get to a perfect overclock
+
+186
+00:08:48,866 --> 00:08:50,900
+adjacent overclock factor
+
+187
+00:08:51,066 --> 00:08:53,100
+this is something I may tweak as well
+
+188
+00:08:53,300 --> 00:08:54,400
+because I have ...
+
+189
+00:08:54,400 --> 00:08:58,066
+actually this is a homework exercise for you if you're interested
+
+190
+00:08:58,366 --> 00:08:59,866
+let me let me state the problem clearly
+
+191
+00:09:00,366 --> 00:09:01,966
+introduce a constant c
+
+192
+00:09:02,200 --> 00:09:03,966
+which is a tunable parameter
+
+193
+00:09:04,000 --> 00:09:04,966
+which I can set
+
+194
+00:09:05,000 --> 00:09:11,066
+which determines the asymptotic value of the overclock in the large R over R0 limit
+
+195
+00:09:11,466 --> 00:09:17,766
+basically find a new equation or a new pair of equations that lets me choose what the asymptote is
+
+196
+00:09:17,900 --> 00:09:20,066
+the equations I have right now asymptote to four
+
+197
+00:09:20,733 --> 00:09:23,400
+but if I wanted to asymptote to 16 or something
+
+198
+00:09:23,933 --> 00:09:25,600
+what would the equations have to be
+
+199
+00:09:25,933 --> 00:09:27,133
+that's a fun little question
+
+200
+00:09:27,300 --> 00:09:28,133
+it's kind of hard
+
+201
+00:09:28,300 --> 00:09:29,466
+but I figured it out
+
+202
+00:09:29,466 --> 00:09:31,200
+and it's really really ugly
+
+203
+00:09:31,866 --> 00:09:32,666
+here's the answer
+
+204
+00:09:32,800 --> 00:09:33,700
+spoiler alert
+
+205
+00:09:35,200 --> 00:09:36,466
+it's really ugly
+
+206
+00:09:36,466 --> 00:09:38,000
+anyway that's my analysis
+
+207
+00:09:39,133 --> 00:09:40,933
+I hope you found this guide helpful
+
+208
+00:09:41,200 --> 00:09:43,366
+and I hope you enjoy the LHC
+
+209
+00:09:43,900 --> 00:09:45,566
+and if it's not fun let me know
+
+210
+00:09:45,566 --> 00:09:48,866
+and I am more than happy to change how it works so that it is fun
+
+211
+00:09:48,933 --> 00:09:51,566
+that is the most important thing, even more than realism
+
+212
+00:09:51,700 --> 00:09:53,733
+as much as it hurts me to say
+
+213
+00:09:53,733 --> 00:09:54,666
+anyway, enjoy
+
+214
+00:09:54,666 --> 00:09:55,500
+see you next time
+
+215
+00:00:00,166 --> 00:00:03,466
+大家好，欢迎来到HamCrop GTNH粒子物理指南
+
+216
+00:00:03,666 --> 00:00:04,500
+在这个视频中
+
+217
+00:00:04,600 --> 00:00:10,100
+我们将讨论即将推出的大型强子对撞机多块，它将在2.9中添加到GTNH
+
+218
+00:00:10,200 --> 00:00:13,166
+这个多块是我设计和实现的
+
+219
+00:00:13,466 --> 00:00:14,366
+嗯，主要是我。
+
+220
+00:00:14,400 --> 00:00:18,066
+在开发团队和GTNH社区的许多成员的帮助下
+
+221
+00:00:18,533 --> 00:00:19,333
+没错。
+
+222
+00:00:19,333 --> 00:00:21,700
+大型强子对撞机就是哈姆公司
+
+223
+00:00:21,733 --> 00:00:26,300
+如果您在日报上玩，您现在可以尝试LHC和所有其他新的2.9功能
+
+224
+00:00:26,666 --> 00:00:29,000
+请这样做并为我找到错误，以便我修复它们
+
+225
+00:00:29,133 --> 00:00:29,866
+谢谢。
+
+226
+00:00:29,866 --> 00:00:32,800
+在录制时，2.9仍在开发中
+
+227
+00:00:32,900 --> 00:00:36,733
+大型强子对撞机和光束制造仍然需要平衡和bug固定
+
+228
+00:00:36,900 --> 00:00:40,900
+检查固定评论，看看自此视频以来系统的工作方式是否发生了变化
+
+229
+00:00:41,400 --> 00:00:43,900
+细微的平衡变化不会在该评论中涵盖
+
+230
+00:00:44,100 --> 00:00:48,900
+大型强子对撞机是将被移除的旧紧凑型回旋加速器或彗星的替代品
+
+231
+00:00:49,300 --> 00:00:53,200
+LHC和光束制作多节使用现有的光束线力学
+
+232
+00:00:53,200 --> 00:00:56,300
+并且实际上与光束线多字节兼容
+
+233
+00:00:56,300 --> 00:01:00,200
+事实上，你甚至可以用大型强子对撞机来做光束线配方。
+
+234
+00:01:00,200 --> 00:01:04,200
+但在录制这段视频时，这还没有被广泛测试过。
+
+235
+00:01:04,666 --> 00:01:06,200
+我可以确认这是可能的
+
+236
+00:01:06,600 --> 00:01:09,466
+但如果在实际游戏中可行就不行了
+
+237
+00:01:09,600 --> 00:01:11,666
+光束线在技术上仍然是可选的
+
+238
+00:01:11,666 --> 00:01:13,533
+但考虑到LHC不是
+
+239
+00:01:13,533 --> 00:01:15,766
+我希望能看到更多的光束线
+
+240
+00:01:16,200 --> 00:01:20,100
+大型强子对撞机将是获得夸克平台释放催化剂的新方法
+
+241
+00:01:20,100 --> 00:01:23,400
+是的，长期的HamCrop粉丝现在可能正在制作链接
+
+242
+00:01:23,600 --> 00:01:28,733
+这个多重确实完全源于我对粒子物理过于迂腐
+
+243
+00:01:29,133 --> 00:01:31,933
+总之LHC现在有8级水位
+
+244
+00:01:32,166 --> 00:01:35,266
+在你得到大型强子对撞机之前可以使用的光束制造器
+
+245
+00:01:35,400 --> 00:01:38,133
+门未知粒子和量子异常
+
+246
+00:01:38,466 --> 00:01:42,533
+所有以前使用粒子作为物品的配方现在都使用粒子作为光束
+
+247
+00:01:42,766 --> 00:01:46,833
+粒子不再作为项目存在，未知粒子除外
+
+248
+00:01:46,833 --> 00:01:49,733
+首先，让我们介绍GTNH中粒子的基础知识
+
+249
+00:01:50,366 --> 00:01:52,500
+光束中的粒子以数据包的形式传播
+
+250
+00:01:52,900 --> 00:01:55,333
+类似于研究站计算包
+
+251
+00:01:55,733 --> 00:01:58,033
+粒子包有四个属性
+
+252
+00:01:58,033 --> 00:02:00,066
+类型、能量、数量和重点
+
+253
+00:02:00,466 --> 00:02:01,733
+type是粒子的类型
+
+254
+00:02:01,733 --> 00:02:04,100
+所以电子、介子、光子等等
+
+255
+00:02:04,266 --> 00:02:06,766
+能量是以电子伏特为单位的粒子的能量
+
+256
+00:02:07,200 --> 00:02:14,566
+数量，有时在这里和那里被不一致地称为速率，可以解释为数据包中单个粒子的数量
+
+257
+00:02:14,700 --> 00:02:17,366
+这就是在Beamcrafter中决定制作速度的因素
+
+258
+00:02:17,366 --> 00:02:19,266
+这是你想要最大化的数量吗？
+
+259
+00:02:19,566 --> 00:02:22,366
+焦点与大型强子对撞机和光束制造无关
+
+260
+00:02:22,800 --> 00:02:25,733
+但这是一个代表光束准直的量
+
+261
+00:02:25,733 --> 00:02:26,966
+这对光束线很重要
+
+262
+00:02:26,966 --> 00:02:29,266
+但我们会在这个视频中完全忽略它
+
+263
+00:02:29,266 --> 00:02:31,700
+接下来我们来谈谈大型强子对撞机是如何工作的
+
+264
+00:02:32,133 --> 00:02:35,366
+我将基于您已阅读工具提示以了解详细信息的假设继续
+
+265
+00:02:35,566 --> 00:02:38,500
+大型强子对撞机将任何带电粒子作为输入
+
+266
+00:02:38,866 --> 00:02:41,000
+并根据以下内容生成输出：
+
+267
+00:02:41,000 --> 00:02:45,366
+1.碰撞的能量和2.您从哪个模块绘制输出
+
+268
+00:02:45,400 --> 00:02:48,566
+大型强子对撞机有加速器和对撞机两种模式
+
+269
+00:02:48,900 --> 00:02:50,166
+它每秒循环一次
+
+270
+00:02:50,166 --> 00:02:55,533
+当达到玩家设置的加速循环计数时，自动从加速器切换到碰撞器
+
+271
+00:02:55,900 --> 00:02:56,766
+在界面中
+
+272
+00:02:56,766 --> 00:02:58,000
+如果你点击这个按钮
+
+273
+00:02:58,066 --> 00:02:59,733
+您可以设置两个值
+
+274
+00:02:59,800 --> 00:03:02,966
+目标光束能量和加速循环计数
+
+275
+00:03:03,266 --> 00:03:05,400
+一旦你设置好这些并打开LHC
+
+276
+00:03:05,500 --> 00:03:07,666
+它将开始加速入射光束
+
+277
+00:03:08,100 --> 00:03:12,533
+该输入光束在操作期间不能改变其四个参数中的任何一个
+
+278
+00:03:12,533 --> 00:03:14,133
+否则大型强子对撞机就会关闭
+
+279
+00:03:14,266 --> 00:03:16,733
+使用传入光束的值作为起点
+
+280
+00:03:16,900 --> 00:03:19,900
+大型强子对撞机将在加速模式下加速光束
+
+281
+00:03:20,200 --> 00:03:22,700
+意味着光束能量每周期增加一次
+
+282
+00:03:22,733 --> 00:03:25,600
+如果光束能量到达玩家设定的目标能量
+
+283
+00:03:25,966 --> 00:03:29,266
+进一步的LHC循环反而会增加电流束量
+
+284
+00:03:29,500 --> 00:03:31,500
+但是你怎么知道设定什么目标能量
+
+285
+00:03:32,066 --> 00:03:34,266
+光束能量只有一个用途
+
+286
+00:03:34,566 --> 00:03:37,166
+将粒子类型添加到潜在输出池中
+
+287
+00:03:37,400 --> 00:03:39,866
+如果加速光束能量为E
+
+288
+00:03:39,966 --> 00:03:42,966
+那么粒子碰撞时的碰撞能量是2倍E
+
+289
+00:03:43,000 --> 00:03:48,566
+现在可以出现在输出中的粒子类型只是所有质量为2E或更低的粒子
+
+290
+00:03:49,000 --> 00:03:52,466
+所以如果你瞄准一个质量为100千兆电子伏特的粒子
+
+291
+00:03:52,600 --> 00:03:55,666
+然后将目标能量设置为至少50千兆电子伏
+
+292
+00:03:55,666 --> 00:03:56,800
+那么碰撞是100
+
+293
+00:03:56,800 --> 00:03:58,100
+你可以得到这些粒子
+
+294
+00:03:58,366 --> 00:04:01,566
+增加超过你需要的能量没有任何好处
+
+295
+00:04:01,566 --> 00:04:04,066
+此外，并非所有粒子都可以出现在所有模块中
+
+296
+00:04:04,666 --> 00:04:07,666
+每个大型强子对撞机模块只能产生粒子的一个子集
+
+297
+00:04:07,700 --> 00:04:08,933
+你可以在NEI中看到这个
+
+298
+00:04:08,933 --> 00:04:11,200
+大型强子对撞机的能量消耗非常大
+
+299
+00:04:11,266 --> 00:04:13,133
+因为它是随时间二次增长的
+
+300
+00:04:13,133 --> 00:04:15,033
+它也随着光束的数量而缩放
+
+301
+00:04:15,033 --> 00:04:20,733
+也就是说，我已经对光束工匠中产生的制作速度如何与功率消耗进行了分析
+
+302
+00:04:21,000 --> 00:04:23,800
+我发现最好做尽可能多的循环
+
+303
+00:04:24,266 --> 00:04:25,733
+你做的周期越多，就越接近
+
+304
+00:04:25,733 --> 00:04:27,166
+你可以完美超频
+
+305
+00:04:27,766 --> 00:04:31,833
+此分析的详细信息在视频后面的可选高级部分中
+
+306
+00:04:31,833 --> 00:04:32,766
+哦，那真是太多了。
+
+307
+00:04:33,133 --> 00:04:34,766
+我们来谈谈如何利用这些粒子
+
+308
+00:04:34,933 --> 00:04:38,500
+Beamcrafter是一个多，需要流体，物品和粒子输入
+
+309
+00:04:38,766 --> 00:04:41,666
+一旦检测到输入物品和液体，飞船就开始
+
+310
+00:04:42,000 --> 00:04:43,800
+然后机器等待粒子输入
+
+311
+00:04:43,800 --> 00:04:45,466
+这为飞船提供了进步
+
+312
+00:04:45,766 --> 00:04:47,400
+没有粒子就意味着没有进步
+
+313
+00:04:47,700 --> 00:04:50,566
+如果粒子束中断，配方不会关闭
+
+314
+00:04:50,966 --> 00:04:54,300
+NEI显示了飞船所需的累积光束量
+
+315
+00:04:54,566 --> 00:04:57,666
+飞船运行时能量不断消耗
+
+316
+00:04:57,933 --> 00:05:02,266
+请注意，在记录时，beamcrafter不适用于缓冲区的制作输入总线
+
+317
+00:05:02,600 --> 00:05:05,366
+你真的不需要它们，因为没有那么多食谱。
+
+318
+00:05:05,366 --> 00:05:08,600
+无论如何，你的处理都会受到LHC速率的限制
+
+319
+00:05:09,100 --> 00:05:11,000
+Beamcrafter也可以缓冲粒子
+
+320
+00:05:11,166 --> 00:05:14,500
+但它只能在配方运行时接受粒子
+
+321
+00:05:14,800 --> 00:05:18,300
+这可以更改为允许始终保持恒定缓冲
+
+322
+00:05:18,366 --> 00:05:20,266
+但现在事情就是这样
+
+323
+00:05:20,533 --> 00:05:22,700
+我会很快提到这些，因为它们存在。
+
+324
+00:05:22,966 --> 00:05:25,900
+但通过阅读工具提示，它们都很容易理解
+
+325
+00:05:26,300 --> 00:05:30,600
+光束镜允许您将粒子束旋转90或180度
+
+326
+00:05:30,966 --> 00:05:33,366
+光束稳定器充当小缓冲区
+
+327
+00:05:33,466 --> 00:05:37,400
+让你可以制造高强度的间歇光束，低强度的恒定光束
+
+328
+00:05:37,700 --> 00:05:43,100
+Beam Splitter允许您将粒子包的混合流拆分为四个单独的可配置行
+
+329
+00:05:44,266 --> 00:05:47,300
+好的，这里有一些有趣的东西给书呆子们。
+
+330
+00:05:47,366 --> 00:05:48,466
+我知道你就在外面
+
+331
+00:05:48,566 --> 00:05:52,333
+我之前说过LHC超频有点怪
+
+332
+00:05:52,366 --> 00:05:54,766
+这是它自己的事情，所以
+
+333
+00:05:55,300 --> 00:05:57,766
+如果你想知道它到底是怎么工作的
+
+334
+00:05:58,000 --> 00:05:59,000
+这就是它的工作原理
+
+335
+00:05:59,166 --> 00:06:00,300
+我们有两个方程
+
+336
+00:06:00,533 --> 00:06:02,400
+R等于R0 a到N
+
+337
+00:06:02,700 --> 00:06:04,566
+P等于R N的平方
+
+338
+00:06:05,266 --> 00:06:06,900
+R是加速速率
+
+339
+00:06:06,933 --> 00:06:09,900
+大型强子对撞机的碰撞速率
+
+340
+00:06:10,666 --> 00:06:12,300
+R0是初始速率
+
+341
+00:06:12,333 --> 00:06:13,300
+输入速率
+
+342
+00:06:13,466 --> 00:06:15,066
+a是乘法因子
+
+343
+00:06:15,066 --> 00:06:16,900
+目前是1.1。
+
+344
+00:06:16,900 --> 00:06:18,933
+但出于平衡的原因，这可能会改变
+
+345
+00:06:18,933 --> 00:06:20,300
+所以我把它作为一个
+
+346
+00:06:20,500 --> 00:06:21,500
+N是循环计数
+
+347
+00:06:21,500 --> 00:06:24,133
+P是紫外线安培的功率消耗
+
+348
+00:06:24,133 --> 00:06:25,166
+在这两个方程中
+
+349
+00:06:25,500 --> 00:06:27,733
+你可以在底部求解N。
+
+350
+00:06:27,733 --> 00:06:29,500
+并将其插入顶部的方程
+
+351
+00:06:29,666 --> 00:06:31,300
+然后经过一点简化
+
+352
+00:06:31,700 --> 00:06:34,500
+你得到的基本关系是这样的
+
+353
+00:06:34,766 --> 00:06:35,566
+相当难看
+
+354
+00:06:35,700 --> 00:06:38,166
+就这个等式我没什么好说的
+
+355
+00:06:38,333 --> 00:06:39,533
+所以我们问这个问题
+
+356
+00:06:39,666 --> 00:06:41,666
+如果我们超频会发生什么
+
+357
+00:06:42,066 --> 00:06:45,366
+请记住，R决定了光束制作器中的制作速度
+
+358
+00:06:45,366 --> 00:06:46,400
+P是幂
+
+359
+00:06:46,600 --> 00:06:50,566
+你不能通过增加能量舱口来超频大型强子对撞机
+
+360
+00:06:50,566 --> 00:06:54,900
+在这种情况下，我所说的超频是指运行更多周期，因为功耗会增加。
+
+361
+00:06:54,900 --> 00:07:00,500
+所以问题变成了如果你运行足够多的循环，能量消耗增加了4倍会发生什么
+
+362
+00:07:00,600 --> 00:07:01,400
+换句话说
+
+363
+00:07:01,733 --> 00:07:04,700
+如果P变成4P，那么费率会发生什么？
+
+364
+00:07:05,200 --> 00:07:08,133
+我宣布R变成k乘以R
+
+365
+00:07:08,166 --> 00:07:09,466
+问题是什么是k
+
+366
+00:07:09,800 --> 00:07:11,266
+对于正常的多块
+
+367
+00:07:11,466 --> 00:07:16,333
+k等于4或k等于2，如果它是完美超频或不是完美超频
+
+368
+00:07:16,866 --> 00:07:18,500
+但在LHC案中
+
+369
+00:07:18,533 --> 00:07:20,133
+这有点奇怪
+
+370
+00:07:24,800 --> 00:07:26,800
+然后我们得到超频关系
+
+371
+00:07:27,366 --> 00:07:32,166
+这基本上是一回事，但P变成了4P，R变成了kR
+
+372
+00:07:32,200 --> 00:07:34,400
+这还不足以说明什么
+
+373
+00:07:34,766 --> 00:07:37,466
+所以我们需要做的是比较这两种关系
+
+374
+00:07:37,500 --> 00:07:43,733
+我们通过取左手边和右手边的比率来比较超频关系和基本关系
+
+375
+00:07:44,166 --> 00:07:45,533
+我们得到这个等式
+
+376
+00:07:46,066 --> 00:07:47,466
+经过一点简化
+
+377
+00:07:47,566 --> 00:07:49,133
+很多东西都抵消了
+
+378
+00:07:49,266 --> 00:07:51,900
+我们刚刚得到k和R之间的关系
+
+379
+00:07:52,133 --> 00:07:54,166
+你可以试着解决k
+
+380
+00:07:54,400 --> 00:07:56,466
+但这是行不通的
+
+381
+00:07:56,700 --> 00:07:58,300
+你需要一个Lambert函数之类的东西
+
+382
+00:07:58,300 --> 00:07:59,333
+不值得你花时间
+
+383
+00:07:59,400 --> 00:08:00,966
+所以只要隐式地绘制这个
+
+384
+00:08:01,066 --> 00:08:02,466
+然后我们可以得出一些结论
+
+385
+00:08:02,500 --> 00:08:08,000
+这是y是k，x是R除以R0的图
+
+386
+00:08:08,300 --> 00:08:09,566
+如你所见
+
+387
+00:08:09,566 --> 00:08:10,900
+这很奇怪
+
+388
+00:08:11,700 --> 00:08:17,200
+请记住，正常的多块只是有一个常数y等于2或y等于4行
+
+389
+00:08:17,666 --> 00:08:22,133
+但是大型强子对撞机有一些基本上随时间变化的东西。
+
+390
+00:08:22,266 --> 00:08:25,400
+当您运行更多周期时，超频因子会提高
+
+391
+00:08:25,600 --> 00:08:28,433
+事实上，这比常规超频更糟糕
+
+392
+00:08:28,433 --> 00:08:32,666
+直到你达到你开始时的5倍光束速率
+
+393
+00:08:33,133 --> 00:08:34,600
+之后它和普通的一样好
+
+394
+00:08:34,600 --> 00:08:37,600
+然后它继续增加，但不是永远
+
+395
+00:08:37,600 --> 00:08:39,733
+它渐近于完美的超频
+
+396
+00:08:39,966 --> 00:08:42,500
+我试着缩小一点，但真的不明显。
+
+397
+00:08:42,500 --> 00:08:44,500
+你必须做很多循环
+
+398
+00:08:44,500 --> 00:08:48,866
+就像难以置信的周期数量才能真正达到完美的超频
+
+399
+00:08:48,866 --> 00:08:50,900
+相邻超频因子
+
+400
+00:08:51,066 --> 00:08:53,100
+这也是我可能会调整的地方。
+
+401
+00:08:53,300 --> 00:08:54,400
+因为我有…
+
+402
+00:08:54,400 --> 00:08:58,066
+如果你们感兴趣的话这是你们的家庭作业
+
+403
+00:08:58,366 --> 00:08:59,866
+让我让我把问题说清楚
+
+404
+00:09:00,366 --> 00:09:01,966
+引入一个常数c
+
+405
+00:09:02,200 --> 00:09:03,966
+这是一个可调参数
+
+406
+00:09:04,000 --> 00:09:04,966
+我可以设置。
+
+407
+00:09:05,000 --> 00:09:11,066
+它确定了大R over R0限制中超频的渐近值
+
+408
+00:09:11,466 --> 00:09:17,766
+基本上找到一个新的方程或一对新的方程，让我选择渐近线是什么
+
+409
+00:09:17,900 --> 00:09:20,066
+我现在得到的等式是4
+
+410
+00:09:20,733 --> 00:09:23,400
+但是如果我想渐近线到16岁什么的
+
+411
+00:09:23,933 --> 00:09:25,600
+方程必须是什么？
+
+412
+00:09:25,933 --> 00:09:27,133
+这是个有趣的小问题
+
+413
+00:09:27,300 --> 00:09:28,133
+这有点难
+
+414
+00:09:28,300 --> 00:09:29,466
+但我想通了
+
+415
+00:09:29,466 --> 00:09:31,200
+而且真的真的很丑
+
+416
+00:09:31,866 --> 00:09:32,666
+这就是答案
+
+417
+00:09:32,800 --> 00:09:33,700
+剧透警报
+
+418
+00:09:35,200 --> 00:09:36,466
+真的很难看
+
+419
+00:09:36,466 --> 00:09:38,000
+不管怎样，这就是我的分析。
+
+420
+00:09:39,133 --> 00:09:40,933
+我希望你觉得这个指南有帮助
+
+421
+00:09:41,200 --> 00:09:43,366
+我希望你喜欢LHC
+
+422
+00:09:43,900 --> 00:09:45,566
+如果不好玩，请告诉我。
+
+423
+00:09:45,566 --> 00:09:48,866
+我非常乐意改变它的工作方式，让它变得有趣。
+
+424
+00:09:48,933 --> 00:09:51,566
+这是最重要的事情，甚至比现实主义更重要
+
+425
+00:09:51,700 --> 00:09:53,733
+尽管说出来让我很难过
+
+426
+00:09:53,733 --> 00:09:54,666
+不管怎样，享受吧
+
+427
+00:09:54,666 --> 00:09:55,500
+下次见
+
