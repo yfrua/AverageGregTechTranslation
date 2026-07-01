@@ -1,0 +1,3944 @@
+1
+00:00:00,133 --> 00:00:01,066
+welcome back
+
+2
+00:00:01,133 --> 00:00:02,500
+and as you can see on my back
+
+3
+00:00:02,500 --> 00:00:04,500
+we now have a lot of brick blast furnaces
+
+4
+00:00:05,000 --> 00:00:08,200
+and that did cause quite a lot of pollution
+
+5
+00:00:08,466 --> 00:00:11,166
+and that's precisely why I build those far from my house
+
+6
+00:00:12,533 --> 00:00:18,000
+um, maybe some people say I overdid it with all of those brick blast furnaces
+
+7
+00:00:18,000 --> 00:00:20,366
+but I kind of enjoyed building those
+
+8
+00:00:22,800 --> 00:00:25,900
+so many people like to do mob farms to get steel
+
+9
+00:00:26,000 --> 00:00:30,300
+but I don't like mob farms, magic stuff
+
+10
+00:00:30,466 --> 00:00:35,700
+I want to play a industrial game, technological game
+
+11
+00:00:35,700 --> 00:00:40,800
+and brick blast furnance is the way we go for a industrial technological game
+
+12
+00:00:40,800 --> 00:00:43,333
+but I mean, that's just my take
+
+13
+00:00:44,333 --> 00:00:46,800
+I even left those running a lot of AFK
+
+14
+00:00:46,866 --> 00:00:50,566
+so now I have so much steel I can do
+
+15
+00:00:51,166 --> 00:00:52,800
+too many steel
+
+16
+00:00:52,800 --> 00:00:57,300
+by the way, going in such polluted areas can give you quite some debuff
+
+17
+00:00:58,266 --> 00:01:00,100
+if you don't want to deal with that
+
+18
+00:01:00,300 --> 00:01:02,966
+there is a quest that will trade some 
+
+19
+00:01:03,866 --> 00:01:07,200
+there is a quest here that will trade a hazmat suite for some glue
+
+20
+00:01:08,266 --> 00:01:09,400
+some rubber
+
+21
+00:01:10,266 --> 00:01:11,966
+to give some rubber to request book
+
+22
+00:01:11,966 --> 00:01:13,566
+it will give you a hazmat suit
+
+23
+00:01:13,900 --> 00:01:16,300
+that armor will protect you from the pollution
+
+24
+00:01:16,300 --> 00:01:18,566
+but it has a really low durability
+
+25
+00:01:18,566 --> 00:01:23,300
+so you should only put this armor on when you go next to the polluted areas
+
+26
+00:01:24,166 --> 00:01:26,066
+anyways that we have plenty of steel
+
+27
+00:01:26,066 --> 00:01:29,566
+we can finally start working on the LV age
+
+28
+00:01:31,200 --> 00:01:39,400
+usually in the old versions, I would suggest making one stack of motors using those are recipes
+
+29
+00:01:39,733 --> 00:01:43,233
+because we are going to need a lot of motors
+
+30
+00:01:43,233 --> 00:01:44,766
+so crafting a lot at once
+
+31
+00:01:44,800 --> 00:01:47,200
+we make it so you have a lot of motors already
+
+32
+00:01:47,200 --> 00:01:49,600
+and you won't have to worry about crafting more
+
+33
+00:01:50,000 --> 00:01:54,800
+but nowadays that crafting motors is just that easy
+
+34
+00:01:54,800 --> 00:01:57,800
+I mean I don't have to manually craft this
+
+35
+00:01:57,866 --> 00:01:58,900
+manually craft that
+
+36
+00:01:58,900 --> 00:01:59,700
+manually craft that
+
+37
+00:01:59,700 --> 00:02:00,400
+manually craft that
+
+38
+00:02:00,400 --> 00:02:01,200
+manually craft that
+
+39
+00:02:01,266 --> 00:02:02,600
+and then manually craft those
+
+40
+00:02:03,066 --> 00:02:05,166
+I think it's just crafting those one at a time
+
+41
+00:02:05,166 --> 00:02:07,000
+when you need those is actually better
+
+42
+00:02:07,566 --> 00:02:12,200
+because the batch crafting was just so you wouldn't have to manually craft all of these steps
+
+43
+00:02:12,600 --> 00:02:17,200
+but now that NEI crafts everything in a single click in less than one second
+
+44
+00:02:17,466 --> 00:02:20,466
+it's probably more efficient to craft just only the stuff you need
+
+45
+00:02:20,566 --> 00:02:23,600
+so you don't waste materials with the less efficient recipes
+
+46
+00:02:25,000 --> 00:02:29,300
+and thus we crafted the basic things required to get into the LV age
+
+47
+00:02:29,866 --> 00:02:32,533
+we are going to need more or less all of those machines
+
+48
+00:02:32,866 --> 00:02:35,733
+but there are some that are more useful than others
+
+49
+00:02:36,533 --> 00:02:39,733
+for example, my suggestion is to start with a wire mill
+
+50
+00:02:39,733 --> 00:02:42,900
+which is one of the cheapest machines to build
+
+51
+00:02:43,100 --> 00:02:45,800
+and it will greatly increase the yield of wires
+
+52
+00:02:46,100 --> 00:02:49,466
+instead of getting two wires out of three ingots
+
+53
+00:02:49,466 --> 00:02:52,133
+you will get two wires out of one ingot
+
+54
+00:02:53,766 --> 00:02:56,300
+and now, it's time to connect those machines
+
+55
+00:02:56,966 --> 00:02:59,966
+there are a little bit of trouble you have to check
+
+56
+00:03:00,533 --> 00:03:03,066
+this pipe can only handle two of those turbines
+
+57
+00:03:03,066 --> 00:03:04,133
+but whatever
+
+58
+00:03:04,966 --> 00:03:07,466
+you can always do a little bit however you like
+
+59
+00:03:08,400 --> 00:03:10,266
+you have to know how it works
+
+60
+00:03:10,266 --> 00:03:13,933
+so you know if something works or not
+
+61
+00:03:13,933 --> 00:03:15,366
+I mean at the end of the day
+
+62
+00:03:15,366 --> 00:03:16,500
+if something doesn't work
+
+63
+00:03:16,500 --> 00:03:17,466
+just about it
+
+64
+00:03:17,666 --> 00:03:19,400
+I think the main thing you have to know
+
+65
+00:03:19,400 --> 00:03:20,966
+if you're not experience enough
+
+66
+00:03:21,500 --> 00:03:24,366
+and oftentimes is not stressed enough is that
+
+67
+00:03:24,366 --> 00:03:26,700
+this cable has a little bit of power loss
+
+68
+00:03:27,066 --> 00:03:32,300
+that means that every block the energy has to go through, a little bit of energy will be lost
+
+69
+00:03:32,533 --> 00:03:36,866
+so try to keep the energy intensive machines next to the generators
+
+70
+00:03:37,366 --> 00:03:40,366
+I did a video in the past where I better explain how it works
+
+71
+00:03:41,266 --> 00:03:43,866
+the wiremill can go there for now
+
+72
+00:03:44,666 --> 00:03:50,466
+and another trick is that if you make the cables with circuit sixteen
+
+73
+00:03:51,333 --> 00:03:54,966
+should be a little bit faster than doing it with the other one
+
+74
+00:03:55,066 --> 00:03:56,800
+this one is a sixteen x cable
+
+75
+00:03:56,800 --> 00:03:58,200
+it takes seventy seconds
+
+76
+00:03:58,366 --> 00:04:03,333
+so it's basically one second per wire wise
+
+77
+00:04:04,366 --> 00:04:07,666
+but if you do the normal wire
+
+78
+00:04:07,666 --> 00:04:10,166
+it takes five seconds for two
+
+79
+00:04:10,166 --> 00:04:12,866
+making a sixteen x cable is about twice as fast
+
+80
+00:04:12,866 --> 00:04:14,400
+and once you have the big cable
+
+81
+00:04:14,400 --> 00:04:15,200
+you can just
+
+82
+00:04:15,533 --> 00:04:18,800
+split manually into small cables
+
+83
+00:04:18,900 --> 00:04:21,300
+doing sixteen x small dimension
+
+84
+00:04:23,733 --> 00:04:27,966
+and finally, remember that you can automate a little bit
+
+85
+00:04:28,300 --> 00:04:31,066
+I wouldn't automate crafting chains
+
+86
+00:04:31,466 --> 00:04:32,500
+specially for now
+
+87
+00:04:32,566 --> 00:04:33,966
+specially with NEI auto crafting
+
+88
+00:04:33,966 --> 00:04:44,166
+but having at least an auto input on one side with an auto output on another side is probably helpful
+
+89
+00:04:44,166 --> 00:04:48,533
+that way you can just leave a lot of materials to process here for machine
+
+90
+00:04:48,733 --> 00:04:51,000
+and machine will leave the output in another chest
+
+91
+00:04:51,366 --> 00:04:55,266
+this is the kind of automation you probably want at this point of the game
+
+92
+00:04:56,400 --> 00:04:59,266
+next, if your machine stall due to lack of power
+
+93
+00:04:59,400 --> 00:05:03,100
+you can use a soft mallet toggle it off or on again
+
+94
+00:05:04,766 --> 00:05:08,100
+you can also use redstone to power machines
+
+95
+00:05:08,166 --> 00:05:10,700
+each redstone is worth one thousand EU
+
+96
+00:05:11,266 --> 00:05:13,900
+but I wouldn't use it
+
+97
+00:05:14,500 --> 00:05:17,266
+unless you are in some very very very specific situation
+
+98
+00:05:17,600 --> 00:05:20,366
+using redstone to power machine is not worth it
+
+99
+00:05:21,100 --> 00:05:26,300
+yeah, ideally you want to make sure that your turbines never run out of fuel
+
+100
+00:05:26,300 --> 00:05:28,900
+by the way, I'm using steam turbines
+
+101
+00:05:28,900 --> 00:05:32,133
+but there are many different ways of producing electricity
+
+102
+00:05:32,766 --> 00:05:35,966
+most people try to go with other fuel sources
+
+103
+00:05:36,100 --> 00:05:38,466
+I have my own mean way of playing
+
+104
+00:05:38,500 --> 00:05:41,000
+because I like playing this way
+
+105
+00:05:42,166 --> 00:05:45,933
+anyways, at this point there are many many many machines you probably want to get
+
+106
+00:05:47,266 --> 00:05:50,566
+probably you want to get everything the quest book shows as I said earlier
+
+107
+00:05:50,566 --> 00:05:56,066
+and you probably want to read every single quest that there is in this age
+
+108
+00:05:56,466 --> 00:05:58,366
+many of those things are quite useful
+
+109
+00:05:59,133 --> 00:06:03,533
+I think the most useful but probably not is the magnet
+
+110
+00:06:04,400 --> 00:06:10,066
+I really like to have a magnet to easily pick up all of the ore while digging
+
+111
+00:06:10,500 --> 00:06:15,533
+I just think it's so nice to not have to move around to pick up every single item that drops
+
+112
+00:06:16,933 --> 00:06:19,333
+by the way, to get the magnet and the lithium battery
+
+113
+00:06:19,333 --> 00:06:20,733
+and to get lithium
+
+114
+00:06:21,133 --> 00:06:25,000
+my suggestion is to get multiblock steams centrifuge
+
+115
+00:06:25,300 --> 00:06:28,933
+this one is way more efficient than an LV electric version
+
+116
+00:06:30,833 --> 00:06:33,166
+it has some discounts, it has parallel
+
+117
+00:06:33,166 --> 00:06:36,933
+and you don't have to deal with the inefficiency of these turbines
+
+118
+00:06:37,400 --> 00:06:41,133
+you can also use the centrifuge to get cobalt or gold
+
+119
+00:06:42,533 --> 00:06:44,566
+to get gold, here I did a mistake
+
+120
+00:06:44,966 --> 00:06:47,066
+if you want to get gold
+
+121
+00:06:47,800 --> 00:06:48,966
+there are multiple ways
+
+122
+00:06:48,966 --> 00:06:50,600
+you can figure it out in NEI
+
+123
+00:06:50,600 --> 00:06:54,133
+but my suggestion to get gold is to crush some copper
+
+124
+00:06:54,766 --> 00:06:56,066
+then wash it
+
+125
+00:06:56,900 --> 00:06:58,866
+turn off the magnet
+
+126
+00:06:58,866 --> 00:06:59,600
+wash it
+
+127
+00:07:00,900 --> 00:07:02,100
+you can see in NEI
+
+128
+00:07:03,166 --> 00:07:05,133
+if you wash it you get cobalt
+
+129
+00:07:06,466 --> 00:07:08,866
+if you use a washing machine you get the cobalt
+
+130
+00:07:08,866 --> 00:07:11,333
+if you use the cauldron you do not get the byproducts
+
+131
+00:07:11,766 --> 00:07:12,900
+same with the macerator
+
+132
+00:07:12,900 --> 00:07:15,333
+to get the byproduct of the macerator steps
+
+133
+00:07:15,700 --> 00:07:18,933
+to get those byproducts under the macerator
+
+134
+00:07:19,166 --> 00:07:21,533
+you need at least a HV macerator
+
+135
+00:07:21,533 --> 00:07:22,866
+which is two tiers ahead
+
+136
+00:07:22,866 --> 00:07:25,600
+so right now you can't get this by product for example
+
+137
+00:07:26,200 --> 00:07:27,733
+but to get gold easily
+
+138
+00:07:28,133 --> 00:07:31,200
+you can process the copper like this
+
+139
+00:07:31,200 --> 00:07:32,266
+so first you macerate it
+
+140
+00:07:32,266 --> 00:07:33,866
+then you wash it in a cauldron
+
+141
+00:07:33,900 --> 00:07:35,866
+I mean you could use a normal washing machine
+
+142
+00:07:35,866 --> 00:07:40,966
+but that machine once again is rather slow and annoying
+
+143
+00:07:44,666 --> 00:07:48,133
+there is a steam version multiblock
+
+144
+00:07:48,933 --> 00:07:53,000
+but I don't need that (by-product?) right now
+
+145
+00:07:53,000 --> 00:07:56,400
+so I'm simply going with this way
+
+146
+00:07:56,866 --> 00:08:00,166
+and then you throw it into the centrifuge
+
+147
+00:08:01,000 --> 00:08:05,566
+and that should give us gold after this dust is done
+
+148
+00:08:06,666 --> 00:08:07,466
+come on
+
+149
+00:08:10,000 --> 00:08:12,166
+OK, and I can get gold like that
+
+150
+00:08:12,366 --> 00:08:14,066
+same things apply to lithium
+
+151
+00:08:14,900 --> 00:08:22,400
+you can find this ore is rather easy to find and collect
+
+152
+00:08:24,266 --> 00:08:27,000
+centrifuge the impure dust and you get lithium
+
+153
+00:08:27,000 --> 00:08:29,000
+so to get this one, you do not wash it
+
+154
+00:08:29,533 --> 00:08:31,400
+you crush it without washing
+
+155
+00:08:32,166 --> 00:08:33,333
+by the way to get the lead
+
+156
+00:08:33,333 --> 00:08:36,666
+you have to make a quick and dirty portal generator to access the twilight forest
+
+157
+00:08:36,966 --> 00:08:39,800
+here you will find a vein made out of lead and silver
+
+158
+00:08:39,800 --> 00:08:42,000
+which you can use to make potin
+
+159
+00:08:42,566 --> 00:08:44,933
+which is one of the best materials for pipes
+
+160
+00:08:44,933 --> 00:08:46,500
+or at least at this tier
+
+161
+00:08:46,533 --> 00:08:49,366
+it's really really really good material for pipes
+
+162
+00:08:50,533 --> 00:08:51,566
+but most importantly
+
+163
+00:08:51,766 --> 00:08:54,900
+we can use the silver to get the high pressure solar boilers
+
+164
+00:08:55,000 --> 00:08:57,600
+which are my favorite way of generating energy
+
+165
+00:08:58,600 --> 00:09:00,600
+the main issue of those boilers is that
+
+166
+00:09:00,600 --> 00:09:08,700
+every now and then you have to break and remove the block if you do not want to lose two thirds of your steam production
+
+167
+00:09:09,100 --> 00:09:10,466
+and when you do so
+
+168
+00:09:10,733 --> 00:09:13,266
+those will take a lot of water to fill up
+
+169
+00:09:13,566 --> 00:09:18,266
+so, you better have a good system to make sure those never run out of water
+
+170
+00:09:18,733 --> 00:09:20,766
+especially when you replace the block
+
+171
+00:09:21,600 --> 00:09:23,700
+and with about twenty of those solar boilers
+
+172
+00:09:23,700 --> 00:09:26,133
+we can finally power the main objective of this age
+
+173
+00:09:26,166 --> 00:09:27,900
+the electric blast furnace
+
+174
+00:09:28,600 --> 00:09:33,066
+and the main challenge that this multiblock will pose is fueling it properly
+
+175
+00:09:33,600 --> 00:09:36,533
+this multiblock to run will need one hundred and twenty EU per tick
+
+176
+00:09:36,533 --> 00:09:37,933
+and as I showed earlier
+
+177
+00:09:37,933 --> 00:09:40,933
+those cables have a little bit of loss
+
+178
+00:09:41,666 --> 00:09:46,000
+you really don't have much margin for error in this situation
+
+179
+00:09:46,000 --> 00:09:49,800
+so the suggestion that is given is use two energy hatches
+
+180
+00:09:50,266 --> 00:09:53,933
+one piece of cable on each of the two energy hatches
+
+181
+00:09:54,333 --> 00:09:55,733
+do not connect those two
+
+182
+00:09:56,333 --> 00:10:03,566
+and then you put the turbines in a way that they connect directly to those cables
+
+183
+00:10:04,400 --> 00:10:08,066
+the thing is that each one of those energy hatches can accept two amps
+
+184
+00:10:08,966 --> 00:10:12,866
+and the machine itself needs four amps at thirty EU per tick
+
+185
+00:10:13,066 --> 00:10:14,966
+so here you have a loss of one
+
+186
+00:10:15,133 --> 00:10:17,500
+with one block you already get thirty one
+
+187
+00:10:17,500 --> 00:10:18,733
+if you lose one more
+
+188
+00:10:18,900 --> 00:10:20,566
+you have no margin
+
+189
+00:10:20,566 --> 00:10:22,366
+you are basically net gainer (?)
+
+190
+00:10:22,366 --> 00:10:25,266
+so if for some reason some packets of power are lost
+
+191
+00:10:26,066 --> 00:10:27,733
+in the multiblock will fail
+
+192
+00:10:28,166 --> 00:10:31,500
+you can also add a third energy hatch if you want
+
+193
+00:10:31,600 --> 00:10:36,500
+and that third energy hatch will provide extra power intake that is not used
+
+194
+00:10:36,533 --> 00:10:38,566
+and that could make up for power loss
+
+195
+00:10:39,866 --> 00:10:42,966
+I don't suggest using battery buffers here
+
+196
+00:10:42,966 --> 00:10:44,800
+but theoretically you could
+
+197
+00:10:45,366 --> 00:10:52,700
+but you still have the issue that you must ensure that the multiblock gets the one hundred and twenty EU per tick
+
+198
+00:10:52,700 --> 00:10:54,166
+if you use two energy hatches
+
+199
+00:10:54,700 --> 00:10:56,200
+must make it get super tight
+
+200
+00:10:56,366 --> 00:10:59,966
+you can add a third one for the loss
+
+201
+00:10:59,966 --> 00:11:03,333
+I would try to reduce as much as possible the power loss here
+
+202
+00:11:04,466 --> 00:11:09,733
+then some people at this age use ben(zene) other fuel sources
+
+203
+00:11:09,733 --> 00:11:11,000
+I'm still using steam
+
+204
+00:11:11,100 --> 00:11:11,866
+to use steam
+
+205
+00:11:11,866 --> 00:11:13,100
+you have to be a little bit careful
+
+206
+00:11:13,200 --> 00:11:20,866
+because LV steam turbines require one thousand five hundred fifty two steam per second to run
+
+207
+00:11:21,000 --> 00:11:23,966
+so you must make sure you are providing that much steam
+
+208
+00:11:24,600 --> 00:11:26,000
+those are four
+
+209
+00:11:26,066 --> 00:11:29,133
+so we need about seven thousand steam per second
+
+210
+00:11:29,866 --> 00:11:32,700
+and the normal potin pipe is just six thousand
+
+211
+00:11:33,666 --> 00:11:35,500
+so I wouldn't risk using this one
+
+212
+00:11:35,500 --> 00:11:37,800
+I'd rather go with the large one
+
+213
+00:11:39,366 --> 00:11:40,933
+and there we go
+
+214
+00:11:41,600 --> 00:11:43,600
+we power the EBF
+
+215
+00:11:44,166 --> 00:11:45,866
+you also have to do maintenance
+
+216
+00:11:47,300 --> 00:11:53,066
+you can make a soldering alloyldering iron which is probably what I'm going to do
+
+217
+00:11:53,533 --> 00:11:54,500
+future, but
+
+218
+00:11:55,400 --> 00:11:56,766
+right now, I'm lazy
+
+219
+00:11:56,900 --> 00:11:58,466
+let's get the duct tape
+
+220
+00:11:58,900 --> 00:12:00,400
+loot bags are not that good, I mean
+
+221
+00:12:00,400 --> 00:12:01,933
+that is a single use item
+
+222
+00:12:01,933 --> 00:12:03,600
+so probably loot bags were better
+
+223
+00:12:03,900 --> 00:12:04,966
+but I'm lazy
+
+224
+00:12:04,966 --> 00:12:06,266
+so there we go
+
+225
+00:12:06,666 --> 00:12:07,600
+and by the way
+
+226
+00:12:07,600 --> 00:12:11,600
+if for whatever reason your multiblock loses its maintenance
+
+227
+00:12:14,366 --> 00:12:17,633
+will be prompt to do maintaince
+
+228
+00:12:20,466 --> 00:12:22,100
+OK here you can see
+
+229
+00:12:22,666 --> 00:12:25,600
+the tools required as are different things
+
+230
+00:12:25,733 --> 00:12:28,000
+so you can see the first one is a crowbar
+
+231
+00:12:28,100 --> 00:12:29,900
+second should be either soft
+
+232
+00:12:29,900 --> 00:12:32,333
+there are both the soft mallet and the hard hammer
+
+233
+00:12:32,600 --> 00:12:34,566
+screwdriverldering alloy and wrench
+
+234
+00:12:34,900 --> 00:12:36,900
+so you take those tools
+
+235
+00:12:36,900 --> 00:12:40,333
+and click with those tools inside the maintenance hatch
+
+236
+00:12:41,500 --> 00:12:43,166
+I click hatch, OK
+
+237
+00:12:43,166 --> 00:12:44,500
+but we don't have, OK
+
+238
+00:12:44,500 --> 00:12:46,666
+you can also click with those two things
+
+239
+00:12:46,666 --> 00:12:49,500
+I showed the duct tape earlier
+
+240
+00:12:49,533 --> 00:12:51,366
+now you can see the wrench is done
+
+241
+00:12:52,500 --> 00:12:57,666
+but the best thing is to just get a field engieneer toolbox
+
+242
+00:12:58,400 --> 00:13:00,766
+but that thing requires some polyethylene
+
+243
+00:13:01,300 --> 00:13:05,700
+I was planning originally on keeping polyethylene for the next episode
+
+244
+00:13:05,700 --> 00:13:06,866
+but you know what
+
+245
+00:13:06,900 --> 00:13:09,133
+let's see some automation in LV
+
+246
+00:13:09,700 --> 00:13:12,333
+polyethylene is a long crafting chain
+
+247
+00:13:12,333 --> 00:13:15,700
+I mean it's not really that long if you know GTNH
+
+248
+00:13:16,166 --> 00:13:19,700
+but it's the first one you most likely want to do
+
+249
+00:13:19,700 --> 00:13:22,333
+there are many ways of going on to do that one
+
+250
+00:13:23,066 --> 00:13:24,266
+may get a little bit lost
+
+251
+00:13:24,700 --> 00:13:27,966
+the quest for polythene is actually in MV
+
+252
+00:13:27,966 --> 00:13:31,266
+but you can totally do it in LV
+
+253
+00:13:31,266 --> 00:13:34,200
+and I actually suggest doing in LV
+
+254
+00:13:34,500 --> 00:13:38,000
+both the silicon and the polythene quest lines
+
+255
+00:13:39,300 --> 00:13:41,266
+so, to make it, the first
+
+256
+00:13:41,333 --> 00:13:42,866
+there are many ways as I said
+
+257
+00:13:43,566 --> 00:13:47,300
+most likely, I suggest starting with oil
+
+258
+00:13:48,366 --> 00:13:50,400
+but before we actually go get oil
+
+259
+00:13:50,400 --> 00:13:54,266
+I think we want our blast furnance to start running
+
+260
+00:13:54,666 --> 00:13:57,566
+the soldering iron is the most annoying tool to craft
+
+261
+00:13:58,500 --> 00:13:59,866
+as every other tool
+
+262
+00:14:00,166 --> 00:14:02,266
+you can make it in many different ways
+
+263
+00:14:02,666 --> 00:14:06,366
+I just went with the steel bolt version, but
+
+264
+00:14:06,933 --> 00:14:10,133
+you can make it out of many different things
+
+265
+00:14:11,066 --> 00:14:15,200
+just use whatever battery and whatever bolt you have
+
+266
+00:14:15,200 --> 00:14:21,300
+the only thing is that every material has a different rod
+
+267
+00:14:22,100 --> 00:14:24,900
+I use a steel bolt with iron rod
+
+268
+00:14:25,400 --> 00:14:27,600
+I already crafted it without recording
+
+269
+00:14:29,166 --> 00:14:30,533
+this is an electric tool
+
+270
+00:14:30,533 --> 00:14:32,100
+so you have to charge it up
+
+271
+00:14:32,133 --> 00:14:35,366
+you can put it in any charging slot of a machine
+
+272
+00:14:35,366 --> 00:14:36,566
+and then you charge it up
+
+273
+00:14:37,000 --> 00:14:41,866
+you also need some soldering alloy in your inventory
+
+274
+00:14:45,733 --> 00:14:49,500
+which is made by allowing together tin with antimony
+
+275
+00:14:50,700 --> 00:14:54,300
+and then you just pass it through a wiremill to make the fine wire
+
+276
+00:14:54,900 --> 00:14:56,900
+and then once you have all of the tools
+
+277
+00:14:56,933 --> 00:14:58,966
+you just click this one
+
+278
+00:14:59,300 --> 00:15:00,866
+think I have to move the tools
+
+279
+00:15:02,133 --> 00:15:04,166
+if you don't have the toolbox
+
+280
+00:15:04,166 --> 00:15:07,700
+you have to manually click with each tool
+
+281
+00:15:08,000 --> 00:15:10,166
+to do the maintenance of the block
+
+282
+00:15:10,900 --> 00:15:14,666
+once again, you can either do that or later on we would get this one
+
+283
+00:15:14,666 --> 00:15:17,366
+which basically you put every tool inside this thing
+
+284
+00:15:17,366 --> 00:15:19,166
+and then you simply use this thing
+
+285
+00:15:19,566 --> 00:15:22,200
+or you just use the duct tape as I did earlier
+
+286
+00:15:23,466 --> 00:15:25,666
+and now it can run again
+
+287
+00:15:26,933 --> 00:15:29,400
+OK we got our blast furnace
+
+288
+00:15:29,966 --> 00:15:33,400
+we can use this one to make steel way faster
+
+289
+00:15:38,933 --> 00:15:41,566
+it can make steel in five seconds
+
+290
+00:15:41,733 --> 00:15:46,400
+unlike the six minutes of the brick version
+
+291
+00:15:46,866 --> 00:15:48,266
+it uses quite a lot of power
+
+292
+00:15:48,366 --> 00:15:50,166
+it should be way more power efficient
+
+293
+00:15:51,066 --> 00:15:54,000
+to make steel in the primitive brick blast furnace
+
+294
+00:15:54,000 --> 00:15:58,333
+you need four coal
+
+295
+00:15:59,700 --> 00:16:03,000
+while here you need twelve thousand EU
+
+296
+00:16:03,000 --> 00:16:04,400
+there is also oxygen
+
+297
+00:16:06,066 --> 00:16:13,700
+but the thing is that this boiler for example can make almost forty thousand steam with one coal
+
+298
+00:16:13,700 --> 00:16:16,933
+forty thousand steam is twenty thousand EU
+
+299
+00:16:17,733 --> 00:16:21,900
+one coal with this boiler will be able to make one and a half fingers
+
+300
+00:16:22,466 --> 00:16:26,300
+while here we need four coal
+
+301
+00:16:26,300 --> 00:16:28,533
+so, energy wise it's more efficient
+
+302
+00:16:28,533 --> 00:16:30,400
+I didn't account for the power losses
+
+303
+00:16:30,400 --> 00:16:31,500
+but more or less
+
+304
+00:16:33,266 --> 00:16:35,066
+it's why, it's at least
+
+305
+00:16:35,333 --> 00:16:37,333
+it's very going to be at least three times as sufficient
+
+306
+00:16:38,333 --> 00:16:39,800
+and it was this way faster
+
+307
+00:16:40,400 --> 00:16:44,166
+but the main reason we build this one anyways is not to get steel
+
+308
+00:16:44,166 --> 00:16:45,333
+but to get aluminum
+
+309
+00:16:46,000 --> 00:16:51,200
+to do so, we can either use seventy five seconds with a compressed aluminum dust
+
+310
+00:16:51,200 --> 00:16:54,400
+I'm not even sure how to get the pure aluminum dust nowadays
+
+311
+00:16:54,600 --> 00:16:59,066
+it used to be relatively easy to get pure aluminum dust back in the day
+
+312
+00:16:59,066 --> 00:17:03,966
+but I think nowadays you can't even get the aluminum dust anymore
+
+313
+00:17:04,566 --> 00:17:06,333
+this one probably doesn't work
+
+314
+00:17:06,700 --> 00:17:08,000
+probably in MV
+
+315
+00:17:08,200 --> 00:17:12,100
+once you start electrolzing, you can get this one
+
+316
+00:17:12,100 --> 00:17:16,366
+the proper way of doing it is by mixing together alumina and cryolite
+
+317
+00:17:17,600 --> 00:17:20,200
+cryolite is an ore you can find in twilight forests
+
+318
+00:17:20,300 --> 00:17:23,766
+while alumina can be obtained out of a few things
+
+319
+00:17:25,200 --> 00:17:29,133
+i don't suggest it, but you can find a lot of sapphire in the twilight forest
+
+320
+00:17:29,533 --> 00:17:32,300
+and you can EBF the sapphires into alumina
+
+321
+00:17:32,900 --> 00:17:35,366
+but that's just one way
+
+322
+00:17:36,500 --> 00:17:39,200
+the biggest suggestion I'm going to give you for this tier
+
+323
+00:17:39,500 --> 00:17:44,966
+which this video probably going to be one of the lowest quality
+
+324
+00:17:46,600 --> 00:17:48,700
+I just follow the quest book
+
+325
+00:17:48,700 --> 00:17:54,533
+in this age, there are so many things you may want to do or don't
+
+326
+00:17:54,533 --> 00:17:57,600
+my biggest suggestion is just look around
+
+327
+00:17:57,700 --> 00:17:59,566
+figure out what you think you may like
+
+328
+00:17:59,700 --> 00:18:00,766
+try different things
+
+329
+00:18:01,900 --> 00:18:06,866
+I'm trying to show you the main things you should probably try to remember, I know
+
+330
+00:18:06,933 --> 00:18:12,666
+but I don't think just watching a video will help you too much
+
+331
+00:18:13,000 --> 00:18:16,000
+just try to play around and figure out things on your own
+
+332
+00:18:16,366 --> 00:18:18,000
+remember to look at every quest
+
+333
+00:18:18,133 --> 00:18:21,933
+and remember to look at every possible recipe in NEI
+
+334
+00:18:21,933 --> 00:18:24,333
+because there are many recipes
+
+335
+00:18:24,400 --> 00:18:26,000
+many ways of doing things
+
+336
+00:18:26,366 --> 00:18:29,333
+most recipes are recycling too
+
+337
+00:18:30,533 --> 00:18:34,966
+the modpack too keeps getting updates which keep changing things
+
+338
+00:18:40,166 --> 00:18:42,600
+in this age my biggest suggestion is
+
+339
+00:18:42,866 --> 00:18:47,200
+you have a huge waiting time for distill or other things
+
+340
+00:18:47,766 --> 00:18:50,700
+so use that waiting time to look around
+
+341
+00:18:50,700 --> 00:18:52,966
+and figure out how you can do things
+
+342
+00:18:54,600 --> 00:18:57,800
+and just with the aluminum by product of processing cryolite
+
+343
+00:18:57,866 --> 00:18:59,900
+we can now turn on our EBF
+
+344
+00:19:09,800 --> 00:19:12,100
+and that will take a little bit of time
+
+345
+00:19:12,100 --> 00:19:17,833
+but every new tier we will have a material that will take a little bit to process
+
+346
+00:19:17,833 --> 00:19:21,400
+as usual, use this time to figure out what else you can do
+
+347
+00:19:21,400 --> 00:19:24,266
+or just build more of that machine
+
+348
+00:19:25,466 --> 00:19:27,666
+this run I'm going to chill out
+
+349
+00:19:27,766 --> 00:19:31,466
+so I'm just going to leave the game AFK until we have a lot of aluminium
+
+350
+00:19:32,733 --> 00:19:34,533
+and after a little bit of waiting
+
+351
+00:19:34,600 --> 00:19:39,333
+we got enough aluminium to get (?) two MV machines
+
+352
+00:19:40,266 --> 00:19:41,533
+two MV machines
+
+353
+00:19:41,600 --> 00:19:42,700
+the electrolizer
+
+354
+00:19:42,700 --> 00:19:43,500
+actually OK
+
+355
+00:19:43,500 --> 00:19:44,500
+with this one
+
+356
+00:19:44,600 --> 00:19:46,500
+I can get an MV electrolizer
+
+357
+00:19:46,500 --> 00:19:50,500
+and the MV electrolizer will making aluminum production way easier
+
+358
+00:19:50,933 --> 00:19:52,533
+because theoretically
+
+359
+00:19:52,666 --> 00:19:59,100
+we can just electrolize amount of clay to get all of the aluminum we could possibly need
+
+360
+00:19:59,666 --> 00:20:03,266
+one of the main ways I usually get aluminum is that
+
+361
+00:20:04,000 --> 00:20:08,000
+yes, get to MV because you need MV for that recipe
+
+362
+00:20:08,500 --> 00:20:11,400
+lazurite, this is an ore that you get in huge amounts
+
+363
+00:20:12,000 --> 00:20:13,700
+one ore makes twelve
+
+364
+00:20:14,266 --> 00:20:15,400
+so you can get a lot of this
+
+365
+00:20:15,400 --> 00:20:19,266
+and this one gives a lot of silicon, sodium, aluminum calcium, all good stuff
+
+366
+00:20:20,766 --> 00:20:22,700
+but the main way, oh wait
+
+367
+00:20:22,733 --> 00:20:24,800
+did they change, oh, wait
+
+368
+00:20:27,000 --> 00:20:29,133
+don't suggest to be like the meta
+
+369
+00:20:29,166 --> 00:20:30,766
+not really the meta but
+
+370
+00:20:31,300 --> 00:20:32,266
+oh yeah this one
+
+371
+00:20:32,266 --> 00:20:33,700
+don't know why I couldn't find it
+
+372
+00:20:34,000 --> 00:20:35,600
+this is a really nice recipe
+
+373
+00:20:35,600 --> 00:20:37,600
+if you find a Canyon biome
+
+374
+00:20:38,333 --> 00:20:40,966
+set up a little bit of automation
+
+375
+00:20:40,966 --> 00:20:46,866
+where you tunnel the world Canyon biome through all of the clay into a macerator
+
+376
+00:20:46,933 --> 00:20:50,700
+and then electrolyze to get a huge load of those things
+
+377
+00:20:50,933 --> 00:20:53,300
+sodium can be burned, wait can it?
+
+378
+00:20:53,866 --> 00:20:56,366
+oh yeah, you can burn the sodium in a boiler
+
+379
+00:20:56,366 --> 00:20:57,800
+I think they nerf it
+
+380
+00:20:57,966 --> 00:20:59,766
+I remember this one burning more
+
+381
+00:20:59,900 --> 00:21:02,866
+but most likely you want to use the sodium for other stuff
+
+382
+00:21:02,866 --> 00:21:08,066
+you can make some decent batteries if you want to use a battery buffer later with sodium
+
+383
+00:21:08,366 --> 00:21:09,933
+lithium is great for batteries
+
+384
+00:21:09,933 --> 00:21:10,900
+don't burn it
+
+385
+00:21:11,333 --> 00:21:13,500
+and then you get the aluminum
+
+386
+00:21:13,500 --> 00:21:14,366
+you get aluminum
+
+387
+00:21:14,800 --> 00:21:18,566
+these are the recipt used to yield five aluminum, I think
+
+388
+00:21:19,000 --> 00:21:22,466
+so yeah, OK, nowadays this is trash for producing aluminum
+
+389
+00:21:22,733 --> 00:21:24,133
+it used to be a way
+
+390
+00:21:24,766 --> 00:21:28,100
+it was also a little bit of manual work collecting all of the clay
+
+391
+00:21:28,100 --> 00:21:31,800
+but I think nowadays this is no longer the way of doing it
+
+392
+00:21:31,900 --> 00:21:35,200
+I'm going to figure out another way of getting aluminum I guess
+
+393
+00:21:37,066 --> 00:21:43,666
+anyways, the other thing you want out of your EBF to progress in MV is some gallium arsenide
+
+394
+00:21:45,133 --> 00:21:48,166
+you can get your arsenium in different ways
+
+395
+00:21:48,166 --> 00:21:49,966
+once again, check the quest book
+
+396
+00:21:50,500 --> 00:21:53,000
+I got it out of centrifuging the realgar
+
+397
+00:21:53,133 --> 00:21:55,300
+but that's kind of uh
+
+398
+00:21:56,800 --> 00:21:59,700
+like I had the realgar so I just went with it
+
+399
+00:22:00,466 --> 00:22:03,666
+it's a small ore that you can find in nether
+
+400
+00:22:03,666 --> 00:22:06,666
+this one spawns as a small ore in the nether
+
+401
+00:22:08,366 --> 00:22:09,533
+just random ores
+
+402
+00:22:09,666 --> 00:22:11,133
+while you collect other materials
+
+403
+00:22:11,133 --> 00:22:12,566
+you probably get a few of these
+
+404
+00:22:12,933 --> 00:22:14,166
+you can centrifuge it
+
+405
+00:22:14,200 --> 00:22:15,200
+probably going to be enough
+
+406
+00:22:15,933 --> 00:22:20,466
+and then for the gallium you use sphalerite
+
+407
+00:22:20,466 --> 00:22:24,400
+here I'm processing sphalerite like that because I do need the gallium
+
+408
+00:22:25,366 --> 00:22:27,566
+should be, let's check if they changed it too, yeah
+
+409
+00:22:27,566 --> 00:22:29,300
+you electrolyze this sphalerite
+
+410
+00:22:29,300 --> 00:22:31,566
+you have nine percent chance of getting gallium
+
+411
+00:22:32,400 --> 00:22:37,166
+but if we had an HV macerator
+
+412
+00:22:37,466 --> 00:22:39,966
+we could get way more gallium out of sphalerite
+
+413
+00:22:40,466 --> 00:22:41,800
+there are also other ways
+
+414
+00:22:42,100 --> 00:22:47,466
+the sphalerite is also used in something we will see way later
+
+415
+00:22:48,566 --> 00:22:54,300
+so, I would like to say don't process or you don't need processed
+
+416
+00:22:55,000 --> 00:22:58,333
+because in the future this ore would be quite useful
+
+417
+00:22:58,933 --> 00:23:06,366
+but I'm also thinking by the time we need this one for this thing which we we eventually see
+
+418
+00:23:06,400 --> 00:23:10,366
+at that time, we will have some huge multiblock drilling rigs
+
+419
+00:23:10,400 --> 00:23:13,200
+that will get us just so much of this ore
+
+420
+00:23:13,200 --> 00:23:20,666
+that whatever we save at this tier will be meaningless compared to what we will be able to get in that age
+
+421
+00:23:20,666 --> 00:23:23,100
+also, I'm not going to make you a list
+
+422
+00:23:23,100 --> 00:23:25,000
+of course you do not want to process
+
+423
+00:23:25,000 --> 00:23:26,933
+it doesn't make any sense to play like that
+
+424
+00:23:27,100 --> 00:23:30,100
+I had the tendency of saving those materials
+
+425
+00:23:30,100 --> 00:23:31,933
+because I already know how it's going to be
+
+426
+00:23:31,933 --> 00:23:34,133
+but if you don't really know those things
+
+427
+00:23:34,133 --> 00:23:35,700
+don't even try to look into it
+
+428
+00:23:36,933 --> 00:23:39,166
+and after a way too unlucky run
+
+429
+00:23:39,166 --> 00:23:41,066
+we've finally got our gallium dust
+
+430
+00:23:41,966 --> 00:23:47,233
+which we can throw into the furnace with circuit two
+
+431
+00:23:47,233 --> 00:23:50,533
+to make gallium arsenide, perfect
+
+432
+00:23:56,133 --> 00:23:58,900
+the quest book wants you to use it
+
+433
+00:23:59,000 --> 00:23:59,966
+to macerate it
+
+434
+00:23:59,966 --> 00:24:00,800
+to make diode
+
+435
+00:24:02,066 --> 00:24:05,400
+but once again
+
+436
+00:24:06,333 --> 00:24:11,700
+the quest book suggests you to do this recipe which gets you two diodes out of ...
+
+437
+00:24:13,066 --> 00:24:18,733
+I think sixteen diodes out of the one gallium arsenide once you macerate it into small dust
+
+438
+00:24:19,266 --> 00:24:20,900
+but if you use polythene
+
+439
+00:24:20,900 --> 00:24:22,266
+you get twice as much
+
+440
+00:24:22,600 --> 00:24:25,766
+and if you go one step ahead and make the wafers
+
+441
+00:24:25,900 --> 00:24:27,266
+those are required silicon
+
+442
+00:24:27,900 --> 00:24:31,066
+you are going to get like many more
+
+443
+00:24:31,066 --> 00:24:34,500
+because this wafer you get sixteen out of one boule
+
+444
+00:24:34,600 --> 00:24:37,533
+one boule cost a quarter of a gallium arsenide
+
+445
+00:24:38,100 --> 00:24:44,200
+so it's way more efficient if you try to do this a recipe here instead
+
+446
+00:24:44,200 --> 00:24:48,733
+which also require the polyethylene and the silicon which I mention earlier and
+
+447
+00:24:49,266 --> 00:24:50,366
+while we wait
+
+448
+00:24:53,066 --> 00:24:55,133
+while we wait for things
+
+449
+00:24:56,600 --> 00:25:00,066
+like you can either just use the better recipe
+
+450
+00:25:00,166 --> 00:25:03,866
+collect a little bit more sphalerite
+
+451
+00:25:03,866 --> 00:25:07,133
+process the arsenic out of cobaltite
+
+452
+00:25:07,133 --> 00:25:09,266
+and then just go with that
+
+453
+00:25:09,800 --> 00:25:13,733
+or you can just make the two setups I mentioned earlier
+
+454
+00:25:14,866 --> 00:25:18,000
+now, as I said so many times starting this video
+
+455
+00:25:18,266 --> 00:25:21,066
+usually get silicon and polythelene in LV
+
+456
+00:25:21,166 --> 00:25:22,200
+so can do that
+
+457
+00:25:22,400 --> 00:25:25,200
+but the thing is that right now to power machines
+
+458
+00:25:25,266 --> 00:25:27,700
+I'm putting steam machines everywhere
+
+459
+00:25:29,000 --> 00:25:32,333
+many people, too many people in my opinion
+
+460
+00:25:32,533 --> 00:25:35,600
+like to spam generators
+
+461
+00:25:35,600 --> 00:25:38,000
+like they even added the
+
+462
+00:25:39,666 --> 00:25:43,766
+they even added an IV gas turbine
+
+463
+00:25:44,200 --> 00:25:46,933
+many people like to have a main fuel line
+
+464
+00:25:47,500 --> 00:25:50,266
+make a pipe with some energy dense fluid
+
+465
+00:25:50,300 --> 00:25:52,666
+like if you use diesel or benzine
+
+466
+00:25:52,933 --> 00:25:57,066
+a super tiny pipe can fuel very powerful hungry machines
+
+467
+00:25:57,300 --> 00:25:58,133
+if you use steam
+
+468
+00:25:58,133 --> 00:25:59,333
+you need huge pipes
+
+469
+00:25:59,766 --> 00:26:04,266
+but the thing I don't like is having all of those pipes with all of those generators
+
+470
+00:26:04,600 --> 00:26:09,200
+feel like the generators are look not that expensive to craft
+
+471
+00:26:09,200 --> 00:26:11,700
+but I just don't like that play style
+
+472
+00:26:12,000 --> 00:26:14,333
+I'd rather centralize energy earlier
+
+473
+00:26:14,400 --> 00:26:16,866
+usually I centralize energy in HV
+
+474
+00:26:16,866 --> 00:26:21,000
+but in this run I think I'm going to try to see if I can centralize power in MV
+
+475
+00:26:21,000 --> 00:26:26,200
+and I'm going to use the lazurite to get some good sodium batteries
+
+476
+00:26:26,366 --> 00:26:28,333
+think I'm going to dig a lot of lazurites
+
+477
+00:26:28,533 --> 00:26:29,766
+use it for the aluminum
+
+478
+00:26:29,766 --> 00:26:32,400
+and use the sodium to make a lot of batteries
+
+479
+00:26:33,000 --> 00:26:36,933
+which I'm going to try to use to centralize power at MV
+
+480
+00:26:39,100 --> 00:26:43,000
+centralizing power at MV you still have a little bit of power loss, but
+
+481
+00:26:44,100 --> 00:26:46,666
+use a annealed cable
+
+482
+00:26:46,900 --> 00:26:51,900
+you lose basically less than one percent of the energy with every cable block
+
+483
+00:26:52,500 --> 00:26:56,666
+you can also really make an HV transformer and step up
+
+484
+00:26:56,666 --> 00:26:57,733
+so you lose like
+
+485
+00:26:59,400 --> 00:27:01,166
+zero dot two percent of the energy
+
+486
+00:27:01,166 --> 00:27:03,866
+which I think is totally manageable
+
+487
+00:27:03,900 --> 00:27:07,500
+but I think that's something I will do in next episode
+
+488
+00:27:08,300 --> 00:27:12,400
+so I guess for today I can stop here
+
+489
+00:27:12,500 --> 00:27:16,000
+and see you for the next episode for the MV power centralization
+
+490
+00:27:16,666 --> 00:27:18,533
+which I think no one ever does
+
+491
+00:27:18,533 --> 00:27:21,433
+and I will get some fame for that
+
+492
+00:27:21,433 --> 00:27:23,733
+well, I can do that properly
+
+493
+00:27:23,733 --> 00:27:24,333
+bye bye
+
+494
+00:00:00,133 --> 00:00:01,066
+欢迎回来
+
+495
+00:00:01,133 --> 00:00:02,500
+正如你在我背上看到的
+
+496
+00:00:02,500 --> 00:00:04,500
+我们现在有很多砖砌高炉
+
+497
+00:00:05,000 --> 00:00:08,200
+这确实造成了相当多的污染
+
+498
+00:00:08,466 --> 00:00:11,166
+这就是为什么我在离我家很远的地方建造这些
+
+499
+00:00:12,533 --> 00:00:18,000
+也许有人会说我用那些砖砌的高炉做过头了
+
+500
+00:00:18,000 --> 00:00:20,366
+但我有点喜欢建造这些。
+
+501
+00:00:22,800 --> 00:00:25,900
+很多人喜欢做黑帮农场来获得钢铁
+
+502
+00:00:26,000 --> 00:00:30,300
+但我不喜欢黑帮农场魔法之类的
+
+503
+00:00:30,466 --> 00:00:35,700
+我想玩一个工业游戏，技术游戏
+
+504
+00:00:35,700 --> 00:00:40,800
+砖砌高炉是我们进行工业技术游戏的方式。
+
+505
+00:00:40,800 --> 00:00:43,333
+但我是说那只是我的想法
+
+506
+00:00:44,333 --> 00:00:46,800
+我甚至让它们挂机
+
+507
+00:00:46,866 --> 00:00:50,566
+所以现在我有这么多钢铁可以做
+
+508
+00:00:51,166 --> 00:00:52,800
+钢太多
+
+509
+00:00:52,800 --> 00:00:57,300
+顺便说一句，去污染这么严重的地区可以给你带来一些好处
+
+510
+00:00:58,266 --> 00:01:00,100
+如果你不想处理这个
+
+511
+00:01:00,300 --> 00:01:02,966
+有一个任务可以交换一些
+
+512
+00:01:03,866 --> 00:01:07,200
+这里有一个任务可以用危险品套件换一些胶水
+
+513
+00:01:08,266 --> 00:01:09,400
+一些橡胶
+
+514
+00:01:10,266 --> 00:01:11,966
+给一些橡胶来索取书
+
+515
+00:01:11,966 --> 00:01:13,566
+它会给你一套防护服
+
+516
+00:01:13,900 --> 00:01:16,300
+盔甲会保护你免受污染
+
+517
+00:01:16,300 --> 00:01:18,566
+但它的耐用性非常低
+
+518
+00:01:18,566 --> 00:01:23,300
+所以你应该只有在去污染区域的时候才穿上这件盔甲
+
+519
+00:01:24,166 --> 00:01:26,066
+不管怎样，我们有足够的钢铁。
+
+520
+00:01:26,066 --> 00:01:29,566
+我们终于可以开始研究LV时代了
+
+521
+00:01:31,200 --> 00:01:39,400
+通常在旧版本中，我建议使用这些食谱制作一堆电机
+
+522
+00:01:39,733 --> 00:01:43,233
+因为我们需要很多马达
+
+523
+00:01:43,233 --> 00:01:44,766
+一次制作很多东西。
+
+524
+00:01:44,800 --> 00:01:47,200
+我们做了它，所以你已经有很多马达了。
+
+525
+00:01:47,200 --> 00:01:49,600
+你不必担心制作更多
+
+526
+00:01:50,000 --> 00:01:54,800
+但如今制造马达就这么简单
+
+527
+00:01:54,800 --> 00:01:57,800
+我的意思是我不必手工制作这个。
+
+528
+00:01:57,866 --> 00:01:58,900
+手工制作
+
+529
+00:01:58,900 --> 00:01:59,700
+手工制作
+
+530
+00:01:59,700 --> 00:02:00,400
+手工制作
+
+531
+00:02:00,400 --> 00:02:01,200
+手工制作
+
+532
+00:02:01,266 --> 00:02:02,600
+然后手动制作这些
+
+533
+00:02:03,066 --> 00:02:05,166
+我认为这只是一次制作一个。
+
+534
+00:02:05,166 --> 00:02:07,000
+当你需要的时候，这些实际上更好。
+
+535
+00:02:07,566 --> 00:02:12,200
+因为批量制作只是为了让您不必手动制作所有这些步骤
+
+536
+00:02:12,600 --> 00:02:17,200
+但是现在NEI在不到一秒钟的时间里一次点击就制作了所有东西
+
+537
+00:02:17,466 --> 00:02:20,466
+只制作你需要的东西可能更有效
+
+538
+00:02:20,566 --> 00:02:23,600
+这样你就不会浪费效率较低的食谱
+
+539
+00:02:25,000 --> 00:02:29,300
+因此，我们精心制作了进入LV时代所需的基本东西。
+
+540
+00:02:29,866 --> 00:02:32,533
+我们将或多或少地需要所有这些机器
+
+541
+00:02:32,866 --> 00:02:35,733
+但是有一些比其他的更有用
+
+542
+00:02:36,533 --> 00:02:39,733
+例如，我的建议是从线材厂开始
+
+543
+00:02:39,733 --> 00:02:42,900
+这是最便宜的机器之一
+
+544
+00:02:43,100 --> 00:02:45,800
+它将大大提高电线的产量
+
+545
+00:02:46,100 --> 00:02:49,466
+而不是从三个元宝中得到两根电线
+
+546
+00:02:49,466 --> 00:02:52,133
+你会从一个元宝中得到两根电线
+
+547
+00:02:53,766 --> 00:02:56,300
+现在，是时候连接这些机器了
+
+548
+00:02:56,966 --> 00:02:59,966
+有点麻烦你得查一下
+
+549
+00:03:00,533 --> 00:03:03,066
+这个管道只能处理两个涡轮机
+
+550
+00:03:03,066 --> 00:03:04,133
+但不管怎样
+
+551
+00:03:04,966 --> 00:03:07,466
+你可以随心所欲地做一点
+
+552
+00:03:08,400 --> 00:03:10,266
+你必须知道它是如何工作的
+
+553
+00:03:10,266 --> 00:03:13,933
+这样你就知道某样东西是否有效。
+
+554
+00:03:13,933 --> 00:03:15,366
+我是说在一天结束的时候
+
+555
+00:03:15,366 --> 00:03:16,500
+如果某事不起作用
+
+556
+00:03:16,500 --> 00:03:17,466
+差不多
+
+557
+00:03:17,666 --> 00:03:19,400
+我认为你必须知道的主要事情
+
+558
+00:03:19,400 --> 00:03:20,966
+如果你没有足够的经验
+
+559
+00:03:21,500 --> 00:03:24,366
+而且经常压力不够是因为
+
+560
+00:03:24,366 --> 00:03:26,700
+这条电缆有一点功率损耗
+
+561
+00:03:27,066 --> 00:03:32,300
+这意味着能量要经过的每一个区块都会损失一点点能量
+
+562
+00:03:32,533 --> 00:03:36,866
+所以尽量把能源密集型机器放在发电机旁边
+
+563
+00:03:37,366 --> 00:03:40,366
+我过去做了一个视频，我可以更好地解释它是如何工作的。
+
+564
+00:03:41,266 --> 00:03:43,866
+钢丝绳现在可以去那里了
+
+565
+00:03:44,666 --> 00:03:50,466
+另一个诀窍是，如果你用16号电路制作电缆
+
+566
+00:03:51,333 --> 00:03:54,966
+应该比用另一个快一点
+
+567
+00:03:55,066 --> 00:03:56,800
+这个是十六x电缆
+
+568
+00:03:56,800 --> 00:03:58,200
+需要七十秒
+
+569
+00:03:58,366 --> 00:04:03,333
+所以基本上是每根线一秒。
+
+570
+00:04:04,366 --> 00:04:07,666
+但是如果你做普通的电线
+
+571
+00:04:07,666 --> 00:04:10,166
+两个人需要五秒钟
+
+572
+00:04:10,166 --> 00:04:12,866
+制作16 x电缆的速度大约是原来的两倍
+
+573
+00:04:12,866 --> 00:04:14,400
+一旦你有了大电缆
+
+574
+00:04:14,400 --> 00:04:15,200
+你可以
+
+575
+00:04:15,533 --> 00:04:18,800
+手动拆分成小电缆
+
+576
+00:04:18,900 --> 00:04:21,300
+做十六x小尺寸
+
+577
+00:04:23,733 --> 00:04:27,966
+最后，请记住，您可以稍微自动化
+
+578
+00:04:28,300 --> 00:04:31,066
+我不会自动制作链条
+
+579
+00:04:31,466 --> 00:04:32,500
+特别是现在
+
+580
+00:04:32,566 --> 00:04:33,966
+特别是NEI汽车工艺
+
+581
+00:04:33,966 --> 00:04:44,166
+但至少在一侧有一个自动输入，在另一侧有一个自动输出可能会有所帮助
+
+582
+00:04:44,166 --> 00:04:48,533
+这样你就可以把很多材料留在这里加工机器了。
+
+583
+00:04:48,733 --> 00:04:51,000
+机器会把输出留在另一个箱子里
+
+584
+00:04:51,366 --> 00:04:55,266
+这是你在游戏中可能想要的自动化
+
+585
+00:04:56,400 --> 00:04:59,266
+接下来，如果你的机器因为动力不足而失速
+
+586
+00:04:59,400 --> 00:05:03,100
+您可以使用软木槌再次关闭或打开它
+
+587
+00:05:04,766 --> 00:05:08,100
+你也可以用红石给机器供电
+
+588
+00:05:08,166 --> 00:05:10,700
+每一块红石都值一千欧盟
+
+589
+00:05:11,266 --> 00:05:13,900
+但我不会用它
+
+590
+00:05:14,500 --> 00:05:17,266
+除非你在一些非常非常非常特殊的情况下
+
+591
+00:05:17,600 --> 00:05:20,366
+用红石给机器供电不值得
+
+592
+00:05:21,100 --> 00:05:26,300
+是的，理想情况下，你要确保你的涡轮机永远不会耗尽燃料
+
+593
+00:05:26,300 --> 00:05:28,900
+顺便说一下，我用的是蒸汽涡轮机
+
+594
+00:05:28,900 --> 00:05:32,133
+但是有许多不同的发电方式
+
+595
+00:05:32,766 --> 00:05:35,966
+大多数人尝试去与其他燃料来源
+
+596
+00:05:36,100 --> 00:05:38,466
+我有我自己的游戏方式
+
+597
+00:05:38,500 --> 00:05:41,000
+因为我喜欢这样玩
+
+598
+00:05:42,166 --> 00:05:45,933
+无论如何，在这一点上有很多很多机器你可能想得到
+
+599
+00:05:47,266 --> 00:05:50,566
+正如我之前所说，您可能想获得任务书显示的所有内容
+
+600
+00:05:50,566 --> 00:05:56,066
+你可能想阅读这个时代的每一个任务
+
+601
+00:05:56,466 --> 00:05:58,366
+其中许多东西都非常有用
+
+602
+00:05:59,133 --> 00:06:03,533
+我认为最有用的，但可能不是磁铁。
+
+603
+00:06:04,400 --> 00:06:10,066
+我真的很喜欢有一个磁铁，可以在挖掘时轻松地拾取所有的矿石
+
+604
+00:06:10,500 --> 00:06:15,533
+我只是觉得不用四处走动去捡掉下来的每一件东西真好。
+
+605
+00:06:16,933 --> 00:06:19,333
+顺便说一下，要拿到磁铁和锂电池
+
+606
+00:06:19,333 --> 00:06:20,733
+并获得锂
+
+607
+00:06:21,133 --> 00:06:25,000
+我的建议是得到多块蒸汽离心机
+
+608
+00:06:25,300 --> 00:06:28,933
+这个比LV电动版高效多了
+
+609
+00:06:30,833 --> 00:06:33,166
+它有一些折扣，它有平行
+
+610
+00:06:33,166 --> 00:06:36,933
+你也不用处理这些涡轮机的低效率。
+
+611
+00:06:37,400 --> 00:06:41,133
+你也可以用离心机得到钴或金
+
+612
+00:06:42,533 --> 00:06:44,566
+为了得到黄金，我犯了一个错误
+
+613
+00:06:44,966 --> 00:06:47,066
+如果你想得到黄金
+
+614
+00:06:47,800 --> 00:06:48,966
+有多种方式
+
+615
+00:06:48,966 --> 00:06:50,600
+你可以在NEI中弄清楚
+
+616
+00:06:50,600 --> 00:06:54,133
+但我的建议得到黄金是粉碎一些铜
+
+617
+00:06:54,766 --> 00:06:56,066
+然后洗一下
+
+618
+00:06:56,900 --> 00:06:58,866
+关掉磁铁
+
+619
+00:06:58,866 --> 00:06:59,600
+洗一下
+
+620
+00:07:00,900 --> 00:07:02,100
+你可以在NEI中看到
+
+621
+00:07:03,166 --> 00:07:05,133
+如果你洗它，你会得到钴
+
+622
+00:07:06,466 --> 00:07:08,866
+如果你用洗衣机，你会得到钴
+
+623
+00:07:08,866 --> 00:07:11,333
+如果你使用大锅，你不会得到副产品
+
+624
+00:07:11,766 --> 00:07:12,900
+与浸渍器相同
+
+625
+00:07:12,900 --> 00:07:15,333
+得到浸渍步骤的副产品
+
+626
+00:07:15,700 --> 00:07:18,933
+把那些副产品放在浸渍器下面
+
+627
+00:07:19,166 --> 00:07:21,533
+你至少需要一台高压浸渍机
+
+628
+00:07:21,533 --> 00:07:22,866
+前面两层
+
+629
+00:07:22,866 --> 00:07:25,600
+所以现在你不能通过产品来获得这个，例如
+
+630
+00:07:26,200 --> 00:07:27,733
+但要轻松获得黄金
+
+631
+00:07:28,133 --> 00:07:31,200
+你可以这样处理铜
+
+632
+00:07:31,200 --> 00:07:32,266
+所以首先你要浸渍它
+
+633
+00:07:32,266 --> 00:07:33,866
+然后你用大锅洗
+
+634
+00:07:33,900 --> 00:07:35,866
+我是说你可以用普通的洗衣机。
+
+635
+00:07:35,866 --> 00:07:40,966
+但那台机器又一次相当缓慢和烦人
+
+636
+00:07:44,666 --> 00:07:48,133
+有一个蒸汽版多块
+
+637
+00:07:48,933 --> 00:07:53,000
+但我现在不需要那个（副产品？）
+
+638
+00:07:53,000 --> 00:07:56,400
+所以我就简单地用这种方式
+
+639
+00:07:56,866 --> 00:08:00,166
+然后你把它扔进离心机
+
+640
+00:08:01,000 --> 00:08:05,566
+在尘埃结束后，这应该会给我们带来黄金。
+
+641
+00:08:06,666 --> 00:08:07,466
+来吧
+
+642
+00:08:10,000 --> 00:08:12,166
+好的，我可以得到这样的黄金。
+
+643
+00:08:12,366 --> 00:08:14,066
+锂也是如此
+
+644
+00:08:14,900 --> 00:08:22,400
+你会发现这种矿石很容易找到和收集
+
+645
+00:08:24,266 --> 00:08:27,000
+离心分离不纯的灰尘，你得到锂
+
+646
+00:08:27,000 --> 00:08:29,000
+所以要得到这个，你不洗它
+
+647
+00:08:29,533 --> 00:08:31,400
+你不洗就把它压碎了
+
+648
+00:08:32,166 --> 00:08:33,333
+顺便获得领先地位
+
+649
+00:08:33,333 --> 00:08:36,666
+你必须制作一个快速而肮脏的门户生成器才能访问暮光之城森林
+
+650
+00:08:36,966 --> 00:08:39,800
+在这里你会发现一条由铅和银制成的矿脉
+
+651
+00:08:39,800 --> 00:08:42,000
+您可以使用它来制作potin
+
+652
+00:08:42,566 --> 00:08:44,933
+这是最好的管道材料之一
+
+653
+00:08:44,933 --> 00:08:46,500
+至少在这层
+
+654
+00:08:46,533 --> 00:08:49,366
+这是非常非常好的管道材料。
+
+655
+00:08:50,533 --> 00:08:51,566
+但最重要的是
+
+656
+00:08:51,766 --> 00:08:54,900
+我们可以用银来买高压太阳能锅炉
+
+657
+00:08:55,000 --> 00:08:57,600
+这是我最喜欢的发电方式
+
+658
+00:08:58,600 --> 00:09:00,600
+这些锅炉的主要问题是
+
+659
+00:09:00,600 --> 00:09:08,700
+每一个现在然后你必须打破和删除块如果你不想失去三分之二您的蒸汽生产
+
+660
+00:09:09,100 --> 00:09:10,466
+当你这么做的时候
+
+661
+00:09:10,733 --> 00:09:13,266
+这些需要很多水才能装满
+
+662
+00:09:13,566 --> 00:09:18,266
+所以，你最好有一个好的系统来确保那些永远不会用完水。
+
+663
+00:09:18,733 --> 00:09:20,766
+尤其是当您更换块时
+
+664
+00:09:21,600 --> 00:09:23,700
+大约有20个这样的太阳能锅炉
+
+665
+00:09:23,700 --> 00:09:26,133
+我们终于可以为这个时代的主要目标提供动力了
+
+666
+00:09:26,166 --> 00:09:27,900
+电高炉
+
+667
+00:09:28,600 --> 00:09:33,066
+这个多区块的主要挑战是如何正确地给它加油
+
+668
+00:09:33,600 --> 00:09:36,533
+这个多块运行将需要一百二十欧盟每滴答
+
+669
+00:09:36,533 --> 00:09:37,933
+正如我之前展示的那样
+
+670
+00:09:37,933 --> 00:09:40,933
+那些电缆有一点损耗
+
+671
+00:09:41,666 --> 00:09:46,000
+在这种情况下，你真的没有多少犯错的余地
+
+672
+00:09:46,000 --> 00:09:49,800
+所以给出的建议是使用两个能量舱口
+
+673
+00:09:50,266 --> 00:09:53,933
+两个能源舱口各一根电缆
+
+674
+00:09:54,333 --> 00:09:55,733
+不要把那两个联系起来
+
+675
+00:09:56,333 --> 00:10:03,566
+然后你把涡轮机直接连接到那些电缆上
+
+676
+00:10:04,400 --> 00:10:08,066
+问题是每一个能量舱口都能接受2安培的电流
+
+677
+00:10:08,966 --> 00:10:12,866
+机器本身需要四安培每滴答三十欧盟
+
+678
+00:10:13,066 --> 00:10:14,966
+所以这里你损失了一个。
+
+679
+00:10:15,133 --> 00:10:17,500
+用一个街区，你已经得到了三十一个。
+
+680
+00:10:17,500 --> 00:10:18,733
+如果你再失去一个
+
+681
+00:10:18,900 --> 00:10:20,566
+你没有余量
+
+682
+00:10:20,566 --> 00:10:22,366
+你基本上是净收益者（？）
+
+683
+00:10:22,366 --> 00:10:25,266
+所以如果由于某种原因一些能量包丢失了
+
+684
+00:10:26,066 --> 00:10:27,733
+在多块将失败
+
+685
+00:10:28,166 --> 00:10:31,500
+如果你愿意，你也可以添加第三个能量舱口
+
+686
+00:10:31,600 --> 00:10:36,500
+第三个能量舱口将提供未使用的额外能量摄入
+
+687
+00:10:36,533 --> 00:10:38,566
+这可以弥补电力损失
+
+688
+00:10:39,866 --> 00:10:42,966
+我不建议在这里使用电池缓冲器
+
+689
+00:10:42,966 --> 00:10:44,800
+但理论上你可以
+
+690
+00:10:45,366 --> 00:10:52,700
+但你仍然有一个问题，你必须确保多块得到一百二十欧盟每滴答
+
+691
+00:10:52,700 --> 00:10:54,166
+如果你使用两个能量舱口
+
+692
+00:10:54,700 --> 00:10:56,200
+必须让它变得超级紧
+
+693
+00:10:56,366 --> 00:10:59,966
+您可以为损失添加第三个
+
+694
+00:10:59,966 --> 00:11:03,333
+我会尽量减少这里的能量损失
+
+695
+00:11:04,466 --> 00:11:09,733
+那么这个年龄的一些人使用ben（zene）其他燃料来源
+
+696
+00:11:09,733 --> 00:11:11,000
+我还在用蒸汽
+
+697
+00:11:11,100 --> 00:11:11,866
+使用蒸汽
+
+698
+00:11:11,866 --> 00:11:13,100
+你得小心一点
+
+699
+00:11:13,200 --> 00:11:20,866
+因为LV汽轮机需要每秒一千五百五十二个蒸汽才能运转
+
+700
+00:11:21,000 --> 00:11:23,966
+所以你必须确保你提供了那么多蒸汽
+
+701
+00:11:24,600 --> 00:11:26,000
+那是四个
+
+702
+00:11:26,066 --> 00:11:29,133
+所以我们每秒需要大约七千个蒸汽
+
+703
+00:11:29,866 --> 00:11:32,700
+而普通的potin管只有六千
+
+704
+00:11:33,666 --> 00:11:35,500
+所以我不会冒险用这个。
+
+705
+00:11:35,500 --> 00:11:37,800
+我宁愿选大号的
+
+706
+00:11:39,366 --> 00:11:40,933
+我们走吧。
+
+707
+00:11:41,600 --> 00:11:43,600
+我们为EBF提供动力
+
+708
+00:11:44,166 --> 00:11:45,866
+你还得做维护
+
+709
+00:11:47,300 --> 00:11:53,066
+你可以做一个焊接合金烙铁，这可能就是我要做的。
+
+710
+00:11:53,533 --> 00:11:54,500
+未来，但是
+
+711
+00:11:55,400 --> 00:11:56,766
+现在我很懒
+
+712
+00:11:56,900 --> 00:11:58,466
+我们去拿胶带
+
+713
+00:11:58,900 --> 00:12:00,400
+我是说赃物袋没那么好
+
+714
+00:12:00,400 --> 00:12:01,933
+那是一次性物品。
+
+715
+00:12:01,933 --> 00:12:03,600
+所以可能战利品袋更好。
+
+716
+00:12:03,900 --> 00:12:04,966
+但我很懒
+
+717
+00:12:04,966 --> 00:12:06,266
+所以我们走吧
+
+718
+00:12:06,666 --> 00:12:07,600
+顺便说一句
+
+719
+00:12:07,600 --> 00:12:11,600
+如果出于某种原因，您的多块失去了维护
+
+720
+00:12:14,366 --> 00:12:17,633
+会及时进行维护
+
+721
+00:12:20,466 --> 00:12:22,100
+好的这里你可以看到
+
+722
+00:12:22,666 --> 00:12:25,600
+所需的工具是不同的东西。
+
+723
+00:12:25,733 --> 00:12:28,000
+所以你可以看到第一个是撬棍
+
+724
+00:12:28,100 --> 00:12:29,900
+第二个应该是软的
+
+725
+00:12:29,900 --> 00:12:32,333
+软槌和硬锤都有
+
+726
+00:12:32,600 --> 00:12:34,566
+螺丝刀合金和扳手
+
+727
+00:12:34,900 --> 00:12:36,900
+所以你拿着那些工具
+
+728
+00:12:36,900 --> 00:12:40,333
+点击维护舱口内的工具
+
+729
+00:12:41,500 --> 00:12:43,166
+我点击舱门
+
+730
+00:12:43,166 --> 00:12:44,500
+但是我们没有
+
+731
+00:12:44,500 --> 00:12:46,666
+你也可以点击这两个东西。
+
+732
+00:12:46,666 --> 00:12:49,500
+我之前展示了胶带
+
+733
+00:12:49,533 --> 00:12:51,366
+现在你可以看到扳手完成了
+
+734
+00:12:52,500 --> 00:12:57,666
+但最好的办法是得到一个现场工程师工具箱
+
+735
+00:12:58,400 --> 00:13:00,766
+但那东西需要一些聚乙烯
+
+736
+00:13:01,300 --> 00:13:05,700
+我本来打算把聚乙烯留到下一集
+
+737
+00:13:05,700 --> 00:13:06,866
+但你知道吗？
+
+738
+00:13:06,900 --> 00:13:09,133
+让我们看看LV中的一些自动化
+
+739
+00:13:09,700 --> 00:13:12,333
+聚乙烯是一条很长的工艺链
+
+740
+00:13:12,333 --> 00:13:15,700
+我的意思是，如果你知道GTNH，它并没有那么长。
+
+741
+00:13:16,166 --> 00:13:19,700
+但这是你最想做的第一件事
+
+742
+00:13:19,700 --> 00:13:22,333
+有很多方法可以继续这样做
+
+743
+00:13:23,066 --> 00:13:24,266
+可能会有点迷路
+
+744
+00:13:24,700 --> 00:13:27,966
+对聚乙烯的追求实际上是在MV中
+
+745
+00:13:27,966 --> 00:13:31,266
+但你完全可以在LV中做到这一点
+
+746
+00:13:31,266 --> 00:13:34,200
+我实际上建议在LV做
+
+747
+00:13:34,500 --> 00:13:38,000
+硅和聚乙烯任务线
+
+748
+00:13:39,300 --> 00:13:41,266
+所以，为了成功，第一个
+
+749
+00:13:41,333 --> 00:13:42,866
+正如我所说有很多方法
+
+750
+00:13:43,566 --> 00:13:47,300
+最有可能的，我建议从石油开始
+
+751
+00:13:48,366 --> 00:13:50,400
+但在我们去采油之前
+
+752
+00:13:50,400 --> 00:13:54,266
+我想我们希望我们的高炉开始运转
+
+753
+00:13:54,666 --> 00:13:57,566
+烙铁是最讨厌的制作工具
+
+754
+00:13:58,500 --> 00:13:59,866
+和其他工具一样
+
+755
+00:14:00,166 --> 00:14:02,266
+你可以用许多不同的方法来制作它
+
+756
+00:14:02,666 --> 00:14:06,366
+我只是选择了钢螺栓版本，但是
+
+757
+00:14:06,933 --> 00:14:10,133
+你可以用许多不同的东西来制作它。
+
+758
+00:14:11,066 --> 00:14:15,200
+只要用你有的任何电池和螺栓
+
+759
+00:14:15,200 --> 00:14:21,300
+唯一的问题是每种材料都有不同的杆
+
+760
+00:14:22,100 --> 00:14:24,900
+我用的是带铁棒的钢螺栓
+
+761
+00:14:25,400 --> 00:14:27,600
+我已经在没有录音的情况下制作了它
+
+762
+00:14:29,166 --> 00:14:30,533
+这是一个电动工具
+
+763
+00:14:30,533 --> 00:14:32,100
+所以你必须给它充电。
+
+764
+00:14:32,133 --> 00:14:35,366
+您可以将其放入机器的任何充电槽中
+
+765
+00:14:35,366 --> 00:14:36,566
+然后你给它充电
+
+766
+00:14:37,000 --> 00:14:41,866
+您还需要一些焊接合金在您的库存
+
+767
+00:14:45,733 --> 00:14:49,500
+它是由锡和锑一起制成的
+
+768
+00:14:50,700 --> 00:14:54,300
+然后你只要把它穿过钢丝绳来制作细线
+
+769
+00:14:54,900 --> 00:14:56,900
+一旦你有了所有的工具
+
+770
+00:14:56,933 --> 00:14:58,966
+你只要点击这个
+
+771
+00:14:59,300 --> 00:15:00,866
+我想我必须移动工具
+
+772
+00:15:02,133 --> 00:15:04,166
+如果你没有工具箱
+
+773
+00:15:04,166 --> 00:15:07,700
+您必须手动单击每个工具
+
+774
+00:15:08,000 --> 00:15:10,166
+做街区的维护
+
+775
+00:15:10,900 --> 00:15:14,666
+再一次，你可以这样做，或者稍后我们会得到这个。
+
+776
+00:15:14,666 --> 00:15:17,366
+基本上你把所有工具都放在这个东西里
+
+777
+00:15:17,366 --> 00:15:19,166
+然后你简单地用这个东西
+
+778
+00:15:19,566 --> 00:15:22,200
+或者你就像我之前一样用胶带
+
+779
+00:15:23,466 --> 00:15:25,666
+现在它可以再次运行
+
+780
+00:15:26,933 --> 00:15:29,400
+好，我们有高炉了。
+
+781
+00:15:29,966 --> 00:15:33,400
+我们可以用这个更快地炼钢
+
+782
+00:15:38,933 --> 00:15:41,566
+它能在五秒内炼钢
+
+783
+00:15:41,733 --> 00:15:46,400
+不像砖版的六分钟
+
+784
+00:15:46,866 --> 00:15:48,266
+它使用了相当多的能量
+
+785
+00:15:48,366 --> 00:15:50,166
+它应该更节能。
+
+786
+00:15:51,066 --> 00:15:54,000
+在原始砖高炉中炼钢
+
+787
+00:15:54,000 --> 00:15:58,333
+你需要四块煤
+
+788
+00:15:59,700 --> 00:16:03,000
+而在这里你需要一万二千欧盟
+
+789
+00:16:03,000 --> 00:16:04,400
+还有氧气
+
+790
+00:16:06,066 --> 00:16:13,700
+但问题是，例如，这个锅炉可以用一种煤产生近四万个蒸汽
+
+791
+00:16:13,700 --> 00:16:16,933
+四万蒸汽就是两万欧盟
+
+792
+00:16:17,733 --> 00:16:21,900
+用这个锅炉一个煤就能做一个半手指
+
+793
+00:16:22,466 --> 00:16:26,300
+而这里我们需要四块煤
+
+794
+00:16:26,300 --> 00:16:28,533
+所以，在能源方面，它更有效率。
+
+795
+00:16:28,533 --> 00:16:30,400
+我没有考虑电力损失
+
+796
+00:16:30,400 --> 00:16:31,500
+但或多或少
+
+797
+00:16:33,266 --> 00:16:35,066
+这就是原因，至少
+
+798
+00:16:35,333 --> 00:16:37,333
+这将是非常足够的三倍
+
+799
+00:16:38,333 --> 00:16:39,800
+这样更快。
+
+800
+00:16:40,400 --> 00:16:44,166
+但是我们建造这个的主要原因不是为了得到钢铁。
+
+801
+00:16:44,166 --> 00:16:45,333
+但要得到铝
+
+802
+00:16:46,000 --> 00:16:51,200
+要做到这一点，我们可以用压缩铝粉75秒
+
+803
+00:16:51,200 --> 00:16:54,400
+我现在都不知道怎么弄纯铝粉
+
+804
+00:16:54,600 --> 00:16:59,066
+在过去的日子里，要找回纯铝灰尘相对容易
+
+805
+00:16:59,066 --> 00:17:03,966
+但我认为现在你甚至不能再得到铝尘了
+
+806
+00:17:04,566 --> 00:17:06,333
+这个可能不好使
+
+807
+00:17:06,700 --> 00:17:08,000
+可能在MV中
+
+808
+00:17:08,200 --> 00:17:12,100
+一旦你开始电击，你就可以得到这个。
+
+809
+00:17:12,100 --> 00:17:16,366
+正确的方法是将氧化铝和冰晶石混合在一起
+
+810
+00:17:17,600 --> 00:17:20,200
+冰晶石是一种可以在暮色森林中找到的矿石
+
+811
+00:17:20,300 --> 00:17:23,766
+虽然氧化铝可以从一些东西中获得
+
+812
+00:17:25,200 --> 00:17:29,133
+我不建议，但你可以在暮色森林里找到很多蓝宝石
+
+813
+00:17:29,533 --> 00:17:32,300
+你可以将蓝宝石EBF转化为氧化铝
+
+814
+00:17:32,900 --> 00:17:35,366
+但这只是一种方法
+
+815
+00:17:36,500 --> 00:17:39,200
+对于这层我要给你的最大建议
+
+816
+00:17:39,500 --> 00:17:44,966
+这个视频可能是质量最低的视频之一
+
+817
+00:17:46,600 --> 00:17:48,700
+我只是跟着任务书走
+
+818
+00:17:48,700 --> 00:17:54,533
+在这个时代有很多事情你可能想做或不想做
+
+819
+00:17:54,533 --> 00:17:57,600
+我最大的建议就是四处看看
+
+820
+00:17:57,700 --> 00:17:59,566
+弄清楚你认为你可能喜欢什么
+
+821
+00:17:59,700 --> 00:18:00,766
+尝试不同的东西
+
+822
+00:18:01,900 --> 00:18:06,866
+我是想告诉你你应该记住的主要事情，我知道。
+
+823
+00:18:06,933 --> 00:18:12,666
+但我不认为仅仅看视频会对你有太大帮助
+
+824
+00:18:13,000 --> 00:18:16,000
+试着自己解决问题
+
+825
+00:18:16,366 --> 00:18:18,000
+记得看每个任务
+
+826
+00:18:18,133 --> 00:18:21,933
+并记得查看NEI中的每一个可能的食谱
+
+827
+00:18:21,933 --> 00:18:24,333
+因为有很多食谱
+
+828
+00:18:24,400 --> 00:18:26,000
+做事的许多方法
+
+829
+00:18:26,366 --> 00:18:29,333
+大多数食谱也在回收利用
+
+830
+00:18:30,533 --> 00:18:34,966
+modpack也在不断获得更新，这些更新不断改变事物
+
+831
+00:18:40,166 --> 00:18:42,600
+在这个时代我最大的建议是
+
+832
+00:18:42,866 --> 00:18:47,200
+你有一个巨大的等待时间来蒸馏或其他东西
+
+833
+00:18:47,766 --> 00:18:50,700
+所以利用等待时间四处看看
+
+834
+00:18:50,700 --> 00:18:52,966
+并弄清楚你如何做事
+
+835
+00:18:54,600 --> 00:18:57,800
+仅仅是加工冰晶石的铝副产品
+
+836
+00:18:57,866 --> 00:18:59,900
+我们现在可以打开EBF了
+
+837
+00:19:09,800 --> 00:19:12,100
+这需要一点时间。
+
+838
+00:19:12,100 --> 00:19:17,833
+但是每一个新层我们都会有一种材料需要一点时间来处理
+
+839
+00:19:17,833 --> 00:19:21,400
+像往常一样，利用这段时间想想你还能做什么
+
+840
+00:19:21,400 --> 00:19:24,266
+或者只是建造更多的机器
+
+841
+00:19:25,466 --> 00:19:27,666
+这次跑步我要冷静一下
+
+842
+00:19:27,766 --> 00:19:31,466
+所以我要把游戏挂机，直到我们有很多铝
+
+843
+00:19:32,733 --> 00:19:34,533
+经过一点等待
+
+844
+00:19:34,600 --> 00:19:39,333
+我们有足够的铝来买（？）两台MV机器
+
+845
+00:19:40,266 --> 00:19:41,533
+两台MV机
+
+846
+00:19:41,600 --> 00:19:42,700
+电解器
+
+847
+00:19:42,700 --> 00:19:43,500
+其实还行
+
+848
+00:19:43,500 --> 00:19:44,500
+用这个
+
+849
+00:19:44,600 --> 00:19:46,500
+我可以得到一个MV电解器
+
+850
+00:19:46,500 --> 00:19:50,500
+MV电解器将使铝生产更容易
+
+851
+00:19:50,933 --> 00:19:52,533
+因为理论上
+
+852
+00:19:52,666 --> 00:19:59,100
+我们可以电解大量的粘土来获得我们可能需要的所有铝
+
+853
+00:19:59,666 --> 00:20:03,266
+我通常得到铝的主要方法之一是
+
+854
+00:20:04,000 --> 00:20:08,000
+是的，去MV，因为你需要那个食谱的MV。
+
+855
+00:20:08,500 --> 00:20:11,400
+Lazurite，这是一种你可以大量获得的矿石
+
+856
+00:20:12,000 --> 00:20:13,700
+一石十二石
+
+857
+00:20:14,266 --> 00:20:15,400
+所以你可以得到很多这个。
+
+858
+00:20:15,400 --> 00:20:19,266
+这个含有大量的硅、钠、铝、钙，都是好东西。
+
+859
+00:20:20,766 --> 00:20:22,700
+但是主要的方式，哦，等等
+
+860
+00:20:22,733 --> 00:20:24,800
+他们变了吗，哦，等等
+
+861
+00:20:27,000 --> 00:20:29,133
+不要建议像meta一样
+
+862
+00:20:29,166 --> 00:20:30,766
+不是真正的元，但是
+
+863
+00:20:31,300 --> 00:20:32,266
+哦，是的，这个。
+
+864
+00:20:32,266 --> 00:20:33,700
+不知道为什么我找不到它
+
+865
+00:20:34,000 --> 00:20:35,600
+这是一个非常好的食谱
+
+866
+00:20:35,600 --> 00:20:37,600
+如果你找到一个峡谷生物群落
+
+867
+00:20:38,333 --> 00:20:40,966
+设置一点自动化
+
+868
+00:20:40,966 --> 00:20:46,866
+在那里你可以通过所有的粘土将世界峡谷生物群落隧道到浸渍器中
+
+869
+00:20:46,933 --> 00:20:50,700
+然后电解得到大量的这些东西
+
+870
+00:20:50,933 --> 00:20:53,300
+钠可以燃烧，等等可以吗？
+
+871
+00:20:53,866 --> 00:20:56,366
+哦，是的，你可以在锅炉里燃烧钠
+
+872
+00:20:56,366 --> 00:20:57,800
+我想他们削弱了它
+
+873
+00:20:57,966 --> 00:20:59,766
+我记得这个烧得更厉害
+
+874
+00:20:59,900 --> 00:21:02,866
+但很可能你想把钠用于其他东西
+
+875
+00:21:02,866 --> 00:21:08,066
+如果您想稍后使用带有钠的电池缓冲液，您可以制作一些不错的电池
+
+876
+00:21:08,366 --> 00:21:09,933
+锂非常适合电池
+
+877
+00:21:09,933 --> 00:21:10,900
+别烧了它
+
+878
+00:21:11,333 --> 00:21:13,500
+然后你得到铝
+
+879
+00:21:13,500 --> 00:21:14,366
+你得到铝
+
+880
+00:21:14,800 --> 00:21:18,566
+我想这些是用来生产五个铝的配方
+
+881
+00:21:19,000 --> 00:21:22,466
+所以，好吧，现在这是生产铝的垃圾
+
+882
+00:21:22,733 --> 00:21:24,133
+这曾经是一种方式
+
+883
+00:21:24,766 --> 00:21:28,100
+收集所有的粘土也是一点手工工作。
+
+884
+00:21:28,100 --> 00:21:31,800
+但我认为现在已经不是这样做的方式了
+
+885
+00:21:31,900 --> 00:21:35,200
+我想我会想出另一种方法来得到铝
+
+886
+00:21:37,066 --> 00:21:43,666
+不管怎样，你想从你的EBF中得到的另一件事是一些砷化镓
+
+887
+00:21:45,133 --> 00:21:48,166
+你可以通过不同的途径获得砷
+
+888
+00:21:48,166 --> 00:21:49,966
+再一次检查任务书
+
+889
+00:21:50,500 --> 00:21:53,000
+我从雄黄离心中得到的
+
+890
+00:21:53,133 --> 00:21:55,300
+但那有点呃
+
+891
+00:21:56,800 --> 00:21:59,700
+就像我有雄黄一样，所以我就用了它。
+
+892
+00:22:00,466 --> 00:22:03,666
+这是一种你可以在地狱里找到的小矿石
+
+893
+00:22:03,666 --> 00:22:06,666
+这个在地狱里产卵为小矿石
+
+894
+00:22:08,366 --> 00:22:09,533
+只是随机的矿石
+
+895
+00:22:09,666 --> 00:22:11,133
+当你收集其他材料时
+
+896
+00:22:11,133 --> 00:22:12,566
+你可能会得到一些这样的东西。
+
+897
+00:22:12,933 --> 00:22:14,166
+你可以离心它
+
+898
+00:22:14,200 --> 00:22:15,200
+可能就够了
+
+899
+00:22:15,933 --> 00:22:20,466
+然后对于镓，您使用闪锌矿
+
+900
+00:22:20,466 --> 00:22:24,400
+在这里，我正在处理闪锌矿，因为我确实需要镓。
+
+901
+00:22:25,366 --> 00:22:27,566
+应该是，让我们检查一下他们是否也改变了它，是的
+
+902
+00:22:27,566 --> 00:22:29,300
+你电解这个闪锌矿
+
+903
+00:22:29,300 --> 00:22:31,566
+你有百分之九的机会染上镓
+
+904
+00:22:32,400 --> 00:22:37,166
+但如果我们有高压浓缩机
+
+905
+00:22:37,466 --> 00:22:39,966
+我们可以从闪锌矿中得到更多的镓
+
+906
+00:22:40,466 --> 00:22:41,800
+也有其他办法
+
+907
+00:22:42,100 --> 00:22:47,466
+闪锌矿也用于我们稍后会看到的东西
+
+908
+00:22:48,566 --> 00:22:54,300
+所以，我想说不要处理，否则你不需要处理。
+
+909
+00:22:55,000 --> 00:22:58,333
+因为将来这种矿石会很有用
+
+910
+00:22:58,933 --> 00:23:06,366
+但我也在想，当我们最终看到这个东西时，我们需要这个。
+
+911
+00:23:06,400 --> 00:23:10,366
+到时候，我们会有一些巨大的多区块钻机
+
+912
+00:23:10,400 --> 00:23:13,200
+那会给我们带来这么多矿石
+
+913
+00:23:13,200 --> 00:23:20,666
+我们在这层保存的东西与我们在那个时代能得到的东西相比毫无意义
+
+914
+00:23:20,666 --> 00:23:23,100
+另外，我不会给你列清单
+
+915
+00:23:23,100 --> 00:23:25,000
+你当然不想处理
+
+916
+00:23:25,000 --> 00:23:26,933
+那样玩没有任何意义
+
+917
+00:23:27,100 --> 00:23:30,100
+我倾向于保存那些材料
+
+918
+00:23:30,100 --> 00:23:31,933
+因为我已经知道会怎样了
+
+919
+00:23:31,933 --> 00:23:34,133
+但如果你不知道这些事
+
+920
+00:23:34,133 --> 00:23:35,700
+甚至不要试图调查它
+
+921
+00:23:36,933 --> 00:23:39,166
+在一次太不幸的跑步之后
+
+922
+00:23:39,166 --> 00:23:41,066
+我们终于找到镓粉了
+
+923
+00:23:41,966 --> 00:23:47,233
+我们可以把它和第二电路一起扔进熔炉
+
+924
+00:23:47,233 --> 00:23:50,533
+制造砷化镓，完美
+
+925
+00:23:56,133 --> 00:23:58,900
+任务书想让你用它
+
+926
+00:23:59,000 --> 00:23:59,966
+浸渍它
+
+927
+00:23:59,966 --> 00:24:00,800
+制造二极管
+
+928
+00:24:02,066 --> 00:24:05,400
+但是再一次
+
+929
+00:24:06,333 --> 00:24:11,700
+任务书建议你做这个食谱，让你的两个二极管…
+
+930
+00:24:13,066 --> 00:24:18,733
+我认为16个二极管的一个砷化镓一旦你把它浸渍成小灰尘
+
+931
+00:24:19,266 --> 00:24:20,900
+但如果你用聚乙烯
+
+932
+00:24:20,900 --> 00:24:22,266
+你能拿到两倍的钱
+
+933
+00:24:22,600 --> 00:24:25,766
+如果你先走一步做华夫饼
+
+934
+00:24:25,900 --> 00:24:27,266
+那些是必需的硅
+
+935
+00:24:27,900 --> 00:24:31,066
+你会得到更多
+
+936
+00:24:31,066 --> 00:24:34,500
+因为这个威化饼你可以从一个球中得到16个。
+
+937
+00:24:34,600 --> 00:24:37,533
+一个球的价格是砷化镓的四分之一
+
+938
+00:24:38,100 --> 00:24:44,200
+所以如果你试着在这里做食谱会更有效。
+
+939
+00:24:44,200 --> 00:24:48,733
+这也需要聚乙烯和硅，我之前提到过
+
+940
+00:24:49,266 --> 00:24:50,366
+在我们等待的时候
+
+941
+00:24:53,066 --> 00:24:55,133
+在我们等待的时候
+
+942
+00:24:56,600 --> 00:25:00,066
+就像你可以用更好的食谱一样
+
+943
+00:25:00,166 --> 00:25:03,866
+收集更多闪锌矿
+
+944
+00:25:03,866 --> 00:25:07,133
+从钴中提炼出砷
+
+945
+00:25:07,133 --> 00:25:09,266
+然后就这样吧
+
+946
+00:25:09,800 --> 00:25:13,733
+或者你可以只做我之前提到的两个设置
+
+947
+00:25:14,866 --> 00:25:18,000
+现在，正如我在开始这段视频时多次说过的那样
+
+948
+00:25:18,266 --> 00:25:21,066
+通常在LV中获得硅和聚乙烯
+
+949
+00:25:21,166 --> 00:25:22,200
+所以可以这样做
+
+950
+00:25:22,400 --> 00:25:25,200
+但问题是现在给机器供电
+
+951
+00:25:25,266 --> 00:25:27,700
+我到处都在放蒸汽机
+
+952
+00:25:29,000 --> 00:25:32,333
+很多人，在我看来太多人了
+
+953
+00:25:32,533 --> 00:25:35,600
+喜欢垃圾邮件生成器
+
+954
+00:25:35,600 --> 00:25:38,000
+就像他们甚至添加了
+
+955
+00:25:39,666 --> 00:25:43,766
+他们甚至增加了一个IV燃气轮机
+
+956
+00:25:44,200 --> 00:25:46,933
+许多人喜欢有一个主燃料管
+
+957
+00:25:47,500 --> 00:25:50,266
+用一些能量密实的液体制作管道
+
+958
+00:25:50,300 --> 00:25:52,666
+就像你使用柴油或汽油一样
+
+959
+00:25:52,933 --> 00:25:57,066
+一根超级小管道可以为非常强大的饥饿机器提供燃料
+
+960
+00:25:57,300 --> 00:25:58,133
+如果你用蒸汽
+
+961
+00:25:58,133 --> 00:25:59,333
+你需要巨大的管道
+
+962
+00:25:59,766 --> 00:26:04,266
+但我不喜欢的是那些管道和发电机
+
+963
+00:26:04,600 --> 00:26:09,200
+感觉发电机看起来没那么贵。
+
+964
+00:26:09,200 --> 00:26:11,700
+但我就是不喜欢那种打法
+
+965
+00:26:12,000 --> 00:26:14,333
+我宁愿早点集中精力
+
+966
+00:26:14,400 --> 00:26:16,866
+通常我把能量集中在高压
+
+967
+00:26:16,866 --> 00:26:21,000
+但是在这次跑步中，我想我会试着看看我是否能把力量集中在MV中。
+
+968
+00:26:21,000 --> 00:26:26,200
+我要用拉祖尔石得到一些好的钠电池。
+
+969
+00:26:26,366 --> 00:26:28,333
+我想我要挖很多lazurites
+
+970
+00:26:28,533 --> 00:26:29,766
+用它做铝
+
+971
+00:26:29,766 --> 00:26:32,400
+并用钠制造大量电池
+
+972
+00:26:33,000 --> 00:26:36,933
+我打算用它来集中MV的力量
+
+973
+00:26:39,100 --> 00:26:43,000
+将功率集中在MV，你仍然有一点功率损失，但是
+
+974
+00:26:44,100 --> 00:26:46,666
+使用退火电缆
+
+975
+00:26:46,900 --> 00:26:51,900
+基本上，每个电缆块损失不到1%的能量。
+
+976
+00:26:52,500 --> 00:26:56,666
+您还可以真正制作高压变压器并升级
+
+977
+00:26:56,666 --> 00:26:57,733
+所以你输了
+
+978
+00:26:59,400 --> 00:27:01,166
+零点百分之二的能量
+
+979
+00:27:01,166 --> 00:27:03,866
+我认为这是完全可以管理的。
+
+980
+00:27:03,900 --> 00:27:07,500
+但我想这是我下一集要做的事情。
+
+981
+00:27:08,300 --> 00:27:12,400
+所以我想今天我可以到此为止了
+
+982
+00:27:12,500 --> 00:27:16,000
+下一集MV权力集中见
+
+983
+00:27:16,666 --> 00:27:18,533
+我想从来没有人这样做过
+
+984
+00:27:18,533 --> 00:27:21,433
+我会因此获得一些名声
+
+985
+00:27:21,433 --> 00:27:23,733
+嗯，我可以做得很好。
+
+986
+00:27:23,733 --> 00:27:24,333
+拜拜
+
