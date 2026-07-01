@@ -2,7 +2,7 @@
   "meta": {
     "description": "GTNH video subtitle EN→CN terminology database — sourced from existing translations in this repo",
     "version": "2.0",
-    "last_updated": "2026-06-17",
+    "last_updated": "2026-07-01",
     "usage": "When translating English subtitles to Chinese, consult this glossary for consistent terminology and known conventions."
   },
   "known_conventions": {
@@ -456,5 +456,39 @@
     "thanks for watching": "感谢观看",
     "figure out": "搞清楚",
     "make sure": "确保"
+  },
+  "particle_physics_and_beams": {
+    "_note": "Terms used in GTNH particle physics / beamline / LHC content.",
+    "Large Hadron Collider": "大型强子对撞机",
+    "LHC": "LHC",
+    "cyclotron": "回旋加速器",
+    "compact cyclotron": "紧凑型回旋加速器",
+    "collider": "对撞机",
+    "accelerator": "加速器",
+    "beamline": "束流线",
+    "beamcrafter": "束流合成器",
+    "beamcrafting": "束流合成",
+    "beam crafting": "束流合成",
+    "beam": "束流",
+    "particle beam": "粒子束",
+    "beam mirror": "束流镜",
+    "beam stabilizer": "束流稳定器",
+    "beam splitter": "束流分离器",
+    "particle": "粒子",
+    "electron": "电子",
+    "muon": "μ子",
+    "photon": "光子",
+    "quark": "夸克",
+    "electron volt": "eV",
+    "giga electron volt": "GeV",
+    "GeV": "GeV",
+    "collimation": "准直",
+    "focus": "聚焦",
+    "quantum anomaly": "量子反常",
+    "unknown particle": "未知粒子",
+    "quark releasing catalyst": "夸克释放催化剂",
+    "Grade 8 water": "8级水",
+    "asymptote": "渐近线",
+    "tooltip": "工具提示",
   }
 }
