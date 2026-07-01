@@ -40,7 +40,7 @@ I want to play a industrial game, technological game
 
 11
 00:00:35,700 --> 00:00:40,800
-and brick blast furnance is the way we go for a industrial technological game
+and brick blast furnace is the way we go for a industrial technological game
 
 12
 00:00:40,800 --> 00:00:43,333
@@ -60,7 +60,7 @@ too many steel
 
 16
 00:00:52,800 --> 00:00:57,300
-by the way, going in such polluted areas can give you quite some debuff
+by the way, going in such polluted areas can give you quite some debuffs
 
 17
 00:00:58,266 --> 00:01:00,100
@@ -804,7 +804,7 @@ I would try to reduce as much as possible the power loss here
 
 202
 00:11:04,466 --> 00:11:09,733
-then some people at this age use ben(zene) other fuel sources
+then some people at this age use benzene other fuel sources
 
 203
 00:11:09,733 --> 00:11:11,000
@@ -860,7 +860,7 @@ you also have to do maintenance
 
 216
 00:11:47,300 --> 00:11:53,066
-you can make a soldering alloyldering iron which is probably what I'm going to do
+you can make a soldering alloy, soldering iron which is probably what I'm going to do
 
 217
 00:11:53,533 --> 00:11:54,500
@@ -904,7 +904,7 @@ if for whatever reason your multiblock loses its maintenance
 
 227
 00:12:14,366 --> 00:12:17,633
-will be prompt to do maintaince
+will be prompt to do maintenance
 
 228
 00:12:20,466 --> 00:12:22,100
@@ -928,7 +928,7 @@ there are both the soft mallet and the hard hammer
 
 233
 00:12:32,600 --> 00:12:34,566
-screwdriverldering alloy and wrench
+screwdriver, soldering alloy and wrench
 
 234
 00:12:34,900 --> 00:12:36,900
@@ -960,7 +960,7 @@ now you can see the wrench is done
 
 241
 00:12:52,500 --> 00:12:57,666
-but the best thing is to just get a field engieneer toolbox
+but the best thing is to just get a field engineer toolbox
 
 242
 00:12:58,400 --> 00:13:00,766
@@ -1032,7 +1032,7 @@ but before we actually go get oil
 
 259
 00:13:50,400 --> 00:13:54,266
-I think we want our blast furnance to start running
+I think we want our blast furnace to start running
 
 260
 00:13:54,666 --> 00:13:57,566
@@ -1256,7 +1256,7 @@ probably in MV
 
 315
 00:17:08,200 --> 00:17:12,100
-once you start electrolzing, you can get this one
+once you start electrolyzing, you can get this one
 
 316
 00:17:12,100 --> 00:17:16,366
@@ -1392,7 +1392,7 @@ this run I'm going to chill out
 
 349
 00:19:27,766 --> 00:19:31,466
-so I'm just going to leave the game AFK until we have a lot of aluminium
+so I'm just going to leave the game AFK until we have a lot of aluminum
 
 350
 00:19:32,733 --> 00:19:34,533
@@ -1400,7 +1400,7 @@ and after a little bit of waiting
 
 351
 00:19:34,600 --> 00:19:39,333
-we got enough aluminium to get (?) two MV machines
+we got enough aluminum to get (?) two MV machines
 
 352
 00:19:40,266 --> 00:19:41,533
@@ -1408,7 +1408,7 @@ two MV machines
 
 353
 00:19:41,600 --> 00:19:42,700
-the electrolizer
+the electrolyzer
 
 354
 00:19:42,700 --> 00:19:43,500
@@ -1420,11 +1420,11 @@ with this one
 
 356
 00:19:44,600 --> 00:19:46,500
-I can get an MV electrolizer
+I can get an MV electrolyzer
 
 357
 00:19:46,500 --> 00:19:50,500
-and the MV electrolizer will making aluminum production way easier
+and the MV electrolyzer will making aluminum production way easier
 
 358
 00:19:50,933 --> 00:19:52,533
@@ -1432,7 +1432,7 @@ because theoretically
 
 359
 00:19:52,666 --> 00:19:59,100
-we can just electrolize amount of clay to get all of the aluminum we could possibly need
+we can just electrolyze amount of clay to get all of the aluminum we could possibly need
 
 360
 00:19:59,666 --> 00:20:03,266
@@ -1544,7 +1544,7 @@ you get aluminum
 
 387
 00:21:14,800 --> 00:21:18,566
-these are the recipt used to yield five aluminum, I think
+these are the receipt used to yield five aluminum, I think
 
 388
 00:21:19,000 --> 00:21:22,466
@@ -1572,7 +1572,7 @@ anyways, the other thing you want out of your EBF to progress in MV is some gall
 
 394
 00:21:45,133 --> 00:21:48,166
-you can get your arsenium in different ways
+you can get your arsenic in different ways
 
 395
 00:21:48,166 --> 00:21:49,966
@@ -1816,7 +1816,7 @@ now, as I said so many times starting this video
 
 455
 00:25:18,266 --> 00:25:21,066
-usually get silicon and polythelene in LV
+usually get silicon and polyethylene in LV
 
 456
 00:25:21,166 --> 00:25:22,200
@@ -1900,7 +1900,7 @@ and I'm going to use the lazurite to get some good sodium batteries
 
 476
 00:26:26,366 --> 00:26:28,333
-think I'm going to dig a lot of lazurites
+think I'm going to dig a lot of lazurite
 
 477
 00:26:28,533 --> 00:26:29,766
@@ -2776,7 +2776,7 @@ bye bye
 
 695
 00:11:04,466 --> 00:11:09,733
-那么这个年龄的一些人使用ben（zene）其他燃料来源
+那么这个年龄的一些人使用其他燃料来源
 
 696
 00:11:09,733 --> 00:11:11,000
@@ -3872,7 +3872,7 @@ Lazurite，这是一种你可以大量获得的矿石
 
 969
 00:26:26,366 --> 00:26:28,333
-我想我要挖很多lazurites
+我想我要挖很多lazurite
 
 970
 00:26:28,533 --> 00:26:29,766
