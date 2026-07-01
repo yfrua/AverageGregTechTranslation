@@ -64,11 +64,11 @@ the LHC is a replacement for the old compact Cyclotron or comet which will be re
 
 17
 00:00:49,300 --> 00:00:53,200
-the LHC and beam crafting multites use the existing beamline mechanics
+the LHC and beam crafting multiblocks use the existing beamline mechanics
 
 18
 00:00:53,200 --> 00:00:56,300
-and are actually compatible with the beamline multites
+and are actually compatible with the beamline multiblocks
 
 19
 00:00:56,300 --> 00:01:00,200
