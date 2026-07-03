@@ -7,11 +7,11 @@ assignees: [yfrua, Eniei]
 ---
 
 ## Description
-Video Title, linked [here](url).
+Video_title, linked [here](url).
 Subtitle file located in ``.
 
 ## Workflow
-- [ ] Upload subtitle
+- [ ] Transcript
 - [ ] AI translation
 - [ ] Manual translation
 - [ ] Review/Polish
