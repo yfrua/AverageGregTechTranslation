@@ -951,3570 +951,3558 @@ we can do this
 you can favorite a recipe
 
 239
-00:12:47,666 --> 00:12:49,100
-you can favorite our recipe
-
-240
 00:12:49,100 --> 00:12:53,533
 then you press Ctrl + Shift + A on the favorite
 
-241
+240
 00:12:53,866 --> 00:12:55,233
 and here you got this thing
 
-242
+241
 00:12:55,633 --> 00:12:58,800
 then if you Ctrl + scroll wheel
 
-243
+242
 00:12:59,233 --> 00:13:01,666
 you can set a multiplier
 
-244
+243
 00:13:03,233 --> 00:13:05,800
 then if you have all of the ingredients in your inventory
 
-245
+244
 00:13:07,100 --> 00:13:09,266
 you have to press
 
-246
+245
 00:13:10,033 --> 00:13:11,300
 Shift + C
 
-247
+246
 00:13:12,500 --> 00:13:14,166
 so nice
 
-248
+247
 00:13:16,533 --> 00:13:18,500
 so craft more paper
 
-249
+248
 00:13:18,500 --> 00:13:19,500
 oh that's so good
 
-250
+249
 00:13:22,500 --> 00:13:25,700
 moving things in the crafting table is super annoying to me
 
-251
+250
 00:13:25,700 --> 00:13:28,733
 some people may enjoy moving things in the crafting table, I don't
 
-252
+251
 00:13:29,666 --> 00:13:33,733
 I do enjoy slowly collecting wood at the beginning
 
-253
+252
 00:13:33,733 --> 00:13:35,433
 I mean
 
-254
+253
 00:13:36,300 --> 00:13:39,700
 after collecting enough wood I get tired of it
 
-255
+254
 00:13:39,900 --> 00:13:41,866
 but I enjoy doing it at the beginning
 
-256
+255
 00:13:41,866 --> 00:13:45,466
 like you can go listen to some podcast or
 
-257
+256
 00:13:45,733 --> 00:13:48,300
 have something else play on the background
 
-258
+257
 00:13:48,666 --> 00:13:49,400
 alright
 
-259
+258
 00:13:49,400 --> 00:13:52,700
 Tinker's Construct is probably the most famous mod that is in modern Minecraft
 
-260
+259
 00:13:52,700 --> 00:13:55,700
 but just in case if you don't know how those four works
 
-261
+260
 00:13:55,800 --> 00:13:57,633
 first one is the stencil table
 
-262
+261
 00:13:58,200 --> 00:14:00,000
 here you can decide
 
-263
+262
 00:14:00,000 --> 00:14:02,900
 here you make basically those pattern things
 
-264
+263
 00:14:03,033 --> 00:14:05,033
 those are parts of tools
 
-265
+264
 00:14:05,533 --> 00:14:08,000
 for example I still don't have this one
 
-266
+265
 00:14:08,000 --> 00:14:09,433
 you click you get this
 
-267
+266
 00:14:10,133 --> 00:14:11,933
 if you have a pattern chest
 
-268
+267
 00:14:11,933 --> 00:14:14,200
 this one is just a chest for those things
 
-269
+268
 00:14:14,633 --> 00:14:16,466
 and if you put the next to this one
 
-270
+269
 00:14:16,466 --> 00:14:20,700
 you can access the chest from this one without having to change UI
 
-271
+270
 00:14:21,233 --> 00:14:24,133
 this is part builder which allows you to make
 
-272
+271
 00:14:24,600 --> 00:14:26,533
 to actually make full parts
 
-273
+272
 00:14:26,533 --> 00:14:28,900
 those are the patterns, here you craft things
 
-274
+273
 00:14:28,900 --> 00:14:32,033
 once again this one can access your nearby chest
 
-275
+274
 00:14:32,866 --> 00:14:35,066
 I think we're going to use flint and wood
 
-276
+275
 00:14:35,100 --> 00:14:37,666
 not very sure probably quest book tells you what to do
 
-277
+276
 00:14:38,033 --> 00:14:39,433
 what to use but
 
-278
+277
 00:14:39,933 --> 00:14:41,733
 I'm guessing
 
-279
+278
 00:14:42,200 --> 00:14:45,100
 so I think the quest book wants us to do
 
-280
+279
 00:14:45,100 --> 00:14:46,266
 okay all of this
 
-281
+280
 00:14:46,266 --> 00:14:47,433
 what does it want to do
 
-282
+281
 00:14:47,833 --> 00:14:50,000
 okay pickaxe, shovel, flint axe
 
-283
+282
 00:14:50,300 --> 00:14:53,633
 so you put here the pattern
 
-284
+283
 00:14:53,833 --> 00:14:54,800
 here the material
 
-285
+284
 00:14:54,800 --> 00:14:56,066
 here you got the thing
 
-286
+285
 00:15:02,400 --> 00:15:07,600
 and finally the tool station is the thing that allows you to actually make those tools
 
-287
+286
 00:15:08,033 --> 00:15:12,400
 the tool station can also be used to repair those tools
 
-288
+287
 00:15:14,700 --> 00:15:17,200
 you can repair it with the material of the pickaxe
 
-289
+288
 00:15:17,233 --> 00:15:22,000
 and you can add some stuff to the tools to get some extra additions
 
-290
+289
 00:15:23,533 --> 00:15:25,600
 there is this book which you can easily craft
 
-291
+290
 00:15:25,600 --> 00:15:26,800
 but it was also a reward
 
-292
+291
 00:15:31,300 --> 00:15:32,533
 you craft it again
 
-293
+292
 00:15:32,866 --> 00:15:34,100
 I got the MK2
 
-294
+293
 00:15:34,633 --> 00:15:37,733
 okay here it has you a little bit of things
 
-295
+294
 00:15:38,266 --> 00:15:41,800
 and also it has you the modifier you can add
 
-296
+295
 00:15:42,233 --> 00:15:44,666
 to get extra bonuses
 
-297
+296
 00:15:45,700 --> 00:15:51,466
 but also, more simply if you look in NEI anything like, bronze ingots
 
-298
+297
 00:15:51,900 --> 00:15:54,666
 okay check the usages not the recipes
 
-299
+298
 00:15:54,900 --> 00:15:56,233
 okay tool materials
 
-300
+299
 00:15:56,233 --> 00:15:59,266
 here you can get the stats of those things
 
-301
+300
 00:16:03,200 --> 00:16:05,633
 there are also parts but okay 
 
-302
+301
 00:16:06,000 --> 00:16:09,600
 I think people already know how this mod works
 
-303
+302
 00:16:10,600 --> 00:16:15,266
 also if you collect 270 blocks with that pickaxe
 
-304
+303
 00:16:15,600 --> 00:16:16,866
 it will level up
 
-305
+304
 00:16:17,166 --> 00:16:20,166
 and gain enough your ability to collect iron ore
 
-306
+305
 00:16:23,000 --> 00:16:25,633
 but pure iron ore is not easy to find
 
-307
+306
 00:16:25,633 --> 00:16:29,433
 rather, it's way easier to collect some of the iron oxides
 
-308
+307
 00:16:29,900 --> 00:16:32,300
 this vein for example mineral sand
 
-309
+308
 00:16:33,200 --> 00:16:36,800
 is something you can directly melt into iron
 
-310
+309
 00:16:37,400 --> 00:16:39,533
 and very quickly you will realize that
 
-311
+310
 00:16:39,533 --> 00:16:42,666
 in this modpack, there are going to be a lot of different items
 
-312
+311
 00:16:42,666 --> 00:16:45,100
 and inventory management becomes an issue
 
-313
+312
 00:16:47,366 --> 00:16:51,900
 some people like to just throw everything in whatever chest they find
 
-314
+313
 00:16:52,000 --> 00:16:54,033
 and then when they need something
 
-315
+314
 00:16:54,266 --> 00:16:57,366
 they just use the T hotkey on NEI
 
-316
+315
 00:16:57,366 --> 00:17:02,166
 and this will highlight the inventory that contain whatever you look for
 
-317
+316
 00:17:02,166 --> 00:17:05,300
 but I'm not much of a fan
 
-318
+317
 00:17:06,866 --> 00:17:10,200
 like I personally don't like this way of playing
 
-319
+318
 00:17:10,200 --> 00:17:13,500
 I mean it really works well to find whatever you need
 
-320
+319
 00:17:14,166 --> 00:17:18,366
 but I don't like chests like this one
 
-321
+320
 00:17:18,366 --> 00:17:20,200
 so what I usually do is
 
-322
+321
 00:17:21,033 --> 00:17:23,900
 a little bit of inventory sorting
 
-323
+322
 00:17:24,366 --> 00:17:27,000
 for example here I'm going to keep all of raw ores
 
-324
+323
 00:17:27,166 --> 00:17:28,200
 crashed ores
 
-325
+324
 00:17:28,500 --> 00:17:29,300
 dusts
 
-326
+325
 00:17:30,100 --> 00:17:33,000
 this one is going to be random blocks
 
-327
+326
 00:17:33,500 --> 00:17:34,800
 stones in block form
 
-328
+327
 00:17:35,900 --> 00:17:37,100
 this one is dusts
 
-329
+328
 00:17:37,833 --> 00:17:40,366
 this one is organic stuff
 
-330
+329
 00:17:41,566 --> 00:17:43,666
 this one is actually un-sorted things
 
-331
+330
 00:17:43,666 --> 00:17:45,666
 things I still have to decide where to put
 
-332
+331
 00:17:45,900 --> 00:17:47,300
 this one is for coins
 
-333
+332
 00:17:47,766 --> 00:17:49,233
 and those are the 3 most important
 
-334
+333
 00:17:49,233 --> 00:17:51,766
 you will want next to your crafting station
 
-335
+334
 00:17:52,266 --> 00:17:54,033
 later on this one will be upgrade to crafting station
 
-336
+335
 00:17:54,033 --> 00:17:56,633
 and will be able to access this chest
 
-337
+336
 00:17:56,800 --> 00:17:58,200
 which will be upgraded too
 
-338
+337
 00:17:58,600 --> 00:18:00,666
 and here to keep I keep all of the tools
 
-339
+338
 00:18:01,100 --> 00:18:05,033
 I'm considering the buckets as tools
 
-340
+339
 00:18:07,300 --> 00:18:09,200
 I keep it like I like it this way
 
-341
+340
 00:18:09,966 --> 00:18:12,600
 this chest is going to have all of the useful materials
 
-342
+341
 00:18:12,600 --> 00:18:16,200
 so all of the things used into craftings basically
 
-343
+342
 00:18:16,800 --> 00:18:19,033
 and this one is going to be for all of the machines
 
-344
+343
 00:18:19,033 --> 00:18:22,166
 I mean those are not exactly machines right now
 
-345
+344
 00:18:22,166 --> 00:18:23,700
 but you should get the idea
 
-346
+345
 00:18:23,700 --> 00:18:25,266
 like you need this one to be smeltery
 
-347
+346
 00:18:25,433 --> 00:18:26,800
 this one is tool station and craft table
 
-348
+347
 00:18:27,266 --> 00:18:31,000
 so I call those machines later on the just for machines
 
-349
+348
 00:18:33,566 --> 00:18:35,200
 now one cool trick
 
-350
+349
 00:18:35,200 --> 00:18:36,400
 let's say you
 
-351
+350
 00:18:36,866 --> 00:18:38,766
 went back from digging stuff
 
-352
+351
 00:18:39,033 --> 00:18:40,833
 okay this trick I'm going to show
 
-353
+352
 00:18:41,266 --> 00:18:44,566
 the first time you will have to do it manually but
 
-354
+353
 00:18:44,766 --> 00:18:46,833
 let's say you have this trash in your inventory
 
-355
+354
 00:18:47,166 --> 00:18:48,766
 if you click this arrow
 
-356
+355
 00:18:48,833 --> 00:18:53,866
 it's going to look for nearby inventory that have this exact item inside it
 
-357
+356
 00:18:53,866 --> 00:18:56,866
 and it will put this one where there already is
 
-358
+357
 00:18:57,866 --> 00:19:00,166
 so for example here I have six
 
-359
+358
 00:19:01,166 --> 00:19:03,666
 here I have to click this one
 
-360
+359
 00:19:03,833 --> 00:19:04,633
 oh come on, why does it not
 
-361
+360
 00:19:08,600 --> 00:19:10,266
 it's a little bit glitchy
 
-362
+361
 00:19:11,066 --> 00:19:13,966
 yeah there is some configuration to make it work better
 
-363
+362
 00:19:14,000 --> 00:19:16,133
 I think the range is too limited
 
-364
+363
 00:19:16,133 --> 00:19:17,033
 there is only
 
-365
+364
 00:19:19,633 --> 00:19:22,166
 I don't know why doesn't check more containers
 
-366
+365
 00:19:22,166 --> 00:19:23,533
 but you see the idea
 
-367
+366
 00:19:23,533 --> 00:19:25,466
 it put the things into the correct chest
 
-368
+367
 00:19:25,566 --> 00:19:29,100
 just click spam this button until it empties your inventory
 
-369
+368
 00:19:31,366 --> 00:19:34,033
 I remember it getting stuck a little bit sometimes
 
-370
+369
 00:19:34,033 --> 00:19:35,233
 but usually it works better than this
 
-371
+370
 00:19:38,366 --> 00:19:39,066
 oh by the way
 
-372
+371
 00:19:39,066 --> 00:19:42,833
 there are many different blocks you can use to build your house
 
-373
+372
 00:19:44,700 --> 00:19:46,433
 there's a whole quest chapter
 
-374
+373
 00:19:47,200 --> 00:19:52,100
 that is all about aesthetic blocks
 
-375
+374
 00:19:53,066 --> 00:19:54,033
 it's not this one
 
-376
+375
 00:19:54,433 --> 00:19:56,600
 okay this one completely overhauled
 
-377
+376
 00:19:57,966 --> 00:20:02,366
 well there are many many many many blocks
 
-378
+377
 00:20:03,000 --> 00:20:04,866
 most of those
 
-379
+378
 00:20:05,466 --> 00:20:08,266
 a little bit too early to look into those
 
-380
+379
 00:20:08,266 --> 00:20:11,400
 but doesn't take much to unlock all of the various building blocks
 
-381
+380
 00:20:11,833 --> 00:20:17,800
 usually, I wait for when I get the tinker hammer that can dig nine blocks at once
 
-382
+381
 00:20:17,900 --> 00:20:20,066
 and then when I will go dig a lot of ore
 
-383
+382
 00:20:20,066 --> 00:20:21,633
 I will come back with a lot of cobblestone
 
-384
+383
 00:20:21,633 --> 00:20:24,033
 and I'm going to use the bricks for my house
 
-385
+384
 00:20:24,233 --> 00:20:26,566
 so right now I'm going to keep it like that
 
-386
+385
 00:20:26,800 --> 00:20:30,166
 and I will super carefully sleep as soon as it's night
 
-387
+386
 00:20:31,866 --> 00:20:33,100
 and after some more grind
 
-388
+387
 00:20:33,100 --> 00:20:35,100
 we managed to make our first multiblock
 
-389
+388
 00:20:35,433 --> 00:20:38,800
 multiblock because it's a structured composed of multiple blocks
 
-390
+389
 00:20:43,200 --> 00:20:46,700
 alright, you probably only want one of those
 
-391
+390
 00:20:49,066 --> 00:20:52,200
 it's really useful for making better fuel
 
-392
+391
 00:20:52,233 --> 00:20:55,666
 I heavily suggest using the creosote oil with a bucket in furnaces
 
-393
+392
 00:20:55,900 --> 00:20:59,633
 each bucket of creosote oil should smelt 32 items
 
-394
+393
 00:21:00,200 --> 00:21:04,766
 you get as much fuel on creosote as you get on charcoal
 
-395
+394
 00:21:04,766 --> 00:21:08,800
 mostly you don't really have any other usage for the creosote oil at this tier
 
-396
+395
 00:21:08,900 --> 00:21:11,700
 and you probably want this tank to always be empty
 
-397
+396
 00:21:11,700 --> 00:21:13,566
 so may as well use these on furnace
 
-398
+397
 00:21:14,166 --> 00:21:17,466
 but the thing I wanted to show is that with multiblocks
 
-399
+398
 00:21:17,466 --> 00:21:19,466
 for every GregTech multiblock
 
-400
+399
 00:21:19,700 --> 00:21:20,800
 always remember
 
-401
+400
 00:21:20,833 --> 00:21:23,466
 most likely you will always want more than one
 
-402
+401
 00:21:24,033 --> 00:21:26,233
 and to save on blocks you can wall share
 
-403
+402
 00:21:26,700 --> 00:21:28,400
 wall share literally means
 
-404
+403
 00:21:28,700 --> 00:21:31,766
 use one wall of the multiblock to make the second
 
-405
+404
 00:21:32,433 --> 00:21:35,033
 so it just goes like that
 
-406
+405
 00:21:35,633 --> 00:21:37,700
 and this way this one works
 
-407
+406
 00:21:37,700 --> 00:21:41,266
 we save the nine blocks by building those like that
 
-408
+407
 00:21:41,866 --> 00:21:44,766
 also they just added to the game a nice guide
 
-409
+408
 00:21:45,300 --> 00:21:48,366
 which explains so many things
 
-410
+409
 00:21:48,800 --> 00:21:50,966
 I'm not even reading this
 
-411
+410
 00:21:50,966 --> 00:21:55,300
 because most likely 99 percent of those things are things I already know about
 
-412
+411
 00:21:55,866 --> 00:21:58,633
 here you can see an example of a bigger wall share
 
-413
+412
 00:22:02,300 --> 00:22:04,833
 you can even make 8, you make 4 more on the back
 
-414
+413
 00:22:05,966 --> 00:22:07,833
 then you can automate it
 
-415
+414
 00:22:07,833 --> 00:22:11,600
 but right now we don't have access to any of this automation
 
-416
+415
 00:22:11,666 --> 00:22:12,700
 so for the moment
 
-417
+416
 00:22:12,700 --> 00:22:15,233
 it's only going to be useful for making some fuel
 
-418
+417
 00:22:17,633 --> 00:22:19,233
 and after smelting enough iron
 
-419
+418
 00:22:19,233 --> 00:22:22,266
 we can finally move on to the next quests
 
-420
+419
 00:22:24,600 --> 00:22:25,466
 and once again
 
-421
+420
 00:22:25,466 --> 00:22:27,833
 don't make just one tool but prepare multiples
 
-422
+421
 00:22:27,833 --> 00:22:30,366
 because you are going to need multiple of those tools
 
-423
+422
 00:22:30,700 --> 00:22:34,633
 also when you make plates always make way more than you probably need
 
-424
+423
 00:22:35,366 --> 00:22:38,033
 and just get every tool
 
-425
+424
 00:22:38,866 --> 00:22:43,400
 and with those new tools we unlock many*7 new things
 
-426
+425
 00:22:43,500 --> 00:22:46,066
 now you should probably read each one of those quests
 
-427
+426
 00:22:46,066 --> 00:22:49,500
 and try to understand what each of those items is
 
-428
+427
 00:22:49,800 --> 00:22:54,200
 but I'm going to show you my favorite things out of all of those quests
 
-429
+428
 00:22:54,466 --> 00:22:57,766
 so the first thing is going to be the new vending machine
 
-430
+429
 00:22:58,266 --> 00:23:00,700
 where you can put in all of your coins
 
-431
+430
 00:23:00,866 --> 00:23:03,600
 and then you can buy whatever you want
 
-432
+431
 00:23:05,200 --> 00:23:07,700
 alright I think I'm too poor for any of those quests
 
-433
+432
 00:23:07,700 --> 00:23:09,666
 so we will see this one again later
 
-434
+433
 00:23:10,000 --> 00:23:12,266
 the next useful thing is the crafting station
 
-435
+434
 00:23:12,600 --> 00:23:13,833
 this one is like a crafting table
 
-436
+435
 00:23:13,833 --> 00:23:16,833
 but it can hold items when you close the UI
 
-437
+436
 00:23:17,433 --> 00:23:19,000
 so you can leave things inside it
 
-438
+437
 00:23:19,000 --> 00:23:19,966
 but most importantly
 
-439
+438
 00:23:19,966 --> 00:23:22,433
 it can access things in a nearby chest
 
-440
+439
 00:23:22,466 --> 00:23:26,433
 that way you can leave all of your tools in the associated chest
 
-441
+440
 00:23:26,433 --> 00:23:28,633
 and whenever you want to craft something
 
-442
+441
 00:23:28,966 --> 00:23:31,166
 you can use the NEI auto-crafting
 
-443
+442
 00:23:31,166 --> 00:23:35,200
 and it will automatically pull items from the chest
 
-444
+443
 00:23:38,033 --> 00:23:39,100
 send it back
 
-445
+444
 00:23:39,266 --> 00:23:40,066
 good
 
-446
+445
 00:23:40,700 --> 00:23:43,000
 we can also make better storage
 
-447
+446
 00:23:43,000 --> 00:23:46,233
 the gold chest have way bigger storage
 
-448
+447
 00:23:46,700 --> 00:23:48,766
 and we can also make barrels
 
-449
+448
 00:23:48,800 --> 00:23:51,433
 those can stack many stacks of items
 
-450
+449
 00:23:51,433 --> 00:23:53,766
 ideally you want to use those for like cobblestone and such
 
-451
+450
 00:23:53,766 --> 00:23:57,233
 but I'm going to do those a little bit later
 
-452
+451
 00:23:57,233 --> 00:24:00,633
 because they do cost a little bit of wood
 
-453
+452
 00:24:00,900 --> 00:24:06,100
 right now I don't have that many items to stock
 
-454
+453
 00:24:06,100 --> 00:24:10,000
 so I will make this stuff later on when I will have more materials
 
-455
+454
 00:24:10,000 --> 00:24:11,566
 so I can use the materials
 
-456
+455
 00:24:11,900 --> 00:24:13,633
 and I will also need this space
 
-457
+456
 00:24:13,633 --> 00:24:15,300
 right now I don't need this storage space
 
-458
+457
 00:24:15,300 --> 00:24:17,900
 so I'm not going to use materials for this stuff
 
-459
+458
 00:24:18,633 --> 00:24:21,100
 next we have this one the lunch box
 
-460
+459
 00:24:21,700 --> 00:24:23,766
 this is quite cool because
 
-461
+460
 00:24:24,900 --> 00:24:27,900
 it's just to manage food but I think it's super cool
 
-462
+461
 00:24:28,500 --> 00:24:29,800
 now it has different modes
 
-463
+462
 00:24:29,800 --> 00:24:31,766
 you can keep it open or closed
 
-464
+463
 00:24:32,066 --> 00:24:35,100
 when it's closed and you click on a chest that has food
 
-465
+464
 00:24:37,266 --> 00:24:37,600
 okay
 
-466
+465
 00:24:37,600 --> 00:24:40,800
 when it's in that state and you click on a chest with food
 
-467
+466
 00:24:40,800 --> 00:24:44,600
 it takes the food from the chest
 
-468
+467
 00:24:45,266 --> 00:24:46,966
 then you Shift + click
 
-469
+468
 00:24:47,233 --> 00:24:48,233
 it closes
 
-470
+469
 00:24:48,633 --> 00:24:51,500
 okay figure it out how it works
 
-471
+470
 00:24:51,500 --> 00:24:56,033
 okay some point it takes food from the chest
 
-472
+471
 00:24:56,200 --> 00:24:57,566
 and then you can eat it
 
-473
+472
 00:24:58,166 --> 00:25:01,900
 there is a mode that allows you to edit its inventory
 
-474
+473
 00:25:01,900 --> 00:25:06,033
 and a mode that you can just eat stuff inside it
 
-475
+474
 00:25:06,366 --> 00:25:09,433
 that has enough space for a full food rotation
 
-476
+475
 00:25:09,433 --> 00:25:12,866
 so you can't eat more than four times the same food in a row
 
-477
+476
 00:25:13,100 --> 00:25:14,666
 this one helps you with that
 
-478
+477
 00:25:15,900 --> 00:25:18,866
 but the thing that is probably most useful
 
-479
+478
 00:25:18,866 --> 00:25:20,233
 if you don't have any luck
 
-480
+479
 00:25:20,233 --> 00:25:22,666
 and the thing that I actually need now
 
-481
+480
 00:25:22,900 --> 00:25:24,833
 is the ore finder
 
-482
+481
 00:25:25,500 --> 00:25:29,700
 now if you cannot find some ores this one will help you
 
-483
+482
 00:25:30,800 --> 00:25:32,600
 this one we need some redstone
 
-484
+483
 00:25:32,600 --> 00:25:34,200
 and to get the redstone
 
-485
+484
 00:25:34,200 --> 00:25:37,066
 the procedure is a little bit different from the other ores
 
-486
+485
 00:25:37,066 --> 00:25:39,266
 basically you have to wash the impure redstone
 
-487
+486
 00:25:39,433 --> 00:25:41,966
 you have the crushed one you can crush it again
 
-488
+487
 00:25:42,433 --> 00:25:44,066
 you got the impure dust
 
-489
+488
 00:25:44,400 --> 00:25:47,200
 then you throw it in a cauldron and you got the clean redstone
 
-490
+489
 00:25:48,833 --> 00:25:49,833
 once you craft it
 
-491
+490
 00:25:49,833 --> 00:25:52,600
 you're going to need some ore to put inside it
 
-492
+491
 00:25:52,633 --> 00:25:54,300
 now you don't even need ore
 
-493
+492
 00:25:55,800 --> 00:26:01,166
 you can put in this one anything that is made of what you want
 
-494
+493
 00:26:01,633 --> 00:26:04,366
 I think they likely changed how it works
 
-495
+494
 00:26:04,366 --> 00:26:06,200
 but yeah I'm not even too sure
 
-496
+495
 00:26:10,100 --> 00:26:13,400
 I had really good luck with ores I think
 
-497
+496
 00:26:13,400 --> 00:26:14,766
 I found basically everything
 
-498
+497
 00:26:15,966 --> 00:26:18,033
 like I found two mica veins
 
-499
+498
 00:26:19,600 --> 00:26:20,633
 one or two
 
-500
+499
 00:26:20,800 --> 00:26:23,266
 but I found mica which is the rarest ore
 
-501
+500
 00:26:23,433 --> 00:26:25,866
 we will need this way later on
 
-502
+501
 00:26:26,000 --> 00:26:27,766
 but usually it's quite hard to find
 
-503
+502
 00:26:28,000 --> 00:26:29,600
 I found a lot of diamond
 
-504
+503
 00:26:30,166 --> 00:26:32,700
 anyways I did not find copper that's a weird thing
 
-505
+504
 00:26:32,800 --> 00:26:38,700
 so we can take that small copper ore I found at the beginning of the stream
 
-506
+505
 00:26:39,966 --> 00:26:41,066
 but did I leave it
 
-507
+506
 00:26:41,900 --> 00:26:44,400
 think I didn't even collect that small copper
 
-508
+507
 00:26:44,433 --> 00:26:46,600
 now wait I never found a copper ore
 
-509
+508
 00:26:52,100 --> 00:26:56,066
 if you don't even have something to use in the wand
 
-510
+509
 00:26:56,300 --> 00:26:58,266
 you can buy it in the vending machine
 
-511
+510
 00:26:59,400 --> 00:27:00,033
 oh wait
 
-512
+511
 00:27:00,033 --> 00:27:01,066
 there's a quest reward
 
-513
+512
 00:27:01,700 --> 00:27:02,500
 okay
 
-514
+513
 00:27:02,833 --> 00:27:04,433
 so I put this one in there
 
-515
+514
 00:27:04,966 --> 00:27:09,066
 and now I'm basically going to walk around with this one in my hotbar
 
-516
+515
 00:27:09,066 --> 00:27:11,300
 and it should start moving whenever I find that vein
 
-517
+516
 00:27:13,266 --> 00:27:16,633
 it should have like a 64 search depth
 
-518
+517
 00:27:16,633 --> 00:27:19,600
 but most ores are above 64
 
-519
+518
 00:27:19,600 --> 00:27:21,433
 so unless you go on a mountain
 
-520
+519
 00:27:21,433 --> 00:27:22,633
 it should work
 
-521
+520
 00:27:22,966 --> 00:27:25,633
 and eventually after a lot of walking around
 
+521
+00:27:25,833 --> 00:27:29,966
+you should be able to find whatever you're looking for
+
 522
-00:27:25,833 --> 00:27:28,066
-you should be able to find
-
-523
-00:27:28,566 --> 00:27:29,966
-whatever you're looking for
-
-524
 00:27:30,233 --> 00:27:31,466
 I mean make sure
 
-525
+523
 00:27:31,466 --> 00:27:35,800
 you're looking for something that actually spawns in the dimension you're looking for
 
-526
+524
 00:27:36,366 --> 00:27:38,866
 but eventually you should find it
 
-527
+525
 00:27:40,800 --> 00:27:44,700
 and after looking for way longer than expected
 
-528
+526
 00:27:45,066 --> 00:27:46,800
 finally found some copper ore
 
-529
+527
 00:27:47,700 --> 00:27:51,166
 and I can't believe there wasn't a single copper vein
 
-530
+528
 00:27:51,433 --> 00:27:53,666
 like I walked through all of that
 
-531
+529
 00:27:53,666 --> 00:27:56,166
 can't believe that was the first copper vein I found
 
-532
+530
 00:27:56,566 --> 00:27:58,400
 I was starting to lose hope but okay
 
-533
+531
 00:27:58,766 --> 00:28:00,800
 eventually you find it
 
-534
+532
 00:28:00,800 --> 00:28:01,966
 to make this one
 
-535
+533
 00:28:06,800 --> 00:28:08,100
 okay look at the recipes
 
-536
+534
 00:28:08,100 --> 00:28:09,833
 I don't know why it's showing this
 
-537
+535
 00:28:10,400 --> 00:28:12,966
 anyways to make the ore finder wand
 
-538
+536
 00:28:13,233 --> 00:28:15,600
 you basically need only iron, gold and redstone
 
-539
+537
 00:28:16,033 --> 00:28:17,866
 iron is the most common ore
 
-540
+538
 00:28:18,033 --> 00:28:21,366
 gold and redstone spawn as small ores a little bit everywhere
 
-541
+539
 00:28:21,366 --> 00:28:24,300
 so this one should be really easy to get
 
-542
+540
 00:28:25,866 --> 00:28:28,066
 those are really really easy to find
 
-543
+541
 00:28:28,233 --> 00:28:30,666
 and once we have both tin and copper
 
-544
+542
 00:28:30,666 --> 00:28:32,900
 we can get dust
 
-545
+543
 00:28:33,866 --> 00:28:35,866
 we can get the dust out of those materials
 
-546
+544
 00:28:35,866 --> 00:28:38,033
 and mix those to obtain bronze
 
-547
+545
 00:28:39,833 --> 00:28:41,266
 and once we have enough bronze
 
-548
+546
 00:28:41,266 --> 00:28:44,700
 we can finally craft our first small coal boiler
 
-549
+547
 00:28:45,466 --> 00:28:46,566
 and with this
 
-550
+548
 00:28:46,800 --> 00:28:48,500
 we are now in steam age
 
-551
+549
 00:28:49,200 --> 00:28:49,966
 I think
 
-552
+550
 00:28:49,966 --> 00:28:50,633
 are we?
 
-553
+551
 00:28:51,300 --> 00:28:52,200
 are we not?
 
-554
+552
 00:28:55,566 --> 00:28:57,066
 oh you have to do a check box
 
-555
+553
 00:28:58,000 --> 00:29:00,166
 so as I was saying
 
-556
+554
 00:29:00,400 --> 00:29:02,100
 and now I have to craft another
 
-557
+555
 00:29:02,500 --> 00:29:04,200
 always make sure
 
-558
+556
 00:29:04,766 --> 00:29:06,433
 you are following the quest
 
-559
+557
 00:29:06,433 --> 00:29:09,500
 because now I have to craft another one of those for that reason
 
-560
+558
 00:29:10,966 --> 00:29:12,066
 nice
 
-561
+559
 00:29:13,066 --> 00:29:14,666
 so as I was saying
 
-562
+560
 00:29:14,866 --> 00:29:17,866
 after we craft a second small coal boiler
 
-563
+561
 00:29:18,100 --> 00:29:21,566
 we finally unlocked the steam age
 
-564
+562
 00:29:22,600 --> 00:29:26,800
 and that is going to be what we will be doing in the next episode
 
-565
+563
 00:29:28,233 --> 00:29:29,033
 bye bye
 
-566
+564
 00:00:00,866 --> 00:00:04,200
 大家好，欢迎来到我的 GTNH 第四季
 
-567
-00:00:05,233 --> 00:00:10,266
-和往常一样，在开始做任务书之前，我们做的第一件事就是冲进一个有床的地方
+565
+00:00:05,233 --> 00:00:07,433
+和往常一样，在开始做任务书之前
 
-568
+566
+00:00:07,433 --> 00:00:10,266
+我们做的第一件事就是冲进一个有床的地方
+
+567
 00:00:10,600 --> 00:00:12,500
 这样我们就不用担心夜晚了
 
-569
+568
 00:00:12,833 --> 00:00:15,500
 现在我们终于可以开始做任务了
 
-570
+569
 00:00:15,733 --> 00:00:19,500
 和往常一样，有不少烦人的任务要做
 
-571
+570
 00:00:20,100 --> 00:00:22,333
 在快速完成所有简单的任务之后
 
-572
+571
 00:00:22,333 --> 00:00:25,333
 我们遇到了第一个可以智取的任务
 
-573
+572
 00:00:25,533 --> 00:00:27,933
 我们需要收集一组圆石
 
-574
+573
 00:00:28,066 --> 00:00:33,633
 你可以直接挖个地下室来收集圆石，地下室可能会比较有用
 
-575
+574
 00:00:33,900 --> 00:00:39,000
 但更好的方式是去挖那些必经之路上的挡着的圆石
 
-576
+575
 00:00:40,133 --> 00:00:45,866
 我的意思是，与其就地挖圆石，不如去探矿
 
-577
+576
 00:00:46,233 --> 00:00:47,466
 热知识
 
-578
+577
 00:00:47,466 --> 00:00:50,533
 这个整合包里的矿石是以大型矿脉的形式生成的
 
-579
+578
 00:00:50,666 --> 00:00:54,066
 每 3x3 个区块有一个矿脉
 
-580
+579
 00:00:54,900 --> 00:00:56,666
 那么要更好看到矿脉
 
-581
+580
 00:00:56,666 --> 00:01:00,333
 你可以按三次 F9
 
-582
+581
 00:01:00,333 --> 00:01:02,133
 按三次 F9 之后
 
-583
+582
 00:01:02,500 --> 00:01:04,933
 你会看到这样的网格线
 
-584
+583
 00:01:05,900 --> 00:01:11,900
 这时候你应该走到 3x3 区域的中心
 
-585
+584
 00:01:12,300 --> 00:01:14,133
 那里有一个蓝色的东西
 
-586
+585
 00:01:15,600 --> 00:01:17,500
 就在那里往下挖
 
-587
+586
 00:01:18,100 --> 00:01:21,533
 不同的人有不同的挖法
 
-588
+587
 00:01:22,000 --> 00:01:25,666
 你可以挖一个漂亮的楼梯
 
-589
+588
 00:01:25,666 --> 00:01:28,233
 也有人直接往下挖
 
-590
+589
 00:01:28,600 --> 00:01:31,666
 打开死亡不掉落和传送
 
-591
+590
 00:01:31,900 --> 00:01:34,933
 需要回家的时候就直接传送回去
 
-592
+591
 00:01:35,433 --> 00:01:38,733
 我还没想好这一季要怎么玩
 
-593
+592
 00:01:39,733 --> 00:01:43,066
 我现在很大可能想的是开死亡不掉落
 
-594
+593
 00:01:50,400 --> 00:01:52,000
 我在这找到了锡石矿砂
 
-595
+594
 00:01:52,433 --> 00:01:53,433
 这是一种矿石
 
-596
+595
 00:01:53,800 --> 00:01:55,700
 如果你找到的矿石名字里没有"贫瘠"
 
-597
+596
 00:01:55,700 --> 00:01:56,933
 不叫“贫瘠xx矿石”
 
-598
+597
 00:01:56,933 --> 00:01:58,466
 我稍后会展示贫瘠矿石
 
-599
+598
 00:01:58,466 --> 00:02:00,566
 那就是完整的矿石
 
-600
+599
 00:02:00,566 --> 00:02:02,400
 意味着它属于一个矿脉
 
-601
+600
 00:02:03,266 --> 00:02:07,033
 如果你在 NEI 里查锡石砂
 
-602
+601
 00:02:11,200 --> 00:02:12,600
 这个就是我们找到的
 
-603
+602
 00:02:13,466 --> 00:02:16,333
 查一下，里面有一个很有用的页面
 
-604
+603
 00:02:16,800 --> 00:02:18,100
 上面会告诉你
 
-605
+604
 00:02:18,700 --> 00:02:21,400
 矿脉信息：锡石砂 - 锡矿脉
 
-606
+605
 00:02:21,666 --> 00:02:25,100
 这些矿脉包含了大量的矿物
 
-607
+606
 00:02:25,400 --> 00:02:29,433
 几乎有 3x3x3 区块那么大
 
-608
+607
 00:02:29,433 --> 00:02:32,200
 但是每个矿脉都有少许不同
 
-609
+608
 00:02:32,200 --> 00:02:35,666
 有的更大、有的更小，但都是9格深
 
-610
+609
 00:02:35,866 --> 00:02:42,633
 这个大矿床的前三层（将近四层）由主矿石组成
 
-611
+610
 00:02:43,033 --> 00:02:48,533
 底部由副矿石组成，中间则有很多中间矿石
 
-612
+611
 00:02:48,700 --> 00:02:53,466
 然后还有散布在周围的零星矿石
 
-613
+612
 00:02:53,466 --> 00:02:56,800
 当然到处还会分布些贫瘠矿石
 
-614
+613
 00:02:58,000 --> 00:03:01,366
 通常一个矿脉里有大约 1000 个主矿石
 
-615
+614
 00:03:01,366 --> 00:03:04,666
 零星矿石大约有 100 个
 
-616
+615
 00:03:04,666 --> 00:03:08,266
 这就是矿脉的大致构成
 
-617
+616
 00:03:08,866 --> 00:03:11,866
 现在我又在地上挖了个洞
 
-618
+617
 00:03:11,866 --> 00:03:13,733
 这次我找到了贫瘠石墨矿石
 
-619
+618
 00:03:13,866 --> 00:03:14,833
 这就是贫瘠矿石
 
-620
+619
 00:03:14,833 --> 00:03:17,133
 它不是真正的矿脉，只是单个贫瘠矿石
 
-621
+620
 00:03:17,500 --> 00:03:19,633
 但依然非常重要
 
-622
+621
 00:03:19,633 --> 00:03:22,400
 比如说，这是贫瘠石墨矿石
 
-623
+622
 00:03:22,700 --> 00:03:24,833
 这种贫瘠石墨矿石
 
-624
+623
 00:03:26,900 --> 00:03:28,000
 让我解释一下我想说的
 
-625
+624
 00:03:28,000 --> 00:03:30,033
 先来看看贫瘠铜矿石
 
-626
+625
 00:03:30,866 --> 00:03:33,666
 假设你找到了一个贫瘠铜矿石
 
-627
+626
 00:03:35,433 --> 00:03:38,866
 贫瘠铜矿石，它有一个贫瘠矿石信息页面
 
-628
+627
 00:03:39,200 --> 00:03:43,700
 贫瘠铜矿石在主世界 Y 值 60 到 180 之间生成
 
-629
+628
 00:03:43,733 --> 00:03:48,300
 所以如果你在主世界这个高度找到铜
 
-630
+629
 00:03:49,400 --> 00:03:51,600
 其实说明不了什么
 
-631
+630
 00:03:51,833 --> 00:03:58,100
 在这个范围内，你能在到处都找到铜
 
-632
+631
 00:03:58,233 --> 00:04:02,533
 这只是一个单独生成的矿石，给你提供一点点铜
 
-633
+632
 00:04:02,533 --> 00:04:05,200
 铜本身没什么大不了的
 
-634
+633
 00:04:05,200 --> 00:04:09,466
 但有些矿石你只能通过这种方式获得
 
-635
+634
 00:04:09,700 --> 00:04:11,833
 所以有些贫瘠矿石很珍贵
 
-636
+635
 00:04:11,833 --> 00:04:14,300
 因为那是获得某些特定物品的唯一方式
 
-637
+636
 00:04:14,300 --> 00:04:16,600
 不过这些主要是一些稀有宝石
 
-638
+637
 00:04:16,600 --> 00:04:18,533
 以及一些后期的东西
 
-639
+638
 00:04:19,733 --> 00:04:22,900
 现在你不需要太在意那些贫瘠铜矿石
 
-640
+639
 00:04:23,200 --> 00:04:26,033
 但关键是，如果你看这个贫瘠石墨矿石
 
-641
+640
 00:04:26,033 --> 00:04:31,133
 贫瘠石墨矿石没有贫瘠矿石信息页面
 
-642
+641
 00:04:31,400 --> 00:04:36,000
 但我们确实找到了贫瘠石墨矿石，即使它没有贫瘠矿石信息页
 
-643
+642
 00:04:36,100 --> 00:04:43,033
 这是因为当矿脉生成时，不只是生成矿脉本身
 
-644
+643
 00:04:43,033 --> 00:04:47,300
 它还会在矿脉正上方生成该矿脉的一些贫瘠矿石
 
-645
+644
 00:04:47,466 --> 00:04:50,800
 所以比如说，石墨属于石墨矿脉
 
-646
+645
 00:04:51,700 --> 00:04:54,033
 好吧这是另一个石墨矿脉，但是
 
-647
+646
 00:04:54,033 --> 00:04:56,233
 它不在主世界生成
 
-648
+647
 00:04:56,233 --> 00:04:57,533
 所以我们不看这个
 
-649
+648
 00:04:58,100 --> 00:04:59,533
 这意味只有
 
-650
+649
 00:05:00,200 --> 00:05:02,800
 这个矿脉才可能，因为它生成在主世界
 
-651
+650
 00:05:02,800 --> 00:05:04,133
 所以肯定是这个
 
-652
+651
 00:05:04,700 --> 00:05:07,633
 这个矿脉只会生成在非常深的地方
 
-653
+652
 00:05:09,800 --> 00:05:11,900
 这个只会生成在非常深的地方
 
-654
+653
 00:05:12,133 --> 00:05:14,333
 但我们在很浅的地方
 
-655
+654
 00:05:14,600 --> 00:05:16,300
 找到了一个贫瘠矿石
 
-656
+655
 00:05:16,666 --> 00:05:21,433
 无论如何，这意味着这不是一个在任意地方随机生成的矿石
 
-657
+656
 00:05:21,600 --> 00:05:24,433
 它只会在石墨和钻石矿脉上方生成
 
-658
+657
 00:05:24,433 --> 00:05:27,500
 这也就意味着在这个矿石下方，我们能找到大量钻石
 
-659
+658
 00:05:28,200 --> 00:05:30,233
 这就是这个贫瘠矿石的全部含义
 
-660
+659
 00:05:30,833 --> 00:05:32,500
 你看，我们确实找到了钻石
 
-661
+660
 00:05:33,433 --> 00:05:35,933
 顺便说一下，我发现你可以右键点击矿石
 
-662
+661
 00:05:36,300 --> 00:05:39,200
 把它添加到地图上
 
-663
+662
 00:05:40,600 --> 00:05:41,933
 不需要挖掉它
 
-664
+663
 00:05:43,700 --> 00:05:45,933
 收集了足够的石头之后
 
-665
+664
 00:05:45,933 --> 00:05:48,066
 我们终于可以进入下一个阶段了
 
-666
+665
 00:05:48,500 --> 00:05:54,466
 这个阶段需要我们收集大量的沙子、沙砾和黏土
 
-667
+666
 00:05:55,066 --> 00:05:59,000
 这些东西是用来造冶炼炉的
 
-668
+667
 00:05:59,000 --> 00:06:03,700
 但更好的建议是
 
-669
+668
 00:06:05,100 --> 00:06:08,600
 直接去村庄里找一个冶炼炉
 
-670
+669
 00:06:09,666 --> 00:06:13,033
 不过，你还是得收集任务要求的所有材料
 
-671
+670
 00:06:13,266 --> 00:06:16,633
 但尽量别用掉它们
 
-672
+671
 00:06:16,633 --> 00:06:18,066
 呃，你以后会需要的它们的
 
-673
+672
 00:06:18,066 --> 00:06:19,800
 所以还是想用就用吧
 
-674
+673
 00:06:21,066 --> 00:06:26,266
 但是我觉得一周目找个有冶炼炉的村子比手动做一个容易多了
 
-675
+674
 00:06:27,600 --> 00:06:28,666
 之后
 
-676
+675
 00:06:28,666 --> 00:06:29,933
 黏土是也一样
 
-677
+676
 00:06:30,200 --> 00:06:33,100
 以后你会需要大量的黏土做各种东西
 
-678
+677
 00:06:33,100 --> 00:06:39,933
 但有比挖黏土好得多的替代方法
 
-679
+678
 00:06:40,200 --> 00:06:41,500
 我们之后会讲到
 
-680
+679
 00:06:41,500 --> 00:06:43,533
 比如你会需要很多砖头
 
-681
+680
 00:06:43,533 --> 00:06:45,066
 与其用黏土烧砖
 
-682
+681
 00:06:45,066 --> 00:06:47,666
 不如直接用砖房里的砖，容易得多
 
-683
+682
 00:06:48,100 --> 00:06:51,733
 砖房我这个视频开头展示过
 
-684
+683
 00:06:52,733 --> 00:06:55,133
 下一个任务要求我们做一个桶
 
-685
+684
 00:06:56,533 --> 00:07:00,900
 我不喜欢用那些黏土桶
 
-686
+685
 00:07:01,433 --> 00:07:04,266
 但我还是觉得多做几个是值得的
 
-687
+686
 00:07:04,600 --> 00:07:08,133
 所以别怕浪费材料
 
-688
+687
 00:07:08,433 --> 00:07:10,100
 有一种玩法叫批量合成
 
-689
+688
 00:07:10,133 --> 00:07:12,800
 批量合成就是做得比你目前需要的多得多
 
-690
+689
 00:07:12,800 --> 00:07:15,033
 这样以后就不用再做了
 
-691
+690
 00:07:16,600 --> 00:07:18,300
 这在 GTNH 里非常重要
 
-692
+691
 00:07:18,300 --> 00:07:19,866
 你应该总是多做
 
-693
+692
 00:07:20,500 --> 00:07:25,133
 大多数时候你应该做任务要求的十倍的量
 
-694
+693
 00:07:25,500 --> 00:07:28,133
 好吧，我刚想说也计算一下你需要多少材料
 
-695
+694
 00:07:28,133 --> 00:07:30,500
 做一个桶你需要5个粉
 
-696
+695
 00:07:30,500 --> 00:07:33,100
 每个粉由4个小撮粉组成
 
-697
+696
 00:07:33,833 --> 00:07:35,633
 一个黏土可以做一个小撮粉
 
-698
+697
 00:07:35,833 --> 00:07:40,200
 所以每个桶总共需要20个黏土球
 
-699
+698
 00:07:40,433 --> 00:07:42,666
 所以算好正确的数量
 
-700
+699
 00:07:42,800 --> 00:07:43,966
 哦对了，还有 GT 工具
 
-701
+700
 00:07:43,966 --> 00:07:48,400
 多做一些 GT 工具，因为它们消耗得飞快
 
-702
+701
 00:07:48,400 --> 00:07:50,733
 所以别只做一个，做一堆
 
-703
+702
 00:07:51,733 --> 00:07:56,233
 看，消耗得多快
 
-704
+703
 00:07:56,233 --> 00:07:57,333
 还有很多我想说的
 
-705
+704
 00:07:57,333 --> 00:07:59,400
 但接下来我想说的是
 
-706
+705
 00:07:59,433 --> 00:08:01,400
 我讨厌那些黏土桶
 
-707
+706
 00:08:02,666 --> 00:08:05,600
 这周目我做了不少
 
-708
+707
 00:08:06,266 --> 00:08:08,600
 做了6个，可能做多了
 
-709
+708
 00:08:08,733 --> 00:08:12,200
 刚才我想说，很快我们就能做出铁桶，比黏土桶好用得多
 
-710
+709
 00:08:12,333 --> 00:08:15,433
 黏土桶有几个缺点
 
-711
+710
 00:08:15,600 --> 00:08:19,066
 如果你用它装岩浆，它好像会坏掉
 
-712
+711
 00:08:20,333 --> 00:08:23,300
 但现在我们只能用它
 
-713
+712
 00:08:23,300 --> 00:08:26,533
 现在可能有好几个办法搞到铁桶
 
-714
+713
 00:08:26,533 --> 00:08:28,866
 但我们还是跟着任务书走吧
 
-715
+714
 00:08:29,033 --> 00:08:31,900
 但是收集这些黏土很烦人
 
-716
+715
 00:08:31,900 --> 00:08:32,800
 还有，在之前
 
-717
+716
 00:08:32,800 --> 00:08:35,900
 我说有更好的方法获取黏土
 
-718
+717
 00:08:36,700 --> 00:08:40,066
 理想的方法就是
 
-719
+718
 00:08:40,266 --> 00:08:42,600
 等你能做出蒸汽粉碎机的时候
 
-720
+719
 00:08:42,666 --> 00:08:45,466
 这应该是你进入蒸汽时代后优先做的事
 
-721
+720
 00:08:45,933 --> 00:08:50,800
 找一座陶瓦山，把它打粉
 
-722
+721
 00:08:51,000 --> 00:08:57,100
 这样比用铲子挖黏土快得多、效率高得多
 
-723
+722
 00:08:59,000 --> 00:09:00,533
 哦对了，任务奖励
 
-724
+723
 00:09:00,900 --> 00:09:03,866
 当你要做选择的时候，我的建议是
 
-725
+724
 00:09:05,100 --> 00:09:07,666
 你可能不知道选什么
 
-726
+725
 00:09:07,733 --> 00:09:12,966
 有些任务奖励里会有非常好的东西可选
 
-727
+726
 00:09:12,966 --> 00:09:15,300
 但大多数时候
 
-728
+727
 00:09:15,300 --> 00:09:20,100
 你应该能看出该选什么，可能基本都能
 
-729
+728
 00:09:20,233 --> 00:09:22,100
 拿这个任务举个例子
 
-730
+729
 00:09:22,533 --> 00:09:24,866
 唯一需要纠结的就是战利品袋
 
-731
+730
 00:09:24,933 --> 00:09:27,733
 我个人不太喜欢战利品袋
 
-732
+731
 00:09:29,266 --> 00:09:32,333
 大部分时候开出来的都是垃圾
 
-733
+732
 00:09:33,100 --> 00:09:36,433
 所以选你最喜欢的就好
 
-734
+733
 00:09:36,633 --> 00:09:41,533
 我觉得差不多一半的任务，有比战利品袋更好的选择
 
-735
+734
 00:09:41,533 --> 00:09:44,733
 另一半任务没什么特别有趣的
 
-736
+735
 00:09:44,733 --> 00:09:46,466
 那就拿战利品袋好了
 
-737
+736
 00:09:47,500 --> 00:09:51,433
 收集16个沙子不费什么功夫
 
-738
+737
 00:09:51,466 --> 00:09:52,866
 这就是个食物罢了
 
-739
+738
 00:09:53,066 --> 00:09:54,700
 不如碰碰运气
 
-740
+739
 00:09:54,700 --> 00:09:56,466
 可能会开出有用的东西
 
-741
+740
 00:09:56,466 --> 00:09:57,533
 好吧，开出的是食物
 
-742
+741
 00:10:00,233 --> 00:10:02,100
 如果你看一下战利品袋的配方
 
-743
+742
 00:10:02,433 --> 00:10:03,800
 你可以给它附魔
 
-744
+743
 00:10:04,400 --> 00:10:10,633
 在石器时代弄到时运三附魔书应该不太可能
 
-745
+744
 00:10:10,633 --> 00:10:13,533
 这个主要适用于其他阶段的战利品袋
 
-746
+745
 00:10:13,933 --> 00:10:16,666
 给战利品袋附魔可以开出更好的东西
 
-747
+746
 00:10:16,933 --> 00:10:19,533
 不管怎样，如果你查战利品袋的用途
 
-748
+747
 00:10:19,533 --> 00:10:21,600
 就能看到能开出什么东西
 
-749
+748
 00:10:21,833 --> 00:10:23,300
 还能看到概率
 
-750
+749
 00:10:23,333 --> 00:10:25,233
 比如在蒸汽时代……
 
-751
+750
 00:10:25,233 --> 00:10:26,300
 不对，石器时代，不好意思
 
-752
+751
 00:10:26,300 --> 00:10:27,733
 在石器时代的战利品袋
 
-753
+752
 00:10:28,233 --> 00:10:30,700
 基本上只能开出食物
 
-754
+753
 00:10:32,266 --> 00:10:36,466
 哦，其实这个木头也还行
 
-755
+754
 00:10:36,466 --> 00:10:39,100
 没有伐木斧的时候砍树挺烦的
 
-756
+755
 00:10:39,100 --> 00:10:40,466
 所以这也不错
 
-757
+756
 00:10:40,733 --> 00:10:42,333
 哦对，关于格雷科技的一个乐趣是……
 
-758
+757
 00:10:42,700 --> 00:10:45,066
 好吧大多数人可能会讨厌
 
-759
+758
 00:10:45,633 --> 00:10:49,933
 但我喜欢这种升级过程：一开始你拿着很垃圾的斧头
 
-760
+759
 00:10:50,000 --> 00:10:53,833
 后来你拿到能砍整棵树的斧头
 
-761
+760
 00:10:54,600 --> 00:10:57,233
 我喜欢这种逐渐升级的感觉
 
-762
+761
 00:10:58,900 --> 00:11:01,000
 一开始你得忍着
 
-763
+762
 00:11:01,033 --> 00:11:04,066
 但当你拿到更好的斧头时，会感觉很有成就感
 
-764
+763
 00:11:05,900 --> 00:11:08,433
 算了，我到底在干嘛来着
 
-765
+764
 00:11:10,066 --> 00:11:13,100
 好的，下一个任务是要造纸
 
-766
+765
 00:11:13,433 --> 00:11:17,633
 我做几个桶的唯一原因就是为了这个任务
 
-767
+766
 00:11:18,333 --> 00:11:19,233
 因为
 
-768
+767
 00:11:20,000 --> 00:11:21,833
 如果你只用一只桶来做这事
 
-769
+768
 00:11:21,833 --> 00:11:24,000
 那简直就是折磨，噩梦
 
-770
+769
 00:11:29,133 --> 00:11:30,500
 我开这个油管频道
 
-771
+770
 00:11:30,500 --> 00:11:32,533
 我开这个频道的原因
 
-772
+771
 00:11:32,533 --> 00:11:34,600
 是因为有些人做视频
 
-773
+772
 00:11:34,600 --> 00:11:37,533
 抱怨说要做这些事太痛苦了
 
-774
+773
 00:11:37,800 --> 00:11:40,233
 所以我开了这个频道来证明
 
-775
+774
 00:11:40,233 --> 00:11:41,300
 其实没那么糟糕
 
-776
+775
 00:11:41,400 --> 00:11:43,200
 可能确实有点肝
 
-777
+776
 00:11:43,200 --> 00:11:45,066
 对，这游戏确实挺肝的
 
-778
+777
 00:11:45,633 --> 00:11:48,933
 如果你喜欢肝的游戏，那就太棒了
 
-779
+778
 00:11:48,933 --> 00:11:50,133
 如果你不喜欢
 
-780
+779
 00:11:50,233 --> 00:11:51,866
 那我也没什么好说的
 
-781
+780
 00:11:52,500 --> 00:11:53,300
 抱歉
 
-782
+781
 00:11:53,600 --> 00:11:56,200
 也许 GTNH 不适合你
 
-783
+782
 00:11:58,333 --> 00:11:59,433
 自己看着办吧
 
-784
+783
 00:12:00,700 --> 00:12:03,633
 我们有原木了，可以做木浆了
 
-785
+784
 00:12:03,666 --> 00:12:05,400
 等一下，是一出二吗
 
-786
+785
 00:12:06,800 --> 00:12:09,633
 所以按道理我已经做够了
 
-787
+786
 00:12:10,133 --> 00:12:11,400
 啊，算了
 
-788
+787
 00:12:11,666 --> 00:12:12,666
 再多做点
 
-789
+788
 00:12:13,333 --> 00:12:14,500
 批量合成
 
-790
+789
 00:12:15,000 --> 00:12:16,300
 好吧，问题是
 
-791
+790
 00:12:16,300 --> 00:12:19,000
 我想要6个桶，因为那样的话
 
-792
+791
 00:12:19,233 --> 00:12:21,233
 现在我们还没有合成站
 
-793
+792
 00:12:21,233 --> 00:12:23,866
 所以现在你合成完之后
 
-794
+793
 00:12:23,866 --> 00:12:25,833
 即使你把木浆留在工作台里
 
-795
+794
 00:12:26,633 --> 00:12:28,100
 这个工作台不会……
 
-796
+795
 00:12:29,533 --> 00:12:32,266
 好吧，上个版本它会掉到地上
 
-797
+796
 00:12:32,600 --> 00:12:34,266
 现在会保留在你的物品栏里
 
-798
+797
 00:12:34,266 --> 00:12:35,066
 酷
 
-799
+798
 00:12:35,233 --> 00:12:36,000
 好的
 
-800
+799
 00:12:36,000 --> 00:12:38,833
 另一个重要功能，虽然不是这个版本新增的
 
-801
+800
 00:12:38,833 --> 00:12:40,833
 上个版本就有了
 
-802
+801
 00:12:42,000 --> 00:12:43,533
 我们可以这样做
 
-803
+802
 00:12:43,533 --> 00:12:45,400
 你可以收藏一个配方
 
-804
-00:12:47,666 --> 00:12:49,100
-（删）
-
-805
+803
 00:12:49,100 --> 00:12:53,533
 然后对着收藏按 Ctrl + Shift + A
 
-806
+804
 00:12:53,866 --> 00:12:55,233
 这里就会出现这个东西
 
-807
+805
 00:12:55,633 --> 00:12:58,800
 然后如果你用 Ctrl + 滚轮
 
-808
+806
 00:12:59,233 --> 00:13:01,666
 可以设置数量
 
-809
+807
 00:13:03,233 --> 00:13:05,800
 如果你的物品栏里有所有材料
 
-810
+808
 00:13:07,100 --> 00:13:09,266
 你需要按
 
-811
+809
 00:13:10,033 --> 00:13:11,300
 Shift + C
 
-812
+810
 00:13:12,500 --> 00:13:14,166
 不赖
 
-813
+811
 00:13:16,533 --> 00:13:18,500
 再多做点纸
 
-814
+812
 00:13:18,500 --> 00:13:19,500
 哦牛批
 
-815
+813
 00:13:22,500 --> 00:13:25,700
 在工作台里移动物品对我来说特别烦人的
 
-816
+814
 00:13:25,700 --> 00:13:28,733
 有些人可能喜欢在工作台里挪东西
 
-817
+815
 00:13:29,666 --> 00:13:33,733
 我倒是挺享受一开始慢慢砍树的
 
-818
+816
 00:13:33,733 --> 00:13:35,433
 砍着砍着
 
-819
+817
 00:13:36,300 --> 00:13:39,700
 木头够了之后我确实会厌倦
 
-820
+818
 00:13:39,900 --> 00:13:41,866
 我享受的是一开始的那种感觉
 
-821
+819
 00:13:41,866 --> 00:13:45,466
 比如你可以边听播客
 
-822
+820
 00:13:45,733 --> 00:13:48,300
 或者在后台放点别的东西
 
-823
+821
 00:13:48,666 --> 00:13:49,400
 好
 
-824
+822
 00:13:49,400 --> 00:13:52,700
 匠魂大概是现代 MC 里最著名的 mod 了
 
-825
+823
 00:13:52,700 --> 00:13:55,700
 但以防有人不知道这四个东西怎么用
 
-826
+824
 00:13:55,800 --> 00:13:57,633
 第一个是模具加工台
 
-827
+825
 00:13:58,200 --> 00:14:00,000
 在这里你可以决定……
 
-828
+826
 00:14:00,000 --> 00:14:02,900
 在这里你可以做那些模具
 
-829
+827
 00:14:03,033 --> 00:14:05,033
 那些是工具部件
 
-830
+828
 00:14:05,533 --> 00:14:08,000
 比如说我还没有这个
 
-831
+829
 00:14:08,000 --> 00:14:09,433
 点一下就能做出来
 
-832
+830
 00:14:10,133 --> 00:14:11,933
 如果你有个模具箱
 
-833
+831
 00:14:11,933 --> 00:14:14,200
 这个就是专门放模具的箱子
 
-834
+832
 00:14:14,633 --> 00:14:16,466
 如果你把它放在模具台旁边
 
-835
+833
 00:14:16,466 --> 00:14:20,700
 你就可以在模具台里直接访问模具箱里的物品，不用切换界面
 
-836
+834
 00:14:21,233 --> 00:14:24,133
 这是部件加工台
 
-837
+835
 00:14:24,600 --> 00:14:26,533
 用来真正做出工具部件
 
-838
+836
 00:14:26,533 --> 00:14:28,900
 这些是模具，你在右边这里合成东西
 
-839
+837
 00:14:28,900 --> 00:14:32,033
 同样的，这个也能访问旁边的模具箱
 
-840
+838
 00:14:32,866 --> 00:14:35,066
 我想我们要用燧石和木头做
 
-841
+839
 00:14:35,100 --> 00:14:37,666
 不太确定，可能任务书里会告诉怎么做
 
-842
+840
 00:14:38,033 --> 00:14:39,433
 用什么材料，不过
 
-843
+841
 00:14:39,933 --> 00:14:41,733
 我在瞎猜
 
-844
+842
 00:14:42,200 --> 00:14:45,100
 我觉得任务书想让我们做
 
-845
+843
 00:14:45,100 --> 00:14:46,266
 好吧，这些
 
-846
+844
 00:14:46,266 --> 00:14:47,433
 它到底想让我们做什么
 
-847
+845
 00:14:47,833 --> 00:14:50,000
 好，镐、铲子、燧石斧
 
-848
+846
 00:14:50,300 --> 00:14:53,633
 所以你把模具放到这里
 
-849
+847
 00:14:53,833 --> 00:14:54,800
 这里是材料
 
-850
+848
 00:14:54,800 --> 00:14:56,066
 拿到成品
 
-851
+849
 00:15:02,400 --> 00:15:07,600
 最后，工具组装台是让你真正制作这些工具的东西
 
-852
+850
 00:15:08,033 --> 00:15:12,400
 工具组装台也可以用来修理那些工具
 
-853
+851
 00:15:14,700 --> 00:15:17,200
 你可以用镐头的材料修理它
 
-854
+852
 00:15:17,233 --> 00:15:22,000
 你也可以在工具中添加一些额外材料来获得额外效果
 
-855
+853
 00:15:23,533 --> 00:15:25,600
 有一本你可以简单做出来的书
 
-856
+854
 00:15:25,600 --> 00:15:26,800
 但它也是任务奖励
 
-857
+855
 00:15:31,300 --> 00:15:32,533
 再次合成一下
 
-858
+856
 00:15:32,866 --> 00:15:34,100
 做出第二辑
 
-859
+857
 00:15:34,633 --> 00:15:37,733
 好吧，这书里说了一些东西
 
-860
+858
 00:15:38,266 --> 00:15:41,800
 它展示了你可以添加的强化
 
-861
+859
 00:15:42,233 --> 00:15:44,666
 来获得额外加成
 
-862
+860
 00:15:45,700 --> 00:15:51,466
 但更简单的是，如果你在 NEI 里搜，比如青铜锭
 
-863
+861
 00:15:51,900 --> 00:15:54,666
 好吧，查用途而不是配方
 
-864
+862
 00:15:54,900 --> 00:15:56,233
 工具材料
 
-865
+863
 00:15:56,233 --> 00:15:59,266
 在这里你可以得到这些东西的数据
 
-866
+864
 00:16:03,200 --> 00:16:05,633
 也有部件
 
-867
+865
 00:16:06,000 --> 00:16:09,600
 我觉得大伙已经知道这个 mod 怎么玩了
 
-868
+866
 00:16:10,600 --> 00:16:15,266
 另外，如果你用镐挖了 270 个方块
 
-869
+867
 00:16:15,600 --> 00:16:16,866
 它会升级的
 
-870
+868
 00:16:17,166 --> 00:16:20,166
 升级会获得足够的挖掘等级来收集铁矿石
 
-871
+869
 00:16:23,000 --> 00:16:25,633
 但纯铁矿石不容易找到
 
-872
+870
 00:16:25,633 --> 00:16:29,433
 相反，收集一些氧化铁要容易得多
 
-873
+871
 00:16:29,900 --> 00:16:32,300
 例如矿砂
 
-874
+872
 00:16:33,200 --> 00:16:36,800
 它是可以直接烧成铁的东西
 
-875
+873
 00:16:37,400 --> 00:16:39,533
 很快你就会意识到
 
-876
+874
 00:16:39,533 --> 00:16:42,666
 在这个整合包中，会有很多不同的物品
 
-877
+875
 00:16:42,666 --> 00:16:45,100
 仓库管理成为一个问题
 
-878
+876
 00:16:47,366 --> 00:16:51,900
 有些人喜欢把找到的东西都扔进箱子里
 
-879
+877
 00:16:52,000 --> 00:16:54,033
 然后当他们需要什么的时候
 
-880
+878
 00:16:54,266 --> 00:16:57,366
 他们就在 NEI 上按 T 键
 
-881
+879
 00:16:57,366 --> 00:17:02,166
 这将高亮显示存放了你所查找的东西的容器
 
-882
+880
 00:17:02,166 --> 00:17:05,300
 但我不太喜欢
 
-883
+881
 00:17:06,866 --> 00:17:10,200
 我个人不喜欢这种方法
 
-884
+882
 00:17:10,200 --> 00:17:13,500
 虽然这样找到你需要的东西真的很管用
 
-885
+883
 00:17:14,166 --> 00:17:18,366
 但是我不喜欢箱子变成这样
 
-886
+884
 00:17:18,366 --> 00:17:20,200
 所以我通常的做法是
 
-887
+885
 00:17:21,033 --> 00:17:23,900
 一定程度的库存分类
 
-888
+886
 00:17:24,366 --> 00:17:27,000
 比如，这里放所有粗矿
 
-889
+887
 00:17:27,166 --> 00:17:28,200
 粉碎矿
 
-890
+888
 00:17:28,500 --> 00:17:29,300
 矿粉
 
-891
+889
 00:17:30,100 --> 00:17:33,000
 杂物方块
 
-892
+890
 00:17:33,500 --> 00:17:34,800
 石头方块
 
-893
+891
 00:17:35,900 --> 00:17:37,100
 石头粉
 
-894
+892
 00:17:37,833 --> 00:17:40,366
 这个是有机的东西
 
-895
+893
 00:17:41,566 --> 00:17:43,666
 这个是未分类的东西
 
-896
+894
 00:17:43,666 --> 00:17:45,666
 我还没决定放在哪里的东西
 
-897
+895
 00:17:45,900 --> 00:17:47,300
 这个给是硬币用的
 
-898
+896
 00:17:47,766 --> 00:17:49,233
 这是最重要的三个箱子
 
-899
+897
 00:17:49,233 --> 00:17:51,766
 你要把它们放在合成站旁边
 
-900
+898
 00:17:52,266 --> 00:17:54,033
 之后我会升级它为合成站
 
-901
+899
 00:17:54,033 --> 00:17:56,633
 并且能够访问这个箱子
 
-902
+900
 00:17:56,800 --> 00:17:58,200
 这个箱子也会升级
 
-903
+901
 00:17:58,600 --> 00:18:00,666
 我把所有的工具放这个箱子
 
-904
+902
 00:18:01,100 --> 00:18:05,033
 我觉得桶也算工具
 
-905
+903
 00:18:07,300 --> 00:18:09,200
 呃……就放着吧，我觉得挺好
 
-906
+904
 00:18:09,966 --> 00:18:12,600
 这个箱子是有所有有用的材料
 
-907
+905
 00:18:12,600 --> 00:18:16,200
 基本上是所有用于合成的东西
 
-908
+906
 00:18:16,800 --> 00:18:19,033
 这个放所有机器类的
 
-909
+907
 00:18:19,033 --> 00:18:22,166
 现在这些还不完全是机器
 
-910
+908
 00:18:22,166 --> 00:18:23,700
 但你应该懂我意思
 
-911
+909
 00:18:23,700 --> 00:18:25,266
 就像你需要这个来搭出冶炼炉一样
 
-912
+910
 00:18:25,433 --> 00:18:26,800
 这个是工具站和工作台
 
-913
+911
 00:18:27,266 --> 00:18:31,000
 我把他们算机器类，以后肯定都是机器了
 
-914
+912
 00:18:33,566 --> 00:18:35,200
 有一个很酷的技巧
 
-915
+913
 00:18:35,200 --> 00:18:36,400
 比如说你
 
-916
+914
 00:18:36,866 --> 00:18:38,766
 下完矿回来
 
-917
+915
 00:18:39,033 --> 00:18:40,833
 好吧我要展示的这个技巧
 
-918
+916
 00:18:41,266 --> 00:18:44,566
 第一次你必须手动完成，但是
 
-919
+917
 00:18:44,766 --> 00:18:46,833
 假设你的箱子中有这些垃圾
 
-920
+918
 00:18:47,166 --> 00:18:48,766
 如果你点击这个箭头
 
-921
+919
 00:18:48,833 --> 00:18:53,866
 它会寻找附近有这个相同物品的容器
 
-922
+920
 00:18:53,866 --> 00:18:56,866
 并把身上的物品放在已有该物品的地方
 
-923
+921
 00:18:57,866 --> 00:19:00,166
 例如，这里我有六个
 
-924
+922
 00:19:01,166 --> 00:19:03,666
 在这里，我点这个
 
-925
+923
 00:19:03,833 --> 00:19:04,633
 草，怎么没用
 
-926
+924
 00:19:08,600 --> 00:19:10,266
 有点小故障
 
-927
+925
 00:19:11,066 --> 00:19:13,966
 是的，你可以动一下配置让它更好地工作
 
-928
+926
 00:19:14,000 --> 00:19:16,133
 我觉得范围太有限了
 
-929
+927
 00:19:16,133 --> 00:19:17,033
 只有……
 
-930
+928
 00:19:19,633 --> 00:19:22,166
 是的，我不知道为什么不检查更多的容器
 
-931
+929
 00:19:22,166 --> 00:19:23,533
 但你应该懂我意思了
 
-932
+930
 00:19:23,533 --> 00:19:25,466
 它会把东西放在正确的箱子里
 
-933
+931
 00:19:25,566 --> 00:19:29,100
 只需狂按这个按钮，直到它清空你的背包
 
-934
+932
 00:19:31,366 --> 00:19:34,033
 我记得它有时候会有点卡
 
-935
+933
 00:19:34,033 --> 00:19:35,233
 但通常它比刚刚的效果好
 
-936
+934
 00:19:38,366 --> 00:19:39,066
 哦对了
 
-937
+935
 00:19:39,066 --> 00:19:42,833
 有许多可以用来建房子的方块
 
-938
+936
 00:19:44,700 --> 00:19:46,433
 有一整章的任务
 
-939
+937
 00:19:47,200 --> 00:19:52,100
 关于装饰/建筑方块的
 
-940
+938
 00:19:53,066 --> 00:19:54,033
 不是这个
 
-941
+939
 00:19:54,433 --> 00:19:56,600
 好吧，这任务书被大改了
 
-942
+940
 00:19:57,966 --> 00:20:02,366
 嗯，有很多很多很多的方块
 
-943
+941
 00:20:03,000 --> 00:20:04,866
 大多数那些
 
-944
+942
 00:20:05,466 --> 00:20:08,266
 对于现在来说还有点太早
 
-945
+943
 00:20:08,266 --> 00:20:11,400
 但做出所有这些不同的方块不怎么费工夫
 
-946
+944
 00:20:11,833 --> 00:20:17,800
 通常我会等到做出能同时挖九个方块的匠魂锤子
 
-947
+945
 00:20:17,900 --> 00:20:20,066
 然后我去挖很多矿石的时候
 
-948
+946
 00:20:20,066 --> 00:20:21,633
 我会带着很多圆石回来
 
-949
+947
 00:20:21,633 --> 00:20:24,033
 我打算用石砖建房子
 
-950
+948
 00:20:24,233 --> 00:20:26,566
 所以现在我先就这样
 
-951
+949
 00:20:26,800 --> 00:20:30,166
 我会非常谨慎地一到晚上就睡觉
 
-952
+950
 00:20:31,866 --> 00:20:33,100
 肝了一会
 
-953
+951
 00:20:33,100 --> 00:20:35,100
 我们做出了第一个多方块机器
 
-954
+952
 00:20:35,433 --> 00:20:38,800
 叫它多方块，是因为它是由多个方块组成的
 
-955
+953
 00:20:43,200 --> 00:20:46,700
 好吧，现在你可能只想造一个
 
-956
+954
 00:20:49,066 --> 00:20:52,200
 它对制造更好的燃料非常有用
 
-957
+955
 00:20:52,233 --> 00:20:55,666
 我强烈建议用杂酚油桶做熔炉燃料
 
-958
+956
 00:20:55,900 --> 00:20:59,633
 每桶杂酚油可以烧 32 个物品
 
-959
+957
 00:21:00,200 --> 00:21:04,766
 木炭和杂酚油能提供同样多的燃料
 
-960
+958
 00:21:04,766 --> 00:21:08,800
 这个时期的杂酚油基本上没有其他用途
 
-961
+959
 00:21:08,900 --> 00:21:11,700
 你可能希望这个仓室永远是空的
 
-962
+960
 00:21:11,700 --> 00:21:13,566
 所以不妨在熔炉里烧掉
 
-963
+961
 00:21:14,166 --> 00:21:17,466
 但我想展示的是多方块
 
-964
+962
 00:21:17,466 --> 00:21:19,466
 对于所有的 GT 多方块
 
-965
+963
 00:21:19,700 --> 00:21:20,800
 永远记住
 
-966
+964
 00:21:20,833 --> 00:21:23,466
 大概率你总是要造不止一个
 
-967
+965
 00:21:24,033 --> 00:21:26,233
 为了节省方块，你可以共用结构方块
 
-968
+966
 00:21:26,700 --> 00:21:28,400
 共用结构方块的字面意思：
 
-969
+967
 00:21:28,700 --> 00:21:31,766
 把一个多方块的一整面给第二个多方块用
 
-970
+968
 00:21:32,433 --> 00:21:35,033
 就像这样
 
-971
+969
 00:21:35,633 --> 00:21:37,700
 这样就可以了
 
-972
+970
 00:21:37,700 --> 00:21:41,266
 这样搭可以省九个方块
 
-973
+971
 00:21:41,866 --> 00:21:44,766
 他们还在游戏中添加了一个不错的指南
 
-974
+972
 00:21:45,300 --> 00:21:48,366
 解释了很多东西
 
-975
+973
 00:21:48,800 --> 00:21:50,966
 我都没读这个
 
-976
+974
 00:21:50,966 --> 00:21:55,300
 因为很有可能 99% 的东西是我已经知道的
 
-977
+975
 00:21:55,866 --> 00:21:58,633
 在这里你可以看到一个更大的共用结构方块的例子
 
-978
+976
 00:22:02,300 --> 00:22:04,833
 你甚至可以做8个机器，背面再做4个
 
-979
+977
 00:22:05,966 --> 00:22:07,833
 然后你可以自动化它
 
-980
+978
 00:22:07,833 --> 00:22:11,666
 不过现在我们无法做出自动化
 
-981
+979
 00:22:11,666 --> 00:22:12,700
 所以目前
 
-982
+980
 00:22:12,700 --> 00:22:15,233
 它只用来制造燃料
 
-983
+981
 00:22:17,633 --> 00:22:19,233
 烧出足够的铁之后
 
-984
+982
 00:22:19,233 --> 00:22:22,266
 我们终于可以继续下一个任务了
 
-985
+983
 00:22:24,600 --> 00:22:25,466
 再一次
 
-986
+984
 00:22:25,466 --> 00:22:27,833
 不要只做一个 GT 工具，多做点
 
-987
+985
 00:22:27,833 --> 00:22:30,366
 因为你将需要很多 GT 工具
 
-988
+986
 00:22:30,700 --> 00:22:34,633
 另外，当你制作板子时，总是做比你可能需要的要多得多
 
-989
+987
 00:22:35,366 --> 00:22:38,033
 把所有工具都造出来
 
-990
+988
 00:22:38,866 --> 00:22:43,400
 使用这些新工具，我们可以解锁非常非常多新东西
 
-991
+989
 00:22:43,500 --> 00:22:46,066
 你应该把每个任务说明都读一遍
 
-992
+990
 00:22:46,066 --> 00:22:49,500
 并尝试了解每一个物品是什么
 
-993
+991
 00:22:49,800 --> 00:22:54,200
 但我将向你们展示这些任务中我最喜欢的东西
 
-994
+992
 00:22:54,466 --> 00:22:57,766
 第一个是新的自动售货机
 
-995
+993
 00:22:58,266 --> 00:23:00,700
 在这你可以放入所有硬币
 
-996
+994
 00:23:00,866 --> 00:23:03,600
 然后你可以买任何你想要的东西
 
-997
+995
 00:23:05,200 --> 00:23:07,700
 好吧，我太穷了，无法完成这些任务
 
-998
+996
 00:23:07,700 --> 00:23:09,666
 所以我们后面再看看
 
-999
+997
 00:23:10,000 --> 00:23:12,266
 下一个有用的东西是合成站
 
-1000
+998
 00:23:12,600 --> 00:23:13,833
 这个就像工作台
 
-1001
+999
 00:23:13,833 --> 00:23:16,833
 但它可以在你关闭 UI 时保存物品
 
-1002
+1000
 00:23:17,433 --> 00:23:19,000
 所以你可以把东西留在里面
 
-1003
+1001
 00:23:19,000 --> 00:23:19,966
 但最重要的是
 
-1004
+1002
 00:23:19,966 --> 00:23:22,433
 它可以访问附近箱子里的东西
 
-1005
+1003
 00:23:22,466 --> 00:23:26,433
 这样你就可以把所有的工具都放在旁边的箱子里
 
-1006
+1004
 00:23:26,433 --> 00:23:28,633
 你想制作一些东西的时候
 
-1007
+1005
 00:23:28,966 --> 00:23:31,166
 你可以用 NEI 的自动合成
 
-1008
+1006
 00:23:31,166 --> 00:23:35,200
 它会自动从箱子里取出物品
 
-1009
+1007
 00:23:38,033 --> 00:23:39,100
 放回去
 
-1010
+1008
 00:23:39,266 --> 00:23:40,066
 好
 
-1011
+1009
 00:23:40,700 --> 00:23:43,000
 我们还可以做更好的存储
 
-1012
+1010
 00:23:43,000 --> 00:23:46,233
 金箱子有更大的储物空间
 
-1013
+1011
 00:23:46,700 --> 00:23:48,766
 我们还可以做木桶（抽屉）
 
-1014
+1012
 00:23:48,800 --> 00:23:51,433
 它们可以放很多组同类物品
 
-1015
+1013
 00:23:51,433 --> 00:23:53,766
 理想情况下，你可以用它存圆石之类的
 
-1016
+1014
 00:23:53,766 --> 00:23:57,233
 但是我稍后会再做这些
 
-1017
+1015
 00:23:57,233 --> 00:24:00,633
 因为做它确实需要一些木头
 
-1018
+1016
 00:24:00,900 --> 00:24:06,100
 现在我没有那么多东西要存
 
-1019
+1017
 00:24:06,100 --> 00:24:10,000
 我之后会在有更多的材料时做这些东西
 
-1020
+1018
 00:24:10,000 --> 00:24:11,566
 这样我就可以用掉这些材料
 
-1021
+1019
 00:24:11,900 --> 00:24:13,633
 我也需要这个储存空间
 
-1022
+1020
 00:24:13,633 --> 00:24:15,300
 现在我不需要这个储物空间
 
-1023
+1021
 00:24:15,300 --> 00:24:17,900
 所以我不会用这些材料
 
-1024
+1022
 00:24:18,633 --> 00:24:21,100
 接下来是这个午餐盒
 
-1025
+1023
 00:24:21,700 --> 00:24:23,766
 这很酷，因为
 
-1026
+1024
 00:24:24,900 --> 00:24:27,900
 它只有管理食物的功能，但我觉得超级酷
 
-1027
+1025
 00:24:28,500 --> 00:24:29,800
 它有不同的模式
 
-1028
+1026
 00:24:29,800 --> 00:24:31,766
 你可以打开或关闭它
 
-1029
+1027
 00:24:32,066 --> 00:24:35,100
 当它关闭时，你用它点击一个有食物的箱子
 
-1030
+1028
 00:24:37,266 --> 00:24:37,600
 好吧
 
-1031
+1029
 00:24:37,600 --> 00:24:40,800
 当它在这个状态的时候左键一个有食物的箱子
 
-1032
+1030
 00:24:40,800 --> 00:24:44,600
 它就会把食物从箱子里拿出来
 
-1033
+1031
 00:24:45,266 --> 00:24:46,966
 然后你 Shift 右键
 
-1034
+1032
 00:24:47,233 --> 00:24:48,233
 它关闭了
 
-1035
+1033
 00:24:48,633 --> 00:24:51,500
 好吧，你可以自己弄清楚它是怎么用的
 
-1036
+1034
 00:24:51,500 --> 00:24:56,033
 好吧，它能从箱子里获取食物
 
-1037
+1035
 00:24:56,200 --> 00:24:57,566
 然后你就可以吃了
 
-1038
+1036
 00:24:58,166 --> 00:25:01,900
 一个模式允许你编辑它的库存
 
-1039
+1037
 00:25:01,900 --> 00:25:06,033
 另一种模式，你可以吃里面的东西
 
-1040
+1038
 00:25:06,366 --> 00:25:09,433
 它有足够的空间进行完整的食物轮换
 
-1041
+1039
 00:25:09,433 --> 00:25:12,866
 你不能连续吃超过四次相同的食物
 
-1042
+1040
 00:25:13,100 --> 00:25:14,666
 用这个可以帮你避免
 
-1043
+1041
 00:25:15,900 --> 00:25:18,866
 但最有用的可能是
 
-1044
+1042
 00:25:18,866 --> 00:25:20,233
 如果你运气不好
 
-1045
+1043
 00:25:20,233 --> 00:25:22,666
 我现在真正需要的是
 
-1046
+1044
 00:25:22,900 --> 00:25:24,833
 探矿魔杖
 
-1047
+1045
 00:25:25,500 --> 00:25:29,700
 如果你找不到一些矿石，探矿魔杖会派上用场
 
-1048
+1046
 00:25:30,800 --> 00:25:32,600
 做这个魔杖我们需要一些红石
 
-1049
+1047
 00:25:32,600 --> 00:25:34,200
 要获得红石
 
-1050
+1048
 00:25:34,200 --> 00:25:37,066
 步骤与其他矿物有点不同
 
-1051
+1049
 00:25:37,066 --> 00:25:39,266
 基本上你要洗含杂红石
 
-1052
+1050
 00:25:39,433 --> 00:25:41,966
 你有了粉碎红石，可以再粉碎一次
 
-1053
+1051
 00:25:42,433 --> 00:25:44,066
 你会得到含杂粉
 
-1054
+1052
 00:25:44,400 --> 00:25:47,200
 然后你把它扔进坩埚，你就得到了干净的粉
 
-1055
+1053
 00:25:48,833 --> 00:25:49,833
 你制作完之后
 
-1056
+1054
 00:25:49,833 --> 00:25:52,600
 你需要把一种矿石放在里面
 
-1057
+1055
 00:25:52,633 --> 00:25:54,300
 现在你甚至不需要矿石了
 
-1058
+1056
 00:25:55,800 --> 00:26:01,166
 你可以在这个里面放任何你想要的东西
 
-1059
+1057
 00:26:01,633 --> 00:26:04,366
 我认为他们可能改变它的用法
 
-1060
+1058
 00:26:04,366 --> 00:26:06,200
 但是，好吧，我不太确定
 
-1061
+1059
 00:26:10,100 --> 00:26:13,400
 我在探矿方面的运气很好
 
-1062
+1060
 00:26:13,400 --> 00:26:14,766
 我基本上什么都找到了
 
-1063
+1061
 00:26:15,966 --> 00:26:18,033
 就像我发现了两条云母矿脉
 
-1064
+1062
 00:26:19,600 --> 00:26:20,633
 一个还是两个来着
 
-1065
+1063
 00:26:20,800 --> 00:26:23,266
 反正我发现了最稀有的云母矿
 
-1066
+1064
 00:26:23,433 --> 00:26:25,866
 我们在很久之后会用上它
 
-1067
+1065
 00:26:26,000 --> 00:26:27,766
 但通常很难找到
 
-1068
+1066
 00:26:28,000 --> 00:26:29,600
 我发现了很多钻石
 
-1069
+1067
 00:26:30,166 --> 00:26:32,700
 不管怎样，我没有找到铜，这很怪
 
-1070
+1068
 00:26:32,800 --> 00:26:38,700
 所以我们可以用上刚开始录时发现的贫瘠铜矿
 
-1071
+1069
 00:26:39,966 --> 00:26:41,066
 但我存它了吗？
 
-1072
+1070
 00:26:41,900 --> 00:26:44,400
 我好像甚至没有收集那个贫瘠铜矿
 
-1073
+1071
 00:26:44,433 --> 00:26:46,600
 等等，我从来没有找到过铜矿石
 
-1074
+1072
 00:26:52,100 --> 00:26:56,066
 如果你连魔杖里可以用的东西都没有
 
-1075
+1073
 00:26:56,300 --> 00:26:58,266
 你可以在自动售货机里买到
 
-1076
+1074
 00:26:59,400 --> 00:27:00,033
 哦等等
 
-1077
+1075
 00:27:00,033 --> 00:27:01,066
 有任务奖励
 
-1078
+1076
 00:27:01,700 --> 00:27:02,500
 好吧
 
-1079
+1077
 00:27:02,833 --> 00:27:04,433
 那么我把这个放在上面
 
-1080
+1078
 00:27:04,966 --> 00:27:09,066
 现在我基本上是把它放在快捷栏里走来走去
 
-1081
+1079
 00:27:09,066 --> 00:27:11,300
 只要我找到那矿脉，它就会有反应
 
-1082
+1080
 00:27:13,266 --> 00:27:16,633
 它应该有 64 格的搜索深度
 
-1083
+1081
 00:27:16,633 --> 00:27:19,600
 但大多数矿石都在 Y=64 以上
 
-1084
+1082
 00:27:19,600 --> 00:27:21,433
 所以除非你去山上
 
-1085
+1083
 00:27:21,433 --> 00:27:22,633
 它应该都是有效的
 
-1086
+1084
 00:27:22,966 --> 00:27:25,633
 最终，在走了这么远之后
 
-1087
-00:27:25,833 --> 00:27:28,066
+1085
+00:27:25,833 --> 00:27:29,966
 你应该能找到你在找什么矿
 
-1088
-00:27:28,566 --> 00:27:29,966
-（向上合并）
-
-1089
+1086
 00:27:30,233 --> 00:27:31,466
 哦对了，你要确保
 
-1090
+1087
 00:27:31,466 --> 00:27:35,800
 你找的东西会在你要找的维度中生成
 
-1091
+1088
 00:27:36,366 --> 00:27:38,866
 但最终你应该能找到它
 
-1092
+1089
 00:27:40,800 --> 00:27:44,700
 在花了比预期长得多的时间寻找后
 
-1093
+1090
 00:27:45,066 --> 00:27:46,800
 我们终于找到了一些铜矿
 
-1094
+1091
 00:27:47,700 --> 00:27:51,166
 我不敢相信这里没有一条铜矿脉
 
-1095
+1092
 00:27:51,433 --> 00:27:53,666
 我这一片都走遍了
 
-1096
+1093
 00:27:53,666 --> 00:27:56,166
 真不敢相信这是我发现的第一条铜矿脉
 
-1097
+1094
 00:27:56,566 --> 00:27:58,400
 我开始失去希望了，但没关系
 
-1098
+1095
 00:27:58,766 --> 00:28:00,800
 都能找到的
 
-1099
+1096
 00:28:00,800 --> 00:28:01,966
 要做这个
 
-1100
+1097
 00:28:06,800 --> 00:28:08,100
 好吧，看看配方
 
-1101
+1098
 00:28:08,100 --> 00:28:09,833
 我不知道为什么会显示这个
 
-1102
+1099
 00:28:10,400 --> 00:28:12,966
 无论如何，要制作探矿魔杖
 
-1103
+1100
 00:28:13,233 --> 00:28:15,600
 你基本上只需要铁、金和红石
 
-1104
+1101
 00:28:16,033 --> 00:28:17,866
 铁是最常见的矿石
 
-1105
+1102
 00:28:18,033 --> 00:28:21,366
 黄金和红石到处都是贫瘠矿石
 
-1106
+1103
 00:28:21,366 --> 00:28:24,300
 所以这个应该很容易做出来
 
-1107
+1104
 00:28:25,866 --> 00:28:28,066
 那些矿真的很容易找到
 
-1108
+1105
 00:28:28,233 --> 00:28:30,666
 一旦我们有了锡和铜
 
-1109
+1106
 00:28:30,666 --> 00:28:32,900
 我们可以做出粉
 
-1110
+1107
 00:28:33,866 --> 00:28:35,866
 我们可以从材料中得到粉
 
-1111
+1108
 00:28:35,866 --> 00:28:38,033
 并将它们混合，获得青铜
 
-1112
+1109
 00:28:39,833 --> 00:28:41,266
 一旦我们有了足够的青铜
 
-1113
+1110
 00:28:41,266 --> 00:28:44,700
 我们终于可以制造出第一台小型燃煤锅炉了
 
-1114
+1111
 00:28:45,466 --> 00:28:46,566
 有了这个
 
-1115
+1112
 00:28:46,800 --> 00:28:48,500
 我们就进入蒸汽时代了
 
-1116
+1113
 00:28:49,200 --> 00:28:49,966
 我觉得
 
-1117
+1114
 00:28:49,966 --> 00:28:50,633
 对吗？
 
-1118
+1115
 00:28:51,300 --> 00:28:52,200
 不对？
 
-1119
+1116
 00:28:55,566 --> 00:28:57,066
 哦，你必须点一个复选框
 
-1120
+1117
 00:28:58,000 --> 00:29:00,166
 正如我所说
 
-1121
+1118
 00:29:00,400 --> 00:29:02,100
 现在我必须制作另一个
 
-1122
+1119
 00:29:02,500 --> 00:29:04,200
 始终确保
 
-1123
+1120
 00:29:04,766 --> 00:29:06,433
 你在跟着任务书走
 
-1124
+1121
 00:29:06,433 --> 00:29:09,500
 因为现在我必须为此制作另一个锅炉
 
-1125
+1122
 00:29:10,966 --> 00:29:12,066
 很好
 
-1126
+1123
 00:29:13,066 --> 00:29:14,666
 正如我所说
 
-1127
+1124
 00:29:14,866 --> 00:29:17,866
 在我们制造出第二台小型燃煤锅炉后
 
-1128
+1125
 00:29:18,100 --> 00:29:21,566
 我们终于进入了蒸汽时代
 
-1129
+1126
 00:29:22,600 --> 00:29:26,800
 而这将是我们在下一集要做的
 
-1130
+1127
 00:29:28,233 --> 00:29:29,033
 拜拜
 
