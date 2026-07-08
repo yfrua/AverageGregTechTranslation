@@ -1,8 +1,7 @@
 {
   "meta": {
     "description": "GTNH video subtitle EN→CN terminology database — sourced from existing translations in this repo",
-    "version": "2.1",
-    "last_updated": "2026-06-23",
+    "last_updated": "2026-07-08",
     "usage": "When translating English subtitles to Chinese, consult this glossary for consistent terminology and known conventions."
   },
   "known_conventions": {
@@ -189,7 +188,22 @@
     "steam grinder": "蒸汽研磨机",
     "steel wrench": "钢扳手",
     "iron wrench": "铁扳手",
-    "americium": "镅"
+    "americium": "镅",
+    "motor": "马达",
+    "hazmat suit": "防化服",
+    "crowbar": "撬棍",
+    "soft mallet": "软锤",
+    "hard hammer": "硬锤",
+    "duct tape": "胶带",
+    "magnet": "磁铁",
+    "soldering alloy": "焊锡",
+    "fine wire": "细导线",
+    "diode": "二极管",
+    "boule": "单晶硅",
+    "field engineer toolbox": "现场工程师工具箱",
+    "annealed cable": "退火线缆",
+    "battery buffer": "电池箱",
+    "potin": "铅青铜"
   },
   "world_generation": {
     "vein": "矿脉",
@@ -270,7 +284,16 @@
     "argon": "氩",
     "krypton": "氪",
     "xenon": "氙",
-    "radon": "氡"
+    "radon": "氡",
+    "realgar": "雄黄",
+    "sphalerite": "闪锌矿",
+    "cobaltite": "辉钴矿",
+    "cryolite": "冰晶石",
+    "alumina": "氧化铝",
+    "gallium arsenide": "砷化镓",
+    "lazurite": "蓝金石",
+    "sapphire": "蓝宝石",
+    "benzene": "苯"
   },
   "machines": {
     "_ref": "See known_conventions for common machines. This section covers additional ones.",
@@ -423,7 +446,15 @@
     "grindy": "肝",
     "ghetto": "简陋",
     "stock": "库存",
-    "stash": "囤积"
+    "stash": "囤积",
+    "mob farm": "刷怪场",
+    "debuff": "负面效果",
+    "byproduct": "副产品",
+    "parallel": "并行处理",
+    "centralize power": "集中供能",
+    "power loss": "能量损耗",
+    "maintenance hatch": "维护仓",
+    "AFK": "挂机"
   },
   "ui_and_controls": {
     "UI": "界面",
@@ -486,5 +517,39 @@
     "thanks for watching": "感谢观看",
     "figure out": "搞清楚",
     "make sure": "确保"
+  },
+  "particle_physics_and_beams": {
+    "_note": "Terms used in GTNH particle physics / beamline / LHC content.",
+    "Large Hadron Collider": "大型强子对撞机",
+    "LHC": "LHC",
+    "cyclotron": "回旋加速器",
+    "compact cyclotron": "紧凑型回旋加速器",
+    "collider": "对撞机",
+    "accelerator": "加速器",
+    "beamline": "束流线",
+    "beamcrafter": "束流合成器",
+    "beamcrafting": "束流合成",
+    "beam crafting": "束流合成",
+    "beam": "束流",
+    "particle beam": "粒子束",
+    "beam mirror": "束流镜",
+    "beam stabilizer": "束流稳定器",
+    "beam splitter": "束流分离器",
+    "particle": "粒子",
+    "electron": "电子",
+    "muon": "μ子",
+    "photon": "光子",
+    "quark": "夸克",
+    "electron volt": "eV",
+    "giga electron volt": "GeV",
+    "GeV": "GeV",
+    "collimation": "准直",
+    "focus": "聚焦",
+    "quantum anomaly": "量子反常",
+    "unknown particle": "未知粒子",
+    "quark releasing catalyst": "夸克释放催化剂",
+    "Grade 8 water": "8级水",
+    "asymptote": "渐近线",
+    "tooltip": "工具提示"
   }
 }
