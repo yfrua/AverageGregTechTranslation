@@ -4,7 +4,7 @@ welcome back everyone
 
 2
 00:00:01,600 --> 00:00:04,566
-and today we are going to go through this steam age
+and today we are going to go through the steam age
 
 3
 00:00:04,566 --> 00:00:07,500
@@ -88,7 +88,7 @@ and we already made in the last episode two Small Coal Boilers
 
 23
 00:00:59,600 --> 00:01:02,133
-those will burn coal to make a steam
+those will burn coal to make steam
 
 24
 00:01:02,500 --> 00:01:06,266
@@ -160,7 +160,7 @@ we need sticky resin
 
 41
 00:01:56,133 --> 00:01:57,533
-was wondering, OK
+I was wondering, OK
 
 42
 00:01:57,566 --> 00:01:58,800
@@ -320,7 +320,7 @@ but for water just go with wooden
 
 81
 00:03:53,766 --> 00:03:58,266
-think I'm going to place this tank right here
+I think I'm going to place this tank right here
 
 82
 00:03:59,133 --> 00:04:01,066
@@ -332,15 +332,15 @@ depending on the humidity of the biome
 
 84
 00:04:03,500 --> 00:04:05,733
-this biome has an eighty percent humidity
+this biome has an 80% percent humidity
 
 85
 00:04:06,766 --> 00:04:10,166
-so it basically works by taking eighty percent of the speed
+so it basically works at 80% percent speed
 
 86
 00:04:10,933 --> 00:04:14,533
-I think generally sixty percent and above is probably good enough
+I think generally 60% percent and above is probably good enough
 
 87
 00:04:14,766 --> 00:04:19,500
@@ -368,7 +368,7 @@ but it's should be more than enough for
 
 93
 00:04:30,933 --> 00:04:33,733
-two small coal boilers that we have
+two Small Coal Boilers that we have
 
 94
 00:04:36,533 --> 00:04:42,533
@@ -388,7 +388,7 @@ and you just click
 
 98
 00:04:57,966 --> 00:05:00,333
-OK, that annoying
+OK, that's annoying
 
 99
 00:05:04,900 --> 00:05:06,600
@@ -428,7 +428,7 @@ so if you want the fluid to go from one point to the other
 
 108
 00:05:27,966 --> 00:05:33,933
-it's better to shift and click with your wrench to force the flow direction
+it's better to Shift and Click with your wrench to force the flow direction
 
 109
 00:05:34,866 --> 00:05:38,333
@@ -440,7 +440,7 @@ I heavily suggest doing that on every pipe that
 
 111
 00:05:41,600 --> 00:05:44,666
-where the fluid is supposed to move in a certain direction
+where the fluid is supposed to move in a forced direction
 
 112
 00:05:45,766 --> 00:05:50,500
@@ -456,15 +456,15 @@ finish this, OK
 
 115
 00:06:06,566 --> 00:06:12,800
-unless you can see the water is flowing to the boilers
+as you can see the water is flowing to the boilers
 
 116
 00:06:16,933 --> 00:06:18,766
-water level is slowly rising, OK
+water level is slowly rising
 
 117
 00:06:18,766 --> 00:06:20,266
-this one is filled first
+this one is fed first
 
 118
 00:06:21,400 --> 00:06:22,600
@@ -476,7 +476,7 @@ this one will get more water
 
 120
 00:06:25,066 --> 00:06:28,300
-you don't really need that much water at this windows
+you don't really need that much water with those
 
 121
 00:06:29,366 --> 00:06:31,066
@@ -516,7 +516,7 @@ and once the boiler reaches one hundred degrees
 
 130
 00:06:57,500 --> 00:06:59,866
-it will start out putting steam
+it will start outputting steam
 
 131
 00:07:00,533 --> 00:07:02,966
@@ -524,7 +524,7 @@ and of course, we need some machine
 
 132
 00:07:04,866 --> 00:07:08,933
-uh, the first machine is going to be an Alloy Smelter
+the first machine is going to be an Alloy Smelter
 
 133
 00:07:11,666 --> 00:07:16,500
@@ -544,7 +544,7 @@ back in the day you had to guess how much steam it had inside
 
 137
 00:07:24,733 --> 00:07:28,300
-so my suggestion here is try to make sure these ones (is at all?) always on the green before starting this machine
+so my suggestion here is try to make sure this one is always on the green before starting this machine
 
 138
 00:07:28,300 --> 00:07:31,933
@@ -560,7 +560,7 @@ the first use you are going to use this for is making bronze with a better yield
 
 141
 00:07:38,366 --> 00:07:42,000
-uh, it makes four ingots out of three copper plus one tin
+it makes four ingots out of three copper plus one tin
 
 142
 00:07:42,133 --> 00:07:45,666
@@ -584,15 +584,15 @@ and if the needle reaches zero
 
 147
 00:07:55,300 --> 00:07:58,966
-it's going to get stop and keep clunking
+it's going to get stop and keep clunking(?)
 
 148
 00:07:58,966 --> 00:08:02,133
-also, another thing is that after it finishes process
+also, another thing is that after its finishes process
 
 149
 00:08:02,133 --> 00:08:04,400
-it has to vent out the excess steam
+it has to vent out the exhaust steam
 
 150
 00:08:04,866 --> 00:08:09,733
@@ -712,7 +712,7 @@ like I want to show you everything that can happen
 
 179
 00:09:39,100 --> 00:09:43,066
-so you know more or less what you did wrong and how to deal with it
+so, you know more or less what you did wrong and how to deal with it
 
 180
 00:09:44,400 --> 00:09:47,966
@@ -792,7 +792,7 @@ and we also unlocked the steel quest
 
 199
 00:10:49,666 --> 00:10:53,700
-now, to get steel, we actually need a brick blast furnace
+now, to get steel, we actually need a Brick Blast Furnace
 
 200
 00:10:54,666 --> 00:10:59,166
@@ -824,7 +824,7 @@ but to follow the quest
 
 207
 00:11:17,066 --> 00:11:20,166
-just try to loot eight steel ingots from a dungeon
+just try to loot 8 steel ingots from a dungeon
 
 208
 00:11:21,000 --> 00:11:23,000
@@ -880,7 +880,7 @@ you had to put those into the correct slots
 
 221
 00:11:58,933 --> 00:12:00,600
-to get an achievement
+you'll get an achievement
 
 222
 00:12:00,600 --> 00:12:02,266
@@ -904,7 +904,7 @@ you lose the buff and you start taking damage again
 
 227
 00:12:14,933 --> 00:12:18,400
-the same thing applies to tanks that contain
+the same thing applies to tanks that contain it
 
 228
 00:12:18,466 --> 00:12:21,533
@@ -956,7 +956,7 @@ but I'm going to get the hammer soon
 
 240
 00:12:57,400 --> 00:13:00,300
-so it should be fine to make a obsidian pickaxe
+so it should be fine. (分到下一行) to make a obsidian pickaxe
 
 241
 00:13:01,200 --> 00:13:06,233
@@ -992,7 +992,7 @@ and there are like four layers of dungeon
 
 249
 00:13:30,300 --> 00:13:34,166
-each layer has better rewards but tougher tougher enemies
+each layer has better rewards but tougher enemies
 
 250
 00:13:35,300 --> 00:13:37,966
@@ -1000,11 +1000,11 @@ OK, this one I actually did try to get there already
 
 251
 00:13:37,966 --> 00:13:38,966
-but I failed
+but I failed. （分到下一句）So there I am 
 
 252
 00:13:45,000 --> 00:13:46,933
-uh, let's see how does it go
+let's see how does it go
 
 253
 00:13:46,933 --> 00:13:48,266
@@ -1020,7 +1020,7 @@ but you can even use the NEI search function to even locate the loot chests that
 
 256
 00:13:57,133 --> 00:14:01,300
-I'm not a fan of fighting PvE games or Dungeon exploration games
+I'm not a fan of fighting PvE games or dungeon exploration games
 
 257
 00:14:01,466 --> 00:14:05,066
@@ -1032,7 +1032,7 @@ and as soon as I can grab it
 
 259
 00:14:07,000 --> 00:14:10,466
-I'm just going to leave that Dungeon and go back to our progression
+I'm just going to leave that dungeon and go back to our progression
 
 260
 00:14:11,466 --> 00:14:14,966
@@ -1040,7 +1040,7 @@ and I wanted to remind you that you don't even have to get steel this way
 
 261
 00:14:15,100 --> 00:14:17,766
-you could make steel with a brick blast furnace
+you could make steel with a Brick Blast Furnace
 
 262
 00:14:17,766 --> 00:14:20,133
@@ -1092,7 +1092,7 @@ we can finally make the better tools
 
 274
 00:14:59,266 --> 00:15:00,900
-third one is the lumber axe
+first one is the lumber axe
 
 275
 00:15:00,966 --> 00:15:03,700
@@ -1180,7 +1180,7 @@ and it has a lower chance of working in this pack
 
 296
 00:16:21,300 --> 00:16:24,000
-this is going to be way harsher than Vanilla Minecraft
+this is going to be way harsher than vanilla Minecraft
 
 297
 00:16:24,266 --> 00:16:25,933
@@ -1240,7 +1240,7 @@ this first macerator you only want to use it to get a few things like
 
 311
 00:17:16,866 --> 00:17:19,266
-macerating terracotta most, yeah
+macerating terracotta for clay most, yeah
 
 312
 00:17:19,266 --> 00:17:22,066
@@ -1288,7 +1288,7 @@ you would probably want to wait for a better steam generation
 
 323
 00:17:56,666 --> 00:18:00,733
-but it gives you fifty percent more plates than if you did that in a crafting table
+but it gives you 50% percent more plates than if you did that in a crafting table
 
 324
 00:18:02,200 --> 00:18:04,300
@@ -1312,7 +1312,7 @@ which you turn into plates so that we can get the piston boots
 
 329
 00:18:20,700 --> 00:18:23,366
-those boots will allow you to jump three blocks tall
+those boots will allow you to jump 3 blocks tall
 
 330
 00:18:23,566 --> 00:18:27,266
@@ -1320,7 +1320,7 @@ which is super handy and will also give you some buff when you sprint
 
 331
 00:18:28,166 --> 00:18:32,100
-and they also do the auto stepping when you go around
+and they also do the auto-stepping when you go around
 
 332
 00:18:32,533 --> 00:18:36,366
@@ -1336,7 +1336,7 @@ if you don't like all of the crafting that it takes to make those
 
 335
 00:18:47,666 --> 00:18:51,466
-which nowadays is not even a big deal since we have NEI auto crafting
+which nowadays is not even a big deal since we have NEI auto-crafting
 
 336
 00:18:51,466 --> 00:18:55,300
@@ -1372,7 +1372,7 @@ if we actually want to do progress in a realistic and enjoyable time
 
 344
 00:19:25,533 --> 00:19:32,166
-but I think that I'm going to dedicate a whole episode just to the world steam progression done properly
+but I think that I'm going to dedicate a whole episode just to the whole steam progression done properly
 
 345
 00:19:32,166 --> 00:19:36,100
