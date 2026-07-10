@@ -1,0 +1,5512 @@
+1
+00:00:00,833 --> 00:00:01,766
+welcome back
+
+2
+00:00:01,766 --> 00:00:04,266
+and today we're going to see the MV tier
+
+3
+00:00:05,033 --> 00:00:07,633
+and the main issue right now is sourcing enough aluminum
+
+4
+00:00:07,733 --> 00:00:09,533
+as we have seen in the past episode
+
+5
+00:00:09,700 --> 00:00:12,100
+sourcing the raw aluminum is not easy
+
+6
+00:00:12,133 --> 00:00:18,700
+mainly because the every way of sourcing aluminum requires an MV electrolyzer
+
+7
+00:00:18,933 --> 00:00:23,066
+the other ways have a really low yield and are not really worth it
+
+8
+00:00:23,666 --> 00:00:26,866
+but we managed to get a little bit of aluminum in other ways
+
+9
+00:00:26,866 --> 00:00:30,666
+and we use that to make the aluminum required to make an MV electrolyzer
+
+10
+00:00:30,800 --> 00:00:37,633
+and that means that we can finally electrolyze all sorts of things to get a lot of aluminum
+
+11
+00:00:38,533 --> 00:00:40,500
+now that we have a better source of aluminum
+
+12
+00:00:40,500 --> 00:00:42,933
+we can move on to the next useful machine
+
+13
+00:00:43,100 --> 00:00:44,733
+which is going to be the extruder
+
+14
+00:00:45,000 --> 00:00:49,266
+this machine will make many craftings way easier and more straightforward
+
+15
+00:00:49,666 --> 00:00:50,833
+but most importantly
+
+16
+00:00:50,833 --> 00:00:55,433
+it will make many craftings have a way better yield than if we did those manually
+
+17
+00:00:55,433 --> 00:01:01,833
+using such machine requires us to put a shape with the material we want to be shaped inside the machine
+
+18
+00:01:01,900 --> 00:01:04,433
+that means we have a lot of shapes to manage
+
+19
+00:01:04,433 --> 00:01:05,600
+and to do that
+
+20
+00:01:05,866 --> 00:01:10,200
+we can put a item holder on the machine
+
+21
+00:01:10,800 --> 00:01:14,433
+and then we can access it and leave our molds there
+
+22
+00:01:16,233 --> 00:01:19,233
+and we can also use it to make higher tier tools
+
+23
+00:01:19,733 --> 00:01:20,600
+but be careful
+
+24
+00:01:20,600 --> 00:01:24,266
+because if you want for example to make a better hammer part like this one
+
+25
+00:01:24,266 --> 00:01:26,633
+it will take half an hour to do
+
+26
+00:01:26,833 --> 00:01:30,100
+so not only your machine will be clogged for half an hour
+
+27
+00:01:30,266 --> 00:01:34,466
+if you run out of power for one second after 20 minutes of progress
+
+28
+00:01:34,466 --> 00:01:36,400
+you will lose those 20 minutes of progress
+
+29
+00:01:36,400 --> 00:01:38,200
+and have to start over the process
+
+30
+00:01:38,733 --> 00:01:41,400
+my suggestion is to get another extruder
+
+31
+00:01:41,400 --> 00:01:45,833
+maybe with a battery too, if you want to do those parts and are not too confident
+
+32
+00:01:46,800 --> 00:01:51,666
+and with that we go to the point where we should probably figure out a better way of managing our power
+
+33
+00:01:52,066 --> 00:01:54,633
+because this turbine can only power one machine
+
+34
+00:01:54,633 --> 00:01:57,233
+and we have three on a single cable
+
+35
+00:01:57,500 --> 00:02:00,633
+now, most people like to have many generators
+
+36
+00:02:00,633 --> 00:02:02,400
+craft many many many turbines
+
+37
+00:02:02,400 --> 00:02:04,333
+put one turbine on each machine
+
+38
+00:02:04,400 --> 00:02:10,733
+and then have a pipe probably of benzene or diesel at this point of the game to power everything
+
+39
+00:02:10,900 --> 00:02:14,833
+but I don't like building so many turbines and having all of those around
+
+40
+00:02:14,833 --> 00:02:19,366
+so instead, I'm going to try to centralize power in a main battery buffer
+
+41
+00:02:20,900 --> 00:02:23,500
+many people probably don't like doing it this way
+
+42
+00:02:23,500 --> 00:02:26,533
+but I really like to centralize power earlier rather than later
+
+43
+00:02:26,800 --> 00:02:29,266
+so we have to use better buffers
+
+44
+00:02:29,266 --> 00:02:31,766
+right now we can basically only do MV
+
+45
+00:02:32,266 --> 00:02:35,400
+and the first thing we have to do is decide which battery buffer
+
+46
+00:02:35,400 --> 00:02:37,666
+and of course we do go with the biggest one
+
+47
+00:02:38,233 --> 00:02:42,433
+the only difference is the amount of cable you have to put in there
+
+48
+00:02:42,533 --> 00:02:48,133
+but I think it totally worth to always put the thicker cable to get extra slots
+
+49
+00:02:48,700 --> 00:02:53,633
+the main difference is the amount of batteries you can put inside it
+
+50
+00:02:53,866 --> 00:02:57,266
+so this one can only hold one battery and it cheap
+
+51
+00:02:57,266 --> 00:03:00,600
+while this one can hold 16 but it's a bit expensive
+
+52
+00:03:01,533 --> 00:03:02,500
+but once again
+
+53
+00:03:02,500 --> 00:03:04,533
+you can use this one with a single battery
+
+54
+00:03:05,333 --> 00:03:07,066
+costs a little bit more
+
+55
+00:03:07,066 --> 00:03:09,200
+the other big difference is the capacity
+
+56
+00:03:09,200 --> 00:03:12,800
+if you look this one with a single battery has only a thousand capacity
+
+57
+00:03:12,800 --> 00:03:15,233
+while the big one has one hundred thousands
+
+58
+00:03:15,733 --> 00:03:19,833
+and that capacity is the internal capacity of the block itself
+
+59
+00:03:19,833 --> 00:03:23,766
+which basically means extra free power storage
+
+60
+00:03:23,766 --> 00:03:27,633
+on the biggest one, it's almost half a battery
+
+61
+00:03:28,166 --> 00:03:31,266
+and of course the other thing we're going to need is batteries
+
+62
+00:03:31,266 --> 00:03:35,466
+now, lithium batteries at MV are the best batteries we could make
+
+63
+00:03:36,100 --> 00:03:39,633
+but I will keep lithium for later
+
+64
+00:03:39,633 --> 00:03:40,666
+I don't have much
+
+65
+00:03:40,666 --> 00:03:43,333
+it's a little bit hard to obtain
+
+66
+00:03:43,333 --> 00:03:49,933
+instead, I got a lot of sodium from processing sodalite and lazurite
+
+67
+00:03:50,200 --> 00:03:53,200
+so may as well put this sodium into the batteries
+
+68
+00:03:53,466 --> 00:03:58,600
+and that should make a really cheap setup to make
+
+69
+00:03:58,600 --> 00:04:01,066
+finally, for this setup we have to pick a cable
+
+70
+00:04:01,066 --> 00:04:04,033
+now at this point of the game, we have many options
+
+71
+00:04:04,200 --> 00:04:08,066
+so you most likely are going to look into annealed copper
+
+72
+00:04:08,066 --> 00:04:11,733
+which looks like the best one probably you can do right now
+
+73
+00:04:12,500 --> 00:04:14,466
+if you want to cheap out, you can use normal copper
+
+74
+00:04:14,466 --> 00:04:16,700
+which however has twice the power loss
+
+75
+00:04:17,000 --> 00:04:18,633
+what I was looking at
+
+76
+00:04:18,633 --> 00:04:20,466
+I don't looks
+
+77
+00:04:20,466 --> 00:04:22,000
+nickel looks decent too
+
+78
+00:04:22,000 --> 00:04:25,433
+but I really don't see it being worth the extra loss
+
+79
+00:04:25,800 --> 00:04:32,233
+but the bigger thing here is that you shouldn't watch just the cables of your tier
+
+80
+00:04:32,666 --> 00:04:34,666
+because at this point for example
+
+81
+00:04:34,866 --> 00:04:36,866
+we can totally use gold
+
+82
+00:04:36,866 --> 00:04:38,400
+or maybe not gold
+
+83
+00:04:38,400 --> 00:04:40,666
+but we can totally use silver
+
+84
+00:04:40,666 --> 00:04:43,300
+we getting silver right now is easy
+
+85
+00:04:43,433 --> 00:04:45,600
+it's a super easy metal to process
+
+86
+00:04:45,600 --> 00:04:47,633
+you don't have to blast furnace it
+
+87
+00:04:48,433 --> 00:04:49,700
+and as you can see
+
+88
+00:04:49,700 --> 00:04:51,600
+it's only one cable loss
+
+89
+00:04:51,600 --> 00:04:53,100
+but it's only one amp
+
+90
+00:04:53,100 --> 00:04:55,533
+and this one can do even 500 volts
+
+91
+00:04:55,533 --> 00:04:57,466
+so this cable...
+
+92
+00:04:57,466 --> 00:04:59,433
+like the voltage is the maximum
+
+93
+00:05:00,900 --> 00:05:04,200
+okay, that should not confuse you with machine parts
+
+94
+00:05:04,200 --> 00:05:07,133
+okay, if you look at the machine cable, diodes or machine parts
+
+95
+00:05:08,700 --> 00:05:10,033
+they say also voltage out
+
+96
+00:05:10,033 --> 00:05:12,000
+but we're going to talk about those later
+
+97
+00:05:13,200 --> 00:05:15,133
+the thing is that its maximum voltage
+
+98
+00:05:15,133 --> 00:05:20,466
+that means you can use a silver cable in every tier up to HV
+
+99
+00:05:20,700 --> 00:05:23,300
+we are at MV, 128 (volts)
+
+100
+00:05:23,300 --> 00:05:25,100
+so we can use HV cables too
+
+101
+00:05:26,900 --> 00:05:29,666
+and silver is an option
+
+102
+00:05:29,666 --> 00:05:32,733
+even better than silver, I would suggest blue alloy
+
+103
+00:05:34,633 --> 00:05:36,300
+and I think blue alloy is so good
+
+104
+00:05:36,300 --> 00:05:37,400
+that it's what I'm going to do
+
+105
+00:05:37,400 --> 00:05:40,633
+blue alloy is basically silver plus electrotine
+
+106
+00:05:41,100 --> 00:05:42,600
+so at the end of the day
+
+107
+00:05:42,600 --> 00:05:45,433
+the cost is the same per wire
+
+108
+00:05:45,433 --> 00:05:52,266
+it's always one silver ingot makes either one silver cable or one blue alloy cable
+
+109
+00:05:52,533 --> 00:05:55,400
+but blue alloy can carry twice the amount of current
+
+110
+00:05:55,400 --> 00:05:59,233
+that means you can use a cable that is half the size
+
+111
+00:05:59,500 --> 00:06:02,800
+or you can carry twice the power with the same cable
+
+112
+00:06:03,333 --> 00:06:06,966
+I think it's probably worth it to go dig electrotine
+
+113
+00:06:06,966 --> 00:06:09,300
+at this point I could just dig more silver
+
+114
+00:06:09,466 --> 00:06:14,233
+but electrotine, one ore gives you 10 dust
+
+115
+00:06:14,233 --> 00:06:15,566
+so it's quite nice
+
+116
+00:06:15,566 --> 00:06:19,100
+also it has a nice byproduct if you ever wanted to process it
+
+117
+00:06:20,333 --> 00:06:23,433
+and since it's a nether ore you also get twice as much
+
+118
+00:06:23,433 --> 00:06:25,833
+because nether ores have twice this yield
+
+119
+00:06:26,233 --> 00:06:28,433
+also at this point of the game
+
+120
+00:06:28,433 --> 00:06:32,066
+if you have to find a new vein you haven't found yet at this point of the game
+
+121
+00:06:32,533 --> 00:06:34,633
+you can also use the prospectors
+
+122
+00:06:34,700 --> 00:06:36,833
+you can actually craft this one at LV
+
+123
+00:06:37,400 --> 00:06:38,333
+it doesn't need much
+
+124
+00:06:38,333 --> 00:06:40,933
+it's a little bit annoying maybe to make
+
+125
+00:06:40,933 --> 00:06:44,266
+but you can totally do it, it's not that hard
+
+126
+00:06:45,333 --> 00:06:48,700
+the LV and MV versions are disappointing
+
+127
+00:06:48,700 --> 00:06:51,200
+especially with the materials you have available
+
+128
+00:06:51,200 --> 00:06:54,800
+well, they are really good enough I would say
+
+129
+00:06:55,400 --> 00:06:57,900
+but you have to be a little bit smart on how to use those
+
+130
+00:06:58,033 --> 00:07:02,366
+for example this LV version has a 3 by 3 chunk scan range
+
+131
+00:07:03,766 --> 00:07:05,900
+every vein is 3 by 3 chunks
+
+132
+00:07:05,900 --> 00:07:08,333
+that means if you scan in the middle of a vein
+
+133
+00:07:08,433 --> 00:07:11,066
+it will scan those nine chunks
+
+134
+00:07:11,066 --> 00:07:13,666
+and reveal one vein below you
+
+135
+00:07:13,900 --> 00:07:18,200
+but if you do that in a corner
+
+136
+00:07:18,200 --> 00:07:21,666
+so that it will scan the chunks of four different veins
+
+137
+00:07:21,666 --> 00:07:24,333
+it should reveal four veins
+
+138
+00:07:24,333 --> 00:07:25,433
+yes it did
+
+139
+00:07:26,066 --> 00:07:29,700
+and that, you can see how I spotted three veins with one click
+
+140
+00:07:30,133 --> 00:07:33,000
+so be a little bit careful on the size
+
+141
+00:07:33,000 --> 00:07:37,066
+basically, if it is 3 by 3, click in a corner
+
+142
+00:07:37,500 --> 00:07:39,933
+5 by 5, go in the middle of a vein
+
+143
+00:07:40,500 --> 00:07:44,866
+and it was then that I realized that to make batteries we need polyethylene
+
+144
+00:07:45,366 --> 00:07:51,600
+so we are going to momentarily (postpone?) the centralization of the power project
+
+145
+00:07:51,700 --> 00:07:54,833
+and we are instead going to work on polyethane
+
+146
+00:07:54,833 --> 00:07:57,733
+now you can make polyethane in different ways
+
+147
+00:07:57,900 --> 00:08:03,333
+but my favorite one which is probably the easiest one is to just use oil
+
+148
+00:08:04,033 --> 00:08:08,333
+and the easiest way to obtain oil is to look for one of those black spots in the map
+
+149
+00:08:08,800 --> 00:08:13,600
+it's rather common you can easily spot it in a desert
+
+150
+00:08:13,600 --> 00:08:18,866
+but you can find those pretty much everywhere if you look around enough
+
+151
+00:08:20,066 --> 00:08:23,000
+anyways, once you get there
+
+152
+00:08:23,000 --> 00:08:24,566
+you have to set up a pump
+
+153
+00:08:24,566 --> 00:08:26,300
+I mean you could use bucket
+
+154
+00:08:26,300 --> 00:08:28,300
+you can also get oil in many other ways
+
+155
+00:08:28,300 --> 00:08:31,900
+but I feel like at this tier it's the easiest way in my opinion
+
+156
+00:08:32,233 --> 00:08:33,833
+so I'm going to do it this way
+
+157
+00:08:34,700 --> 00:08:36,633
+so you set up a pump
+
+158
+00:08:37,633 --> 00:08:40,533
+you're going to need to power this one
+
+159
+00:08:40,533 --> 00:08:41,833
+since we have oil there
+
+160
+00:08:41,833 --> 00:08:45,266
+and a semIfluid generator uses almost no power
+
+161
+00:08:45,466 --> 00:08:47,000
+I suggest using that one
+
+162
+00:08:48,700 --> 00:08:52,166
+and then the pump should start working
+
+163
+00:08:52,166 --> 00:08:53,866
+okay, once you got the
+
+164
+00:08:53,866 --> 00:08:55,800
+oh you have to give it mining pipes
+
+165
+00:08:55,800 --> 00:08:57,266
+once you start getting oil
+
+166
+00:08:57,733 --> 00:09:00,433
+you want to move it over to your base
+
+167
+00:09:00,733 --> 00:09:03,333
+so you can either make a normal pipe
+
+168
+00:09:03,333 --> 00:09:09,900
+or long distance fluid pipeline are really really nice if you want to use those
+
+169
+00:09:10,433 --> 00:09:13,733
+but since I'm only going to do a little bit of polyethylene
+
+170
+00:09:13,733 --> 00:09:16,200
+I think I'm simply going to fill up a tank
+
+171
+00:09:16,400 --> 00:09:21,666
+and then manually move the oil using cells from that tank to a tank I will have in my base
+
+172
+00:09:22,700 --> 00:09:23,800
+and once we have the oil
+
+173
+00:09:23,800 --> 00:09:25,666
+we can start processing it
+
+174
+00:09:26,366 --> 00:09:29,200
+now, the first step is going to be distilling it
+
+175
+00:09:29,900 --> 00:09:33,033
+since we don't have access to the distillation tower
+
+176
+00:09:33,033 --> 00:09:34,833
+we have to use this single distillery
+
+177
+00:09:34,833 --> 00:09:39,100
+which will make us pick one of the possible outputs
+
+178
+00:09:39,800 --> 00:09:42,900
+now, instead of looking at the different pages in NEI
+
+179
+00:09:42,900 --> 00:09:45,533
+you can just look at the distillation tower recipe
+
+180
+00:09:45,866 --> 00:09:49,033
+and then you see your outputs
+
+181
+00:09:49,033 --> 00:09:53,766
+basically those outputs you can pick there are those here
+
+182
+00:09:54,966 --> 00:09:57,400
+and simply use the circuit to pick which one you want
+
+183
+00:09:57,400 --> 00:10:03,300
+so one would be heavy, two light, three naphtha and four gas
+
+184
+00:10:03,733 --> 00:10:06,433
+there is also lubricant I think
+
+185
+00:10:06,433 --> 00:10:10,066
+yeah, and there is also lubricant that is not in the distillation tower
+
+186
+00:10:11,333 --> 00:10:16,466
+I say that because you can easily figure out which ratios you get
+
+187
+00:10:17,833 --> 00:10:22,933
+it's easier to compare the outputs if you look at this page rather than looking that
+
+188
+00:10:23,733 --> 00:10:26,066
+and we are going with the sulfuric light fuel
+
+189
+00:10:26,066 --> 00:10:28,633
+because we get just so much more
+
+190
+00:10:28,633 --> 00:10:32,033
+naphtha will make more ethylene in the later step
+
+191
+00:10:32,033 --> 00:10:35,133
+but we got more than twice as much light fuel
+
+192
+00:10:35,300 --> 00:10:37,533
+and it ends up being more convenient
+
+193
+00:10:38,933 --> 00:10:40,566
+I think, I'm not even too sure
+
+194
+00:10:40,566 --> 00:10:45,266
+probably naphtha is a little bit more energy efficient actually, now that I think about it
+
+195
+00:10:45,266 --> 00:10:47,633
+but still I'm going to go with light fuel
+
+196
+00:10:47,633 --> 00:10:51,066
+so if I need it, I can also burn it in a combustion generator
+
+197
+00:10:51,666 --> 00:10:56,900
+so with that said, we start by putting the oil into a tank
+
+198
+00:10:57,633 --> 00:11:01,800
+then we're going to use a pump into a distillery
+
+199
+00:11:03,233 --> 00:11:05,300
+in the future
+
+200
+00:11:06,666 --> 00:11:08,600
+depending what you want to do
+
+201
+00:11:08,600 --> 00:11:10,100
+you can do it in totally different ways
+
+202
+00:11:10,100 --> 00:11:12,500
+I'm just improvising
+
+203
+00:11:12,500 --> 00:11:15,133
+if you want to use oil as fuel
+
+204
+00:11:15,133 --> 00:11:17,400
+you probably want to set up it with a pipe
+
+205
+00:11:17,400 --> 00:11:19,233
+so you can have multiple distilleries
+
+206
+00:11:19,233 --> 00:11:22,000
+because a single distillery is rather slow
+
+207
+00:11:22,000 --> 00:11:24,500
+but since I only want a little bit of polyethylene
+
+208
+00:11:24,733 --> 00:11:25,866
+that's going to be enough
+
+209
+00:11:26,533 --> 00:11:28,300
+so I'm going to use circuit
+
+210
+00:11:28,300 --> 00:11:30,200
+is that a two or a three? two
+
+211
+00:11:31,266 --> 00:11:32,933
+and we have to power this one
+
+212
+00:11:33,500 --> 00:11:38,300
+now my idea was to power this with the upcoming centralized power
+
+213
+00:11:39,066 --> 00:11:40,966
+but right now I can't make batteries
+
+214
+00:11:40,966 --> 00:11:42,933
+because first I have to finish that
+
+215
+00:11:42,933 --> 00:11:46,300
+so for the moment, I'm going to power this with a battery
+
+216
+00:11:46,466 --> 00:11:49,633
+and I'm charging this battery in the LV machines on top
+
+217
+00:11:49,833 --> 00:11:53,633
+I only need a little bit of polythene to get the first battery
+
+218
+00:11:53,633 --> 00:11:55,400
+then we can power it properly
+
+219
+00:11:56,900 --> 00:11:59,533
+so that's gonna give us sulfuric light fuel
+
+220
+00:12:00,266 --> 00:12:03,066
+next up is a chemical reactor
+
+221
+00:12:04,533 --> 00:12:07,133
+which goes over there
+
+222
+00:12:08,800 --> 00:12:12,666
+the fluid that goes into the chemical reactor
+
+223
+00:12:12,666 --> 00:12:13,600
+now we have it
+
+224
+00:12:14,066 --> 00:12:18,333
+and now here we have to filter out all of those cells
+
+225
+00:12:18,333 --> 00:12:23,600
+so for the moment, I'm just going to input this
+
+226
+00:12:24,333 --> 00:12:27,466
+this one can be electrolyzed to get back the hydrogen
+
+227
+00:12:27,466 --> 00:12:29,700
+or you can use it to make sulfuric acid
+
+228
+00:12:30,800 --> 00:12:33,100
+I think I'm most likely going to electrolyze it
+
+229
+00:12:33,100 --> 00:12:35,300
+it's a little bit easier to do
+
+230
+00:12:36,200 --> 00:12:40,800
+so to manage the recipe, I'm going to move automatically the fluid
+
+231
+00:12:43,300 --> 00:12:46,000
+from this input to the next machine
+
+232
+00:12:46,466 --> 00:12:50,033
+which is supposed to be another chemical reactor
+
+233
+00:12:51,133 --> 00:12:51,633
+there
+
+234
+00:12:52,400 --> 00:12:54,933
+we set the auto fluid output
+
+235
+00:12:55,600 --> 00:12:56,833
+and give it this cell
+
+236
+00:12:56,833 --> 00:12:59,233
+okay, that should already work
+
+237
+00:13:00,266 --> 00:13:01,433
+I think it needs more cells
+
+238
+00:13:02,733 --> 00:13:03,366
+how many
+
+239
+00:13:03,366 --> 00:13:05,200
+oh, 12 buckets
+
+240
+00:13:05,200 --> 00:13:06,666
+okay it's halfway through
+
+241
+00:13:08,433 --> 00:13:10,833
+okay, eventually this one will process the fluid
+
+242
+00:13:10,833 --> 00:13:12,200
+and send it to the next stage
+
+243
+00:13:12,200 --> 00:13:16,833
+but thing is that we have to feed in more hydrogen cells, ideally automatically
+
+244
+00:13:16,833 --> 00:13:19,000
+and recover the two outputs
+
+245
+00:13:20,233 --> 00:13:24,100
+so to manage those two cells and get back this hydrogen
+
+246
+00:13:24,100 --> 00:13:28,700
+all we have to do is to basically put those two in an MV electrolyzer to get back this one
+
+247
+00:13:28,700 --> 00:13:30,900
+but we have to worry (what we should do?)
+
+248
+00:13:31,533 --> 00:13:36,833
+so to do that, we simply put an electrolyzer like this
+
+249
+00:13:36,833 --> 00:13:38,700
+and a conveyor belt
+
+250
+00:13:38,700 --> 00:13:41,333
+this will move the cells over there
+
+251
+00:13:41,900 --> 00:13:44,133
+every five seconds it moves one
+
+252
+00:13:44,933 --> 00:13:47,433
+it also had those two from the test earlier
+
+253
+00:13:48,100 --> 00:13:50,200
+we are also going to power those later
+
+254
+00:13:51,600 --> 00:13:55,100
+I'm leaving the space behind for the cables later
+
+255
+00:13:55,700 --> 00:13:58,333
+for the moment, I will power LV machines with batteries
+
+256
+00:13:58,333 --> 00:14:03,833
+and as soon as I get polyethene I can add the MV battery to connect the MV machine
+
+257
+00:14:03,933 --> 00:14:06,000
+anyways recycling this one right now is nothing either
+
+258
+00:14:06,000 --> 00:14:07,733
+but let's finish this setup too
+
+259
+00:14:07,933 --> 00:14:09,633
+so this one only produces solids
+
+260
+00:14:10,633 --> 00:14:14,833
+I'm going to output the solids on the top
+
+261
+00:14:16,100 --> 00:14:18,200
+this one goes there
+
+262
+00:14:18,200 --> 00:14:22,800
+now we have to split the sulfur from the cell
+
+263
+00:14:23,733 --> 00:14:25,500
+so we got the sulfer there
+
+264
+00:14:29,966 --> 00:14:31,800
+we can simply leave a sulfer dust in there
+
+265
+00:14:31,800 --> 00:14:33,033
+it will lock the space
+
+266
+00:14:34,866 --> 00:14:37,933
+if you have a pipe like this
+
+267
+00:14:39,633 --> 00:14:42,400
+the pipe has a routing value, as you can see
+
+268
+00:14:42,400 --> 00:14:45,100
+that basically decides where items go
+
+269
+00:14:45,100 --> 00:14:51,466
+all you need to know is that shorter distance is the first thing that gets the items
+
+270
+00:14:52,133 --> 00:14:55,100
+so it will always go to the shorter path
+
+271
+00:14:56,466 --> 00:14:59,433
+that means this one outputs to this one
+
+272
+00:14:59,433 --> 00:15:01,000
+this one finds an output there
+
+273
+00:15:01,000 --> 00:15:01,933
+so it goes there
+
+274
+00:15:03,033 --> 00:15:04,866
+while this one is a longer route
+
+275
+00:15:05,100 --> 00:15:06,700
+it will be the lowest priority
+
+276
+00:15:06,700 --> 00:15:08,466
+so it will put items in there
+
+277
+00:15:08,466 --> 00:15:10,700
+sulfur goes right there
+
+278
+00:15:10,700 --> 00:15:11,800
+cell goes there
+
+279
+00:15:11,800 --> 00:15:13,633
+cannot go into the sulfer tank(drawer)
+
+280
+00:15:13,900 --> 00:15:15,700
+it will go back into this one
+
+281
+00:15:15,700 --> 00:15:17,333
+and we got the hydrogen there
+
+282
+00:15:17,933 --> 00:15:20,133
+now if you remove it though, this one frees up
+
+283
+00:15:20,133 --> 00:15:22,133
+and it could get the cell and get stuck
+
+284
+00:15:22,133 --> 00:15:25,066
+so you can make this key to lock the drawer
+
+285
+00:15:25,066 --> 00:15:28,433
+that way, even if you empty it, it still locks the filtering
+
+286
+00:15:31,600 --> 00:15:36,100
+you can make that thing to filter items if you want in the early game
+
+287
+00:15:36,500 --> 00:15:38,466
+but ideally as soon as you get polyethene
+
+288
+00:15:38,466 --> 00:15:42,000
+you can make filters and make a filter cover which is likely better
+
+289
+00:15:42,000 --> 00:15:45,333
+but super early game you can filter items this way
+
+290
+00:15:45,333 --> 00:15:47,466
+anyways, when this one we get MV power
+
+291
+00:15:47,466 --> 00:15:51,266
+it will be able to recover those two cells and get back the hydrogen
+
+292
+00:15:52,700 --> 00:15:55,033
+here we got the light fuel, 
+
+293
+00:15:55,666 --> 00:15:57,500
+which is that
+
+294
+00:15:57,500 --> 00:15:59,466
+the next step is to add some
+
+295
+00:16:01,533 --> 00:16:02,433
+steam
+
+296
+00:16:03,300 --> 00:16:06,033
+and we need the steam inside our cell now
+
+297
+00:16:07,233 --> 00:16:09,900
+so we're going to have here cell looping tool
+
+298
+00:16:09,900 --> 00:16:11,266
+and we also need steam
+
+299
+00:16:12,233 --> 00:16:15,400
+so I'm going to have cells go back and forth between those two
+
+300
+00:16:15,400 --> 00:16:18,200
+to do that we can put two conveyors there
+
+301
+00:16:18,200 --> 00:16:21,666
+but you need to allow the input, otherwise
+
+302
+00:16:21,666 --> 00:16:22,866
+like if you have two covers
+
+303
+00:16:22,866 --> 00:16:25,066
+one pushing onto the other
+
+304
+00:16:25,066 --> 00:16:26,900
+they will not allow the items to move
+
+305
+00:16:26,900 --> 00:16:30,900
+unless you allow the items to go through
+
+306
+00:16:31,900 --> 00:16:34,700
+okay so if I put some cells in there
+
+307
+00:16:34,700 --> 00:16:36,166
+it should be able to move back and forth
+
+308
+00:16:36,166 --> 00:16:38,200
+now give me a moment to pipe in steam
+
+309
+00:16:39,100 --> 00:16:41,933
+OK, so I got the steam piped into the tank
+
+310
+00:16:41,933 --> 00:16:43,133
+we put some cells
+
+311
+00:16:43,133 --> 00:16:46,066
+and every five seconds those should move over there
+
+312
+00:16:46,066 --> 00:16:46,866
+perfect
+
+313
+00:16:47,200 --> 00:16:50,100
+we add the circuit and we need power too
+
+314
+00:16:52,400 --> 00:16:53,233
+okay
+
+315
+00:16:53,300 --> 00:16:54,533
+it should
+
+316
+00:16:56,133 --> 00:16:57,900
+okay it's working
+
+317
+00:16:57,900 --> 00:17:04,833
+this one then we output this lightly cracked fuel into a distillery with circuit 10
+
+318
+00:17:06,100 --> 00:17:09,233
+so there, circuit 10
+
+319
+00:17:10,233 --> 00:17:13,866
+and this one will output the cracked...
+
+320
+00:17:13,866 --> 00:17:17,200
+this one already makes ethylene, which is almost the last step
+
+321
+00:17:19,133 --> 00:17:21,033
+and I think this one needs some oxygen
+
+322
+00:17:21,033 --> 00:17:22,333
+but I'm going to do it manually
+
+323
+00:17:22,666 --> 00:17:26,400
+this one will produce a little bit of tiny dusts
+
+324
+00:17:27,066 --> 00:17:28,666
+want to just leave those there
+
+325
+00:17:31,433 --> 00:17:33,933
+there are ways of compressing those into normal dust
+
+326
+00:17:34,666 --> 00:17:36,200
+for the amount I'm going to get
+
+327
+00:17:36,200 --> 00:17:38,933
+I'm just going to forget about it inside of the drawer
+
+328
+00:17:40,333 --> 00:17:46,100
+anyways okay here we got this fluid did I forget something
+
+329
+00:17:48,466 --> 00:17:50,066
+oh yeah fluid auto-output
+
+330
+00:17:52,633 --> 00:17:56,300
+okay now I need, I'm manually
+
+331
+00:17:56,300 --> 00:17:59,400
+that's such an awful way of hacking machines
+
+332
+00:17:59,533 --> 00:18:02,333
+I'm manually giving those power with the LV batteries
+
+333
+00:18:02,333 --> 00:18:07,000
+but I only need a little bit of polyethylene to get a good battery
+
+334
+00:18:07,000 --> 00:18:10,066
+and then I'm going to centralize power with that battery
+
+335
+00:18:10,466 --> 00:18:13,066
+that's probably not how you should be playing but
+
+336
+00:18:15,000 --> 00:18:18,833
+I'm also showing you other ways of playing
+
+337
+00:18:18,833 --> 00:18:21,700
+which no one actually fully does like
+
+338
+00:18:22,300 --> 00:18:23,700
+nothing many other people play like that
+
+339
+00:18:23,700 --> 00:18:27,333
+but I like doing that kind of messed up things every now and then
+
+340
+00:18:29,333 --> 00:18:33,533
+and finally after all of that (coarse?) setup once we got some ethylene
+
+341
+00:18:33,933 --> 00:18:36,333
+we use circuit one with some oxygen
+
+342
+00:18:36,333 --> 00:18:40,466
+which I'm going to feed in the same way I do with the steam later
+
+343
+00:18:40,466 --> 00:18:43,100
+once I have a central oxygen system
+
+344
+00:18:43,266 --> 00:18:44,433
+we get polyethylene
+
+345
+00:18:44,700 --> 00:18:47,433
+and you can also use a redstone instead of batteries
+
+346
+00:18:47,433 --> 00:18:53,833
+but I think moving batteries is fun I guess
+
+347
+00:18:54,633 --> 00:18:56,400
+and there we have the polyethylene
+
+348
+00:18:57,800 --> 00:19:01,033
+which we can use to finally make batteries
+
+349
+00:19:02,466 --> 00:19:04,233
+MV batteries
+
+350
+00:19:04,900 --> 00:19:06,733
+and as I said a long time ago
+
+351
+00:19:06,733 --> 00:19:08,066
+I'm actually going to use sodium
+
+352
+00:19:08,066 --> 00:19:12,133
+because I want to keep lithium for the next tire
+
+353
+00:19:12,133 --> 00:19:13,466
+there we go
+
+354
+00:19:14,600 --> 00:19:18,500
+and with that, we are finally ready to centralize our power in MV
+
+355
+00:19:19,300 --> 00:19:23,866
+so we put our battery buffer wherever it can fit
+
+356
+00:19:23,866 --> 00:19:29,300
+try to figure out a place where all of your power can pass through
+
+357
+00:19:29,600 --> 00:19:32,933
+and I figured out I'm going to mainly use steam
+
+358
+00:19:33,066 --> 00:19:35,200
+so here is where all of my power is going
+
+359
+00:19:35,533 --> 00:19:37,133
+I only have five batteries now
+
+360
+00:19:37,133 --> 00:19:38,800
+later I will fill it up
+
+361
+00:19:39,266 --> 00:19:44,733
+every battery will allow you to extract one amp and insert two, by the way
+
+362
+00:19:45,800 --> 00:19:49,200
+and then I'm going to use a steam turbine
+
+363
+00:19:50,133 --> 00:19:51,566
+this one is empty
+
+364
+00:19:52,100 --> 00:19:55,533
+well, sooner I'm going to rely on this one
+
+365
+00:19:56,100 --> 00:19:57,233
+and this tank would be ...
+
+366
+00:19:57,400 --> 00:20:00,133
+I'm going to keep the steam tank for the steam multiblocks
+
+367
+00:20:00,133 --> 00:20:03,433
+I will disconnect the EBF from the steam there
+
+368
+00:20:03,433 --> 00:20:05,366
+and connect it to there, but slowly
+
+369
+00:20:06,833 --> 00:20:08,833
+the other turbine will go there
+
+370
+00:20:08,833 --> 00:20:10,833
+I started a new line
+
+371
+00:20:10,833 --> 00:20:16,266
+and those blocks can blow up if rain hits those on any side
+
+372
+00:20:16,533 --> 00:20:19,333
+so make sure the blocks are safe from rain
+
+373
+00:20:21,133 --> 00:20:23,000
+anyways this cable
+
+374
+00:20:23,433 --> 00:20:26,533
+this one outputs a single amp so I could use a ...
+
+375
+00:20:26,533 --> 00:20:28,700
+this cable can carry 4 turbines
+
+376
+00:20:28,700 --> 00:20:32,500
+later I'm going to add more turbines on this row
+
+377
+00:20:32,800 --> 00:20:34,300
+still planning it
+
+378
+00:20:34,300 --> 00:20:35,800
+time to calculate
+
+379
+00:20:35,800 --> 00:20:40,300
+it's like 20 solar per turbine if I remember correctly
+
+380
+00:20:41,433 --> 00:20:42,633
+yeah when I connected this one
+
+381
+00:20:42,633 --> 00:20:44,866
+I removed the steam from the already empty tank
+
+382
+00:20:44,866 --> 00:20:46,433
+and now we have crash
+
+383
+00:20:46,433 --> 00:20:47,800
+but whatever
+
+384
+00:20:48,200 --> 00:20:50,300
+so we put the power in there
+
+385
+00:20:50,666 --> 00:20:56,933
+also, figuring out the size of the cable can be a little bit tricky
+
+386
+00:20:57,700 --> 00:21:00,466
+I'm not sure even how to suggest you
+
+387
+00:21:00,466 --> 00:21:06,333
+like, ideally you should probably try to figure out what's the maximum current that is going through a cable
+
+388
+00:21:06,333 --> 00:21:08,466
+and use a cable that is thick enough
+
+389
+00:21:08,633 --> 00:21:12,266
+for example, this one with five batteries can only output five amps
+
+390
+00:21:12,466 --> 00:21:15,933
+so a cable capable of doing five amps is enough
+
+391
+00:21:16,200 --> 00:21:18,466
+but let's say I'm going to have 16 batteries
+
+392
+00:21:18,666 --> 00:21:20,933
+16 batteries is maximum 16 amps
+
+393
+00:21:21,000 --> 00:21:23,766
+so a 16 amp cable is going to be good enough
+
+394
+00:21:24,333 --> 00:21:27,400
+usually you pay attention at the output
+
+395
+00:21:27,700 --> 00:21:29,666
+but you can also try to work in reverse
+
+396
+00:21:29,666 --> 00:21:32,433
+and try to figure out what's the maximum row you have on a cable
+
+397
+00:21:32,433 --> 00:21:37,500
+but ideally it's better to just figure out how many amps you're going to push on a cable
+
+398
+00:21:37,500 --> 00:21:41,533
+this one with 16 batteries is 16 amps, so 16 amps cable
+
+399
+00:21:44,300 --> 00:21:45,933
+I'm charging up my batteries
+
+400
+00:21:45,933 --> 00:21:48,433
+now, I could go around with this cable
+
+401
+00:21:48,900 --> 00:21:51,233
+and just connect everything
+
+402
+00:21:51,966 --> 00:21:53,700
+that cable is max voltage HV
+
+403
+00:21:53,700 --> 00:21:55,800
+but I'm feeding it with an MV battery
+
+404
+00:21:55,800 --> 00:21:58,033
+so it's actually going to have MV power
+
+405
+00:21:58,866 --> 00:22:01,033
+but instead of doing that
+
+406
+00:22:01,833 --> 00:22:03,066
+I could totally do that
+
+407
+00:22:03,300 --> 00:22:06,033
+but to make it more future proof
+
+408
+00:22:06,033 --> 00:22:07,933
+and also to reduce the power loss
+
+409
+00:22:07,933 --> 00:22:13,033
+because this cable loses one EU per block regardless of how much you push
+
+410
+00:22:13,133 --> 00:22:18,800
+so 1/128 is way more of a loss than 1/500
+
+411
+00:22:19,333 --> 00:22:24,300
+basically, it will lose half of its power after 64 blocks, with that power
+
+412
+00:22:24,500 --> 00:22:28,833
+if we use HV power, it's going to lose half of the power after 200 blocks
+
+413
+00:22:29,266 --> 00:22:31,300
+so we're going to use HV power
+
+414
+00:22:31,300 --> 00:22:33,933
+and to get HV power we are going to use a transformer
+
+415
+00:22:36,500 --> 00:22:38,900
+and we have to remember that this cable
+
+416
+00:22:38,900 --> 00:22:40,900
+if we use a transformer
+
+417
+00:22:40,900 --> 00:22:41,633
+this one
+
+418
+00:22:42,933 --> 00:22:46,733
+when you put it, it's going to be in step down mode
+
+419
+00:22:46,733 --> 00:22:49,500
+so it doesn't really work like that
+
+420
+00:22:49,500 --> 00:22:57,133
+you have to hit it with the soft mallet
+
+421
+00:22:57,133 --> 00:23:01,433
+OK, soft mallet will reverse the working function of the transformer
+
+422
+00:23:01,433 --> 00:23:05,566
+and now you can see step up, output HV, four amps
+
+423
+00:23:05,566 --> 00:23:07,800
+so here I could use this cable
+
+424
+00:23:07,800 --> 00:23:09,533
+we have four amps HV
+
+425
+00:23:10,066 --> 00:23:13,600
+also by stepping up, you can use a four time smaller cable
+
+426
+00:23:13,600 --> 00:23:18,200
+because it's no longer 16 amps MV, but it's four amps HV
+
+427
+00:23:18,200 --> 00:23:19,633
+so I could use this cable
+
+428
+00:23:19,633 --> 00:23:24,066
+but once again, I'm going to future proof it and use thick cable
+
+429
+00:23:24,066 --> 00:23:29,733
+so this one will be good for when I will have a HV battery buffer with 16 batteries
+
+430
+00:23:29,800 --> 00:23:32,600
+or I could make four MV battery (buffers)
+
+431
+00:23:34,000 --> 00:23:38,333
+okay so on this cable now we have ideally up to four amps
+
+432
+00:23:38,333 --> 00:23:42,266
+right now it's probably going to be only one and a quarter of them
+
+433
+00:23:42,433 --> 00:23:44,333
+but it will have up to four amps
+
+434
+00:23:45,200 --> 00:23:48,933
+and now we can connect this cable to the actual base
+
+435
+00:23:49,400 --> 00:23:51,066
+I really prepare a little bit of lining
+
+436
+00:23:52,500 --> 00:23:57,000
+OK, the first thing I have to connect is the oil setup I did earlier
+
+437
+00:23:57,000 --> 00:23:59,433
+because otherwise I have not polyethylene
+
+438
+00:24:00,733 --> 00:24:04,400
+and let's have this cable go like that
+
+439
+00:24:04,400 --> 00:24:09,933
+okay, I have to be careful because once again this cable has HV power
+
+440
+00:24:09,933 --> 00:24:11,400
+my machines are LV
+
+441
+00:24:14,333 --> 00:24:18,500
+okay I think I'm going to do it like that
+
+442
+00:24:19,833 --> 00:24:22,733
+we go through or maybe just like this
+
+443
+00:24:26,233 --> 00:24:29,466
+so probably don't need such a thick cable anymore
+
+444
+00:24:30,300 --> 00:24:31,333
+use smaller cable
+
+445
+00:24:31,400 --> 00:24:32,800
+this one is MV
+
+446
+00:24:33,600 --> 00:24:34,666
+have to be careful
+
+447
+00:24:36,866 --> 00:24:37,800
+this is hv
+
+448
+00:24:38,866 --> 00:24:41,266
+(that?) still has HV
+
+449
+00:24:41,833 --> 00:24:45,300
+so after that then MV transformer
+
+450
+00:24:45,300 --> 00:24:49,866
+this one will turn the HV back into MV
+
+451
+00:24:50,366 --> 00:24:51,600
+like this
+
+452
+00:24:52,200 --> 00:24:55,033
+now here we have MV but this machine is LV
+
+453
+00:24:55,033 --> 00:24:56,933
+so we have to be careful
+
+454
+00:24:57,433 --> 00:25:01,933
+you can put covers or paint cables to avoid making a mess
+
+455
+00:25:02,033 --> 00:25:03,433
+but always be careful
+
+456
+00:25:04,766 --> 00:25:06,533
+make a backup
+
+457
+00:25:08,466 --> 00:25:09,400
+this one was MV
+
+458
+00:25:09,400 --> 00:25:12,833
+I connected it and now we got the hydrogen
+
+459
+00:25:12,833 --> 00:25:16,100
+think I forgot the auto-output
+
+460
+00:25:16,100 --> 00:25:17,133
+did I set it up properly
+
+461
+00:25:20,633 --> 00:25:23,233
+oh wait solid auto output okay
+
+462
+00:25:23,233 --> 00:25:24,433
+can you push
+
+463
+00:25:24,433 --> 00:25:26,600
+okay sulfur goes in there
+
+464
+00:25:26,833 --> 00:25:29,433
+hydrogen in five seconds should go there
+
+465
+00:25:30,333 --> 00:25:31,233
+come on
+
+466
+00:25:32,000 --> 00:25:34,333
+should be five seconds I think
+
+467
+00:25:35,866 --> 00:25:37,800
+okay if I don't (?) that work
+
+468
+00:25:37,800 --> 00:25:39,600
+now we have to power the LV machines
+
+469
+00:25:39,600 --> 00:25:42,966
+now this is one two three four five machines
+
+470
+00:25:42,966 --> 00:25:45,466
+so we could need up to five amps
+
+471
+00:25:45,466 --> 00:25:50,100
+but those are never going to work altogether full time I think
+
+472
+00:25:50,833 --> 00:25:54,566
+and I'm not really going to push this setup much
+
+473
+00:25:54,566 --> 00:25:56,200
+so 4 amps will do
+
+474
+00:25:57,066 --> 00:26:00,733
+and 4 amps is what a transformer outputs
+
+475
+00:26:01,400 --> 00:26:04,000
+now this one takes MV power and makes LV
+
+476
+00:26:04,900 --> 00:26:06,800
+and we keep using the same cable
+
+477
+00:26:06,800 --> 00:26:08,800
+because I don't like having multiple cables
+
+478
+00:26:09,033 --> 00:26:11,033
+most likely like
+
+479
+00:26:11,033 --> 00:26:16,133
+I think many people use different cable for every tier
+
+480
+00:26:16,800 --> 00:26:20,933
+that could help you figure out which tier a cable is
+
+481
+00:26:20,933 --> 00:26:24,600
+but I like more to use the same cable everywhere
+
+482
+00:26:24,600 --> 00:26:26,800
+so I have less different cables to worry about
+
+483
+00:26:27,100 --> 00:26:28,600
+that's probably not a good tip
+
+484
+00:26:29,200 --> 00:26:37,333
+but I also don't wanted to tell you to make an MV cable just so you don't confuse MV or HV or LV power
+
+485
+00:26:37,333 --> 00:26:40,066
+like I'm not going to use anneal copper
+
+486
+00:26:40,066 --> 00:26:42,433
+anneal copper or copper cables are horrible
+
+487
+00:26:42,433 --> 00:26:47,900
+like there isn't a good MV cable in my opinion
+
+488
+00:26:48,200 --> 00:26:51,666
+like iron and nickel have too much power loss
+
+489
+00:26:52,633 --> 00:26:55,233
+cupronickel too much power loss
+
+490
+00:26:55,233 --> 00:26:58,533
+copper and annealed copper have a single amp
+
+491
+00:26:59,266 --> 00:27:02,700
+and electrical steel is not easy to make
+
+492
+00:27:03,433 --> 00:27:06,066
+I don't think there is any good MV cable
+
+493
+00:27:06,133 --> 00:27:10,733
+so I'm just sticking with blue alloy which is HV however
+
+494
+00:27:11,200 --> 00:27:16,233
+so always try to figure out how to keep track of which tier is each cable
+
+495
+00:27:17,500 --> 00:27:19,200
+there are ways of painting cables
+
+496
+00:27:19,200 --> 00:27:20,100
+but at this tier
+
+497
+00:27:20,866 --> 00:27:23,300
+at this tier just try not to get confused
+
+498
+00:27:23,300 --> 00:27:25,600
+you shouldn't have too many cables to worry about
+
+499
+00:27:25,666 --> 00:27:32,333
+I mean that's only one more reason why people like to spam generators and have a few line instead of a main cable
+
+500
+00:27:32,733 --> 00:27:34,800
+but I like to play like that instead
+
+501
+00:27:35,966 --> 00:27:41,400
+I feel like it's way cleaner to have transformers right away and really centralized power
+
+502
+00:27:41,400 --> 00:27:45,500
+rather than having spamming turbines everywhere on the frontiers
+
+503
+00:27:46,800 --> 00:27:49,533
+we can also see the power going in
+
+504
+00:27:50,266 --> 00:27:54,633
+okay and it's not really getting much power right now
+
+505
+00:27:56,300 --> 00:27:58,000
+because it's trying to fill up
+
+506
+00:27:58,000 --> 00:27:59,333
+okay, once this one is filled up
+
+507
+00:27:59,333 --> 00:28:02,433
+the pressure will go to this pipe to the turbine and charge it up
+
+508
+00:28:03,466 --> 00:28:06,933
+so next I'm going to try to hook up the EBF
+
+509
+00:28:08,066 --> 00:28:12,033
+I haven't managed to make the ...
+
+510
+00:28:12,300 --> 00:28:14,466
+it's called the other thing yet
+
+511
+00:28:14,466 --> 00:28:17,400
+give me a moment trying to figure out how it's called
+
+512
+00:28:17,400 --> 00:28:18,333
+d d d d d
+
+513
+00:28:18,333 --> 00:28:20,333
+and I don't have MV hatches yet
+
+514
+00:28:20,933 --> 00:28:22,366
+so I'm going to stick to those
+
+515
+00:28:23,366 --> 00:28:25,733
+we put a transformer in there
+
+516
+00:28:25,866 --> 00:28:30,433
+once again, here we have to be even more careful with the voltage stuff
+
+517
+00:28:31,633 --> 00:28:36,133
+because we have to minimize the power loss of the cables
+
+518
+00:28:36,133 --> 00:28:37,833
+like we had before with generators
+
+519
+00:28:37,833 --> 00:28:41,900
+but thing is that the transformer got changed
+
+520
+00:28:41,900 --> 00:28:43,133
+so it's no longer an issue
+
+521
+00:28:43,400 --> 00:28:46,533
+transformers used to be able to only accept one amp
+
+522
+00:28:46,700 --> 00:28:50,333
+so if you had too much cable loss on the cable that will get to the transformer
+
+523
+00:28:50,333 --> 00:28:51,800
+that will sum up
+
+524
+00:28:52,033 --> 00:28:54,833
+and it will be hard to get enough power
+
+525
+00:28:54,833 --> 00:28:58,200
+but transformers now can accept two amps
+
+526
+00:28:58,200 --> 00:29:00,933
+that makes up for the power loss
+
+527
+00:29:01,666 --> 00:29:04,700
+and once again, I have to be careful because here I need MV
+
+528
+00:29:04,700 --> 00:29:07,066
+but this cable here is HV
+
+529
+00:29:13,333 --> 00:29:18,266
+maybe working like that is not really the best for new players
+
+530
+00:29:18,266 --> 00:29:20,433
+maybe you should stick
+
+531
+00:29:22,633 --> 00:29:29,866
+upvolting that early may be a little bit tricky to manage if you don't know well enough how the electricity mechanics works
+
+532
+00:29:32,500 --> 00:29:34,933
+I like to play like that
+
+533
+00:29:34,933 --> 00:29:35,700
+I'm experienced
+
+534
+00:29:36,100 --> 00:29:39,600
+maybe shouldn't be suggesting this to new people
+
+535
+00:29:39,600 --> 00:29:42,466
+I don't even know what my target is anymore
+
+536
+00:29:45,500 --> 00:29:50,100
+here we have MV goes into the LV transformer
+
+537
+00:29:50,100 --> 00:29:51,700
+with a really ugly cabling
+
+538
+00:29:52,266 --> 00:29:54,733
+and this one should be able to run
+
+539
+00:29:55,633 --> 00:29:56,033
+good
+
+540
+00:29:57,333 --> 00:29:59,466
+and that's going to drain a lot of power now
+
+541
+00:30:00,800 --> 00:30:04,866
+yep power outputs way more than the input
+
+542
+00:30:05,833 --> 00:30:08,933
+still have to finish this line of solar boilers
+
+543
+00:30:10,033 --> 00:30:12,733
+I'm probably going to make a lot of solar boilers
+
+544
+00:30:13,433 --> 00:30:14,900
+like so
+
+545
+00:30:14,900 --> 00:30:18,200
+that's going to be good for the beginning of MV at least
+
+546
+00:30:18,600 --> 00:30:20,333
+and then to avoid confusion
+
+547
+00:30:20,333 --> 00:30:22,500
+I'm also going to paint the cables
+
+548
+00:30:22,500 --> 00:30:24,800
+now I'm doing this mostly for you guys
+
+549
+00:30:24,800 --> 00:30:28,466
+but I wouldn't do that if I wasn't doing a video
+
+550
+00:30:28,600 --> 00:30:32,166
+so early game you can use those paint brushes
+
+551
+00:30:32,166 --> 00:30:34,500
+there is also this one which should work
+
+552
+00:30:34,500 --> 00:30:36,700
+I think this one uses depend by that (?)
+
+553
+00:30:36,700 --> 00:30:39,633
+ideally you want to get this spray cans maybe
+
+554
+00:30:39,933 --> 00:30:43,100
+but those are super easy to craft
+
+555
+00:30:43,700 --> 00:30:47,800
+anyway that was saying I'm going to paint the cables like so
+
+556
+00:30:47,800 --> 00:30:49,800
+so we know yellow is HV
+
+557
+00:30:49,800 --> 00:30:53,366
+if you shift click, it will paint the whole row
+
+558
+00:30:55,100 --> 00:30:56,800
+like that, there
+
+559
+00:30:56,833 --> 00:30:57,833
+come on
+
+560
+00:30:59,333 --> 00:31:01,033
+oh, it also painted transformer okay
+
+561
+00:31:01,033 --> 00:31:03,700
+the transformer is not supposed to be painted
+
+562
+00:31:04,533 --> 00:31:07,333
+and MV will be orange
+
+563
+00:31:08,833 --> 00:31:10,700
+now this is yellow
+
+564
+00:31:12,100 --> 00:31:13,333
+and MV is orange
+
+565
+00:31:13,333 --> 00:31:18,133
+by the way the color I'm using is the color of the name of the tiers
+
+566
+00:31:18,700 --> 00:31:20,533
+like that's one standard
+
+567
+00:31:25,666 --> 00:31:29,200
+I think the color most people use is the tier name
+
+568
+00:31:29,200 --> 00:31:31,166
+like if you look at the thing there
+
+569
+00:31:31,166 --> 00:31:32,366
+if you look voltage in
+
+570
+00:31:32,366 --> 00:31:34,733
+there is the value and then there is the tier
+
+571
+00:31:35,033 --> 00:31:37,433
+every tier has kind of a color
+
+572
+00:31:38,266 --> 00:31:43,566
+trying to follow the color of the name of the tier with cables when I paint cable apart
+
+573
+00:31:43,566 --> 00:31:45,066
+(if) I wasn't making a video
+
+574
+00:31:45,066 --> 00:31:47,000
+I wouldn't even paint the cable apart
+
+575
+00:31:47,266 --> 00:31:50,033
+that can be really helpful for people not to get confused
+
+576
+00:31:50,066 --> 00:31:53,400
+I heavily suggest painting cables if you do a multiplayer run
+
+577
+00:31:54,266 --> 00:31:57,966
+I would I only paint cables if I'm doing a multiplayer run or if I'm making a video
+
+578
+00:31:57,966 --> 00:31:59,533
+otherwise I wouldn't even paint
+
+579
+00:31:59,533 --> 00:32:04,166
+but it can be really helpful not to get confused and to avoid accidental clicks
+
+580
+00:32:04,166 --> 00:32:08,200
+okay so the good spray can to paint cables should be this one
+
+581
+00:32:08,733 --> 00:32:11,866
+it's a little bit more convoluted to craft
+
+582
+00:32:11,866 --> 00:32:15,866
+because you have to process the paint into chemical paint
+
+583
+00:32:15,866 --> 00:32:18,933
+and then you have to fill up the can with a canning machine
+
+584
+00:32:19,100 --> 00:32:20,066
+it's a little bit more upset
+
+585
+00:32:20,066 --> 00:32:22,666
+but it has 500 usage which is way better
+
+586
+00:32:23,033 --> 00:32:27,833
+and if you misclick and wrongly click color something
+
+587
+00:32:27,833 --> 00:32:32,533
+either you make a solvent can which has 1000 usages
+
+588
+00:32:32,600 --> 00:32:33,833
+but it takes acetone
+
+589
+00:32:34,333 --> 00:32:35,466
+we are going to need a lot of acetone
+
+590
+00:32:35,466 --> 00:32:37,666
+but right now it's a little bit annoying to make
+
+591
+00:32:37,666 --> 00:32:41,300
+the other solution, if it is a single misclick, you can use a water bucket
+
+592
+00:32:41,300 --> 00:32:42,833
+so you take a bucket of water
+
+593
+00:32:42,833 --> 00:32:47,300
+and you pour it over the mispainted block to unpaint it
+
+594
+00:32:48,633 --> 00:32:51,733
+also the good (?) thing about paints is
+
+595
+00:32:51,733 --> 00:32:54,600
+if you paint the two cables like that
+
+596
+00:32:55,266 --> 00:32:58,233
+as you can see, the different painted cables cannot be connected
+
+597
+00:32:58,233 --> 00:33:00,733
+so that's super helpful to avoid mistakes
+
+598
+00:33:02,100 --> 00:33:06,333
+and by having a better buffer it's also way easier to power an arc furnace
+
+599
+00:33:07,333 --> 00:33:10,800
+which we can also use in our next passive processing line
+
+600
+00:33:11,300 --> 00:33:16,333
+this line will produce out of nowhere oxygen and silicon, solar grade silicon
+
+601
+00:33:16,466 --> 00:33:19,200
+so we start with a rock breaker that make cobblestone
+
+602
+00:33:19,200 --> 00:33:20,833
+forge hammer into gravel
+
+603
+00:33:20,833 --> 00:33:22,266
+forge hammer into sand
+
+604
+00:33:22,266 --> 00:33:24,100
+arc furnace into glass
+
+605
+00:33:24,100 --> 00:33:26,666
+forge hammer into glass dust
+
+606
+00:33:26,666 --> 00:33:29,500
+centrifuge into silicon dioxide
+
+607
+00:33:29,500 --> 00:33:31,400
+from which we extract Silicon
+
+608
+00:33:31,400 --> 00:33:33,533
+and we also get a lot of oxygen
+
+609
+00:33:33,733 --> 00:33:37,833
+that's going to be the main source of oxygen for our base for a long time
+
+610
+00:33:38,433 --> 00:33:44,266
+and then we further refine the raw silicon into silicon solar grade
+
+611
+00:33:44,800 --> 00:33:47,600
+by using this two step setup
+
+612
+00:33:49,066 --> 00:33:52,700
+I think you can easily figure out the recipes in NEI
+
+613
+00:33:52,700 --> 00:33:55,200
+I think I have shown all of it anyways
+
+614
+00:33:56,000 --> 00:33:59,066
+and now that we have solar grade silicon
+
+615
+00:33:59,433 --> 00:34:01,633
+we can finally make the silicon boules
+
+616
+00:34:01,633 --> 00:34:05,633
+which will take a lot of time to be produced inside our EBF
+
+617
+00:34:06,133 --> 00:34:09,600
+and with those, we now have access to higher tier of technology
+
+618
+00:34:09,600 --> 00:34:11,033
+like the MV energy hatches
+
+619
+00:34:11,033 --> 00:34:13,433
+which will allow us to build a more powerful EBF
+
+620
+00:34:13,433 --> 00:34:18,133
+capable of running at 500 EU per tick
+
+621
+00:34:18,133 --> 00:34:19,800
+now we have to do maintenance
+
+622
+00:34:19,800 --> 00:34:23,700
+and this time we're going to do the maintenance with the field engineer's toolbox
+
+623
+00:34:23,700 --> 00:34:26,933
+so we have to fill in all of the tools and the solder
+
+624
+00:34:27,433 --> 00:34:29,666
+and there we go
+
+625
+00:34:31,433 --> 00:34:32,233
+fixed
+
+626
+00:34:32,666 --> 00:34:33,800
+and with that new EBF
+
+627
+00:34:33,800 --> 00:34:36,000
+we can finally start producing stainless steel
+
+628
+00:34:36,266 --> 00:34:38,933
+the material required for HV machines
+
+629
+00:34:39,700 --> 00:34:41,933
+even though we don't have the circuit yet
+
+630
+00:34:42,000 --> 00:34:45,533
+but just with this one is all we need to make
+
+631
+00:34:45,833 --> 00:34:49,900
+and that means we can make an HV battery buffer
+
+632
+00:34:49,900 --> 00:34:54,300
+to put this one in place we are simply going to reroute the cables
+
+633
+00:34:54,600 --> 00:34:57,866
+so the yellow line is already up there
+
+634
+00:34:58,266 --> 00:34:59,266
+there it goes
+
+635
+00:34:59,266 --> 00:35:00,266
+pop in the batteries
+
+636
+00:35:00,800 --> 00:35:03,300
+and we can disconnect the old thing
+
+637
+00:35:03,633 --> 00:35:05,233
+I already turned off the EBFs
+
+638
+00:35:05,233 --> 00:35:07,166
+otherwise they will power fail
+
+639
+00:35:07,900 --> 00:35:10,100
+a little bit of rewiring
+
+640
+00:35:10,500 --> 00:35:12,666
+this cable up there was MV
+
+641
+00:35:12,666 --> 00:35:15,333
+but it's fine to feed MV into HV
+
+642
+00:35:16,033 --> 00:35:22,133
+the only issue is that if you feed like four amps of MV into an HV
+
+643
+00:35:22,500 --> 00:35:25,900
+you are using four amps of the capacity
+
+644
+00:35:26,133 --> 00:35:28,866
+this one for example can take eight amps
+
+645
+00:35:29,433 --> 00:35:33,466
+but it's either eight amps of MV or HV
+
+646
+00:35:33,966 --> 00:35:37,800
+so maybe I will probably put a transformer there
+
+647
+00:35:39,000 --> 00:35:41,033
+to turn those four amps into one
+
+648
+00:35:41,033 --> 00:35:43,333
+but I'm going to build more solar boilers too
+
+649
+00:35:45,233 --> 00:35:48,266
+and finally I'm also going to
+
+650
+00:35:58,133 --> 00:36:04,033
+okay, draining all of the capacity of this one into that one good
+
+651
+00:36:05,633 --> 00:36:07,200
+okay and now
+
+652
+00:36:07,833 --> 00:36:15,033
+I can just leave this one process the content which we will need for the next upgrade
+
+653
+00:36:16,033 --> 00:36:18,133
+that's going to take some time
+
+654
+00:36:18,833 --> 00:36:22,466
+also this ingot, as you can see, is not a normal ingot it's a hot ingot
+
+655
+00:36:22,466 --> 00:36:24,200
+so it has to be cooled down
+
+656
+00:36:26,000 --> 00:36:27,666
+and to cool down those hot ingots
+
+657
+00:36:27,666 --> 00:36:31,933
+for the moment all we can do is use a chemical bath with some coolant
+
+658
+00:36:32,433 --> 00:36:35,633
+this process will produce some hot coolant as leftover
+
+659
+00:36:37,533 --> 00:36:42,700
+now since we want to recover this one to make fresh coolant to keep the process going
+
+660
+00:36:43,000 --> 00:36:47,433
+we can use a vent like this on a bucket of water
+
+661
+00:36:47,600 --> 00:36:52,133
+and that should, after a little bit, move the hot coolant back into normal coolant
+
+662
+00:36:53,133 --> 00:36:56,133
+okay and after a while it moves back
+
+663
+00:36:56,833 --> 00:37:04,833
+as always, at this stage of the game, try to really look into every quest you can find in the quest book
+
+664
+00:37:04,933 --> 00:37:08,866
+like the quest book should explain all of those things really nicely
+
+665
+00:37:09,200 --> 00:37:12,833
+so I'm mostly showing a little bit the main steps
+
+666
+00:37:12,833 --> 00:37:20,900
+but my biggest suggestion for the first tiers up to HV is going to be just read the quest book
+
+667
+00:37:20,900 --> 00:37:25,200
+anyways, we use kanthal to upgrade our EBF so that it can smelt silicon
+
+668
+00:37:25,666 --> 00:37:29,633
+once again, that silicon has to be cooled down in the chemical bath
+
+669
+00:37:29,800 --> 00:37:32,000
+and now that we finally have access to silicon
+
+670
+00:37:32,000 --> 00:37:33,133
+we can make transistors
+
+671
+00:37:33,133 --> 00:37:35,233
+which we unlock the advanced circuit
+
+672
+00:37:36,100 --> 00:37:40,833
+and with those, we have everything (of photos?) required to unlock the next tier, HV
+
+673
+00:37:41,033 --> 00:37:44,066
+but before we actually can afford powering HV machines
+
+674
+00:37:44,066 --> 00:37:46,066
+we have to increase our power generation
+
+675
+00:37:46,066 --> 00:37:48,866
+since as you can see, we can barely keep up at the moment
+
+676
+00:37:48,866 --> 00:37:52,200
+and also our solar boiler substantially could calcify
+
+677
+00:37:52,900 --> 00:37:59,100
+those boilers indeed every one or two days more or less they start losing the output
+
+678
+00:37:59,100 --> 00:38:00,033
+as you can see
+
+679
+00:38:02,066 --> 00:38:03,533
+those don't have a full output
+
+680
+00:38:03,633 --> 00:38:06,333
+the older one have some lower outputs
+
+681
+00:38:06,333 --> 00:38:07,633
+that's because they calcified
+
+682
+00:38:07,866 --> 00:38:10,133
+so every one or two days I don't remember
+
+683
+00:38:10,133 --> 00:38:14,033
+I think it's 12 hours of the game running
+
+684
+00:38:14,033 --> 00:38:17,266
+you have to break those and put those down again
+
+685
+00:38:17,266 --> 00:38:20,266
+so that the calcification goes away
+
+686
+00:38:22,466 --> 00:38:26,033
+so probably we're going to have to look into a better power source
+
+687
+00:38:26,900 --> 00:38:32,200
+and of course when I say probably, we all know deep down what that actually means
+
+688
+00:38:34,100 --> 00:38:35,933
+and I think that's enough for today
+
+689
+00:38:36,100 --> 00:38:38,700
+see you next time for a high voltage tier
+
+690
+00:00:00,833 --> 00:00:01,766
+欢迎回来
+
+691
+00:00:01,766 --> 00:00:04,266
+今天我们将看到MV层
+
+692
+00:00:05,033 --> 00:00:07,633
+现在的主要问题是采购足够的铝
+
+693
+00:00:07,733 --> 00:00:09,533
+正如我们在过去的一集里看到的
+
+694
+00:00:09,700 --> 00:00:12,100
+采购原铝并不容易
+
+695
+00:00:12,133 --> 00:00:18,700
+主要是因为采购铝的每一种方式都需要中压电解槽
+
+696
+00:00:18,933 --> 00:00:23,066
+其他方法的产量非常低，不值得。
+
+697
+00:00:23,666 --> 00:00:26,866
+但是我们设法通过其他方式得到了一点铝
+
+698
+00:00:26,866 --> 00:00:30,666
+我们用它来制造制造中压电解槽所需的铝
+
+699
+00:00:30,800 --> 00:00:37,633
+这意味着我们终于可以电解各种东西得到大量的铝
+
+700
+00:00:38,533 --> 00:00:40,500
+现在我们有了更好的铝资源
+
+701
+00:00:40,500 --> 00:00:42,933
+我们可以继续使用下一台有用的机器
+
+702
+00:00:43,100 --> 00:00:44,733
+这将是挤出机
+
+703
+00:00:45,000 --> 00:00:49,266
+这台机器将使许多制作变得更加容易和直接
+
+704
+00:00:49,666 --> 00:00:50,833
+但最重要的是
+
+705
+00:00:50,833 --> 00:00:55,433
+这将使许多工艺品比我们手工制作的产量更高
+
+706
+00:00:55,433 --> 00:01:01,833
+使用这样的机器需要我们把一个形状与材料我们希望被塑造在机器内
+
+707
+00:01:01,900 --> 00:01:04,433
+这意味着我们有很多形状要管理
+
+708
+00:01:04,433 --> 00:01:05,600
+为了做到这一点
+
+709
+00:01:05,866 --> 00:01:10,200
+我们可以在机器上放一个物品架。
+
+710
+00:01:10,800 --> 00:01:14,433
+然后我们可以访问它并将我们的模具留在那里
+
+711
+00:01:16,233 --> 00:01:19,233
+我们也可以用它来制造更高层的工具
+
+712
+00:01:19,733 --> 00:01:20,600
+但要小心
+
+713
+00:01:20,600 --> 00:01:24,266
+因为如果你想做一个更好的锤子零件，比如这个。
+
+714
+00:01:24,266 --> 00:01:26,633
+需要半个小时才能完成
+
+715
+00:01:26,833 --> 00:01:30,100
+所以不仅你的机器会堵塞半个小时
+
+716
+00:01:30,266 --> 00:01:34,466
+如果你在20分钟后一秒钟没电
+
+717
+00:01:34,466 --> 00:01:36,400
+你会失去那20分钟的进展
+
+718
+00:01:36,400 --> 00:01:38,200
+并且必须重新开始这个过程
+
+719
+00:01:38,733 --> 00:01:41,400
+我的建议是再买一台挤出机。
+
+720
+00:01:41,400 --> 00:01:45,833
+如果你想做这些部分并且不太自信，也许也可以用电池。
+
+721
+00:01:46,800 --> 00:01:51,666
+至此，我们或许应该找到一个更好的方法来管理我们的能源。
+
+722
+00:01:52,066 --> 00:01:54,633
+因为这个涡轮机只能驱动一台机器
+
+723
+00:01:54,633 --> 00:01:57,233
+我们在一根电缆上有三根。
+
+724
+00:01:57,500 --> 00:02:00,633
+大多数人喜欢有很多发电机
+
+725
+00:02:00,633 --> 00:02:02,400
+制造许多许多涡轮机
+
+726
+00:02:02,400 --> 00:02:04,333
+在每台机器上安装一个涡轮机
+
+727
+00:02:04,400 --> 00:02:10,733
+然后在游戏的这一点上有一根可能是苯或柴油的管道来为一切提供动力
+
+728
+00:02:10,900 --> 00:02:14,833
+但是我不喜欢造这么多涡轮机，周围有这么多涡轮机。
+
+729
+00:02:14,833 --> 00:02:19,366
+因此，我将尝试将电力集中在主电池缓冲区中
+
+730
+00:02:20,900 --> 00:02:23,500
+很多人可能不喜欢这样做
+
+731
+00:02:23,500 --> 00:02:26,533
+但我真的喜欢早一点集中权力而不是晚一点
+
+732
+00:02:26,800 --> 00:02:29,266
+所以我们必须使用更好的缓冲区
+
+733
+00:02:29,266 --> 00:02:31,766
+现在我们基本上只能做MV
+
+734
+00:02:32,266 --> 00:02:35,400
+我们要做的第一件事是决定哪个电池缓冲器
+
+735
+00:02:35,400 --> 00:02:37,666
+当然，我们确实选择了最大的一个。
+
+736
+00:02:38,233 --> 00:02:42,433
+唯一的区别是你必须放进去的电缆数量。
+
+737
+00:02:42,533 --> 00:02:48,133
+但我认为总是放更厚的电缆来获得额外的插槽是完全值得的
+
+738
+00:02:48,700 --> 00:02:53,633
+主要区别是您可以放入其中的电池数量
+
+739
+00:02:53,866 --> 00:02:57,266
+所以这个只能装一个电池，而且很便宜。
+
+740
+00:02:57,266 --> 00:03:00,600
+虽然这个可以容纳16个，但有点贵。
+
+741
+00:03:01,533 --> 00:03:02,500
+但是再一次
+
+742
+00:03:02,500 --> 00:03:04,533
+您可以使用单节电池的这个
+
+743
+00:03:05,333 --> 00:03:07,066
+成本有点高
+
+744
+00:03:07,066 --> 00:03:09,200
+另一个很大的区别是容量
+
+745
+00:03:09,200 --> 00:03:12,800
+如果你看这个单节电池只有一千个容量
+
+746
+00:03:12,800 --> 00:03:15,233
+而大的有十万
+
+747
+00:03:15,733 --> 00:03:19,833
+这个容量就是区块本身的内部容量
+
+748
+00:03:19,833 --> 00:03:23,766
+这基本上意味着额外的免费电力存储
+
+749
+00:03:23,766 --> 00:03:27,633
+在最大的一个上，它几乎是半个电池
+
+750
+00:03:28,166 --> 00:03:31,266
+当然，我们需要的另一样东西是电池。
+
+751
+00:03:31,266 --> 00:03:35,466
+现在，MV的锂电池是我们能制造的最好的电池
+
+752
+00:03:36,100 --> 00:03:39,633
+但我以后会保留锂。
+
+753
+00:03:39,633 --> 00:03:40,666
+我没有多少
+
+754
+00:03:40,666 --> 00:03:43,333
+这有点难获得。
+
+755
+00:03:43,333 --> 00:03:49,933
+相反，我从处理钠盐和钙沸石中得到了大量的钠
+
+756
+00:03:50,200 --> 00:03:53,200
+所以不妨把这些钠放进电池里
+
+757
+00:03:53,466 --> 00:03:58,600
+这应该是一个非常便宜的设置
+
+758
+00:03:58,600 --> 00:04:01,066
+最后，对于这个设置，我们必须选择一根电缆
+
+759
+00:04:01,066 --> 00:04:04,033
+在这个节骨眼上我们有很多选择
+
+760
+00:04:04,200 --> 00:04:08,066
+所以你很可能会调查退火铜
+
+761
+00:04:08,066 --> 00:04:11,733
+这看起来是你现在能做的最好的一个。
+
+762
+00:04:12,500 --> 00:04:14,466
+如果你想便宜，你可以使用普通铜
+
+763
+00:04:14,466 --> 00:04:16,700
+然而，它的功率损失是原来的两倍
+
+764
+00:04:17,000 --> 00:04:18,633
+我在看什么
+
+765
+00:04:18,633 --> 00:04:20,466
+我不看
+
+766
+00:04:20,466 --> 00:04:22,000
+镍看起来也不错
+
+767
+00:04:22,000 --> 00:04:25,433
+但我真的不认为这值得额外的损失
+
+768
+00:04:25,800 --> 00:04:32,233
+但更重要的是，你不应该只看你层的电缆
+
+769
+00:04:32,666 --> 00:04:34,666
+因为在这一点上，例如
+
+770
+00:04:34,866 --> 00:04:36,866
+我们完全可以用黄金
+
+771
+00:04:36,866 --> 00:04:38,400
+或者也许不是黄金
+
+772
+00:04:38,400 --> 00:04:40,666
+但是我们完全可以用银色的。
+
+773
+00:04:40,666 --> 00:04:43,300
+我们现在得到银子很容易。
+
+774
+00:04:43,433 --> 00:04:45,600
+这是一种超级容易加工的金属
+
+775
+00:04:45,600 --> 00:04:47,633
+你不必炸毁它
+
+776
+00:04:48,433 --> 00:04:49,700
+如你所见
+
+777
+00:04:49,700 --> 00:04:51,600
+只有一条电缆丢失了
+
+778
+00:04:51,600 --> 00:04:53,100
+但只有一个安培
+
+779
+00:04:53,100 --> 00:04:55,533
+这个甚至可以做500伏
+
+780
+00:04:55,533 --> 00:04:57,466
+所以这条电缆…
+
+781
+00:04:57,466 --> 00:04:59,433
+就像电压是最大值一样
+
+782
+00:05:00,900 --> 00:05:04,200
+好吧，这不应该让你和机器零件混淆
+
+783
+00:05:04,200 --> 00:05:07,133
+好吧，如果你看看机器电缆、二极管或机器零件
+
+784
+00:05:08,700 --> 00:05:10,033
+他们说也有电压输出
+
+785
+00:05:10,033 --> 00:05:12,000
+但我们以后再谈这些
+
+786
+00:05:13,200 --> 00:05:15,133
+问题是它的最大电压
+
+787
+00:05:15,133 --> 00:05:20,466
+这意味着你可以在每层使用银电缆直到高压
+
+788
+00:05:20,700 --> 00:05:23,300
+我们在MV，128（伏）
+
+789
+00:05:23,300 --> 00:05:25,100
+所以我们也可以使用高压电缆
+
+790
+00:05:26,900 --> 00:05:29,666
+银色是一种选择。
+
+791
+00:05:29,666 --> 00:05:32,733
+甚至比银更好，我建议使用蓝色合金
+
+792
+00:05:34,633 --> 00:05:36,300
+我认为蓝色合金很好。
+
+793
+00:05:36,300 --> 00:05:37,400
+这就是我要做的
+
+794
+00:05:37,400 --> 00:05:40,633
+蓝色合金基本上是银色加电解
+
+795
+00:05:41,100 --> 00:05:42,600
+所以在一天结束的时候
+
+796
+00:05:42,600 --> 00:05:45,433
+每根电线的成本相同
+
+797
+00:05:45,433 --> 00:05:52,266
+总是一个银锭做一根银电缆或一根蓝色合金电缆
+
+798
+00:05:52,533 --> 00:05:55,400
+但是蓝色合金可以携带两倍的电流
+
+799
+00:05:55,400 --> 00:05:59,233
+这意味着您可以使用一半大小的电缆
+
+800
+00:05:59,500 --> 00:06:02,800
+或者你可以用同样的电缆携带两倍的能量
+
+801
+00:06:03,333 --> 00:06:06,966
+我想去挖电解机可能是值得的
+
+802
+00:06:06,966 --> 00:06:09,300
+在这一点上，我可以挖更多的银子。
+
+803
+00:06:09,466 --> 00:06:14,233
+但是电子，一个矿石给你10个灰尘
+
+804
+00:06:14,233 --> 00:06:15,566
+所以挺不错的
+
+805
+00:06:15,566 --> 00:06:19,100
+如果你想处理它，它也有一个很好的副产品。
+
+806
+00:06:20,333 --> 00:06:23,433
+因为它是下层矿石，你也可以得到两倍的钱。
+
+807
+00:06:23,433 --> 00:06:25,833
+因为其他矿石的产量是这个的两倍
+
+808
+00:06:26,233 --> 00:06:28,433
+也在比赛的这一点上
+
+809
+00:06:28,433 --> 00:06:32,066
+如果你必须找到一条你还没有找到的新血管
+
+810
+00:06:32,533 --> 00:06:34,633
+你也可以用探矿工
+
+811
+00:06:34,700 --> 00:06:36,833
+你实际上可以在LV制作这个。
+
+812
+00:06:37,400 --> 00:06:38,333
+它不需要太多
+
+813
+00:06:38,333 --> 00:06:40,933
+这可能有点烦人
+
+814
+00:06:40,933 --> 00:06:44,266
+但你完全可以做到，这并不难
+
+815
+00:06:45,333 --> 00:06:48,700
+LV和MV版本令人失望
+
+816
+00:06:48,700 --> 00:06:51,200
+尤其是用你现有的材料
+
+817
+00:06:51,200 --> 00:06:54,800
+嗯，我想说他们真的足够好。
+
+818
+00:06:55,400 --> 00:06:57,900
+但你必须在如何使用这些方面有点聪明
+
+819
+00:06:58,033 --> 00:07:02,366
+例如，此LV版本具有3 x 3块扫描范围
+
+820
+00:07:03,766 --> 00:07:05,900
+每条静脉都是3乘3块
+
+821
+00:07:05,900 --> 00:07:08,333
+这意味着如果你在静脉中间扫描
+
+822
+00:07:08,433 --> 00:07:11,066
+它会扫描那九个块
+
+823
+00:07:11,066 --> 00:07:13,666
+并露出你下面的一条静脉
+
+824
+00:07:13,900 --> 00:07:18,200
+但是如果你在角落里这样做
+
+825
+00:07:18,200 --> 00:07:21,666
+这样它就会扫描四种不同静脉的大块
+
+826
+00:07:21,666 --> 00:07:24,333
+它应该会露出四条静脉
+
+827
+00:07:24,333 --> 00:07:25,433
+是的，确实如此。
+
+828
+00:07:26,066 --> 00:07:29,700
+你可以看到我是如何一键发现三条静脉的
+
+829
+00:07:30,133 --> 00:07:33,000
+所以在尺寸上要小心一点。
+
+830
+00:07:33,000 --> 00:07:37,066
+基本上，如果是3乘3，点击一个角落
+
+831
+00:07:37,500 --> 00:07:39,933
+5乘5从静脉中间进去
+
+832
+00:07:40,500 --> 00:07:44,866
+就在那时，我意识到要制造电池，我们需要聚乙烯。
+
+833
+00:07:45,366 --> 00:07:51,600
+所以我们要暂时（推迟？）电力项目的集中
+
+834
+00:07:51,700 --> 00:07:54,833
+我们将转而研究聚乙烯
+
+835
+00:07:54,833 --> 00:07:57,733
+现在你可以用不同的方法制造聚乙烯
+
+836
+00:07:57,900 --> 00:08:03,333
+但是我最喜欢的一个可能是最简单的一个是只使用油。
+
+837
+00:08:04,033 --> 00:08:08,333
+而获取石油最简单的方法就是在地图上寻找这些黑点之一
+
+838
+00:08:08,800 --> 00:08:13,600
+在沙漠里很容易就能发现
+
+839
+00:08:13,600 --> 00:08:18,866
+但是如果你四处看看，你几乎可以在任何地方找到它们。
+
+840
+00:08:20,066 --> 00:08:23,000
+不管怎样，一旦你到了那里
+
+841
+00:08:23,000 --> 00:08:24,566
+你必须设置一个泵
+
+842
+00:08:24,566 --> 00:08:26,300
+我是说你可以用桶
+
+843
+00:08:26,300 --> 00:08:28,300
+你也可以通过许多其他方式获得石油
+
+844
+00:08:28,300 --> 00:08:31,900
+但在我看来这层是最简单的
+
+845
+00:08:32,233 --> 00:08:33,833
+所以我要这样做
+
+846
+00:08:34,700 --> 00:08:36,633
+所以你设置了一个泵
+
+847
+00:08:37,633 --> 00:08:40,533
+你需要给这个供电
+
+848
+00:08:40,533 --> 00:08:41,833
+因为我们那里有石油
+
+849
+00:08:41,833 --> 00:08:45,266
+半流体发电机几乎不需要电力
+
+850
+00:08:45,466 --> 00:08:47,000
+我建议用那个
+
+851
+00:08:48,700 --> 00:08:52,166
+然后泵应该开始工作
+
+852
+00:08:52,166 --> 00:08:53,866
+好吧，一旦你得到了
+
+853
+00:08:53,866 --> 00:08:55,800
+哦你得给它矿用管道
+
+854
+00:08:55,800 --> 00:08:57,266
+一旦你开始得到石油
+
+855
+00:08:57,733 --> 00:09:00,433
+你想把它移到你的基地
+
+856
+00:09:00,733 --> 00:09:03,333
+所以你要么做一个普通的管子
+
+857
+00:09:03,333 --> 00:09:09,900
+或者长距离流体管道真的很好，如果你想使用这些。
+
+858
+00:09:10,433 --> 00:09:13,733
+但是因为我只打算做一点聚乙烯
+
+859
+00:09:13,733 --> 00:09:16,200
+我想我只是要加满一个油箱
+
+860
+00:09:16,400 --> 00:09:21,666
+然后使用细胞手动将油从油箱移动到我基地中的油箱中
+
+861
+00:09:22,700 --> 00:09:23,800
+一旦我们有了石油
+
+862
+00:09:23,800 --> 00:09:25,666
+我们可以开始处理它
+
+863
+00:09:26,366 --> 00:09:29,200
+第一步是蒸馏它
+
+864
+00:09:29,900 --> 00:09:33,033
+因为我们无法进入蒸馏塔
+
+865
+00:09:33,033 --> 00:09:34,833
+我们必须使用这个单一的酿酒厂
+
+866
+00:09:34,833 --> 00:09:39,100
+这将使我们选择一种可能的输出
+
+867
+00:09:39,800 --> 00:09:42,900
+现在，与其在NEI中查看不同的页面
+
+868
+00:09:42,900 --> 00:09:45,533
+你可以看看蒸馏塔配方
+
+869
+00:09:45,866 --> 00:09:49,033
+然后你会看到你的输出
+
+870
+00:09:49,033 --> 00:09:53,766
+基本上你可以选择的输出就是这里的那些。
+
+871
+00:09:54,966 --> 00:09:57,400
+简单地使用电路来选择你想要的。
+
+872
+00:09:57,400 --> 00:10:03,300
+所以一个是重的，两个是轻的，三个石脑油和四个汽油
+
+873
+00:10:03,733 --> 00:10:06,433
+我想还有润滑剂
+
+874
+00:10:06,433 --> 00:10:10,066
+是啊而且还有不在蒸馏塔里的润滑剂
+
+875
+00:10:11,333 --> 00:10:16,466
+我这么说是因为你可以很容易地算出你得到的比率
+
+876
+00:10:17,833 --> 00:10:22,933
+如果您查看此页面而不是查看该页面，则更容易比较输出
+
+877
+00:10:23,733 --> 00:10:26,066
+我们用的是硫酸轻燃料
+
+878
+00:10:26,066 --> 00:10:28,633
+因为我们得到的太多了
+
+879
+00:10:28,633 --> 00:10:32,033
+石脑油会在后面的步骤中制造更多的乙烯
+
+880
+00:10:32,033 --> 00:10:35,133
+但是我们得到了两倍多的轻燃料
+
+881
+00:10:35,300 --> 00:10:37,533
+它最终会更方便
+
+882
+00:10:38,933 --> 00:10:40,566
+我想，我甚至不太确定
+
+883
+00:10:40,566 --> 00:10:45,266
+也许石脑油更节能一点，实际上，现在我想到了。
+
+884
+00:10:45,266 --> 00:10:47,633
+但我还是要用轻燃料。
+
+885
+00:10:47,633 --> 00:10:51,066
+所以如果我需要的话我也可以在燃烧发电机里烧
+
+886
+00:10:51,666 --> 00:10:56,900
+话虽如此，我们首先将油放入油箱
+
+887
+00:10:57,633 --> 00:11:01,800
+然后我们要用泵进入酿酒厂
+
+888
+00:11:03,233 --> 00:11:05,300
+在未来
+
+889
+00:11:06,666 --> 00:11:08,600
+取决于你想做什么
+
+890
+00:11:08,600 --> 00:11:10,100
+你可以用完全不同的方法
+
+891
+00:11:10,100 --> 00:11:12,500
+我只是即兴发挥
+
+892
+00:11:12,500 --> 00:11:15,133
+如果你想用石油作为燃料
+
+893
+00:11:15,133 --> 00:11:17,400
+你可能想用管子安装它
+
+894
+00:11:17,400 --> 00:11:19,233
+所以你可以有多个酒厂
+
+895
+00:11:19,233 --> 00:11:22,000
+因为一家酿酒厂相当慢
+
+896
+00:11:22,000 --> 00:11:24,500
+但既然我只想要一点点聚乙烯
+
+897
+00:11:24,733 --> 00:11:25,866
+那就足够了
+
+898
+00:11:26,533 --> 00:11:28,300
+所以我要使用电路
+
+899
+00:11:28,300 --> 00:11:30,200
+那是2还是3？2
+
+900
+00:11:31,266 --> 00:11:32,933
+我们必须为这个供电。
+
+901
+00:11:33,500 --> 00:11:38,300
+我的想法是用即将到来的中央集权为它供电。
+
+902
+00:11:39,066 --> 00:11:40,966
+但现在我不能做电池
+
+903
+00:11:40,966 --> 00:11:42,933
+因为首先我必须完成它
+
+904
+00:11:42,933 --> 00:11:46,300
+所以现在，我要用电池给它供电。
+
+905
+00:11:46,466 --> 00:11:49,633
+我正在顶部的LV机器中为电池充电
+
+906
+00:11:49,833 --> 00:11:53,633
+我只需要一点聚乙烯就能拿到第一块电池
+
+907
+00:11:53,633 --> 00:11:55,400
+然后我们就可以正常供电了
+
+908
+00:11:56,900 --> 00:11:59,533
+所以这会给我们提供硫磺轻燃料
+
+909
+00:12:00,266 --> 00:12:03,066
+接下来是化学反应堆
+
+910
+00:12:04,533 --> 00:12:07,133
+它在那边。
+
+911
+00:12:08,800 --> 00:12:12,666
+进入化学反应器的液体
+
+912
+00:12:12,666 --> 00:12:13,600
+现在我们有了
+
+913
+00:12:14,066 --> 00:12:18,333
+现在我们要过滤掉所有的细胞
+
+914
+00:12:18,333 --> 00:12:23,600
+所以现在，我要输入这个
+
+915
+00:12:24,333 --> 00:12:27,466
+这个可以电解以取回氢气
+
+916
+00:12:27,466 --> 00:12:29,700
+或者你可以用它来制造硫酸
+
+917
+00:12:30,800 --> 00:12:33,100
+我想我很可能会电解它
+
+918
+00:12:33,100 --> 00:12:35,300
+这有点容易做到。
+
+919
+00:12:36,200 --> 00:12:40,800
+所以为了控制配方，我将自动移动液体
+
+920
+00:12:43,300 --> 00:12:46,000
+从这个输入到下一台机器
+
+921
+00:12:46,466 --> 00:12:50,033
+这应该是另一个化学反应堆
+
+922
+00:12:51,133 --> 00:12:51,633
+那里
+
+923
+00:12:52,400 --> 00:12:54,933
+我们设置了自动流体输出
+
+924
+00:12:55,600 --> 00:12:56,833
+并给它这个细胞
+
+925
+00:12:56,833 --> 00:12:59,233
+好吧，那应该已经起作用了
+
+926
+00:13:00,266 --> 00:13:01,433
+我想它需要更多的细胞
+
+927
+00:13:02,733 --> 00:13:03,366
+多少
+
+928
+00:13:03,366 --> 00:13:05,200
+哦，12桶
+
+929
+00:13:05,200 --> 00:13:06,666
+好吧已经过了一半了
+
+930
+00:13:08,433 --> 00:13:10,833
+好吧最终这个会处理液体
+
+931
+00:13:10,833 --> 00:13:12,200
+并将其发送到下一阶段
+
+932
+00:13:12,200 --> 00:13:16,833
+但问题是我们必须注入更多的氢电池，最好是自动的。
+
+933
+00:13:16,833 --> 00:13:19,000
+并恢复两个输出
+
+934
+00:13:20,233 --> 00:13:24,100
+所以为了管理这两个细胞并取回氢气
+
+935
+00:13:24,100 --> 00:13:28,700
+我们所要做的就是基本上把这两个放在中压电解槽里，把这个拿回来。
+
+936
+00:13:28,700 --> 00:13:30,900
+但我们必须担心（我们该怎么办？）
+
+937
+00:13:31,533 --> 00:13:36,833
+要做到这一点，我们只需要放一个这样的电解槽
+
+938
+00:13:36,833 --> 00:13:38,700
+和传送带
+
+939
+00:13:38,700 --> 00:13:41,333
+这会把细胞移到那边
+
+940
+00:13:41,900 --> 00:13:44,133
+每五秒钟它就移动一个
+
+941
+00:13:44,933 --> 00:13:47,433
+它也有之前测试中的那两个。
+
+942
+00:13:48,100 --> 00:13:50,200
+我们稍后也会为这些供电。
+
+943
+00:13:51,600 --> 00:13:55,100
+我把空间留着等会儿再放电缆
+
+944
+00:13:55,700 --> 00:13:58,333
+目前，我将用电池为LV机器供电
+
+945
+00:13:58,333 --> 00:14:03,833
+一旦我得到聚乙烯，我就可以添加MV电池来连接MV机器
+
+946
+00:14:03,933 --> 00:14:06,000
+不管怎样，现在回收这个也没什么。
+
+947
+00:14:06,000 --> 00:14:07,733
+但让我们也完成这个设置
+
+948
+00:14:07,933 --> 00:14:09,633
+所以这个只产生固体
+
+949
+00:14:10,633 --> 00:14:14,833
+我要输出顶部的固体
+
+950
+00:14:16,100 --> 00:14:18,200
+这个去那里
+
+951
+00:14:18,200 --> 00:14:22,800
+现在我们要把硫磺从细胞中分离出来
+
+952
+00:14:23,733 --> 00:14:25,500
+所以我们在那里得到了硫化物
+
+953
+00:14:29,966 --> 00:14:31,800
+我们可以简单地把硫磺粉留在里面
+
+954
+00:14:31,800 --> 00:14:33,033
+它会锁定空间
+
+955
+00:14:34,866 --> 00:14:37,933
+如果你有这样的管子
+
+956
+00:14:39,633 --> 00:14:42,400
+如您所见，管道有一个路由值
+
+957
+00:14:42,400 --> 00:14:45,100
+这基本上决定了商品的去向。
+
+958
+00:14:45,100 --> 00:14:51,466
+你只需要知道更短的距离是得到物品的第一件事
+
+959
+00:14:52,133 --> 00:14:55,100
+所以它总是会去较短的路径
+
+960
+00:14:56,466 --> 00:14:59,433
+这意味着这个输出到这个
+
+961
+00:14:59,433 --> 00:15:01,000
+这个在那里找到一个输出
+
+962
+00:15:01,000 --> 00:15:01,933
+所以它去那里
+
+963
+00:15:03,033 --> 00:15:04,866
+而这条路线更长
+
+964
+00:15:05,100 --> 00:15:06,700
+这将是最低优先级
+
+965
+00:15:06,700 --> 00:15:08,466
+所以它会把东西放进去。
+
+966
+00:15:08,466 --> 00:15:10,700
+硫磺就在那里
+
+967
+00:15:10,700 --> 00:15:11,800
+细胞在那里
+
+968
+00:15:11,800 --> 00:15:13,633
+不能进入硫化罐（抽屉）
+
+969
+00:15:13,900 --> 00:15:15,700
+它会回到这个里面。
+
+970
+00:15:15,700 --> 00:15:17,333
+那里有氢气
+
+971
+00:15:17,933 --> 00:15:20,133
+现在如果你把它拿开，这个就自由了。
+
+972
+00:15:20,133 --> 00:15:22,133
+它可能会拿到手机并卡住。
+
+973
+00:15:22,133 --> 00:15:25,066
+这样你就可以用这把钥匙锁抽屉了
+
+974
+00:15:25,066 --> 00:15:28,433
+这样，即使你清空它，它仍然会锁定过滤
+
+975
+00:15:31,600 --> 00:15:36,100
+如果你想在早期游戏中过滤物品，你可以做那个东西。
+
+976
+00:15:36,500 --> 00:15:38,466
+但理想情况下，一旦你得到聚乙烯
+
+977
+00:15:38,466 --> 00:15:42,000
+您可以制作过滤器并制作可能更好的过滤器盖
+
+978
+00:15:42,000 --> 00:15:45,333
+但是超级早期的游戏你可以这样过滤项目
+
+979
+00:15:45,333 --> 00:15:47,466
+不管怎样，当这个我们得到MV电源时
+
+980
+00:15:47,466 --> 00:15:51,266
+它将能够恢复这两个细胞并取回氢气
+
+981
+00:15:52,700 --> 00:15:55,033
+这是轻燃料
+
+982
+00:15:55,666 --> 00:15:57,500
+那是哪个
+
+983
+00:15:57,500 --> 00:15:59,466
+下一步是添加一些
+
+984
+00:16:01,533 --> 00:16:02,433
+蒸汽
+
+985
+00:16:03,300 --> 00:16:06,033
+我们现在就需要牢房里的蒸汽
+
+986
+00:16:07,233 --> 00:16:09,900
+所以我们会有细胞循环工具
+
+987
+00:16:09,900 --> 00:16:11,266
+我们还需要蒸汽
+
+988
+00:16:12,233 --> 00:16:15,400
+所以我要让细胞在这两者之间来回移动
+
+989
+00:16:15,400 --> 00:16:18,200
+为此，我们可以在那里放置两个输送机
+
+990
+00:16:18,200 --> 00:16:21,666
+但您需要允许输入，否则
+
+991
+00:16:21,666 --> 00:16:22,866
+就像你有两个封面一样
+
+992
+00:16:22,866 --> 00:16:25,066
+一个推到另一个
+
+993
+00:16:25,066 --> 00:16:26,900
+他们不允许物品移动
+
+994
+00:16:26,900 --> 00:16:30,900
+除非你允许物品通过。
+
+995
+00:16:31,900 --> 00:16:34,700
+好的，如果我在里面放一些细胞
+
+996
+00:16:34,700 --> 00:16:36,166
+它应该可以来回移动
+
+997
+00:16:36,166 --> 00:16:38,200
+现在给我一点时间来输送蒸汽
+
+998
+00:16:39,100 --> 00:16:41,933
+我把蒸汽管道接到水箱里
+
+999
+00:16:41,933 --> 00:16:43,133
+我们放了一些细胞
+
+1000
+00:16:43,133 --> 00:16:46,066
+每隔5秒钟，它们就会移到那边。
+
+1001
+00:16:46,066 --> 00:16:46,866
+完美
+
+1002
+00:16:47,200 --> 00:16:50,100
+我们增加电路，我们也需要电力
+
+1003
+00:16:52,400 --> 00:16:53,233
+好吧
+
+1004
+00:16:53,300 --> 00:16:54,533
+它应该
+
+1005
+00:16:56,133 --> 00:16:57,900
+好吧起作用了
+
+1006
+00:16:57,900 --> 00:17:04,833
+然后我们将这种轻微破裂的燃料输出到带有电路10的酿酒厂
+
+1007
+00:17:06,100 --> 00:17:09,233
+这就是第十电路
+
+1008
+00:17:10,233 --> 00:17:13,866
+这个会输出破解的…
+
+1009
+00:17:13,866 --> 00:17:17,200
+这个已经可以制造乙烯了这几乎是最后一步了
+
+1010
+00:17:19,133 --> 00:17:21,033
+我想这个需要一些氧气
+
+1011
+00:17:21,033 --> 00:17:22,333
+但我要手动完成
+
+1012
+00:17:22,666 --> 00:17:26,400
+这个会产生一点微小的灰尘
+
+1013
+00:17:27,066 --> 00:17:28,666
+想把那些留在那里
+
+1014
+00:17:31,433 --> 00:17:33,933
+有办法把它们压缩成正常的灰尘
+
+1015
+00:17:34,666 --> 00:17:36,200
+我要得到的金额。
+
+1016
+00:17:36,200 --> 00:17:38,933
+我要把它藏在抽屉里忘掉
+
+1017
+00:17:40,333 --> 00:17:46,100
+不管怎样，好吧，我们得到了这种液体，我忘记了什么吗？
+
+1018
+00:17:48,466 --> 00:17:50,066
+哦，是的，流体自动输出
+
+1019
+00:17:52,633 --> 00:17:56,300
+好吧，现在我需要，我手动
+
+1020
+00:17:56,300 --> 00:17:59,400
+这种入侵机器的方式太可怕了
+
+1021
+00:17:59,533 --> 00:18:02,333
+我用LV电池手动供电
+
+1022
+00:18:02,333 --> 00:18:07,000
+但我只需要一点聚乙烯就能得到一个好电池。
+
+1023
+00:18:07,000 --> 00:18:10,066
+然后我要用那个电池集中能量
+
+1024
+00:18:10,466 --> 00:18:13,066
+这可能不是你应该玩的方式，但是
+
+1025
+00:18:15,000 --> 00:18:18,833
+我也在向你们展示其他的玩法
+
+1026
+00:18:18,833 --> 00:18:21,700
+没有人真正完全喜欢。
+
+1027
+00:18:22,300 --> 00:18:23,700
+没有多少人这样玩
+
+1028
+00:18:23,700 --> 00:18:27,333
+但我喜欢时不时做些乱七八糟的事
+
+1029
+00:18:29,333 --> 00:18:33,533
+最后，在所有这些之后（粗糙？）一旦我们得到一些乙烯，就会设置
+
+1030
+00:18:33,933 --> 00:18:36,333
+我们用带氧气的第一回路
+
+1031
+00:18:36,333 --> 00:18:40,466
+我稍后会像喂蒸汽一样喂它。
+
+1032
+00:18:40,466 --> 00:18:43,100
+一旦我有了中央供氧系统
+
+1033
+00:18:43,266 --> 00:18:44,433
+我们得到聚乙烯
+
+1034
+00:18:44,700 --> 00:18:47,433
+你也可以用红石代替电池。
+
+1035
+00:18:47,433 --> 00:18:53,833
+但我想移动电池很有趣。
+
+1036
+00:18:54,633 --> 00:18:56,400
+这是聚乙烯。
+
+1037
+00:18:57,800 --> 00:19:01,033
+我们可以用它来制造电池
+
+1038
+00:19:02,466 --> 00:19:04,233
+中压电池
+
+1039
+00:19:04,900 --> 00:19:06,733
+正如我很久以前所说
+
+1040
+00:19:06,733 --> 00:19:08,066
+我打算用钠
+
+1041
+00:19:08,066 --> 00:19:12,133
+因为我想为下一个轮胎保留锂
+
+1042
+00:19:12,133 --> 00:19:13,466
+我们走吧。
+
+1043
+00:19:14,600 --> 00:19:18,500
+有了这个，我们终于准备好将我们的力量集中在MV上
+
+1044
+00:19:19,300 --> 00:19:23,866
+所以我们把电池缓冲区放在任何合适的地方
+
+1045
+00:19:23,866 --> 00:19:29,300
+试着找出一个你所有力量都能通过的地方
+
+1046
+00:19:29,600 --> 00:19:32,933
+我发现我将主要使用蒸汽。
+
+1047
+00:19:33,066 --> 00:19:35,200
+所以这就是我所有力量的去处
+
+1048
+00:19:35,533 --> 00:19:37,133
+我现在只有五节电池
+
+1049
+00:19:37,133 --> 00:19:38,800
+稍后我会填满它
+
+1050
+00:19:39,266 --> 00:19:44,733
+顺便说一句，每个电池都可以让您提取一个放大器并插入两个
+
+1051
+00:19:45,800 --> 00:19:49,200
+然后我将使用蒸汽涡轮机
+
+1052
+00:19:50,133 --> 00:19:51,566
+这个是空的
+
+1053
+00:19:52,100 --> 00:19:55,533
+好吧，我很快就会依赖这个
+
+1054
+00:19:56,100 --> 00:19:57,233
+这个坦克将是…
+
+1055
+00:19:57,400 --> 00:20:00,133
+我要把蒸汽箱留给蒸汽多块
+
+1056
+00:20:00,133 --> 00:20:03,433
+我会在那里断开EBF和蒸汽的连接
+
+1057
+00:20:03,433 --> 00:20:05,366
+并将其连接到那里，但要缓慢
+
+1058
+00:20:06,833 --> 00:20:08,833
+另一个涡轮会去那里
+
+1059
+00:20:08,833 --> 00:20:10,833
+我开始了新的路线
+
+1060
+00:20:10,833 --> 00:20:16,266
+如果雨水打在任何一边，这些街区都可能爆炸
+
+1061
+00:20:16,533 --> 00:20:19,333
+所以确保这些街区不下雨
+
+1062
+00:20:21,133 --> 00:20:23,000
+不管怎样，这条电缆
+
+1063
+00:20:23,433 --> 00:20:26,533
+这个输出一个放大器，这样我就可以使用…
+
+1064
+00:20:26,533 --> 00:20:28,700
+这条电缆可以承载4台涡轮机
+
+1065
+00:20:28,700 --> 00:20:32,500
+稍后我将在这排增加更多涡轮机
+
+1066
+00:20:32,800 --> 00:20:34,300
+还在计划中
+
+1067
+00:20:34,300 --> 00:20:35,800
+计算时间
+
+1068
+00:20:35,800 --> 00:20:40,300
+如果我没记错的话，每个涡轮机大概有20个太阳能。
+
+1069
+00:20:41,433 --> 00:20:42,633
+是的，当我连接这个的时候。
+
+1070
+00:20:42,633 --> 00:20:44,866
+我把已经空了的水箱里的蒸汽移走了
+
+1071
+00:20:44,866 --> 00:20:46,433
+现在我们有坠机了
+
+1072
+00:20:46,433 --> 00:20:47,800
+但不管怎样
+
+1073
+00:20:48,200 --> 00:20:50,300
+所以我们把电源放在那里
+
+1074
+00:20:50,666 --> 00:20:56,933
+此外，弄清楚电缆的尺寸可能有点棘手
+
+1075
+00:20:57,700 --> 00:21:00,466
+我甚至不知道如何建议你
+
+1076
+00:21:00,466 --> 00:21:06,333
+就像，理想情况下，你可能应该试着找出通过电缆的最大电流是多少
+
+1077
+00:21:06,333 --> 00:21:08,466
+并使用足够粗的电缆
+
+1078
+00:21:08,633 --> 00:21:12,266
+比如这个五节电池的只能输出五安培
+
+1079
+00:21:12,466 --> 00:21:15,933
+所以一根5安培的电缆就足够了
+
+1080
+00:21:16,200 --> 00:21:18,466
+但假设我有16节电池
+
+1081
+00:21:18,666 --> 00:21:20,933
+16节电池最大16安培
+
+1082
+00:21:21,000 --> 00:21:23,766
+所以一根16安培的电缆就足够了。
+
+1083
+00:21:24,333 --> 00:21:27,400
+通常你会注意输出
+
+1084
+00:21:27,700 --> 00:21:29,666
+但你也可以尝试反向工作
+
+1085
+00:21:29,666 --> 00:21:32,433
+试着弄清楚电缆上的最大行是多少
+
+1086
+00:21:32,433 --> 00:21:37,500
+但理想情况下，最好只是弄清楚你要在电缆上推多少安培。
+
+1087
+00:21:37,500 --> 00:21:41,533
+这个带16节电池的是16安培，所以16安培电缆
+
+1088
+00:21:44,300 --> 00:21:45,933
+我在给我的电池充电
+
+1089
+00:21:45,933 --> 00:21:48,433
+现在，我可以带着这根电缆四处走动
+
+1090
+00:21:48,900 --> 00:21:51,233
+并连接一切
+
+1091
+00:21:51,966 --> 00:21:53,700
+该电缆是最大电压HV
+
+1092
+00:21:53,700 --> 00:21:55,800
+但我用MV电池给它供电。
+
+1093
+00:21:55,800 --> 00:21:58,033
+所以它实际上会有中压电源。
+
+1094
+00:21:58,866 --> 00:22:01,033
+但与其这样做
+
+1095
+00:22:01,833 --> 00:22:03,066
+我完全可以这么做
+
+1096
+00:22:03,300 --> 00:22:06,033
+但为了让它更适合未来
+
+1097
+00:22:06,033 --> 00:22:07,933
+并减少功率损失
+
+1098
+00:22:07,933 --> 00:22:13,033
+因为不管你推多少，这条电缆每个街区都会失去一个欧盟
+
+1099
+00:22:13,133 --> 00:22:18,800
+所以1/128比1/500损失大得多
+
+1100
+00:22:19,333 --> 00:22:24,300
+基本上，它会在64个街区后失去一半的力量，有了这种力量
+
+1101
+00:22:24,500 --> 00:22:28,833
+如果我们使用高压电源，200个街区后它会失去一半的电力
+
+1102
+00:22:29,266 --> 00:22:31,300
+所以我们要用高压电源
+
+1103
+00:22:31,300 --> 00:22:33,933
+为了获得高压电源，我们将使用变压器
+
+1104
+00:22:36,500 --> 00:22:38,900
+我们必须记住这条电缆
+
+1105
+00:22:38,900 --> 00:22:40,900
+如果我们使用变压器
+
+1106
+00:22:40,900 --> 00:22:41,633
+这个
+
+1107
+00:22:42,933 --> 00:22:46,733
+当你放的时候，它会进入降压模式。
+
+1108
+00:22:46,733 --> 00:22:49,500
+所以它并不是真的这样工作的
+
+1109
+00:22:49,500 --> 00:22:57,133
+你必须用软槌打它
+
+1110
+00:22:57,133 --> 00:23:01,433
+好的，软槌会反转变压器的工作功能
+
+1111
+00:23:01,433 --> 00:23:05,566
+现在您可以看到升压，输出HV，4安培
+
+1112
+00:23:05,566 --> 00:23:07,800
+所以我可以用这条电缆
+
+1113
+00:23:07,800 --> 00:23:09,533
+我们有四安培高压
+
+1114
+00:23:10,066 --> 00:23:13,600
+此外，通过升级，您可以使用小四倍的电缆
+
+1115
+00:23:13,600 --> 00:23:18,200
+因为它不再是16安培MV，而是4安培HV。
+
+1116
+00:23:18,200 --> 00:23:19,633
+这样我就可以用这条电缆了
+
+1117
+00:23:19,633 --> 00:23:24,066
+但再一次，我将在未来证明它并使用粗电缆
+
+1118
+00:23:24,066 --> 00:23:29,733
+所以这个很适合我有一个16节电池的高压电池缓冲器。
+
+1119
+00:23:29,800 --> 00:23:32,600
+或者我可以做四个MV电池（缓冲器）
+
+1120
+00:23:34,000 --> 00:23:38,333
+好的，所以在这条电缆上，现在我们理想情况下有高达4安培的电流。
+
+1121
+00:23:38,333 --> 00:23:42,266
+现在可能只有其中的一个和四分之一
+
+1122
+00:23:42,433 --> 00:23:44,333
+但它最多有四安培。
+
+1123
+00:23:45,200 --> 00:23:48,933
+现在我们可以将这条电缆连接到实际的底座
+
+1124
+00:23:49,400 --> 00:23:51,066
+我真的准备了一点衬里
+
+1125
+00:23:52,500 --> 00:23:57,000
+好的，我必须连接的第一件事是我之前做的油设置
+
+1126
+00:23:57,000 --> 00:23:59,433
+因为否则我没有聚乙烯。
+
+1127
+00:24:00,733 --> 00:24:04,400
+让电缆像这样
+
+1128
+00:24:04,400 --> 00:24:09,933
+好吧，我必须小心，因为这条电缆再次有高压电源。
+
+1129
+00:24:09,933 --> 00:24:11,400
+我的机器是LV的
+
+1130
+00:24:14,333 --> 00:24:18,500
+好吧，我想我要这样做。
+
+1131
+00:24:19,833 --> 00:24:22,733
+我们经历或者就像这样
+
+1132
+00:24:26,233 --> 00:24:29,466
+所以可能不再需要这么粗的电缆了
+
+1133
+00:24:30,300 --> 00:24:31,333
+使用更小的电缆
+
+1134
+00:24:31,400 --> 00:24:32,800
+这个是MV
+
+1135
+00:24:33,600 --> 00:24:34,666
+必须小心
+
+1136
+00:24:36,866 --> 00:24:37,800
+这是hv
+
+1137
+00:24:38,866 --> 00:24:41,266
+（那个？）还有HV
+
+1138
+00:24:41,833 --> 00:24:45,300
+所以在那之后，然后是中压变压器
+
+1139
+00:24:45,300 --> 00:24:49,866
+这个会把HV变回MV
+
+1140
+00:24:50,366 --> 00:24:51,600
+像这样
+
+1141
+00:24:52,200 --> 00:24:55,033
+现在我们有MV，但这台机器是LV。
+
+1142
+00:24:55,033 --> 00:24:56,933
+所以我们要小心
+
+1143
+00:24:57,433 --> 00:25:01,933
+您可以放置盖子或油漆电缆以避免弄得一团糟
+
+1144
+00:25:02,033 --> 00:25:03,433
+但一定要小心
+
+1145
+00:25:04,766 --> 00:25:06,533
+备份
+
+1146
+00:25:08,466 --> 00:25:09,400
+这个是MV
+
+1147
+00:25:09,400 --> 00:25:12,833
+我把它连接起来，现在我们得到了氢气。
+
+1148
+00:25:12,833 --> 00:25:16,100
+我想我忘记了自动输出。
+
+1149
+00:25:16,100 --> 00:25:17,133
+我设置得对吗？
+
+1150
+00:25:20,633 --> 00:25:23,233
+哦，等等，固体自动输出好的。
+
+1151
+00:25:23,233 --> 00:25:24,433
+你能推吗
+
+1152
+00:25:24,433 --> 00:25:26,600
+好的硫磺就放进去
+
+1153
+00:25:26,833 --> 00:25:29,433
+氢在五秒内就会到达那里
+
+1154
+00:25:30,333 --> 00:25:31,233
+来吧
+
+1155
+00:25:32,000 --> 00:25:34,333
+我想应该是五秒钟
+
+1156
+00:25:35,866 --> 00:25:37,800
+好吧，如果我不（？）那行得通
+
+1157
+00:25:37,800 --> 00:25:39,600
+现在我们得给LV机器供电了
+
+1158
+00:25:39,600 --> 00:25:42,966
+现在这是一二三四五机器
+
+1159
+00:25:42,966 --> 00:25:45,466
+所以我们最多需要5安培
+
+1160
+00:25:45,466 --> 00:25:50,100
+但我认为这些永远不会全职工作。
+
+1161
+00:25:50,833 --> 00:25:54,566
+我真的不会推动这个设置太多
+
+1162
+00:25:54,566 --> 00:25:56,200
+所以4安培就可以了
+
+1163
+00:25:57,066 --> 00:26:00,733
+4安培是变压器输出的电流
+
+1164
+00:26:01,400 --> 00:26:04,000
+现在这个取MV动力做LV
+
+1165
+00:26:04,900 --> 00:26:06,800
+我们一直使用相同的电缆
+
+1166
+00:26:06,800 --> 00:26:08,800
+因为我不喜欢有多根电缆。
+
+1167
+00:26:09,033 --> 00:26:11,033
+很可能是
+
+1168
+00:26:11,033 --> 00:26:16,133
+我认为许多人使用不同的电缆每层
+
+1169
+00:26:16,800 --> 00:26:20,933
+能帮你找出电缆在哪层
+
+1170
+00:26:20,933 --> 00:26:24,600
+但我更喜欢在任何地方使用相同的电缆
+
+1171
+00:26:24,600 --> 00:26:26,800
+所以我需要担心的不同电缆更少
+
+1172
+00:26:27,100 --> 00:26:28,600
+这可能不是个好建议
+
+1173
+00:26:29,200 --> 00:26:37,333
+但我也不想告诉您制作MV电缆，以免混淆MV、HV或LV电源
+
+1174
+00:26:37,333 --> 00:26:40,066
+就像我不会用退火铜一样
+
+1175
+00:26:40,066 --> 00:26:42,433
+退火铜或铜电缆很可怕
+
+1176
+00:26:42,433 --> 00:26:47,900
+就像在我看来没有好的MV电缆一样
+
+1177
+00:26:48,200 --> 00:26:51,666
+就像铁和镍的功率损耗太大一样
+
+1178
+00:26:52,633 --> 00:26:55,233
+白铜功率损失太大
+
+1179
+00:26:55,233 --> 00:26:58,533
+铜和退火铜有一个安培
+
+1180
+00:26:59,266 --> 00:27:02,700
+而且电工钢不好做
+
+1181
+00:27:03,433 --> 00:27:06,066
+我觉得没有什么好的MV线
+
+1182
+00:27:06,133 --> 00:27:10,733
+所以我只是坚持使用蓝色合金，但它是HV。
+
+1183
+00:27:11,200 --> 00:27:16,233
+所以总是试着弄清楚如何跟踪哪层是每根电缆
+
+1184
+00:27:17,500 --> 00:27:19,200
+有很多方法可以画电缆
+
+1185
+00:27:19,200 --> 00:27:20,100
+但在这层
+
+1186
+00:27:20,866 --> 00:27:23,300
+在这层尽量不要混淆
+
+1187
+00:27:23,300 --> 00:27:25,600
+你不应该有太多的电缆来担心
+
+1188
+00:27:25,666 --> 00:27:32,333
+我的意思是，这只是人们喜欢垃圾邮件生成器和有几条线而不是主线的另一个原因
+
+1189
+00:27:32,733 --> 00:27:34,800
+但我喜欢那样玩
+
+1190
+00:27:35,966 --> 00:27:41,400
+我觉得马上就有变压器和真正集中的电力要干净得多。
+
+1191
+00:27:41,400 --> 00:27:45,500
+而不是在边境到处都是垃圾邮件涡轮机
+
+1192
+00:27:46,800 --> 00:27:49,533
+我们也能看到能量的注入。
+
+1193
+00:27:50,266 --> 00:27:54,633
+好吧，它现在没有太多能量。
+
+1194
+00:27:56,300 --> 00:27:58,000
+因为它试图填满
+
+1195
+00:27:58,000 --> 00:27:59,333
+好吧，一旦这个装满了
+
+1196
+00:27:59,333 --> 00:28:02,433
+压力会通过管道到达涡轮机并给它充电
+
+1197
+00:28:03,466 --> 00:28:06,933
+所以接下来我要尝试连接EBF
+
+1198
+00:28:08,066 --> 00:28:12,033
+我还没有做出……
+
+1199
+00:28:12,300 --> 00:28:14,466
+它还被称为另一件事
+
+1200
+00:28:14,466 --> 00:28:17,400
+给我一点时间想弄清楚它是怎么叫的
+
+1201
+00:28:17,400 --> 00:28:18,333
+d d d d d
+
+1202
+00:28:18,333 --> 00:28:20,333
+我还没有MV舱口。
+
+1203
+00:28:20,933 --> 00:28:22,366
+所以我要坚持这些
+
+1204
+00:28:23,366 --> 00:28:25,733
+我们在里面放了一个变压器
+
+1205
+00:28:25,866 --> 00:28:30,433
+再一次，这里我们必须更加小心电压的东西
+
+1206
+00:28:31,633 --> 00:28:36,133
+因为我们必须将电缆的功率损耗降至最低
+
+1207
+00:28:36,133 --> 00:28:37,833
+就像我们以前用发电机一样
+
+1208
+00:28:37,833 --> 00:28:41,900
+但问题是变压器换了。
+
+1209
+00:28:41,900 --> 00:28:43,133
+所以这不再是问题了
+
+1210
+00:28:43,400 --> 00:28:46,533
+变压器过去只能接受一个安培
+
+1211
+00:28:46,700 --> 00:28:50,333
+所以如果你的电缆损耗太多，就会到达变压器。
+
+1212
+00:28:50,333 --> 00:28:51,800
+这将总结
+
+1213
+00:28:52,033 --> 00:28:54,833
+而且很难获得足够的能量
+
+1214
+00:28:54,833 --> 00:28:58,200
+但是变压器现在可以接受两安培
+
+1215
+00:28:58,200 --> 00:29:00,933
+这弥补了电力损失
+
+1216
+00:29:01,666 --> 00:29:04,700
+再一次，我必须小心，因为这里我需要MV。
+
+1217
+00:29:04,700 --> 00:29:07,066
+但这里的电缆是高压的。
+
+1218
+00:29:13,333 --> 00:29:18,266
+也许这样的工作对新玩家来说并不是最好的
+
+1219
+00:29:18,266 --> 00:29:20,433
+也许你应该坚持
+
+1220
+00:29:22,633 --> 00:29:29,866
+如果你对电力机械的工作原理了解不够，那么这么早升压可能有点棘手
+
+1221
+00:29:32,500 --> 00:29:34,933
+我喜欢那样玩
+
+1222
+00:29:34,933 --> 00:29:35,700
+我经验丰富
+
+1223
+00:29:36,100 --> 00:29:39,600
+也许不应该向新人建议这个
+
+1224
+00:29:39,600 --> 00:29:42,466
+我都不知道我的目标是什么了
+
+1225
+00:29:45,500 --> 00:29:50,100
+这里我们有MV进入LV变压器
+
+1226
+00:29:50,100 --> 00:29:51,700
+用非常丑陋的电缆
+
+1227
+00:29:52,266 --> 00:29:54,733
+这个应该可以运行
+
+1228
+00:29:55,633 --> 00:29:56,033
+好
+
+1229
+00:29:57,333 --> 00:29:59,466
+这会消耗很多能量
+
+1230
+00:30:00,800 --> 00:30:04,866
+是的，功率输出比输入多得多
+
+1231
+00:30:05,833 --> 00:30:08,933
+还得完成这条太阳能锅炉线
+
+1232
+00:30:10,033 --> 00:30:12,733
+我可能会做很多太阳能锅炉
+
+1233
+00:30:13,433 --> 00:30:14,900
+像这样
+
+1234
+00:30:14,900 --> 00:30:18,200
+这至少对MV的开头有好处
+
+1235
+00:30:18,600 --> 00:30:20,333
+然后为了避免混淆
+
+1236
+00:30:20,333 --> 00:30:22,500
+我还会画电缆
+
+1237
+00:30:22,500 --> 00:30:24,800
+现在我这么做主要是为了你们
+
+1238
+00:30:24,800 --> 00:30:28,466
+但如果我不拍视频我不会这么做
+
+1239
+00:30:28,600 --> 00:30:32,166
+所以早期的游戏你可以用那些画笔
+
+1240
+00:30:32,166 --> 00:30:34,500
+还有这个应该可以用
+
+1241
+00:30:34,500 --> 00:30:36,700
+我认为这个使用取决于那个（？）
+
+1242
+00:30:36,700 --> 00:30:39,633
+理想情况下，你可能想买这个喷雾罐。
+
+1243
+00:30:39,933 --> 00:30:43,100
+但这些非常容易制作
+
+1244
+00:30:43,700 --> 00:30:47,800
+不管怎样，那是说我要把电缆画成这样。
+
+1245
+00:30:47,800 --> 00:30:49,800
+所以我们知道黄色是HV
+
+1246
+00:30:49,800 --> 00:30:53,366
+如果你移动点击，它会绘制整行
+
+1247
+00:30:55,100 --> 00:30:56,800
+像这样，那里
+
+1248
+00:30:56,833 --> 00:30:57,833
+来吧
+
+1249
+00:30:59,333 --> 00:31:01,033
+哦，它还画了变压器，好的。
+
+1250
+00:31:01,033 --> 00:31:03,700
+变压器不应该涂漆
+
+1251
+00:31:04,533 --> 00:31:07,333
+MV将是橙色的
+
+1252
+00:31:08,833 --> 00:31:10,700
+现在这个是黄色的
+
+1253
+00:31:12,100 --> 00:31:13,333
+MV是橙色的。
+
+1254
+00:31:13,333 --> 00:31:18,133
+顺便说一下，我使用的颜色是层名称的颜色
+
+1255
+00:31:18,700 --> 00:31:20,533
+就像那是一个标准一样
+
+1256
+00:31:25,666 --> 00:31:29,200
+我想大多数人用的颜色是层名
+
+1257
+00:31:29,200 --> 00:31:31,166
+就像如果你看那里的东西
+
+1258
+00:31:31,166 --> 00:31:32,366
+如果你看看电压
+
+1259
+00:31:32,366 --> 00:31:34,733
+有价值就有层
+
+1260
+00:31:35,033 --> 00:31:37,433
+每层都有不同的颜色
+
+1261
+00:31:38,266 --> 00:31:43,566
+当我把电缆分开时，试图遵循电缆层名称的颜色
+
+1262
+00:31:43,566 --> 00:31:45,066
+（如果）我不是在拍视频
+
+1263
+00:31:45,066 --> 00:31:47,000
+我甚至不会把电缆漆开
+
+1264
+00:31:47,266 --> 00:31:50,033
+这对人们不感到困惑真的很有帮助
+
+1265
+00:31:50,066 --> 00:31:53,400
+我强烈建议，如果你做一个多人游戏
+
+1266
+00:31:54,266 --> 00:31:57,966
+如果我在做多人游戏或制作视频，我会只画电缆。
+
+1267
+00:31:57,966 --> 00:31:59,533
+否则我就不会画画了
+
+1268
+00:31:59,533 --> 00:32:04,166
+但是不要混淆和避免意外点击真的很有帮助。
+
+1269
+00:32:04,166 --> 00:32:08,200
+好吧，所以油漆电缆的好喷雾罐应该是这个。
+
+1270
+00:32:08,733 --> 00:32:11,866
+制作起来有点复杂。
+
+1271
+00:32:11,866 --> 00:32:15,866
+因为你要把油漆加工成化学油漆
+
+1272
+00:32:15,866 --> 00:32:18,933
+然后你必须用罐头机装满罐头
+
+1273
+00:32:19,100 --> 00:32:20,066
+更令人沮丧的是
+
+1274
+00:32:20,066 --> 00:32:22,666
+但它有500次使用，这要好得多。
+
+1275
+00:32:23,033 --> 00:32:27,833
+如果你点错了，点错了颜色。
+
+1276
+00:32:27,833 --> 00:32:32,533
+要么你做一个有1000种用途的溶剂罐
+
+1277
+00:32:32,600 --> 00:32:33,833
+但需要丙酮
+
+1278
+00:32:34,333 --> 00:32:35,466
+我们需要大量的丙酮
+
+1279
+00:32:35,466 --> 00:32:37,666
+但是现在做起来有点烦人
+
+1280
+00:32:37,666 --> 00:32:41,300
+另一种解决方案，如果是单次误点击，可以用水桶
+
+1281
+00:32:41,300 --> 00:32:42,833
+所以你拿一桶水
+
+1282
+00:32:42,833 --> 00:32:47,300
+你把它倒在油漆错误的积木上，让它脱漆。
+
+1283
+00:32:48,633 --> 00:32:51,733
+油漆的好处是
+
+1284
+00:32:51,733 --> 00:32:54,600
+如果你把两条电缆画成那样
+
+1285
+00:32:55,266 --> 00:32:58,233
+如您所见，不同的油漆电缆无法连接
+
+1286
+00:32:58,233 --> 00:33:00,733
+所以这对避免错误非常有帮助
+
+1287
+00:33:02,100 --> 00:33:06,333
+有了更好的缓冲器，给电弧炉供电也容易多了
+
+1288
+00:33:07,333 --> 00:33:10,800
+我们也可以用在我们的下一条无源生产线上
+
+1289
+00:33:11,300 --> 00:33:16,333
+这条生产线会生产出不知从哪里冒出来的氧气和硅，太阳能级硅
+
+1290
+00:33:16,466 --> 00:33:19,200
+所以我们从制造鹅卵石的破岩机开始
+
+1291
+00:33:19,200 --> 00:33:20,833
+把锤子锻造成砾石
+
+1292
+00:33:20,833 --> 00:33:22,266
+锤成沙
+
+1293
+00:33:22,266 --> 00:33:24,100
+电弧炉成玻璃
+
+1294
+00:33:24,100 --> 00:33:26,666
+将锤子锻造成玻璃粉
+
+1295
+00:33:26,666 --> 00:33:29,500
+离心进入二氧化硅
+
+1296
+00:33:29,500 --> 00:33:31,400
+我们从中提取硅
+
+1297
+00:33:31,400 --> 00:33:33,533
+我们也获得了大量的氧气
+
+1298
+00:33:33,733 --> 00:33:37,833
+在很长一段时间里，这将是我们基地的主要氧气来源
+
+1299
+00:33:38,433 --> 00:33:44,266
+然后我们进一步将原始硅提炼成硅太阳能级
+
+1300
+00:33:44,800 --> 00:33:47,600
+通过使用这个两步设置
+
+1301
+00:33:49,066 --> 00:33:52,700
+我想你可以很容易地弄清楚NEI中的食谱
+
+1302
+00:33:52,700 --> 00:33:55,200
+我想我已经展示了所有这些。
+
+1303
+00:33:56,000 --> 00:33:59,066
+现在我们有了太阳能级硅
+
+1304
+00:33:59,433 --> 00:34:01,633
+我们终于可以做硅球了
+
+1305
+00:34:01,633 --> 00:34:05,633
+这将需要大量时间在我们的EBF内部生产
+
+1306
+00:34:06,133 --> 00:34:09,600
+有了这些，我们现在可以进入更高层的技术
+
+1307
+00:34:09,600 --> 00:34:11,033
+就像MV能量舱一样
+
+1308
+00:34:11,033 --> 00:34:13,433
+这将使我们能够建立一个更强大的EBF
+
+1309
+00:34:13,433 --> 00:34:18,133
+能够以每滴答500欧盟的速度运行
+
+1310
+00:34:18,133 --> 00:34:19,800
+现在我们要做保养
+
+1311
+00:34:19,800 --> 00:34:23,700
+这次我们将用现场工程师的工具箱进行维护
+
+1312
+00:34:23,700 --> 00:34:26,933
+所以我们必须填写所有的工具和焊料
+
+1313
+00:34:27,433 --> 00:34:29,666
+我们走吧。
+
+1314
+00:34:31,433 --> 00:34:32,233
+固定
+
+1315
+00:34:32,666 --> 00:34:33,800
+有了新的EBF
+
+1316
+00:34:33,800 --> 00:34:36,000
+我们终于可以开始生产不锈钢了
+
+1317
+00:34:36,266 --> 00:34:38,933
+高压电机所需材料
+
+1318
+00:34:39,700 --> 00:34:41,933
+虽然我们还没有电路
+
+1319
+00:34:42,000 --> 00:34:45,533
+但我们只需要做这个。
+
+1320
+00:34:45,833 --> 00:34:49,900
+这意味着我们可以制作一个高压电池缓冲器
+
+1321
+00:34:49,900 --> 00:34:54,300
+要把这个放在适当的位置，我们只需重新路由电缆
+
+1322
+00:34:54,600 --> 00:34:57,866
+所以黄线已经在上面了
+
+1323
+00:34:58,266 --> 00:34:59,266
+就这样。
+
+1324
+00:34:59,266 --> 00:35:00,266
+打开电池
+
+1325
+00:35:00,800 --> 00:35:03,300
+我们可以断开旧的东西
+
+1326
+00:35:03,633 --> 00:35:05,233
+我已经关闭了EBF
+
+1327
+00:35:05,233 --> 00:35:07,166
+否则他们会断电
+
+1328
+00:35:07,900 --> 00:35:10,100
+一点点重新布线
+
+1329
+00:35:10,500 --> 00:35:12,666
+上面的电缆是MV
+
+1330
+00:35:12,666 --> 00:35:15,333
+但将MV馈送到HV也没关系
+
+1331
+00:35:16,033 --> 00:35:22,133
+唯一的问题是如果你把4安培的中压输入高压
+
+1332
+00:35:22,500 --> 00:35:25,900
+您正在使用四安培的容量
+
+1333
+00:35:26,133 --> 00:35:28,866
+例如，这个可以需要8安培
+
+1334
+00:35:29,433 --> 00:35:33,466
+但不是8安培的中压就是高压
+
+1335
+00:35:33,966 --> 00:35:37,800
+所以也许我可能会在那里放一个变压器
+
+1336
+00:35:39,000 --> 00:35:41,033
+把那四个安培变成一个
+
+1337
+00:35:41,033 --> 00:35:43,333
+但我也会建造更多的太阳能锅炉
+
+1338
+00:35:45,233 --> 00:35:48,266
+最后我还要
+
+1339
+00:35:58,133 --> 00:36:04,033
+好吧，把这个的所有能力都消耗到那个好东西上
+
+1340
+00:36:05,633 --> 00:36:07,200
+好吧而现在
+
+1341
+00:36:07,833 --> 00:36:15,033
+我可以只留下这个过程的内容，我们将需要下次升级
+
+1342
+00:36:16,033 --> 00:36:18,133
+这需要一些时间。
+
+1343
+00:36:18,833 --> 00:36:22,466
+正如你所看到的，这个元宝不是普通的元宝，而是一个热元宝。
+
+1344
+00:36:22,466 --> 00:36:24,200
+所以它必须冷却下来
+
+1345
+00:36:26,000 --> 00:36:27,666
+并冷却那些热锭
+
+1346
+00:36:27,666 --> 00:36:31,933
+目前我们所能做的就是使用带有冷却剂的化学浴
+
+1347
+00:36:32,433 --> 00:36:35,633
+这个过程会产生一些剩余的热冷却剂
+
+1348
+00:36:37,533 --> 00:36:42,700
+既然我们想回收这个来制造新的冷却剂来保持这个过程的进行
+
+1349
+00:36:43,000 --> 00:36:47,433
+我们可以在一桶水上使用这样的通风口
+
+1350
+00:36:47,600 --> 00:36:52,133
+过了一会儿，应该会将热冷却剂移回正常冷却剂
+
+1351
+00:36:53,133 --> 00:36:56,133
+好的，过了一会儿，它又回来了。
+
+1352
+00:36:56,833 --> 00:37:04,833
+像往常一样，在游戏的这个阶段，试着真正看看你能在任务书中找到的每一个任务
+
+1353
+00:37:04,933 --> 00:37:08,866
+就像任务书应该很好地解释所有这些事情
+
+1354
+00:37:09,200 --> 00:37:12,833
+所以我主要展示了一些主要步骤。
+
+1355
+00:37:12,833 --> 00:37:20,900
+但我对HV的第一层最大的建议是阅读任务书
+
+1356
+00:37:20,900 --> 00:37:25,200
+不管怎样，我们用kanthal来升级我们的EBF，这样它就可以熔炼硅了
+
+1357
+00:37:25,666 --> 00:37:29,633
+再一次，硅必须在化学浴中冷却
+
+1358
+00:37:29,800 --> 00:37:32,000
+现在我们终于有了硅
+
+1359
+00:37:32,000 --> 00:37:33,133
+我们可以制造晶体管
+
+1360
+00:37:33,133 --> 00:37:35,233
+我们打开高级电路
+
+1361
+00:37:36,100 --> 00:37:40,833
+有了这些，我们就有了解锁下一层HV所需的一切（照片？）
+
+1362
+00:37:41,033 --> 00:37:44,066
+但是在我们真正负担得起高压机器的电力之前
+
+1363
+00:37:44,066 --> 00:37:46,066
+我们必须增加发电量
+
+1364
+00:37:46,066 --> 00:37:48,866
+正如你所见，我们现在几乎跟不上
+
+1365
+00:37:48,866 --> 00:37:52,200
+我们的太阳能锅炉也会大量钙化
+
+1366
+00:37:52,900 --> 00:37:59,100
+这些锅炉确实每隔一两天或多或少就会开始失去输出
+
+1367
+00:37:59,100 --> 00:38:00,033
+如你所见
+
+1368
+00:38:02,066 --> 00:38:03,533
+那些没有完整的输出
+
+1369
+00:38:03,633 --> 00:38:06,333
+旧的有一些较低的输出
+
+1370
+00:38:06,333 --> 00:38:07,633
+那是因为他们钙化了
+
+1371
+00:38:07,866 --> 00:38:10,133
+所以每隔一两天我就不记得了
+
+1372
+00:38:10,133 --> 00:38:14,033
+我想比赛进行了12个小时
+
+1373
+00:38:14,033 --> 00:38:17,266
+你必须打破这些，然后再把它们放下。
+
+1374
+00:38:17,266 --> 00:38:20,266
+这样钙化就消失了
+
+1375
+00:38:22,466 --> 00:38:26,033
+所以我们可能得找个更好的能源
+
+1376
+00:38:26,900 --> 00:38:32,200
+当然，当我说可能时，我们内心深处都知道这意味着什么
+
+1377
+00:38:34,100 --> 00:38:35,933
+我想今天够了。
+
+1378
+00:38:36,100 --> 00:38:38,700
+下次高压层见
+
