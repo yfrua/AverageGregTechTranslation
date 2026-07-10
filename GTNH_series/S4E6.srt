@@ -868,7 +868,7 @@ which is quite special
 
 218
 00:12:36,100 --> 00:12:40,933
-now, if a recipt, for example, this plastic circuit board which we are going to craft a lot of
+now, if a receipt, for example, this plastic circuit board which we are going to craft a lot of
 
 219
 00:12:41,200 --> 00:12:43,500
@@ -1044,7 +1044,7 @@ I'm going to use those two are mixed together
 
 262
 00:14:55,300 --> 00:14:58,300
-we could also try to use the LCR to that recipt too
+we could also try to use the LCR to that receipt too
 
 263
 00:14:58,300 --> 00:15:03,900
