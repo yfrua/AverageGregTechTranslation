@@ -2,6 +2,8 @@
 
 Cooperative subtitle translation project for GregTech-related videos.
 
+[[简体中文](README_ZH.md)]
+
 ## Resources
 - YouTube video downloader (put it in the same folder as `downloader.bat`): https://github.com/yt-dlp/yt-dlp
 - GTNH wiki: https://gtnh.miraheze.org/wiki/Main_Page
@@ -112,13 +114,13 @@ It would not make you free from doing `git pull` to keep in sync with everyone e
 
 So, before you start each work session, sync with remote repository:
 ```bash
-git pull --all
+git pull
 ```
 
 If there are any updata in `main` branch, bring latest `main` into your branch:
 ```bash
 git checkout translate/<file-or-topic>
-git merge main
+git rebase main
 ```
 
 If there is a merge conflict, ask for help immediately or resolve it carefully in the conflicted files, then:
@@ -137,6 +139,7 @@ git add <file>            # Stage a file
 git commit -m "message"   # Commit staged changes
 git pull origin <branch>  # Get latest <branch> updates
 git push                  # Push your branch
+git checkout <branch>     # switch branch
 git checkout -b <branch>  # Create and switch branch
 git branch -D <branch>    # Delete local branch
 ```
