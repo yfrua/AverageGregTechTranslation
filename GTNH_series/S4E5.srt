@@ -576,11 +576,11 @@ so we are going to momentarily (postpone?) the centralization of the power proje
 
 145
 00:07:51,700 --> 00:07:54,833
-and we are instead going to work on polyethane
+and we are instead going to work on polyethylene
 
 146
 00:07:54,833 --> 00:07:57,733
-now you can make polyethane in different ways
+now you can make polyethylene in different ways
 
 147
 00:07:57,900 --> 00:08:03,333
@@ -1020,7 +1020,7 @@ for the moment, I will power LV machines with batteries
 
 256
 00:13:58,333 --> 00:14:03,833
-and as soon as I get polyethene I can add the MV battery to connect the MV machine
+and as soon as I get polyethylene I can add the MV battery to connect the MV machine
 
 257
 00:14:03,933 --> 00:14:06,000
@@ -1048,11 +1048,11 @@ now we have to split the sulfur from the cell
 
 263
 00:14:23,733 --> 00:14:25,500
-so we got the sulfer there
+so we got the sulfur there
 
 264
 00:14:29,966 --> 00:14:31,800
-we can simply leave a sulfer dust in there
+we can simply leave a sulfur dust in there
 
 265
 00:14:31,800 --> 00:14:33,033
@@ -1112,7 +1112,7 @@ cell goes there
 
 279
 00:15:11,800 --> 00:15:13,633
-cannot go into the sulfer tank(drawer)
+cannot go into the sulfur tank(drawer)
 
 280
 00:15:13,900 --> 00:15:15,700
@@ -1144,7 +1144,7 @@ you can make that thing to filter items if you want in the early game
 
 287
 00:15:36,500 --> 00:15:38,466
-but ideally as soon as you get polyethene
+but ideally as soon as you get polyethylene
 
 288
 00:15:38,466 --> 00:15:42,000
