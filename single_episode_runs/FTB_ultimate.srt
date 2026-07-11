@@ -1,0 +1,4184 @@
+1
+00:00:00,300 --> 00:00:01,333
+hello everyone
+
+2
+00:00:01,466 --> 00:00:06,066
+today we are going to play one more good old classic, FTB Ultimate
+
+3
+00:00:06,800 --> 00:00:10,500
+which is also the pack where I first encountered GregTech
+
+4
+00:00:11,533 --> 00:00:14,966
+anyways, we shall quickly get started with a new world
+
+5
+00:00:15,800 --> 00:00:19,900
+and we spawned close to a village that seems to not have any loot chests
+
+6
+00:00:20,900 --> 00:00:22,333
+after a quick peek at it
+
+7
+00:00:22,366 --> 00:00:25,300
+we get started and do the usual vanilla stuff
+
+8
+00:00:25,866 --> 00:00:28,966
+meaning we rush a bed and then gather some materials
+
+9
+00:00:29,466 --> 00:00:31,666
+now that we have a bed and some food
+
+10
+00:00:31,933 --> 00:00:33,800
+we can go gather some minerals
+
+11
+00:00:51,300 --> 00:00:54,066
+and that should be enough to get our base started
+
+12
+00:00:54,466 --> 00:00:58,066
+and the first thing we shall do is get some building materials
+
+13
+00:00:58,600 --> 00:01:02,266
+we are going to make our base with the good old trusty stone bricks
+
+14
+00:01:02,600 --> 00:01:03,966
+and after some work
+
+15
+00:01:04,166 --> 00:01:07,666
+here we have our new shelter with a nice window on the sky
+
+16
+00:01:08,133 --> 00:01:12,133
+now we can start processing the minerals with an old pulverizer
+
+17
+00:01:12,400 --> 00:01:15,400
+this is from before the introduction of Forge Energy
+
+18
+00:01:15,666 --> 00:01:18,166
+back when we used Minecraft Joules
+
+19
+00:01:18,533 --> 00:01:21,266
+now, before moving on with our factory
+
+20
+00:01:21,366 --> 00:01:23,200
+we shall get some proper tools
+
+21
+00:01:23,533 --> 00:01:24,900
+such as a Power Armor
+
+22
+00:01:25,000 --> 00:01:27,666
+this armor doesn't even look cool in that version
+
+23
+00:01:27,766 --> 00:01:29,566
+and as we made it
+
+24
+00:01:29,700 --> 00:01:32,066
+it only provides a different cosmetic
+
+25
+00:01:32,166 --> 00:01:33,933
+to make it have any use
+
+26
+00:01:34,066 --> 00:01:36,166
+we need a Power Armor tinker table
+
+27
+00:01:36,733 --> 00:01:40,266
+that requires one emerald which we didn't find while mining
+
+28
+00:01:40,400 --> 00:01:43,733
+but luckily, villagers trades exist in that version
+
+29
+00:01:44,133 --> 00:01:45,800
+and that guy has a nice offer
+
+30
+00:01:46,100 --> 00:01:48,500
+we accept this quest from the Guild Hall
+
+31
+00:01:48,500 --> 00:01:50,333
+and quickly proceed to (fulfill/finish?) it
+
+32
+00:01:50,566 --> 00:01:53,700
+and thus we have our tinkers table to tweak our armor
+
+33
+00:01:54,200 --> 00:01:56,900
+inside that we can see our armor equipped modules
+
+34
+00:01:56,900 --> 00:01:59,300
+and we can add, remove or edit them
+
+35
+00:01:59,400 --> 00:02:04,300
+the first thing we want is to add some plating so that it provides some Protection
+
+36
+00:02:04,600 --> 00:02:07,800
+we quickly craft the material required for the upgrade
+
+37
+00:02:07,800 --> 00:02:10,500
+and proceed into installing it into our armor
+
+38
+00:02:10,900 --> 00:02:14,466
+next, we can choose how thick we want our plating to be
+
+39
+00:02:14,500 --> 00:02:17,000
+the more thick the more Protection we gain
+
+40
+00:02:17,300 --> 00:02:20,133
+but we also have more weight to carry around
+
+41
+00:02:20,700 --> 00:02:22,500
+since we want to be well protected
+
+42
+00:02:22,733 --> 00:02:26,566
+we install it at maximum defense on each part of our armor
+
+43
+00:02:26,733 --> 00:02:31,300
+and thus we have an unbreakable armor as good as a diamond one but made out of iron
+
+44
+00:02:31,500 --> 00:02:33,066
+the issue is that it's heavy
+
+45
+00:02:33,400 --> 00:02:34,733
+to workaround that
+
+46
+00:02:34,866 --> 00:02:40,466
+we can install some augmentations on our leggings to help us walk with all of that weight
+
+47
+00:02:40,766 --> 00:02:46,833
+and again, we can tweak how powerful and in what way these augmentations shall help us walk
+
+48
+00:02:46,833 --> 00:02:48,733
+however, these require power
+
+49
+00:02:49,000 --> 00:02:51,600
+so we also have to install a battery
+
+50
+00:02:51,966 --> 00:02:54,500
+which is going to increase further up our weight
+
+51
+00:02:54,800 --> 00:02:59,666
+and of course, we need some generators to charge up our batteries
+
+52
+00:03:00,166 --> 00:03:05,100
+however, all of the generators we can embed in our armor require control circuits
+
+53
+00:03:05,366 --> 00:03:06,800
+which require glowstone
+
+54
+00:03:07,300 --> 00:03:08,700
+before going into the nether
+
+55
+00:03:08,733 --> 00:03:10,366
+we craft a power tool
+
+56
+00:03:10,566 --> 00:03:12,700
+which will make any other tool obsolete
+
+57
+00:03:13,000 --> 00:03:14,666
+freeing a lot of hotbar space
+
+58
+00:03:15,200 --> 00:03:18,933
+this robotic arm can do about everything you could need
+
+59
+00:03:19,166 --> 00:03:21,400
+such as the basic mining tools
+
+60
+00:03:22,000 --> 00:03:23,266
+to get the Obsidian
+
+61
+00:03:23,300 --> 00:03:25,533
+we can upgrade it with some diamonds
+
+62
+00:03:25,733 --> 00:03:30,466
+and we should probably overclock the pick feature at the maximum for that task
+
+63
+00:03:30,466 --> 00:03:34,800
+and thus we can now punch Obsidian (without / with our?) bare robotic hands
+
+64
+00:03:35,300 --> 00:03:39,266
+before going into the nether, we should get some more cool features
+
+65
+00:03:39,266 --> 00:03:40,333
+such as a rail gun
+
+66
+00:03:40,666 --> 00:03:42,900
+or maybe we can get that later on
+
+67
+00:03:43,000 --> 00:03:46,266
+for the moment let's make a melee assistant be enough
+
+68
+00:03:46,666 --> 00:03:50,166
+then we fully charge our armor with an IC2 generator
+
+69
+00:03:50,800 --> 00:03:52,966
+once we are fully charged and equipped
+
+70
+00:03:53,300 --> 00:03:55,333
+we proceed into another expedition
+
+71
+00:03:55,700 --> 00:03:59,800
+where our only objective shall be gathering a couple of glowstone dusts
+
+72
+00:04:00,733 --> 00:04:03,866
+we quickly accomplish the mission and then run back
+
+73
+00:04:04,133 --> 00:04:05,533
+with that rushed loot
+
+74
+00:04:05,600 --> 00:04:08,500
+we can finally make a couple of HV capacitors
+
+75
+00:04:08,500 --> 00:04:12,133
+and thus we can install a railgun in our robotic hand
+
+76
+00:04:12,533 --> 00:04:13,933
+and of course
+
+77
+00:04:14,100 --> 00:04:16,100
+we crank it at maximum power
+
+78
+00:04:16,700 --> 00:04:19,100
+the railgun has two main purposes
+
+79
+00:04:19,300 --> 00:04:21,933
+one is to be used as a long range weapon
+
+80
+00:04:22,300 --> 00:04:24,566
+but the most important one
+
+81
+00:04:24,800 --> 00:04:28,666
+is that we can use it to fly around by using its kickback
+
+82
+00:04:29,000 --> 00:04:32,000
+and thus we were able to quickly find a desert
+
+83
+00:04:32,000 --> 00:04:36,800
+where we can gather the other missing ingredient for the control circuits, cactus
+
+84
+00:04:37,266 --> 00:04:40,500
+and with that we can have a solar generator on our helmet
+
+85
+00:04:41,100 --> 00:04:44,000
+and we can also get night vision goggles
+
+86
+00:04:44,866 --> 00:04:48,166
+then an auto feeder so that we won't have to manage food
+
+87
+00:04:48,966 --> 00:04:51,733
+and an electrolyzer for when we go diving
+
+88
+00:04:52,333 --> 00:04:56,000
+but the real cool thing is getting a kinetic generator
+
+89
+00:04:56,333 --> 00:04:58,500
+this will produce energy when we walk
+
+90
+00:04:58,566 --> 00:05:00,600
+but it will make walking harder
+
+91
+00:05:00,600 --> 00:05:04,700
+however, it produces more than the exoskeleton assistant uses
+
+92
+00:05:05,866 --> 00:05:07,333
+but this is a techpack
+
+93
+00:05:07,466 --> 00:05:09,300
+so enough fooling around
+
+94
+00:05:09,700 --> 00:05:13,466
+we shall make a bunch more of the old Thermal Expansion machines
+
+95
+00:05:14,666 --> 00:05:17,666
+and we shall use these to expand our base
+
+96
+00:05:17,900 --> 00:05:22,666
+since the real machines, the GregTech ones, will need more space
+
+97
+00:05:23,300 --> 00:05:26,133
+and while we wait for the building materials
+
+98
+00:05:26,366 --> 00:05:28,800
+we can do some more resource gathering
+
+99
+00:05:29,200 --> 00:05:33,500
+but it looks like it is going to take a while more for the basic processing stuff
+
+100
+00:05:34,300 --> 00:05:40,100
+so we shall use that time to go gather more Ender Pearls in the end for some more armor upgrades
+
+101
+00:05:40,566 --> 00:05:42,533
+and on our way to the end
+
+102
+00:05:42,733 --> 00:05:44,133
+we found a dungeon
+
+103
+00:05:44,533 --> 00:05:46,266
+while exploring the dungeon
+
+104
+00:05:46,466 --> 00:05:48,300
+we found one more fun toy
+
+105
+00:05:48,333 --> 00:05:49,333
+a portal gun
+
+106
+00:05:49,966 --> 00:05:52,400
+this is one more memory of great games
+
+107
+00:05:52,566 --> 00:05:54,266
+for those of you who don't know
+
+108
+00:05:54,333 --> 00:05:59,400
+this item allow us to create portals on the walls so that we can easily move around
+
+109
+00:06:00,166 --> 00:06:03,766
+it can also be used to move around any mob or item
+
+110
+00:06:04,100 --> 00:06:10,500
+and yes, its best usage was to troll people when playing on multiplayer servers
+
+111
+00:06:10,500 --> 00:06:13,066
+anyways, going back to our adventure
+
+112
+00:06:13,266 --> 00:06:16,266
+once we managed to find and complete the end portal
+
+113
+00:06:16,366 --> 00:06:18,566
+we started gathering some ender pearls
+
+114
+00:06:19,166 --> 00:06:22,066
+but when we had enough and wanted to go back
+
+115
+00:06:22,133 --> 00:06:27,166
+we found out that the portal gun was not going to bring us away from that nasty place
+
+116
+00:06:27,700 --> 00:06:31,300
+and thus it was time for the usual long battle with the dragon
+
+117
+00:06:32,000 --> 00:06:34,700
+or at least we feared it would have been a long battle
+
+118
+00:06:35,100 --> 00:06:39,366
+the rail gun is overpowered and in this version the dragon is the vanilla one
+
+119
+00:06:39,866 --> 00:06:42,100
+once we took care of having a way back
+
+120
+00:06:42,200 --> 00:06:44,933
+we can go back and mind our business in peace
+
+121
+00:06:45,766 --> 00:06:51,066
+and thus we are bringing back some sodalite, some celestite and some tungstate
+
+122
+00:06:51,933 --> 00:06:56,133
+with the Ender Pearls we are going to make some force field emitters
+
+123
+00:06:56,133 --> 00:07:02,966
+which can be used for a weightless armor that provides more Protection than a diamond one but at cost of energy
+
+124
+00:07:02,966 --> 00:07:06,000
+and thus we can lift some weight out of our armor
+
+125
+00:07:06,933 --> 00:07:12,600
+one other cool thing we can do with these things is add a plasma cannon to our hand
+
+126
+00:07:12,600 --> 00:07:16,700
+anyways, to fix our portal issues and make our base work properly
+
+127
+00:07:16,700 --> 00:07:18,300
+we make a chunk loader
+
+128
+00:07:18,700 --> 00:07:21,766
+and now we can go back to our base from any place
+
+129
+00:07:22,933 --> 00:07:26,366
+now that we have secured some materials and a new room
+
+130
+00:07:26,533 --> 00:07:32,566
+we can move on from the machines that will use Redstone Force and start working on the GregTech ones
+
+131
+00:07:33,000 --> 00:07:36,900
+this version of GregTech actually works as an IC2 addon
+
+132
+00:07:37,000 --> 00:07:40,966
+so we have to start with a batbox and a generator from said mod
+
+133
+00:07:41,200 --> 00:07:44,800
+we make a line of LV cabling and place a compressor tube
+
+134
+00:07:45,133 --> 00:07:48,166
+and now it is time to do some GregTech stuff
+
+135
+00:07:48,266 --> 00:07:51,133
+as usual, we start from a bending machine
+
+136
+00:07:51,966 --> 00:07:55,266
+and if you wonder why I didn't start from the wiremill
+
+137
+00:07:55,333 --> 00:07:57,766
+it's because it requires plates
+
+138
+00:07:57,766 --> 00:08:02,400
+also, apparently, it can be made with machine hulls from any mod
+
+139
+00:08:03,000 --> 00:08:05,333
+after quickly crafting and placing it
+
+140
+00:08:05,366 --> 00:08:09,933
+we can start using it and notice that it makes 3 wires from an ingot
+
+141
+00:08:10,400 --> 00:08:12,000
+then comes the assembler
+
+142
+00:08:12,466 --> 00:08:15,600
+which for the moment we are not going to use
+
+143
+00:08:15,800 --> 00:08:22,066
+since the minium stones trades makes the crafting table circuit recipe cheaper than the assembler one
+
+144
+00:08:22,533 --> 00:08:25,833
+next we make a centrifuge for cheaper rubber
+
+145
+00:08:25,833 --> 00:08:29,666
+and to start working our ores, an electrolyzer
+
+146
+00:08:30,166 --> 00:08:32,366
+however that requires MV power
+
+147
+00:08:32,400 --> 00:08:34,166
+but since we can tier skip
+
+148
+00:08:34,166 --> 00:08:37,166
+we rush an HV battery, the MFSU
+
+149
+00:08:37,466 --> 00:08:42,866
+but now our puny coal generator can barely make the power level of our battery tick up
+
+150
+00:08:43,100 --> 00:08:46,100
+so we make a couple of Thermal generators
+
+151
+00:08:46,100 --> 00:08:48,933
+and a setup to pump some lava from the nether
+
+152
+00:08:48,933 --> 00:08:52,833
+which we bring to our new generators using a good old tesseract
+
+153
+00:08:52,833 --> 00:08:55,133
+which doesn't even require power to work
+
+154
+00:08:55,533 --> 00:08:59,866
+and thus we should have increased our power generation by a factor of five
+
+155
+00:09:00,733 --> 00:09:07,533
+thus we should have enough power to afford making an energy bridge to convert IC2 power into BuildCraft power
+
+156
+00:09:07,966 --> 00:09:12,133
+and so we can finally have a proper power source for our RF machines
+
+157
+00:09:12,700 --> 00:09:15,400
+which are still useful for a handful of tasks
+
+158
+00:09:16,166 --> 00:09:19,100
+now we can go back to our first MV machine
+
+159
+00:09:19,266 --> 00:09:20,533
+the electrolyzer
+
+160
+00:09:20,533 --> 00:09:24,666
+we shall use that to get stuff like aluminum out of sodalite
+
+161
+00:09:28,133 --> 00:09:32,700
+but the most important thing we need to electrolize is boraxite
+
+162
+00:09:32,866 --> 00:09:36,400
+which will give us not rutile but straight up titanium dust
+
+163
+00:09:37,166 --> 00:09:41,566
+and of course, to cook that stuff we need an EBF
+
+164
+00:09:42,100 --> 00:09:43,733
+which we swiftly craft
+
+165
+00:09:43,933 --> 00:09:48,166
+and that machine was a power (hog?) multiblock even back in these days
+
+166
+00:09:48,966 --> 00:09:52,300
+we can see the structure guideline inside the UI
+
+167
+00:09:52,933 --> 00:09:55,733
+after crafting and quickly building its structure
+
+168
+00:09:55,900 --> 00:10:00,166
+we realize that in this version, there is no muffer hatch
+
+169
+00:10:00,733 --> 00:10:03,100
+so after closing off the top
+
+170
+00:10:03,166 --> 00:10:05,133
+we see that the light turns green
+
+171
+00:10:05,133 --> 00:10:09,000
+and we have a heat capacity of 1,020 Kelvin
+
+172
+00:10:09,400 --> 00:10:12,000
+which is not enough for smelting titanium
+
+173
+00:10:12,333 --> 00:10:13,966
+and for some reason
+
+174
+00:10:14,300 --> 00:10:17,266
+aluminum here has an even higher working temperature
+
+175
+00:10:17,766 --> 00:10:19,333
+if we look at the UI
+
+176
+00:10:19,400 --> 00:10:21,766
+we see two red dots in the structure
+
+177
+00:10:21,900 --> 00:10:27,100
+that is because we can increase the furnace temperature by adding some lava inside it
+
+178
+00:10:27,733 --> 00:10:29,333
+so we grab two buckets
+
+179
+00:10:29,533 --> 00:10:31,833
+take some lava out of our generators
+
+180
+00:10:31,833 --> 00:10:35,066
+and proceed into dropping it inside the blast furnace
+
+181
+00:10:35,466 --> 00:10:39,733
+and thus we reached 1,520 Kelvin
+
+182
+00:10:39,900 --> 00:10:42,500
+enough for titanium but not for aluminum
+
+183
+00:10:42,866 --> 00:10:46,900
+so, let's fire up our electric lava furnace with titanium
+
+184
+00:10:47,333 --> 00:10:48,966
+after a long cooking time
+
+185
+00:10:49,066 --> 00:10:50,100
+we got two ingots
+
+186
+00:10:50,100 --> 00:10:51,666
+which we turn into plates
+
+187
+00:10:51,666 --> 00:10:53,400
+and use to make a rock cutter
+
+188
+00:10:53,933 --> 00:10:58,800
+which is a power tool that will acquire Silk Touch 3 once fully charged up
+
+189
+00:10:59,066 --> 00:11:03,733
+we can use that to gently take minerals out of the rock without damaging them
+
+190
+00:11:03,900 --> 00:11:09,500
+so that we can then throw these inside an industrial grinder to get more dust out of our ores
+
+191
+00:11:10,133 --> 00:11:11,800
+going back to our EBF
+
+192
+00:11:11,933 --> 00:11:14,666
+we would also like to manage to cook aluminum
+
+193
+00:11:14,800 --> 00:11:16,500
+to increase our heat capacity
+
+194
+00:11:16,766 --> 00:11:18,666
+we first make some steel
+
+195
+00:11:19,100 --> 00:11:21,966
+which we use to make some reinforced casings
+
+196
+00:11:22,866 --> 00:11:26,000
+each one will increase the temperature by 20 Kelvin
+
+197
+00:11:26,100 --> 00:11:28,100
+and we can even mix the blocks
+
+198
+00:11:28,700 --> 00:11:30,666
+we place them in a familiar way
+
+199
+00:11:30,900 --> 00:11:33,600
+until we reach 2,000 Kelvin
+
+200
+00:11:33,933 --> 00:11:36,400
+however, to smelt late game materials
+
+201
+00:11:36,666 --> 00:11:38,566
+we need to reach 3,000
+
+202
+00:11:39,300 --> 00:11:44,000
+we could rebuild the whole structure with the expensive advanced machine casings
+
+203
+00:11:44,366 --> 00:11:47,066
+but instead we are going to make a bunch of coils
+
+204
+00:11:47,666 --> 00:11:51,266
+to make these, we start off by cooking some aluminum
+
+205
+00:11:51,400 --> 00:11:53,666
+since we now are able to do so
+
+206
+00:11:53,866 --> 00:11:55,266
+while the aluminum cook
+
+207
+00:11:55,333 --> 00:11:57,733
+we grind down some rubies into dust
+
+208
+00:11:58,266 --> 00:12:01,200
+and then we electrolyze some chromium out of them
+
+209
+00:12:01,466 --> 00:12:04,533
+which we shall cook as soon as the aluminum is done
+
+210
+00:12:05,200 --> 00:12:06,533
+once everything is ready
+
+211
+00:12:06,700 --> 00:12:08,466
+we rush to the rolling machine
+
+212
+00:12:08,466 --> 00:12:10,333
+where we assemble the new coils
+
+213
+00:12:10,733 --> 00:12:11,733
+to apply them
+
+214
+00:12:11,733 --> 00:12:13,566
+we simply click on the controller
+
+215
+00:12:13,666 --> 00:12:17,000
+and finally we reach the temperature required for Tungsten
+
+216
+00:12:17,700 --> 00:12:19,733
+but as you probably are thinking
+
+217
+00:12:20,100 --> 00:12:24,433
+you can't say tungsten EBF without running out of power
+
+218
+00:12:24,433 --> 00:12:27,466
+so, it is time to increase our power production
+
+219
+00:12:28,266 --> 00:12:31,533
+the first upgrade we shall do is a gas turbine
+
+220
+00:12:31,700 --> 00:12:37,533
+so that we can recycle the methane and hydrogen made as by product of various processes
+
+221
+00:12:37,533 --> 00:12:40,100
+next, to have some perpetual generation
+
+222
+00:12:40,266 --> 00:12:43,300
+we make an automated farm with factorisation
+
+223
+00:12:44,000 --> 00:12:47,000
+we are going to use a Sawmill to get the most out of the wood
+
+224
+00:12:47,000 --> 00:12:51,533
+and we also work the sawdust into charcoal for extra fuel generation
+
+225
+00:12:52,100 --> 00:12:56,733
+then we burn all that fuel into a classical RailCraft boiler to make steam
+
+226
+00:12:57,666 --> 00:13:00,566
+once it heated up and started producing steam
+
+227
+00:13:00,733 --> 00:13:03,733
+we feed that into a steam consumer of an energy bridge
+
+228
+00:13:03,733 --> 00:13:08,266
+which will then feed power to the farm and send the leftover to our base
+
+229
+00:13:09,366 --> 00:13:12,366
+this system also makes some sludgy fluid
+
+230
+00:13:12,533 --> 00:13:17,366
+which we pipe into a sludgy boiler that will send back to use some extra goodies
+
+231
+00:13:18,900 --> 00:13:20,533
+however, after some time
+
+232
+00:13:20,666 --> 00:13:24,700
+we realize that our farm outproduces the boiler consumption
+
+233
+00:13:24,900 --> 00:13:27,366
+so we increase the size of our boiler
+
+234
+00:13:27,866 --> 00:13:30,533
+once this big boy starts producing energy
+
+235
+00:13:30,800 --> 00:13:35,700
+we realize that we have a surplus production even while using the blast furnace
+
+236
+00:13:35,866 --> 00:13:38,866
+so we start looking for a good use for that extra power
+
+237
+00:13:39,566 --> 00:13:41,466
+we shall make a mass fabricator
+
+238
+00:13:41,600 --> 00:13:44,333
+which is going to take quite a few crafting steps
+
+239
+00:13:44,800 --> 00:13:49,366
+and the only thing preventing us from making it is the Lapotron energy orb
+
+240
+00:13:49,366 --> 00:13:51,300
+or better, the iridium plate
+
+241
+00:13:51,733 --> 00:13:56,266
+we are going to need an implosion compressor and also some iridium
+
+242
+00:13:56,333 --> 00:13:58,333
+I haven't found any iridium ore
+
+243
+00:13:58,333 --> 00:14:01,500
+and I don't remember if it even spawns in this version
+
+244
+00:14:01,700 --> 00:14:03,666
+to get it we have two other options
+
+245
+00:14:04,100 --> 00:14:05,933
+both of which include platinum
+
+246
+00:14:06,200 --> 00:14:13,000
+and we can get half a iridium ingot from each sheldonite ore if we work it with mercury in an industrial grinder
+
+247
+00:14:13,466 --> 00:14:16,466
+sheldonite is a quite (?) ore found in the end
+
+248
+00:14:17,133 --> 00:14:19,133
+if we want to gather a proper amount
+
+249
+00:14:19,466 --> 00:14:22,166
+we should go off to the small floating islands
+
+250
+00:14:22,933 --> 00:14:26,533
+however, our current way of flying isn't good enough for that
+
+251
+00:14:27,500 --> 00:14:30,133
+instead, we shall gather some ender pearls
+
+252
+00:14:30,133 --> 00:14:35,533
+so that we can craft some thrusters that we can attach to our armor for a proper jetpack flight
+
+253
+00:14:36,366 --> 00:14:39,400
+once we have properly attached and configured the jetpack
+
+254
+00:14:39,400 --> 00:14:41,166
+we can rush back to the end
+
+255
+00:14:41,166 --> 00:14:44,600
+and finally fly towards the small floating islands
+
+256
+00:14:44,866 --> 00:14:47,200
+wherewith the needed materials await us
+
+257
+00:14:48,066 --> 00:14:50,866
+and now that we have all the required materials
+
+258
+00:14:51,100 --> 00:14:53,300
+it is time for a crafting sequence
+
+259
+00:16:59,366 --> 00:17:01,466
+now that we have managed to craft it
+
+260
+00:17:01,466 --> 00:17:03,966
+we can place it in the middle of the machine room
+
+261
+00:17:04,400 --> 00:17:07,566
+and since we want to keep some energy stocked up
+
+262
+00:17:07,600 --> 00:17:10,900
+we use an EU splitter cable to toggle it on and off
+
+263
+00:17:11,366 --> 00:17:12,200
+other than energy
+
+264
+00:17:12,666 --> 00:17:13,800
+scraps are mandatory
+
+265
+00:17:13,800 --> 00:17:16,466
+but we can use any material dust in place
+
+266
+00:17:16,700 --> 00:17:18,900
+for now we shall use thorium
+
+267
+00:17:19,400 --> 00:17:23,533
+and that machine uses a lot of power to produce nothing
+
+268
+00:17:23,533 --> 00:17:26,966
+so, now we can try to find better ways of making power
+
+269
+00:17:27,166 --> 00:17:30,300
+we start by using the surplus wood from our farm
+
+270
+00:17:30,400 --> 00:17:31,866
+and with two boiler
+
+271
+00:17:31,900 --> 00:17:36,300
+we still have excess fuel production and almost make a full HV amp
+
+272
+00:17:36,533 --> 00:17:38,100
+but that is still nothing
+
+273
+00:17:38,100 --> 00:17:41,200
+since that machine can take many amps of IV power
+
+274
+00:17:41,533 --> 00:17:43,366
+if we want to properly feed it
+
+275
+00:17:43,400 --> 00:17:45,700
+we are going to need a fusion reactor
+
+276
+00:17:46,266 --> 00:17:51,566
+however that is a complex machine to make with many steps that require a lot of materials
+
+277
+00:17:52,266 --> 00:17:55,333
+we do not have AE2 to help us with that
+
+278
+00:17:55,466 --> 00:17:58,266
+but we have its precursors AE1
+
+279
+00:17:58,933 --> 00:18:02,966
+we start by making some cabling and some logistic processors
+
+280
+00:18:03,400 --> 00:18:05,566
+I mean basic processors
+
+281
+00:18:05,933 --> 00:18:08,666
+then we make a ME drive with some cells
+
+282
+00:18:09,300 --> 00:18:12,300
+instead of having formation and annihilation cores
+
+283
+00:18:12,533 --> 00:18:14,766
+we have a single conversion matrix
+
+284
+00:18:15,200 --> 00:18:18,133
+which we use for our first crafting terminal
+
+285
+00:18:18,133 --> 00:18:21,300
+finally, we make some engineering processors
+
+286
+00:18:21,533 --> 00:18:24,733
+here called advanced processors to make a controller
+
+287
+00:18:24,733 --> 00:18:27,333
+which actually works as an energy acceptor
+
+288
+00:18:27,666 --> 00:18:33,066
+we start building our AE1 system by dropping down the controller and giving it power
+
+289
+00:18:33,566 --> 00:18:36,800
+then we add our disk drive with all the cells we made
+
+290
+00:18:37,300 --> 00:18:38,966
+and to interact with it
+
+291
+00:18:39,000 --> 00:18:40,933
+we add our crafting terminal
+
+292
+00:18:41,333 --> 00:18:44,000
+now we can drop in all the items we have
+
+293
+00:18:44,400 --> 00:18:46,366
+now, to do auto crafting
+
+294
+00:18:46,533 --> 00:18:49,366
+we need a couple of interfaces and a CPU
+
+295
+00:18:49,533 --> 00:18:53,400
+and here the CPU is a multiblock with a variable structure
+
+296
+00:18:53,566 --> 00:18:56,266
+we shall start by making the smallest one
+
+297
+00:18:56,366 --> 00:18:59,766
+bigger ones can carry more patterns or craft faster
+
+298
+00:19:00,000 --> 00:19:03,600
+but this is actually a molecular assembler with embedded interface
+
+299
+00:19:04,133 --> 00:19:06,766
+to make patterns we need an encoder
+
+300
+00:19:06,766 --> 00:19:10,066
+and, of course some patterns to encode
+
+301
+00:19:10,066 --> 00:19:15,600
+as usual, the first patterns we shall prepare are the conversion matrix and the interface
+
+302
+00:19:15,800 --> 00:19:17,766
+so that we can expand our system
+
+303
+00:19:18,266 --> 00:19:20,700
+since these are crafting table recipes
+
+304
+00:19:20,800 --> 00:19:23,766
+we drop them by the giant molecular assembler
+
+305
+00:19:24,133 --> 00:19:26,300
+and now time to test out if it works
+
+306
+00:19:26,766 --> 00:19:29,900
+looks like it works faster than newer versions too
+
+307
+00:19:30,200 --> 00:19:33,066
+now time to encode some assembler recipes
+
+308
+00:19:33,366 --> 00:19:34,733
+as we should have expected
+
+309
+00:19:35,100 --> 00:19:37,133
+we can't drag stuff from NEI
+
+310
+00:19:37,933 --> 00:19:40,566
+so, as in the annoying not too good days
+
+311
+00:19:40,933 --> 00:19:44,100
+we have to manually craft the first item each time
+
+312
+00:19:44,566 --> 00:19:47,100
+now that we have all the inputs and outputs
+
+313
+00:19:47,400 --> 00:19:49,066
+we can encode the pattern
+
+314
+00:19:49,333 --> 00:19:53,333
+we place it in an interface on assembler's setup and try to run it
+
+315
+00:19:53,500 --> 00:19:55,000
+and it almost worked
+
+316
+00:19:55,333 --> 00:19:57,466
+just need to click one more button
+
+317
+00:19:57,733 --> 00:19:59,733
+now that we have fixed the inputs
+
+318
+00:19:59,933 --> 00:20:02,733
+we have to wait 2 minutes to test the output
+
+319
+00:20:02,966 --> 00:20:06,900
+and I can't manage to make the assembler output to the interface
+
+320
+00:20:07,133 --> 00:20:09,733
+an import bus is kinda of expensive
+
+321
+00:20:09,933 --> 00:20:12,066
+so we go with a more brutal approach
+
+322
+00:20:12,600 --> 00:20:17,833
+but for some reason, I couldn't manage to make even that approach work
+
+323
+00:20:17,833 --> 00:20:24,466
+also, the way lack of crafting materials and crafting monitoring works isn't as good as in newer versions
+
+324
+00:20:24,966 --> 00:20:30,866
+so I think we should go back to using chests and math like (Chad artisans?) did in the good old times
+
+325
+00:20:31,766 --> 00:20:33,933
+going back to our fusion reactor
+
+326
+00:20:34,066 --> 00:20:36,466
+we shall start from making the controller
+
+327
+00:20:36,566 --> 00:20:37,766
+it has many steps
+
+328
+00:20:38,133 --> 00:20:41,400
+and we should start by gathering some more emeralds
+
+329
+00:20:42,000 --> 00:20:44,400
+we can get them from this NPC vendor
+
+330
+00:20:44,500 --> 00:20:48,000
+which we totally did not kidnap from the isekai village
+
+331
+00:20:48,666 --> 00:20:51,133
+and to gather some wool to trade with him
+
+332
+00:20:51,200 --> 00:20:57,500
+we spend a lot of time with some wheat in our hands to lure some sheep into walking miles to get in our herd
+
+333
+00:20:58,100 --> 00:21:00,000
+however, after all of that work
+
+334
+00:21:00,166 --> 00:21:04,166
+the vendor now refuses to buy the wool we had to work hard to
+
+335
+00:21:04,166 --> 00:21:07,933
+so it is time to send him back home using alien technology
+
+336
+00:21:08,400 --> 00:21:09,933
+going back to our project
+
+337
+00:21:10,400 --> 00:21:11,566
+instead of emeralds
+
+338
+00:21:11,800 --> 00:21:14,366
+we shall use the olivine we gathered in the end
+
+339
+00:21:14,900 --> 00:21:16,466
+and once we have all the parts
+
+340
+00:21:16,866 --> 00:21:19,100
+we can make the two computer cubes
+
+341
+00:21:19,533 --> 00:21:21,566
+these are not just crafting parts
+
+342
+00:21:21,666 --> 00:21:24,333
+but can be placed and used in various ways
+
+343
+00:21:25,100 --> 00:21:28,666
+for example to simulate an IC2 fusion reactor
+
+344
+00:21:28,666 --> 00:21:32,666
+which we are not making because it's not as cool as a pink donut
+
+345
+00:21:32,866 --> 00:21:34,066
+so we take it back
+
+346
+00:21:34,066 --> 00:21:41,300
+and remember that in this version like IC2, GregTech machines have a chance of breaking when being removed
+
+347
+00:21:41,933 --> 00:21:46,500
+and while on a mining trip while waiting for the parts to make a new one
+
+348
+00:21:46,566 --> 00:21:48,533
+we have found the rare iridium ore
+
+349
+00:21:49,066 --> 00:21:50,333
+which looks like a (leener?)
+
+350
+00:21:50,333 --> 00:21:52,933
+and I'm sure if a rock cutter can take it
+
+351
+00:21:53,333 --> 00:21:55,866
+so we shall take it with our bare hands
+
+352
+00:21:56,733 --> 00:22:00,800
+and here we have one of the many pieces of iridium that we are going to need
+
+353
+00:22:01,166 --> 00:22:03,500
+we can also use an IC2 miner
+
+354
+00:22:03,566 --> 00:22:06,466
+but these things pick up more trash than materials
+
+355
+00:22:07,266 --> 00:22:09,100
+going back to our little project
+
+356
+00:22:09,333 --> 00:22:11,100
+we now have the second computer
+
+357
+00:22:11,100 --> 00:22:15,133
+and we shall move on into working at the first of the 32 coils
+
+358
+00:22:15,600 --> 00:22:18,000
+this requires some nasty stuff
+
+359
+00:22:18,000 --> 00:22:21,300
+but I think the worst one is the iridium reflector
+
+360
+00:22:21,566 --> 00:22:27,366
+this will make each coil cost go up by one iridium plate and eight beryium cells
+
+361
+00:22:27,766 --> 00:22:30,633
+not to mention the 32 dense copper plates
+
+362
+00:22:30,633 --> 00:22:33,233
+totalling 4 stacks of copper per coil
+
+363
+00:22:33,766 --> 00:22:37,200
+to have some extra copper we can centrifuge lava
+
+364
+00:22:37,300 --> 00:22:40,600
+which can also be made out of nothing with a lava fabricator
+
+365
+00:22:41,000 --> 00:22:47,066
+for the moment, we are going to rebuild and repurpose our nether pump and start centrifugeing that
+
+366
+00:22:47,500 --> 00:22:49,400
+while we build up extra copper
+
+367
+00:22:49,533 --> 00:22:52,133
+we can go back and check how to make beryllium
+
+368
+00:22:52,533 --> 00:22:57,466
+apparently, it can only be made by electrolizing ender pearls or emeralds
+
+369
+00:22:58,066 --> 00:23:02,133
+I think the most automatable ways has to be using portal mechanics
+
+370
+00:23:02,700 --> 00:23:06,566
+on a second thought, that is not automatable and neither fun
+
+371
+00:23:07,066 --> 00:23:10,466
+so we move on to the next step, using a grinder
+
+372
+00:23:10,766 --> 00:23:12,100
+once we set it up
+
+373
+00:23:12,133 --> 00:23:16,166
+we have to trigger some endermen and bait them to teleport into its range
+
+374
+00:23:16,600 --> 00:23:20,200
+and then we just watch it doing its things from the high of the sky
+
+375
+00:23:20,700 --> 00:23:23,933
+that set up will also produce some monster essence
+
+376
+00:23:24,166 --> 00:23:26,666
+which we can teleport back to our base
+
+377
+00:23:26,900 --> 00:23:32,133
+where we may use that essence to power a mob farm to produce even more pearls
+
+378
+00:23:32,900 --> 00:23:34,466
+look at how they drop fast
+
+379
+00:23:34,900 --> 00:23:37,200
+once we have some to start working with
+
+380
+00:23:37,266 --> 00:23:40,766
+we can proceed into pulverizing and electrifying these
+
+381
+00:23:41,266 --> 00:23:43,400
+and thus we finally have the beryllium
+
+382
+00:23:43,866 --> 00:23:47,500
+we also get some nitrogen and potassium as by product
+
+383
+00:23:47,500 --> 00:23:52,766
+which can be used to make gunpowder for the explosives to compress the iridium plates
+
+384
+00:23:54,266 --> 00:23:56,533
+finally, we compress a lot of copper
+
+385
+00:23:56,666 --> 00:24:03,300
+so that we can fill our inventory with neutron reflector that we combine into the iridium neutron reflector
+
+386
+00:24:03,366 --> 00:24:06,366
+the only thing left to make is the superconductor
+
+387
+00:24:06,466 --> 00:24:09,633
+which will need one more iridium plate
+
+388
+00:24:09,633 --> 00:24:13,566
+so, while our assemblers are working on the energy flow circuits
+
+389
+00:24:13,733 --> 00:24:16,533
+we head back to the end to mine more sheldonite
+
+390
+00:24:16,900 --> 00:24:19,933
+while there, we can also gather some sodalite
+
+391
+00:24:20,100 --> 00:24:23,200
+which can be electrolized to obtain some sodium
+
+392
+00:24:23,800 --> 00:24:27,733
+and we use that for making sodium-potassium coolant cells
+
+393
+00:24:28,400 --> 00:24:29,700
+now that we have everything
+
+394
+00:24:29,966 --> 00:24:31,800
+we can finish our superconductor
+
+395
+00:24:31,800 --> 00:24:34,666
+and then complete the first fusion coil
+
+396
+00:24:34,666 --> 00:24:41,533
+finally, we can appreciate the crafting process of the fusion control computer without any video speed up
+
+397
+00:24:41,766 --> 00:24:44,933
+to get started we prepare a donut of dirt
+
+398
+00:24:44,933 --> 00:24:50,100
+and place the computer as the first final block that touches the ring in the inner side
+
+399
+00:24:50,566 --> 00:24:52,666
+now we have to craft a lot of stuff
+
+400
+00:24:52,800 --> 00:24:54,800
+and we shall start from the coils
+
+401
+00:24:55,800 --> 00:24:59,800
+to do that, the first step shall be to step on our charge pad
+
+402
+00:24:59,800 --> 00:25:02,900
+so that we keep our armor charged while being AFK
+
+403
+00:25:03,400 --> 00:25:05,466
+after being AFK for some time
+
+404
+00:25:05,666 --> 00:25:09,333
+our centrifugees managed to make some copper and electrum
+
+405
+00:25:09,366 --> 00:25:11,366
+which are fundamental for the coils
+
+406
+00:25:12,166 --> 00:25:16,100
+now, the copper will be required for all the neutron reflectors
+
+407
+00:25:16,466 --> 00:25:19,666
+and the electrum will greatly cut the cost of the circuits
+
+408
+00:25:20,066 --> 00:25:24,100
+but the main issue is going to be the highly advanced machine block
+
+409
+00:25:24,533 --> 00:25:27,866
+we need 2 stacks of titanium and 2 of chromium
+
+410
+00:25:28,266 --> 00:25:32,166
+titanium could be made by staying AFK to stock up UU-matter
+
+411
+00:25:32,366 --> 00:25:35,166
+but chromium can only be made by rubies
+
+412
+00:25:35,566 --> 00:25:38,600
+and that would make us have to dig 7 stacks of them
+
+413
+00:25:39,000 --> 00:25:40,666
+which is not going to happen
+
+414
+00:25:41,133 --> 00:25:44,166
+the IC2 mine doesn't seem to work properly
+
+415
+00:25:44,366 --> 00:25:47,466
+so we shall take its drill and upgrade it to a quarry
+
+416
+00:25:47,800 --> 00:25:53,700
+and we can get some extra diamonds by compressing all the junk that came out of the sludge of our farm
+
+417
+00:25:54,000 --> 00:25:55,933
+on diamond you can't grow flowers
+
+418
+00:25:56,466 --> 00:26:03,300
+but you can use sludg to make diamonds that can craft a quarry that will gather every useful resource you could possibly need
+
+419
+00:26:03,600 --> 00:26:07,866
+we place it with some tesseract to manage its input and outputs
+
+420
+00:26:08,166 --> 00:26:11,000
+then we can watch its robot build the structure
+
+421
+00:26:11,600 --> 00:26:13,166
+once the frame is complete
+
+422
+00:26:13,400 --> 00:26:17,466
+the head will start running with all the power of about one blast furnace
+
+423
+00:26:17,800 --> 00:26:19,900
+on the other side of the tesseract
+
+424
+00:26:20,066 --> 00:26:23,266
+we are managing the output in the worst possible way
+
+425
+00:26:23,400 --> 00:26:26,200
+since I can't find any better compatible pipe
+
+426
+00:26:26,666 --> 00:26:27,700
+after some time
+
+427
+00:26:27,900 --> 00:26:31,500
+we have managed to fill one super chest of cobblestone
+
+428
+00:26:31,500 --> 00:26:35,200
+and we can see about what we are going to get from our quarry
+
+429
+00:26:35,200 --> 00:26:38,533
+so, we can move our tesseract to a better sorting facility
+
+430
+00:26:39,266 --> 00:26:45,600
+we shall stock inside some barrels all of the garbage from decorative mods that can cause visual glitches and lag
+
+431
+00:26:45,733 --> 00:26:48,366
+while we keep the good stuff inside this chest
+
+432
+00:26:49,166 --> 00:26:52,800
+then, since we are going to have a lot of extra quartz
+
+433
+00:26:52,966 --> 00:26:58,300
+we can use that to make input buses and other AE1 stuff to automate the processing
+
+434
+00:26:58,766 --> 00:27:05,866
+and we shall invest two coils worth of machine hulls in a quantum chest to see how much cobblestone we dig
+
+435
+00:27:06,466 --> 00:27:09,400
+so, time to start using all of that goodies
+
+436
+00:27:09,800 --> 00:27:13,266
+we shall also improve our workshop to be more automatic
+
+437
+00:27:13,900 --> 00:27:16,100
+however, it looks like back in the day
+
+438
+00:27:16,366 --> 00:27:19,366
+artisans used to make good stuff by hand
+
+439
+00:27:19,700 --> 00:27:22,300
+and not with ugly automated setups
+
+440
+00:27:22,400 --> 00:27:28,200
+you can tell by the lack of vanilla hoppers and how hard it is to get stuff out of chests and machines
+
+441
+00:27:29,300 --> 00:27:31,100
+and after many tries
+
+442
+00:27:31,266 --> 00:27:34,966
+I gave up upon trying to get plates out of a bending machine
+
+443
+00:27:35,366 --> 00:27:39,300
+it have has something that looks like the newer auto output function
+
+444
+00:27:39,500 --> 00:27:41,933
+but I'm too clumsy to make it work
+
+445
+00:27:42,766 --> 00:27:45,066
+anyways, we make a second grinder
+
+446
+00:27:45,066 --> 00:27:47,266
+and we wall share it with the older one
+
+447
+00:27:47,466 --> 00:27:51,566
+and stock it up with some water using the worst pipes we could find
+
+448
+00:27:52,100 --> 00:27:54,333
+next we also make an electrolizer
+
+449
+00:27:54,800 --> 00:27:59,333
+and now we make AE1 craft some input and export buses
+
+450
+00:27:59,966 --> 00:28:02,600
+automating Thermal expansion is rather easy
+
+451
+00:28:02,766 --> 00:28:08,400
+but these old rusty GregTech machines require us to find the correct side for each input
+
+452
+00:28:08,933 --> 00:28:13,766
+and with that we have automated almost everything like a good (virgin?) engineer should do
+
+453
+00:28:14,100 --> 00:28:17,266
+the only problematic thing left to manage is Iridium
+
+454
+00:28:17,600 --> 00:28:22,000
+the only way I know of getting it in good amounts is with UU matter
+
+455
+00:28:22,000 --> 00:28:27,766
+however, we managed to make only 3 pieces since when we built the matter fabricator
+
+456
+00:28:27,766 --> 00:28:30,666
+so, maybe we could do a fusion reactor for the moment
+
+457
+00:28:31,266 --> 00:28:33,700
+or we could make one ultimate solar panel
+
+458
+00:28:33,700 --> 00:28:37,133
+which will give a longer use to the uranium we aren't using
+
+459
+00:28:37,533 --> 00:28:38,600
+or maybe not
+
+460
+00:28:38,866 --> 00:28:42,466
+since that requires half fusion reactor worth of iridium
+
+461
+00:28:42,900 --> 00:28:46,100
+now a vacuum reactor would make quite some power
+
+462
+00:28:46,766 --> 00:28:51,800
+however, the vacuum freezer would use all that power to cool down the coolant cells
+
+463
+00:28:52,333 --> 00:28:54,900
+so we have to move on to something more efficient
+
+464
+00:28:55,266 --> 00:28:58,166
+and there we have a quick and dirty plutonium reactor
+
+465
+00:28:58,166 --> 00:29:01,566
+which makes about as much power as two railcraft boilers
+
+466
+00:29:02,100 --> 00:29:05,966
+we won't use the quad cells because these take too much copper
+
+467
+00:29:06,200 --> 00:29:08,566
+and once our quary runs out
+
+468
+00:29:08,700 --> 00:29:12,500
+we make one more so that it won't be alone in his next location
+
+469
+00:29:13,066 --> 00:29:14,000
+double the quary
+
+470
+00:29:14,266 --> 00:29:15,066
+double the fun
+
+471
+00:29:15,400 --> 00:29:18,966
+and now time to AFK while we stock up resources
+
+472
+00:29:19,400 --> 00:29:20,600
+once we have enough
+
+473
+00:29:20,700 --> 00:29:24,500
+we can start improving our base with the following automation sequence
+
+474
+00:33:51,100 --> 00:33:52,900
+once we complete the donut
+
+475
+00:33:52,900 --> 00:33:55,333
+we add two input material injectors
+
+476
+00:33:55,666 --> 00:33:58,533
+one material injector and four energy injectors
+
+477
+00:33:59,466 --> 00:34:04,533
+which have the same location of the GTNH fusion reactors
+
+478
+00:34:04,533 --> 00:34:09,433
+next, we connect the power and we wait for the reactor internal buffer to charge up
+
+479
+00:34:09,433 --> 00:34:13,333
+with our current production, that will take about a quarter of hour
+
+480
+00:34:14,166 --> 00:34:15,000
+while we wait
+
+481
+00:34:15,266 --> 00:34:16,733
+let's prepare the fuel
+
+482
+00:34:16,766 --> 00:34:20,266
+we start by electrolyzing some hydrogen out of water
+
+483
+00:34:21,066 --> 00:34:24,100
+next we centrifuge some deuterium out of that
+
+484
+00:34:24,600 --> 00:34:27,733
+finally, we make some tritium out of deuterium
+
+485
+00:34:28,500 --> 00:34:31,700
+now, when we will fuse deuterium and tritium
+
+486
+00:34:31,800 --> 00:34:34,866
+we are going to get some helium plasma
+
+487
+00:34:34,866 --> 00:34:38,300
+which, to be used, requires a plasma generator
+
+488
+00:34:38,966 --> 00:34:42,266
+that machine contains some tungsten steel
+
+489
+00:34:42,266 --> 00:34:47,066
+which, as the tooltip says, has to be vacuum hardened
+
+490
+00:34:47,066 --> 00:34:49,533
+so, while our tungsten steel is cooking
+
+491
+00:34:49,666 --> 00:34:52,166
+we shall work on a vacuum freezer
+
+492
+00:34:52,966 --> 00:34:56,133
+and as expected, that is a multiblock machine
+
+493
+00:34:57,133 --> 00:34:59,566
+but it's always the same machine hulls
+
+494
+00:34:59,566 --> 00:35:01,800
+and we quickly complete it
+
+495
+00:35:01,800 --> 00:35:05,966
+meanwhile, our fusion reactor reached one quarter of the charge
+
+496
+00:35:06,666 --> 00:35:09,166
+but that might be the maximum of our reactor
+
+497
+00:35:09,333 --> 00:35:13,400
+since we only have four of the 16 maximum energy injectors
+
+498
+00:35:14,533 --> 00:35:18,600
+so let's try giving it some fuel and let's see if it works
+
+499
+00:35:19,266 --> 00:35:21,000
+the lights did not turn on
+
+500
+00:35:21,100 --> 00:35:23,366
+but we lost all of our stored energy
+
+501
+00:35:23,800 --> 00:35:27,400
+but it looks like we managed to get one cell of plasma
+
+502
+00:35:27,666 --> 00:35:29,466
+to keep a sustained fusion
+
+503
+00:35:29,500 --> 00:35:31,866
+we craft one more energy injector
+
+504
+00:35:32,166 --> 00:35:33,900
+and attach it to the coils
+
+505
+00:35:34,333 --> 00:35:36,533
+after buffering up enough power again
+
+506
+00:35:36,666 --> 00:35:38,000
+we drop in the fuel
+
+507
+00:35:38,533 --> 00:35:40,866
+and this time the lights turned on
+
+508
+00:35:40,866 --> 00:35:44,600
+and we are producing a constant flux of helium plasma
+
+509
+00:35:44,900 --> 00:35:46,366
+other than the hot plasma
+
+510
+00:35:46,400 --> 00:35:48,566
+we also have hot tungsten steel
+
+511
+00:35:48,733 --> 00:35:52,366
+and only one of the two shall go inside the vacuum freezer
+
+512
+00:35:52,800 --> 00:35:54,800
+and thus we have our plasma generator
+
+513
+00:35:54,800 --> 00:35:57,933
+which we shall place right next to the matter fabricator
+
+514
+00:35:58,600 --> 00:36:00,766
+finally, we feed it some plasma
+
+515
+00:36:00,766 --> 00:36:03,800
+so that we can finally have a proper UU matter production
+
+516
+00:36:04,200 --> 00:36:09,600
+our matter fabricator is indeed receiving so much power that it can't even work that fast 
+
+517
+00:36:09,600 --> 00:36:11,966
+and its energy buffer is filling up
+
+518
+00:36:12,000 --> 00:36:13,966
+and as you probably noticed
+
+519
+00:36:14,500 --> 00:36:17,733
+that's not just the power of one plasma generator
+
+520
+00:36:18,100 --> 00:36:21,133
+it's also the power of the new generators on the wall
+
+521
+00:36:21,800 --> 00:36:27,566
+the only thing left to do is to show off our cobblestone collection in our AE1 system
+
+522
+00:36:27,966 --> 00:36:29,566
+so we make a storage bus
+
+523
+00:36:29,566 --> 00:36:31,400
+and connect it to the quantum Chest
+
+524
+00:00:00,300 --> 00:00:01,333
+大家好
+
+525
+00:00:01,466 --> 00:00:06,066
+今天我们要再演奏一首经典老歌FTB Ultimate
+
+526
+00:00:06,800 --> 00:00:10,500
+这也是我第一次遇到GregTech的地方
+
+527
+00:00:11,533 --> 00:00:14,966
+无论如何，我们将很快开始一个新世界
+
+528
+00:00:15,800 --> 00:00:19,900
+我们在一个村庄附近产卵，这个村庄似乎没有任何赃物箱。
+
+529
+00:00:20,900 --> 00:00:22,333
+快速看了一眼后
+
+530
+00:00:22,366 --> 00:00:25,300
+我们开始做通常的香草
+
+531
+00:00:25,866 --> 00:00:28,966
+意思是我们冲床然后收集一些材料
+
+532
+00:00:29,466 --> 00:00:31,666
+现在我们有了床和食物
+
+533
+00:00:31,933 --> 00:00:33,800
+我们可以去采集一些矿物质
+
+534
+00:00:51,300 --> 00:00:54,066
+这应该足够让我们的基地开工了
+
+535
+00:00:54,466 --> 00:00:58,066
+我们要做的第一件事是买些建筑材料。
+
+536
+00:00:58,600 --> 00:01:02,266
+我们将用可靠的旧石砖建造我们的基地
+
+537
+00:01:02,600 --> 00:01:03,966
+经过一些工作
+
+538
+00:01:04,166 --> 00:01:07,666
+这里我们有一个新的避难所，天空上有一扇漂亮的窗户。
+
+539
+00:01:08,133 --> 00:01:12,133
+现在我们可以开始用旧粉碎机处理矿物了
+
+540
+00:01:12,400 --> 00:01:15,400
+这是在Forge Energy推出之前的
+
+541
+00:01:15,666 --> 00:01:18,166
+回到我们使用Minecraft Joules的时候
+
+542
+00:01:18,533 --> 00:01:21,266
+现在，在继续我们的工厂之前
+
+543
+00:01:21,366 --> 00:01:23,200
+我们去拿些合适的工具
+
+544
+00:01:23,533 --> 00:01:24,900
+比如动力装甲
+
+545
+00:01:25,000 --> 00:01:27,666
+这件盔甲在那个版本中看起来一点也不酷
+
+546
+00:01:27,766 --> 00:01:29,566
+当我们成功的时候
+
+547
+00:01:29,700 --> 00:01:32,066
+它只提供了不同的化妆品
+
+548
+00:01:32,166 --> 00:01:33,933
+让它有任何用处
+
+549
+00:01:34,066 --> 00:01:36,166
+我们需要一个动力装甲修补台
+
+550
+00:01:36,733 --> 00:01:40,266
+这需要一块祖母绿，我们在开采时没有找到。
+
+551
+00:01:40,400 --> 00:01:43,733
+但幸运的是，村民交易在那个版本中存在
+
+552
+00:01:44,133 --> 00:01:45,800
+那家伙有一个不错的报价。
+
+553
+00:01:46,100 --> 00:01:48,500
+我们接受会馆的任务
+
+554
+00:01:48,500 --> 00:01:50,333
+并迅速进行（完成/完成？）它
+
+555
+00:01:50,566 --> 00:01:53,700
+这样我们就有了修补匠的桌子来调整我们的盔甲
+
+556
+00:01:54,200 --> 00:01:56,900
+在里面我们可以看到我们的装甲模块
+
+557
+00:01:56,900 --> 00:01:59,300
+我们可以添加、删除或编辑它们
+
+558
+00:01:59,400 --> 00:02:04,300
+我们想要的第一件事是添加一些电镀，以便它提供一些保护
+
+559
+00:02:04,600 --> 00:02:07,800
+我们快速制作升级所需的材料
+
+560
+00:02:07,800 --> 00:02:10,500
+并将其安装到我们的盔甲中
+
+561
+00:02:10,900 --> 00:02:14,466
+接下来，我们可以选择我们想要的镀层有多厚
+
+562
+00:02:14,500 --> 00:02:17,000
+越厚，我们得到的保护就越多
+
+563
+00:02:17,300 --> 00:02:20,133
+但是我们也有更多的重量来携带
+
+564
+00:02:20,700 --> 00:02:22,500
+既然我们想得到很好的保护
+
+565
+00:02:22,733 --> 00:02:26,566
+我们在盔甲的每一部分都安装了最大防御
+
+566
+00:02:26,733 --> 00:02:31,300
+因此，我们有了一个像钻石一样坚固的盔甲，但它是由铁制成的
+
+567
+00:02:31,500 --> 00:02:33,066
+问题是它很重。
+
+568
+00:02:33,400 --> 00:02:34,733
+解决这个问题
+
+569
+00:02:34,866 --> 00:02:40,466
+我们可以在紧身裤上安装一些增强物来帮助我们减轻所有的重量
+
+570
+00:02:40,766 --> 00:02:46,833
+再一次，我们可以调整这些增强物的力量和方式来帮助我们行走。
+
+571
+00:02:46,833 --> 00:02:48,733
+然而，这些需要电力
+
+572
+00:02:49,000 --> 00:02:51,600
+所以我们还必须安装电池
+
+573
+00:02:51,966 --> 00:02:54,500
+这将进一步增加我们的体重
+
+574
+00:02:54,800 --> 00:02:59,666
+当然，我们需要一些发电机来给我们的电池充电
+
+575
+00:03:00,166 --> 00:03:05,100
+然而，我们可以嵌入盔甲的所有发电机都需要控制电路
+
+576
+00:03:05,366 --> 00:03:06,800
+需要辉石的。
+
+577
+00:03:07,300 --> 00:03:08,700
+在进入地狱之前
+
+578
+00:03:08,733 --> 00:03:10,366
+我们制作一个电动工具
+
+579
+00:03:10,566 --> 00:03:12,700
+这将使任何其他工具过时
+
+580
+00:03:13,000 --> 00:03:14,666
+释放大量热巴空间
+
+581
+00:03:15,200 --> 00:03:18,933
+这个机械臂可以做你需要的一切
+
+582
+00:03:19,166 --> 00:03:21,400
+比如基本的挖矿工具
+
+583
+00:03:22,000 --> 00:03:23,266
+去拿黑曜石
+
+584
+00:03:23,300 --> 00:03:25,533
+我们可以用一些钻石升级它
+
+585
+00:03:25,733 --> 00:03:30,466
+我们可能应该为该任务超频选择功能
+
+586
+00:03:30,466 --> 00:03:34,800
+因此，我们现在可以赤手空拳打黑曜石（没有/用我们的？）
+
+587
+00:03:35,300 --> 00:03:39,266
+在进入地狱之前，我们应该得到一些更酷的功能
+
+588
+00:03:39,266 --> 00:03:40,333
+比如轨道炮
+
+589
+00:03:40,666 --> 00:03:42,900
+或者我们可以稍后再谈
+
+590
+00:03:43,000 --> 00:03:46,266
+目前让我们做一个近战助手就足够了
+
+591
+00:03:46,666 --> 00:03:50,166
+然后我们用IC2发电机给装甲充满电
+
+592
+00:03:50,800 --> 00:03:52,966
+一旦我们充满电和装备
+
+593
+00:03:53,300 --> 00:03:55,333
+我们进行另一次探险
+
+594
+00:03:55,700 --> 00:03:59,800
+我们唯一的目标就是收集一些萤石粉
+
+595
+00:04:00,733 --> 00:04:03,866
+我们迅速完成任务然后跑回来
+
+596
+00:04:04,133 --> 00:04:05,533
+带着匆忙的战利品
+
+597
+00:04:05,600 --> 00:04:08,500
+我们终于可以做几个高压电容器了
+
+598
+00:04:08,500 --> 00:04:12,133
+因此，我们可以在我们的机械手中安装轨道炮
+
+599
+00:04:12,533 --> 00:04:13,933
+当然还有
+
+600
+00:04:14,100 --> 00:04:16,100
+我们把它调到最大功率
+
+601
+00:04:16,700 --> 00:04:19,100
+轨道炮有两个主要目的
+
+602
+00:04:19,300 --> 00:04:21,933
+一种是用作远程武器
+
+603
+00:04:22,300 --> 00:04:24,566
+但最重要的一个
+
+604
+00:04:24,800 --> 00:04:28,666
+我们可以利用它的回扣让它飞来飞去
+
+605
+00:04:29,000 --> 00:04:32,000
+因此我们很快就找到了一片沙漠
+
+606
+00:04:32,000 --> 00:04:36,800
+在那里我们可以为控制电路收集另一种缺失的成分，仙人掌
+
+607
+00:04:37,266 --> 00:04:40,500
+有了它，我们可以在头盔上安装太阳能发电机。
+
+608
+00:04:41,100 --> 00:04:44,000
+我们还可以得到夜视镜
+
+609
+00:04:44,866 --> 00:04:48,166
+然后是自动喂食器这样我们就不用管理食物了
+
+610
+00:04:48,966 --> 00:04:51,733
+还有我们潜水时用的电解槽
+
+611
+00:04:52,333 --> 00:04:56,000
+但真正酷的是得到一个动力发电机
+
+612
+00:04:56,333 --> 00:04:58,500
+这会在我们走路时产生能量
+
+613
+00:04:58,566 --> 00:05:00,600
+但这会让走路更难
+
+614
+00:05:00,600 --> 00:05:04,700
+然而，它产生的比外骨骼助手使用的多
+
+615
+00:05:05,866 --> 00:05:07,333
+但这是一个技术包
+
+616
+00:05:07,466 --> 00:05:09,300
+别再胡闹了
+
+617
+00:05:09,700 --> 00:05:13,466
+我们将制造更多的旧热膨胀机
+
+618
+00:05:14,666 --> 00:05:17,666
+我们将利用这些来扩大我们的基地
+
+619
+00:05:17,900 --> 00:05:22,666
+因为真正的机器，GregTech的，需要更多的空间
+
+620
+00:05:23,300 --> 00:05:26,133
+在我们等待建筑材料的时候
+
+621
+00:05:26,366 --> 00:05:28,800
+我们可以做更多的资源收集
+
+622
+00:05:29,200 --> 00:05:33,500
+但看起来基本的处理工作还需要一段时间。
+
+623
+00:05:34,300 --> 00:05:40,100
+所以我们将利用这段时间去收集更多的安德珍珠，最终进行更多的装甲升级
+
+624
+00:05:40,566 --> 00:05:42,533
+在我们走向终点的路上
+
+625
+00:05:42,733 --> 00:05:44,133
+我们找到了一个地牢
+
+626
+00:05:44,533 --> 00:05:46,266
+在探索地牢时
+
+627
+00:05:46,466 --> 00:05:48,300
+我们又找到一个有趣的玩具
+
+628
+00:05:48,333 --> 00:05:49,333
+传送炮
+
+629
+00:05:49,966 --> 00:05:52,400
+这是伟大比赛的又一个记忆
+
+630
+00:05:52,566 --> 00:05:54,266
+对于那些不知道的人来说
+
+631
+00:05:54,333 --> 00:05:59,400
+这个项目允许我们在墙上创建入口，这样我们就可以轻松地四处走动
+
+632
+00:06:00,166 --> 00:06:03,766
+它也可以用来移动任何暴徒或物品
+
+633
+00:06:04,100 --> 00:06:10,500
+是的，它最好的用法是在多人服务器上玩时巨魔人
+
+634
+00:06:10,500 --> 00:06:13,066
+不管怎样，回到我们的冒险
+
+635
+00:06:13,266 --> 00:06:16,266
+一旦我们找到并完成了最终入口
+
+636
+00:06:16,366 --> 00:06:18,566
+我们开始收集一些安德珍珠
+
+637
+00:06:19,166 --> 00:06:22,066
+但是当我们受够了，想回去的时候
+
+638
+00:06:22,133 --> 00:06:27,166
+我们发现传送枪不能带我们离开那个肮脏的地方
+
+639
+00:06:27,700 --> 00:06:31,300
+因此，是时候与龙进行通常的长期战斗了
+
+640
+00:06:32,000 --> 00:06:34,700
+或者至少我们担心这将是一场漫长的战斗
+
+641
+00:06:35,100 --> 00:06:39,366
+轨道炮被压倒了，在这个版本中，龙是香草的
+
+642
+00:06:39,866 --> 00:06:42,100
+一旦我们想办法回去
+
+643
+00:06:42,200 --> 00:06:44,933
+我们可以回去安心处理我们的事
+
+644
+00:06:45,766 --> 00:06:51,066
+因此，我们带回了一些钠盐、一些天青石和一些钨酸盐
+
+645
+00:06:51,933 --> 00:06:56,133
+用安德珍珠，我们将制造一些力场发射器
+
+646
+00:06:56,133 --> 00:07:02,966
+它可以用于失重装甲，提供比钻石装甲更多的保护，但要消耗能量
+
+647
+00:07:02,966 --> 00:07:06,000
+这样我们就能卸下盔甲上的重担
+
+648
+00:07:06,933 --> 00:07:12,600
+另一件很酷的事是我们可以用这些东西在手上加一门等离子炮。
+
+649
+00:07:12,600 --> 00:07:16,700
+无论如何，为了解决我们的门户问题并使我们的基础正常工作
+
+650
+00:07:16,700 --> 00:07:18,300
+我们做了一个块加载器
+
+651
+00:07:18,700 --> 00:07:21,766
+现在我们可以从任何地方回到我们的基地
+
+652
+00:07:22,933 --> 00:07:26,366
+现在我们有了一些材料和一个新房间
+
+653
+00:07:26,533 --> 00:07:32,566
+我们可以从使用Redstone Force的机器开始，开始研究GregTech的机器。
+
+654
+00:07:33,000 --> 00:07:36,900
+这个版本的GregTech实际上可以用作IC2插件
+
+655
+00:07:37,000 --> 00:07:40,966
+所以我们必须从一个蝙蝠箱和一个来自所述mod的发电机开始
+
+656
+00:07:41,200 --> 00:07:44,800
+我们制作了一条LV电缆并放置了一个压缩机管
+
+657
+00:07:45,133 --> 00:07:48,166
+现在是时候做一些GregTech的东西了
+
+658
+00:07:48,266 --> 00:07:51,133
+像往常一样，我们从折弯机开始
+
+659
+00:07:51,966 --> 00:07:55,266
+如果你想知道为什么我没有从钢丝上开始
+
+660
+00:07:55,333 --> 00:07:57,766
+因为它需要盘子。
+
+661
+00:07:57,766 --> 00:08:02,400
+此外，显然，它可以用任何mod的机器外壳制造
+
+662
+00:08:03,000 --> 00:08:05,333
+在快速制作和放置之后
+
+663
+00:08:05,366 --> 00:08:09,933
+我们可以开始使用它，并注意到它从一个锭中制作了3根电线
+
+664
+00:08:10,400 --> 00:08:12,000
+然后是汇编器
+
+665
+00:08:12,466 --> 00:08:15,600
+目前我们不会使用它
+
+666
+00:08:15,800 --> 00:08:22,066
+由于最小的石头交易使手工表电路配方比组装器便宜
+
+667
+00:08:22,533 --> 00:08:25,833
+接下来，我们为更便宜的橡胶制造离心机
+
+668
+00:08:25,833 --> 00:08:29,666
+开始处理我们的矿石，电解槽
+
+669
+00:08:30,166 --> 00:08:32,366
+然而，这需要MV电源
+
+670
+00:08:32,400 --> 00:08:34,166
+但既然我们可以跳过这层
+
+671
+00:08:34,166 --> 00:08:37,166
+我们冲一个高压电池，MFSU
+
+672
+00:08:37,466 --> 00:08:42,866
+但现在我们微不足道的煤发电机几乎无法让我们的电池电量上升
+
+673
+00:08:43,100 --> 00:08:46,100
+所以我们做了几个热发生器
+
+674
+00:08:46,100 --> 00:08:48,933
+还有一个从地狱抽出熔岩的装置
+
+675
+00:08:48,933 --> 00:08:52,833
+我们用一个好的旧宇宙魔方把它带到我们的新发电机上
+
+676
+00:08:52,833 --> 00:08:55,133
+它甚至不需要电源就能工作
+
+677
+00:08:55,533 --> 00:08:59,866
+因此，我们应该将发电量提高五倍。
+
+678
+00:09:00,733 --> 00:09:07,533
+因此，我们应该有足够的电力来建造一座能源桥，将IC2电力转换为BuildCraft电力
+
+679
+00:09:07,966 --> 00:09:12,133
+这样我们就终于可以为我们的射频机器提供合适的电源了
+
+680
+00:09:12,700 --> 00:09:15,400
+这对于少数任务仍然有用
+
+681
+00:09:16,166 --> 00:09:19,100
+现在我们可以回到我们的第一台MV机器
+
+682
+00:09:19,266 --> 00:09:20,533
+电解槽
+
+683
+00:09:20,533 --> 00:09:24,666
+我们将用它从钠盐中得到铝之类的东西
+
+684
+00:09:28,133 --> 00:09:32,700
+但我们需要电解的最重要的东西是硼砂
+
+685
+00:09:32,866 --> 00:09:36,400
+这将给我们带来的不是金红石而是直接的钛粉
+
+686
+00:09:37,166 --> 00:09:41,566
+当然，要烹饪这些东西，我们需要一个EBF。
+
+687
+00:09:42,100 --> 00:09:43,733
+我们迅速制作
+
+688
+00:09:43,933 --> 00:09:48,166
+那台机器是一台动力（猪？）多块甚至在这些天里
+
+689
+00:09:48,966 --> 00:09:52,300
+我们可以在UI内部看到结构指南
+
+690
+00:09:52,933 --> 00:09:55,733
+经过精心制作并快速构建其结构
+
+691
+00:09:55,900 --> 00:10:00,166
+我们意识到在这个版本中，没有消音器舱口
+
+692
+00:10:00,733 --> 00:10:03,100
+所以关闭顶部后
+
+693
+00:10:03,166 --> 00:10:05,133
+我们看到灯变绿了
+
+694
+00:10:05,133 --> 00:10:09,000
+我们有1020开尔文的热容量
+
+695
+00:10:09,400 --> 00:10:12,000
+这不足以冶炼钛
+
+696
+00:10:12,333 --> 00:10:13,966
+出于某种原因
+
+697
+00:10:14,300 --> 00:10:17,266
+铝的工作温度更高
+
+698
+00:10:17,766 --> 00:10:19,333
+如果我们看一下UI
+
+699
+00:10:19,400 --> 00:10:21,766
+我们看到结构中有两个红点
+
+700
+00:10:21,900 --> 00:10:27,100
+那是因为我们可以通过在里面添加一些熔岩来提高炉温
+
+701
+00:10:27,733 --> 00:10:29,333
+所以我们拿两桶
+
+702
+00:10:29,533 --> 00:10:31,833
+从我们的发电机中取出一些熔岩
+
+703
+00:10:31,833 --> 00:10:35,066
+然后把它扔进高炉里
+
+704
+00:10:35,466 --> 00:10:39,733
+因此我们达到了1520开尔文。
+
+705
+00:10:39,900 --> 00:10:42,500
+足够做钛但不适合做铝
+
+706
+00:10:42,866 --> 00:10:46,900
+让我们用钛点燃熔岩炉
+
+707
+00:10:47,333 --> 00:10:48,966
+经过长时间的烹饪
+
+708
+00:10:49,066 --> 00:10:50,100
+我们有两个元宝
+
+709
+00:10:50,100 --> 00:10:51,666
+我们把它变成盘子
+
+710
+00:10:51,666 --> 00:10:53,400
+并用来制作岩石切割机
+
+711
+00:10:53,933 --> 00:10:58,800
+这是一个电动工具，一旦充满电，它将获得丝绸触摸3
+
+712
+00:10:59,066 --> 00:11:03,733
+我们可以用它轻轻地从岩石中取出矿物质而不会损坏它们
+
+713
+00:11:03,900 --> 00:11:09,500
+这样我们就可以把这些扔进工业研磨机里，从矿石中取出更多的灰尘。
+
+714
+00:11:10,133 --> 00:11:11,800
+回到我们的EBF
+
+715
+00:11:11,933 --> 00:11:14,666
+我们还想设法烹饪铝
+
+716
+00:11:14,800 --> 00:11:16,500
+来增加我们的热容
+
+717
+00:11:16,766 --> 00:11:18,666
+我们先做些钢铁
+
+718
+00:11:19,100 --> 00:11:21,966
+我们用它来做加固外壳
+
+719
+00:11:22,866 --> 00:11:26,000
+每一个都会使温度升高20开尔文
+
+720
+00:11:26,100 --> 00:11:28,100
+我们甚至可以混合积木
+
+721
+00:11:28,700 --> 00:11:30,666
+我们以熟悉的方式放置它们
+
+722
+00:11:30,900 --> 00:11:33,600
+直到我们达到2000开尔文
+
+723
+00:11:33,933 --> 00:11:36,400
+然而，为了冶炼晚期游戏材料
+
+724
+00:11:36,666 --> 00:11:38,566
+我们需要达到三千
+
+725
+00:11:39,300 --> 00:11:44,000
+我们可以用昂贵的先进机器外壳重建整个结构
+
+726
+00:11:44,366 --> 00:11:47,066
+但相反，我们要做一堆线圈
+
+727
+00:11:47,666 --> 00:11:51,266
+要做这些，我们从煮一些铝开始
+
+728
+00:11:51,400 --> 00:11:53,666
+既然我们现在能够这样做
+
+729
+00:11:53,866 --> 00:11:55,266
+当铝厨师
+
+730
+00:11:55,333 --> 00:11:57,733
+我们将一些红宝石磨成尘土
+
+731
+00:11:58,266 --> 00:12:01,200
+然后我们电解出一些铬
+
+732
+00:12:01,466 --> 00:12:04,533
+铝一做好我们就煮
+
+733
+00:12:05,200 --> 00:12:06,533
+一旦一切准备就绪
+
+734
+00:12:06,700 --> 00:12:08,466
+我们冲向轧机
+
+735
+00:12:08,466 --> 00:12:10,333
+我们组装新线圈的地方
+
+736
+00:12:10,733 --> 00:12:11,733
+应用它们
+
+737
+00:12:11,733 --> 00:12:13,566
+我们只需点击控制器
+
+738
+00:12:13,666 --> 00:12:17,000
+最后我们达到钨所需的温度
+
+739
+00:12:17,700 --> 00:12:19,733
+但正如你可能在想的那样
+
+740
+00:12:20,100 --> 00:12:24,433
+你不能说钨EBF而不耗尽电源
+
+741
+00:12:24,433 --> 00:12:27,466
+所以，是时候提高我们的发电量了
+
+742
+00:12:28,266 --> 00:12:31,533
+我们要做的第一个升级是燃气轮机
+
+743
+00:12:31,700 --> 00:12:37,533
+这样我们就可以回收甲烷和氢气作为各种过程的副产品
+
+744
+00:12:37,533 --> 00:12:40,100
+接下来，有一些永恒的一代
+
+745
+00:12:40,266 --> 00:12:43,300
+我们用因式分解做一个自动化农场
+
+746
+00:12:44,000 --> 00:12:47,000
+我们打算用锯木厂充分利用木材
+
+747
+00:12:47,000 --> 00:12:51,533
+我们还将木屑加工成木炭，以产生额外的燃料。
+
+748
+00:12:52,100 --> 00:12:56,733
+然后我们把所有的燃料烧成传统的铁路锅炉制造蒸汽
+
+749
+00:12:57,666 --> 00:13:00,566
+一旦加热开始产生蒸汽
+
+750
+00:13:00,733 --> 00:13:03,733
+我们把它输入能源桥的蒸汽消费者
+
+751
+00:13:03,733 --> 00:13:08,266
+然后给农场供电，把剩下的送到我们的基地
+
+752
+00:13:09,366 --> 00:13:12,366
+这个系统也会产生一些泥浆
+
+753
+00:13:12,533 --> 00:13:17,366
+我们用管道将其输送到污泥锅炉中，然后将其送回使用一些额外的好东西
+
+754
+00:13:18,900 --> 00:13:20,533
+然而，一段时间后
+
+755
+00:13:20,666 --> 00:13:24,700
+我们意识到我们的农场生产超过了锅炉消耗
+
+756
+00:13:24,900 --> 00:13:27,366
+所以我们增加了锅炉的尺寸
+
+757
+00:13:27,866 --> 00:13:30,533
+一旦这个大男孩开始产生能量
+
+758
+00:13:30,800 --> 00:13:35,700
+我们意识到即使使用高炉我们也有剩余的产量
+
+759
+00:13:35,866 --> 00:13:38,866
+所以我们开始为额外的能量寻找一个好的用途
+
+760
+00:13:39,566 --> 00:13:41,466
+我们将制造一个大规模制造商
+
+761
+00:13:41,600 --> 00:13:44,333
+这将需要相当多的制作步骤
+
+762
+00:13:44,800 --> 00:13:49,366
+唯一阻止我们成功的是拉普坦能量球
+
+763
+00:13:49,366 --> 00:13:51,300
+或者更好，铱板
+
+764
+00:13:51,733 --> 00:13:56,266
+我们需要一个内爆压缩机和一些铱
+
+765
+00:13:56,333 --> 00:13:58,333
+我没找到铱矿
+
+766
+00:13:58,333 --> 00:14:01,500
+我不记得它是否在这个版本中生成。
+
+767
+00:14:01,700 --> 00:14:03,666
+为了得到它，我们还有另外两个选择
+
+768
+00:14:04,100 --> 00:14:05,933
+两者都包括铂金
+
+769
+00:14:06,200 --> 00:14:13,000
+如果我们在工业研磨机中与汞一起工作，我们可以从每种谢尔顿石矿石中获得一半铱锭
+
+770
+00:14:13,466 --> 00:14:16,466
+谢尔顿石是一种非常（？）矿石最终被发现
+
+771
+00:14:17,133 --> 00:14:19,133
+如果我们想收集适当的数量
+
+772
+00:14:19,466 --> 00:14:22,166
+我们应该去那些漂浮的小岛
+
+773
+00:14:22,933 --> 00:14:26,533
+然而，我们目前的飞行方式还不够好
+
+774
+00:14:27,500 --> 00:14:30,133
+相反，我们将收集一些安德珍珠
+
+775
+00:14:30,133 --> 00:14:35,533
+这样我们就可以制造一些推进器，可以连接到我们的装甲上，以便进行适当的喷气背包飞行。
+
+776
+00:14:36,366 --> 00:14:39,400
+一旦我们正确连接和配置了喷气背包
+
+777
+00:14:39,400 --> 00:14:41,166
+我们可以冲回终点
+
+778
+00:14:41,166 --> 00:14:44,600
+最后飞向小岛
+
+779
+00:14:44,866 --> 00:14:47,200
+那里有我们需要的材料
+
+780
+00:14:48,066 --> 00:14:50,866
+现在我们有了所需的材料
+
+781
+00:14:51,100 --> 00:14:53,300
+是时候制作序列了
+
+782
+00:16:59,366 --> 00:17:01,466
+既然我们已经成功制作了它
+
+783
+00:17:01,466 --> 00:17:03,966
+我们可以把它放在机房中间
+
+784
+00:17:04,400 --> 00:17:07,566
+既然我们想储备一些能量
+
+785
+00:17:07,600 --> 00:17:10,900
+我们用欧盟的分线器来切换开关
+
+786
+00:17:11,366 --> 00:17:12,200
+除了能量
+
+787
+00:17:12,666 --> 00:17:13,800
+废料是强制性的
+
+788
+00:17:13,800 --> 00:17:16,466
+但是我们可以使用任何材料灰尘
+
+789
+00:17:16,700 --> 00:17:18,900
+现在我们用钍
+
+790
+00:17:19,400 --> 00:17:23,533
+那台机器消耗大量能量却什么也不生产
+
+791
+00:17:23,533 --> 00:17:26,966
+现在我们可以找到更好的发电方式
+
+792
+00:17:27,166 --> 00:17:30,300
+我们从使用农场多余的木材开始
+
+793
+00:17:30,400 --> 00:17:31,866
+并带有两个锅炉
+
+794
+00:17:31,900 --> 00:17:36,300
+我们仍然有多余的燃料生产，几乎可以制造一个完整的高压放大器
+
+795
+00:17:36,533 --> 00:17:38,100
+但那还是什么都不是
+
+796
+00:17:38,100 --> 00:17:41,200
+因为那台机器可以承受很多安培的静脉注射能量
+
+797
+00:17:41,533 --> 00:17:43,366
+如果我们想正确喂养它
+
+798
+00:17:43,400 --> 00:17:45,700
+我们需要一个核聚变反应堆
+
+799
+00:17:46,266 --> 00:17:51,566
+然而，这是一台复杂的机器，需要许多步骤，需要大量材料
+
+800
+00:17:52,266 --> 00:17:55,333
+我们没有AE2来帮助我们
+
+801
+00:17:55,466 --> 00:17:58,266
+但我们有它的前体AE1
+
+802
+00:17:58,933 --> 00:18:02,966
+我们首先制作一些电缆和一些物流处理器
+
+803
+00:18:03,400 --> 00:18:05,566
+我是说基本处理器
+
+804
+00:18:05,933 --> 00:18:08,666
+然后我们用一些细胞做一个ME驱动器
+
+805
+00:18:09,300 --> 00:18:12,300
+而不是形成和湮灭核心
+
+806
+00:18:12,533 --> 00:18:14,766
+我们有一个单一的转换矩阵
+
+807
+00:18:15,200 --> 00:18:18,133
+这是我们第一个手工终端
+
+808
+00:18:18,133 --> 00:18:21,300
+最后，我们制作了一些工程处理器
+
+809
+00:18:21,533 --> 00:18:24,733
+这里称为高级处理器来制作控制器
+
+810
+00:18:24,733 --> 00:18:27,333
+它实际上是一种能量受体
+
+811
+00:18:27,666 --> 00:18:33,066
+我们通过放下控制器并给它供电来开始构建我们的AE1系统
+
+812
+00:18:33,566 --> 00:18:36,800
+然后我们用我们制作的所有单元添加磁盘驱动器
+
+813
+00:18:37,300 --> 00:18:38,966
+并与之互动
+
+814
+00:18:39,000 --> 00:18:40,933
+我们添加我们的手工终端
+
+815
+00:18:41,333 --> 00:18:44,000
+现在我们可以把我们所有的东西都放进去了。
+
+816
+00:18:44,400 --> 00:18:46,366
+现在，做汽车工艺
+
+817
+00:18:46,533 --> 00:18:49,366
+我们需要几个接口和一个CPU
+
+818
+00:18:49,533 --> 00:18:53,400
+这里的CPU是一个具有可变结构的多块
+
+819
+00:18:53,566 --> 00:18:56,266
+我们将从做最小的开始
+
+820
+00:18:56,366 --> 00:18:59,766
+更大的可以携带更多图案或更快地制作
+
+821
+00:19:00,000 --> 00:19:03,600
+但这实际上是一个带有嵌入式接口的分子组装器
+
+822
+00:19:04,133 --> 00:19:06,766
+要制作图案，我们需要一个编码器
+
+823
+00:19:06,766 --> 00:19:10,066
+当然，还有一些模式需要编码
+
+824
+00:19:10,066 --> 00:19:15,600
+像往常一样，我们首先准备的模式是转换矩阵和接口
+
+825
+00:19:15,800 --> 00:19:17,766
+这样我们就可以扩展我们的系统
+
+826
+00:19:18,266 --> 00:19:20,700
+因为这些是制作餐桌食谱
+
+827
+00:19:20,800 --> 00:19:23,766
+我们把它们放在巨型分子组装器旁边
+
+828
+00:19:24,133 --> 00:19:26,300
+现在是时候测试它是否有效了
+
+829
+00:19:26,766 --> 00:19:29,900
+看起来它也比新版本更快。
+
+830
+00:19:30,200 --> 00:19:33,066
+现在是时候对一些汇编程序配方进行编码了
+
+831
+00:19:33,366 --> 00:19:34,733
+正如我们所料
+
+832
+00:19:35,100 --> 00:19:37,133
+我们不能从NEI拖东西
+
+833
+00:19:37,933 --> 00:19:40,566
+所以，就像在烦人的不太好的日子里一样
+
+834
+00:19:40,933 --> 00:19:44,100
+我们每次都必须手动制作第一件商品
+
+835
+00:19:44,566 --> 00:19:47,100
+现在我们有了所有的输入和输出
+
+836
+00:19:47,400 --> 00:19:49,066
+我们可以对图案进行编码
+
+837
+00:19:49,333 --> 00:19:53,333
+我们将它放在汇编程序设置的接口中并尝试运行它
+
+838
+00:19:53,500 --> 00:19:55,000
+它几乎成功了
+
+839
+00:19:55,333 --> 00:19:57,466
+只需要再点击一个按钮
+
+840
+00:19:57,733 --> 00:19:59,733
+现在我们已经修复了输入
+
+841
+00:19:59,933 --> 00:20:02,733
+我们必须等待2分钟来测试输出
+
+842
+00:20:02,966 --> 00:20:06,900
+我无法将汇编器输出到接口
+
+843
+00:20:07,133 --> 00:20:09,733
+进口巴士有点贵
+
+844
+00:20:09,933 --> 00:20:12,066
+所以我们用更残忍的方法
+
+845
+00:20:12,600 --> 00:20:17,833
+但由于某种原因，我甚至无法使这种方法奏效
+
+846
+00:20:17,833 --> 00:20:24,466
+此外，缺乏制作材料和制作监控工作的方式不如新版本好
+
+847
+00:20:24,966 --> 00:20:30,866
+所以我认为我们应该回到像乍得工匠那样使用箱子和数学？）在美好的旧时光里做的
+
+848
+00:20:31,766 --> 00:20:33,933
+回到我们的聚变反应堆
+
+849
+00:20:34,066 --> 00:20:36,466
+我们将从制作控制器开始
+
+850
+00:20:36,566 --> 00:20:37,766
+它有很多步骤
+
+851
+00:20:38,133 --> 00:20:41,400
+我们应该从收集更多的祖母绿开始
+
+852
+00:20:42,000 --> 00:20:44,400
+我们可以从这个NPC供应商那里得到它们
+
+853
+00:20:44,500 --> 00:20:48,000
+我们完全没有从isekai村绑架
+
+854
+00:20:48,666 --> 00:20:51,133
+并收集一些羊毛与他交易
+
+855
+00:20:51,200 --> 00:20:57,500
+我们花了很多时间手里拿着一些小麦引诱一些绵羊步行数英里进入我们的牛群
+
+856
+00:20:58,100 --> 00:21:00,000
+然而，在所有这些工作之后
+
+857
+00:21:00,166 --> 00:21:04,166
+小贩现在拒绝购买我们不得不努力工作的羊毛
+
+858
+00:21:04,166 --> 00:21:07,933
+所以是时候用外星科技把他送回家了
+
+859
+00:21:08,400 --> 00:21:09,933
+回到我们的项目
+
+860
+00:21:10,400 --> 00:21:11,566
+而不是祖母绿
+
+861
+00:21:11,800 --> 00:21:14,366
+我们将使用我们最终收集到的橄榄石
+
+862
+00:21:14,900 --> 00:21:16,466
+一旦我们拿到所有的零件
+
+863
+00:21:16,866 --> 00:21:19,100
+我们可以制作两个计算机立方体
+
+864
+00:21:19,533 --> 00:21:21,566
+这些不仅仅是制作零件
+
+865
+00:21:21,666 --> 00:21:24,333
+但可以以各种方式放置和使用
+
+866
+00:21:25,100 --> 00:21:28,666
+例如模拟IC2聚变反应堆
+
+867
+00:21:28,666 --> 00:21:32,666
+我们不做是因为它没有粉色甜甜圈酷
+
+868
+00:21:32,866 --> 00:21:34,066
+所以我们把它拿回来
+
+869
+00:21:34,066 --> 00:21:41,300
+请记住，在像IC2这样的版本中，GregTech机器在被移除时有可能损坏
+
+870
+00:21:41,933 --> 00:21:46,500
+在采矿旅行中，等待零件制造新的零件
+
+871
+00:21:46,566 --> 00:21:48,533
+我们找到了稀有的铱矿
+
+872
+00:21:49,066 --> 00:21:50,333
+哪个看起来像（leener？）
+
+873
+00:21:50,333 --> 00:21:52,933
+我相信如果一个岩石切割机能承受
+
+874
+00:21:53,333 --> 00:21:55,866
+所以我们将赤手空拳
+
+875
+00:21:56,733 --> 00:22:00,800
+这是我们需要的众多铱材料之一
+
+876
+00:22:01,166 --> 00:22:03,500
+我们也可以使用IC2矿机
+
+877
+00:22:03,566 --> 00:22:06,466
+但这些东西捡的垃圾比材料还多
+
+878
+00:22:07,266 --> 00:22:09,100
+回到我们的小项目
+
+879
+00:22:09,333 --> 00:22:11,100
+我们现在有了第二台电脑
+
+880
+00:22:11,100 --> 00:22:15,133
+我们将继续在32个线圈中的第一个工作
+
+881
+00:22:15,600 --> 00:22:18,000
+这需要一些很恶心的东西
+
+882
+00:22:18,000 --> 00:22:21,300
+但我觉得最糟糕的是铱反射板
+
+883
+00:22:21,566 --> 00:22:27,366
+它会让每个线圈的成本多一个铱板和八个铍单元
+
+884
+00:22:27,766 --> 00:22:30,633
+更不用提32个致密铜板
+
+885
+00:22:30,633 --> 00:22:33,233
+让一个线圈就要4组铜
+
+886
+00:22:33,766 --> 00:22:37,200
+有多余的铜，我们可以离心熔岩
+
+887
+00:22:37,300 --> 00:22:40,600
+也可以用熔岩制造者无中生有
+
+888
+00:22:41,000 --> 00:22:47,066
+目前，我们将重建和重新利用我们的下一个泵，并开始投入使用
+
+889
+00:22:47,500 --> 00:22:49,400
+当我们积累额外的铜
+
+890
+00:22:49,533 --> 00:22:52,133
+我们可以回去查查怎么做铍
+
+891
+00:22:52,533 --> 00:22:57,466
+显然，它只能通过电镀安德珍珠或祖母绿来制造
+
+892
+00:22:58,066 --> 00:23:02,133
+我认为最自动化的方法是使用传送门机械
+
+893
+00:23:02,700 --> 00:23:06,566
+转念一想，这不是自动化的，也不好玩。
+
+894
+00:23:07,066 --> 00:23:10,466
+所以我们继续下一步，使用研磨机
+
+895
+00:23:10,766 --> 00:23:12,100
+一旦我们设置好
+
+896
+00:23:12,133 --> 00:23:16,166
+我们得触发一些安德曼引诱他们传送到它的射程内
+
+897
+00:23:16,600 --> 00:23:20,200
+然后我们就从高空看它做它的事情
+
+898
+00:23:20,700 --> 00:23:23,933
+那设置也会产生一些怪物精华
+
+899
+00:23:24,166 --> 00:23:26,666
+我们可以传送回基地
+
+900
+00:23:26,900 --> 00:23:32,133
+我们可以用这种精华来驱动黑帮农场生产更多的珍珠
+
+901
+00:23:32,900 --> 00:23:34,466
+看看它们是如何快速下降的
+
+902
+00:23:34,900 --> 00:23:37,200
+一旦我们有了可以合作的对象
+
+903
+00:23:37,266 --> 00:23:40,766
+我们可以继续粉碎和通电这些
+
+904
+00:23:41,266 --> 00:23:43,400
+这样我们终于有了铍
+
+905
+00:23:43,866 --> 00:23:47,500
+我们还得到一些氮和钾作为副产品
+
+906
+00:23:47,500 --> 00:23:52,766
+它可以用来制造火药，用于炸药压缩铱板
+
+907
+00:23:54,266 --> 00:23:56,533
+最后，我们压缩大量的铜
+
+908
+00:23:56,666 --> 00:24:03,300
+这样我们就可以用中子反射器填充我们的库存，我们将其组合到铱中子反射器中
+
+909
+00:24:03,366 --> 00:24:06,366
+唯一剩下的就是超导体了
+
+910
+00:24:06,466 --> 00:24:09,633
+还需要一个铱板
+
+911
+00:24:09,633 --> 00:24:13,566
+所以，当我们的组装者在研究能量流电路时
+
+912
+00:24:13,733 --> 00:24:16,533
+我们回到终点开采更多谢尔顿石
+
+913
+00:24:16,900 --> 00:24:19,933
+在那里，我们还可以收集一些钠盐
+
+914
+00:24:20,100 --> 00:24:23,200
+可以电解得到一些钠
+
+915
+00:24:23,800 --> 00:24:27,733
+我们用它来制造钠钾冷却剂电池
+
+916
+00:24:28,400 --> 00:24:29,700
+现在我们什么都有了
+
+917
+00:24:29,966 --> 00:24:31,800
+我们可以完成我们的超导体
+
+918
+00:24:31,800 --> 00:24:34,666
+然后完成第一个融合线圈
+
+919
+00:24:34,666 --> 00:24:41,533
+最后，我们可以在没有任何视频加速的情况下欣赏融合控制计算机的制作过程
+
+920
+00:24:41,766 --> 00:24:44,933
+首先，我们准备一个泥土甜甜圈
+
+921
+00:24:44,933 --> 00:24:50,100
+并将计算机作为第一个接触内侧戒指的最后一块
+
+922
+00:24:50,566 --> 00:24:52,666
+现在我们要做很多东西
+
+923
+00:24:52,800 --> 00:24:54,800
+我们将从线圈开始
+
+924
+00:24:55,800 --> 00:24:59,800
+要做到这一点，第一步应该是踩在我们的充电板上
+
+925
+00:24:59,800 --> 00:25:02,900
+这样我们就可以在挂机时保持装甲充电
+
+926
+00:25:03,400 --> 00:25:05,466
+挂机一段时间后
+
+927
+00:25:05,666 --> 00:25:09,333
+我们的中间人设法制造了一些铜和电子
+
+928
+00:25:09,366 --> 00:25:11,366
+这是线圈的基础
+
+929
+00:25:12,166 --> 00:25:16,100
+所有的中子反射器都需要铜
+
+930
+00:25:16,466 --> 00:25:19,666
+电场将大大降低电路的成本
+
+931
+00:25:20,066 --> 00:25:24,100
+但主要问题将是高度先进的机器块
+
+932
+00:25:24,533 --> 00:25:27,866
+我们需要两叠钛和两叠铬
+
+933
+00:25:28,266 --> 00:25:32,166
+钛可以通过挂机储存UU物质来制造
+
+934
+00:25:32,366 --> 00:25:35,166
+但铬只能由红宝石制成
+
+935
+00:25:35,566 --> 00:25:38,600
+那我们就得挖7堆
+
+936
+00:25:39,000 --> 00:25:40,666
+这是不会发生的
+
+937
+00:25:41,133 --> 00:25:44,166
+IC2矿似乎不能正常工作
+
+938
+00:25:44,366 --> 00:25:47,466
+所以我们将把它的钻头升级为采石场
+
+939
+00:25:47,800 --> 00:25:53,700
+我们可以通过压缩农场污泥中的所有垃圾来获得一些额外的钻石
+
+940
+00:25:54,000 --> 00:25:55,933
+在钻石上你不能种花
+
+941
+00:25:56,466 --> 00:26:03,300
+但是你可以用泥浆来制造钻石，这些钻石可以制造一个采石场，收集你可能需要的所有有用资源。
+
+942
+00:26:03,600 --> 00:26:07,866
+我们把它和一些tesseract放在一起来管理它的输入和输出
+
+943
+00:26:08,166 --> 00:26:11,000
+然后我们可以看它的机器人建造结构
+
+944
+00:26:11,600 --> 00:26:13,166
+一旦框架完成
+
+945
+00:26:13,400 --> 00:26:17,466
+头部将开始运行大约一个高炉的所有能量
+
+946
+00:26:17,800 --> 00:26:19,900
+在宇宙魔方的另一边
+
+947
+00:26:20,066 --> 00:26:23,266
+我们正在以最糟糕的方式管理输出
+
+948
+00:26:23,400 --> 00:26:26,200
+因为我找不到更好的兼容管道
+
+949
+00:26:26,666 --> 00:26:27,700
+过了一段时间
+
+950
+00:26:27,900 --> 00:26:31,500
+我们已经设法填满了一个超级鹅卵石箱子
+
+951
+00:26:31,500 --> 00:26:35,200
+我们可以看到我们将从采石场得到什么
+
+952
+00:26:35,200 --> 00:26:38,533
+所以，我们可以把我们的宇宙魔方搬到一个更好的分拣设施
+
+953
+00:26:39,266 --> 00:26:45,600
+我们将在一些桶中储存来自装饰模组的所有垃圾，这些垃圾可能会导致视觉故障和延迟
+
+954
+00:26:45,733 --> 00:26:48,366
+我们把好东西藏在箱子里
+
+955
+00:26:49,166 --> 00:26:52,800
+既然我们会有很多额外的石英
+
+956
+00:26:52,966 --> 00:26:58,300
+我们可以用它来制作输入总线和其他AE1东西来自动化处理
+
+957
+00:26:58,766 --> 00:27:05,866
+我们将在量子箱中投入两卷价值相当于机器外壳的线圈，看看我们挖了多少鹅卵石。
+
+958
+00:27:06,466 --> 00:27:09,400
+所以，是时候开始使用所有的好东西了
+
+959
+00:27:09,800 --> 00:27:13,266
+我们还将改进我们的车间使其更加自动化
+
+960
+00:27:13,900 --> 00:27:16,100
+然而，看起来像是回到过去
+
+961
+00:27:16,366 --> 00:27:19,366
+工匠过去常常手工制作好东西
+
+962
+00:27:19,700 --> 00:27:22,300
+而不是丑陋的自动设置
+
+963
+00:27:22,400 --> 00:27:28,200
+你可以从香草漏斗的缺乏以及从箱子和机器里取出东西有多难看出
+
+964
+00:27:29,300 --> 00:27:31,100
+经过多次尝试
+
+965
+00:27:31,266 --> 00:27:34,966
+我放弃了尝试从折弯机中取出盘子
+
+966
+00:27:35,366 --> 00:27:39,300
+它有一些看起来像更新的自动输出功能的东西
+
+967
+00:27:39,500 --> 00:27:41,933
+但我太笨拙了，无法让它工作
+
+968
+00:27:42,766 --> 00:27:45,066
+不管怎样，我们做了第二台研磨机
+
+969
+00:27:45,066 --> 00:27:47,266
+我们会和年长的分享它
+
+970
+00:27:47,466 --> 00:27:51,566
+然后用我们能找到的最差的水管把水装满
+
+971
+00:27:52,100 --> 00:27:54,333
+接下来我们还做一个电解器
+
+972
+00:27:54,800 --> 00:27:59,333
+现在我们让AE1制造一些输入和输出总线
+
+973
+00:27:59,966 --> 00:28:02,600
+自动热膨胀相当容易
+
+974
+00:28:02,766 --> 00:28:08,400
+但是这些生锈的旧GregTech机器要求我们为每个输入找到正确的一面
+
+975
+00:28:08,933 --> 00:28:13,766
+有了这个，我们几乎像一个好的（处女？）工程师应该做的那样自动化了一切
+
+976
+00:28:14,100 --> 00:28:17,266
+唯一有问题的是铱
+
+977
+00:28:17,600 --> 00:28:22,000
+我知道的获得大量资金的唯一方法是UU物质。
+
+978
+00:28:22,000 --> 00:28:27,766
+然而，自从我们建造物质制造商以来，我们只做了3件。
+
+979
+00:28:27,766 --> 00:28:30,666
+所以，也许我们现在可以做一个核聚变反应堆
+
+980
+00:28:31,266 --> 00:28:33,700
+或者我们可以做一个终极太阳能电池板
+
+981
+00:28:33,700 --> 00:28:37,133
+这将使我们不用的铀有更长的用途
+
+982
+00:28:37,533 --> 00:28:38,600
+也可能不是
+
+983
+00:28:38,866 --> 00:28:42,466
+因为那需要相当于核聚变反应堆一半的铱
+
+984
+00:28:42,900 --> 00:28:46,100
+真空反应堆可以产生相当大的能量
+
+985
+00:28:46,766 --> 00:28:51,800
+然而，真空冷冻机会使用所有的能量来冷却冷却剂电池
+
+986
+00:28:52,333 --> 00:28:54,900
+所以我们必须转向更有效的方法
+
+987
+00:28:55,266 --> 00:28:58,166
+那里我们有一个快速而肮脏的钚反应堆
+
+988
+00:28:58,166 --> 00:29:01,566
+产生的能量相当于两台铁路锅炉
+
+989
+00:29:02,100 --> 00:29:05,966
+我们不会使用四电池，因为它们需要太多铜。
+
+990
+00:29:06,200 --> 00:29:08,566
+一旦我们的钱用完了
+
+991
+00:29:08,700 --> 00:29:12,500
+我们再做一个这样它就不会在他的下一个位置孤单了
+
+992
+00:29:13,066 --> 00:29:14,000
+加倍
+
+993
+00:29:14,266 --> 00:29:15,066
+双倍乐趣
+
+994
+00:29:15,400 --> 00:29:18,966
+现在该挂机储备资源了
+
+995
+00:29:19,400 --> 00:29:20,600
+一旦我们有足够的
+
+996
+00:29:20,700 --> 00:29:24,500
+我们可以通过以下自动化顺序开始改进我们的基础
+
+997
+00:33:51,100 --> 00:33:52,900
+一旦我们完成甜甜圈
+
+998
+00:33:52,900 --> 00:33:55,333
+我们添加两个输入材料注射器
+
+999
+00:33:55,666 --> 00:33:58,533
+一个材料喷射器和四个能量喷射器
+
+1000
+00:33:59,466 --> 00:34:04,533
+与GTNH核聚变反应堆的位置相同
+
+1001
+00:34:04,533 --> 00:34:09,433
+接下来，我们连接电源，等待反应堆内部缓冲器充电
+
+1002
+00:34:09,433 --> 00:34:13,333
+以我们目前的产量大概需要一刻钟
+
+1003
+00:34:14,166 --> 00:34:15,000
+在我们等待的时候
+
+1004
+00:34:15,266 --> 00:34:16,733
+准备燃料吧
+
+1005
+00:34:16,766 --> 00:34:20,266
+我们从电解水中的氢开始
+
+1006
+00:34:21,066 --> 00:34:24,100
+接下来我们离心分离出一些氘
+
+1007
+00:34:24,600 --> 00:34:27,733
+最后，我们用氘制造氚
+
+1008
+00:34:28,500 --> 00:34:31,700
+现在，当我们融合氘和氚
+
+1009
+00:34:31,800 --> 00:34:34,866
+我们要去弄点氦等离子体
+
+1010
+00:34:34,866 --> 00:34:38,300
+使用时需要等离子发生器
+
+1011
+00:34:38,966 --> 00:34:42,266
+那台机器包含一些钨钢
+
+1012
+00:34:42,266 --> 00:34:47,066
+正如工具提示所说，必须真空硬化
+
+1013
+00:34:47,066 --> 00:34:49,533
+所以当钨钢烧制的时候
+
+1014
+00:34:49,666 --> 00:34:52,166
+我们将在真空冰箱上工作
+
+1015
+00:34:52,966 --> 00:34:56,133
+不出所料，那是一台多块机器
+
+1016
+00:34:57,133 --> 00:34:59,566
+但它总是相同的机器外壳
+
+1017
+00:34:59,566 --> 00:35:01,800
+我们很快就完成了它
+
+1018
+00:35:01,800 --> 00:35:05,966
+与此同时，我们的聚变反应堆达到了四分之一的电量
+
+1019
+00:35:06,666 --> 00:35:09,166
+但这可能是我们反应堆的最大值
+
+1020
+00:35:09,333 --> 00:35:13,400
+因为我们只有16个最大能量喷射器中的4个
+
+1021
+00:35:14,533 --> 00:35:18,600
+所以让我们试着给它一些燃料，看看它是否有效。
+
+1022
+00:35:19,266 --> 00:35:21,000
+灯没有亮
+
+1023
+00:35:21,100 --> 00:35:23,366
+但是我们失去了所有储存的能量
+
+1024
+00:35:23,800 --> 00:35:27,400
+但看起来我们得到了一个细胞的血浆
+
+1025
+00:35:27,666 --> 00:35:29,466
+保持持续融合
+
+1026
+00:35:29,500 --> 00:35:31,866
+我们再制造一个能量注射器
+
+1027
+00:35:32,166 --> 00:35:33,900
+并将其连接到线圈上
+
+1028
+00:35:34,333 --> 00:35:36,533
+再次缓冲足够的能量后
+
+1029
+00:35:36,666 --> 00:35:38,000
+我们放下燃料
+
+1030
+00:35:38,533 --> 00:35:40,866
+这次灯亮了
+
+1031
+00:35:40,866 --> 00:35:44,600
+我们会产生恒定流量的氦等离子体
+
+1032
+00:35:44,900 --> 00:35:46,366
+除了热等离子
+
+1033
+00:35:46,400 --> 00:35:48,566
+我们还有热钨钢
+
+1034
+00:35:48,733 --> 00:35:52,366
+两个中只有一个应该进入真空冰箱
+
+1035
+00:35:52,800 --> 00:35:54,800
+这样我们就有了等离子体发生器
+
+1036
+00:35:54,800 --> 00:35:57,933
+我们将把它放在物质制造者旁边
+
+1037
+00:35:58,600 --> 00:36:00,766
+最后，我们喂它一些血浆
+
+1038
+00:36:00,766 --> 00:36:03,800
+这样我们才能最终有一个合适的UU物质生产
+
+1039
+00:36:04,200 --> 00:36:09,600
+我们的物质制造者确实接受了如此多的能量，以至于它甚至不能工作得那么快。
+
+1040
+00:36:09,600 --> 00:36:11,966
+它的能量缓冲区正在被填满
+
+1041
+00:36:12,000 --> 00:36:13,966
+你可能也注意到了
+
+1042
+00:36:14,500 --> 00:36:17,733
+这可不仅仅是一台等离子发生器的能量
+
+1043
+00:36:18,100 --> 00:36:21,133
+也是墙上新发电机的力量
+
+1044
+00:36:21,800 --> 00:36:27,566
+唯一要做的就是在我们的AE1系统中炫耀我们的鹅卵石收藏
+
+1045
+00:36:27,966 --> 00:36:29,566
+所以我们做了一个存储总线
+
+1046
+00:36:29,566 --> 00:36:31,400
+并将其连接到量子箱
+
