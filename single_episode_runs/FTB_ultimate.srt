@@ -524,7 +524,7 @@ this version of GregTech actually works as an IC2 addon
 
 132
 00:07:37,000 --> 00:07:40,966
-so we have to start with a batbox and a generator from said mod
+so we have to start with a BatBox and a generator from said mod
 
 133
 00:07:41,200 --> 00:07:44,800
@@ -640,7 +640,7 @@ we shall use that to get stuff like aluminum out of sodalite
 
 161
 00:09:28,133 --> 00:09:32,700
-but the most important thing we need to electrolize is boraxite
+but the most important thing we need to electrolyze is bauxite
 
 162
 00:09:32,866 --> 00:09:36,400
@@ -668,7 +668,7 @@ after crafting and quickly building its structure
 
 168
 00:09:55,900 --> 00:10:00,166
-we realize that in this version, there is no muffer hatch
+we realize that in this version, there is no muffler hatch
 
 169
 00:10:00,733 --> 00:10:03,100
@@ -884,7 +884,7 @@ next, to have some perpetual generation
 
 222
 00:12:40,266 --> 00:12:43,300
-we make an automated farm with factorisation
+we make an automated farm with factorization
 
 223
 00:12:44,000 --> 00:12:47,000
@@ -1436,7 +1436,7 @@ but I think the worst one is the iridium reflector
 
 360
 00:22:21,566 --> 00:22:27,366
-this will make each coil cost go up by one iridium plate and eight beryium cells
+this will make each coil cost go up by one iridium plate and eight beryllium cells
 
 361
 00:22:27,766 --> 00:22:30,633
@@ -1456,7 +1456,7 @@ which can also be made out of nothing with a lava fabricator
 
 365
 00:22:41,000 --> 00:22:47,066
-for the moment, we are going to rebuild and repurpose our nether pump and start centrifugeing that
+for the moment, we are going to rebuild and repurpose our nether pump and start centrifuging that
 
 366
 00:22:47,500 --> 00:22:49,400
@@ -1468,7 +1468,7 @@ we can go back and check how to make beryllium
 
 368
 00:22:52,533 --> 00:22:57,466
-apparently, it can only be made by electrolizing ender pearls or emeralds
+apparently, it can only be made by electrolyzing ender pearls or emeralds
 
 369
 00:22:58,066 --> 00:23:02,133
@@ -1560,7 +1560,7 @@ while there, we can also gather some sodalite
 
 391
 00:24:20,100 --> 00:24:23,200
-which can be electrolized to obtain some sodium
+which can be electrolyzed to obtain some sodium
 
 392
 00:24:23,800 --> 00:24:27,733
@@ -1612,7 +1612,7 @@ after being AFK for some time
 
 404
 00:25:05,666 --> 00:25:09,333
-our centrifugees managed to make some copper and electrum
+our centrifuges managed to make some copper and electrum
 
 405
 00:25:09,366 --> 00:25:11,366
@@ -1668,7 +1668,7 @@ on diamond you can't grow flowers
 
 418
 00:25:56,466 --> 00:26:03,300
-but you can use sludg to make diamonds that can craft a quarry that will gather every useful resource you could possibly need
+but you can use sludge to make diamonds that can craft a quarry that will gather every useful resource you could possibly need
 
 419
 00:26:03,600 --> 00:26:07,866
@@ -1788,7 +1788,7 @@ and stock it up with some water using the worst pipes we could find
 
 448
 00:27:52,100 --> 00:27:54,333
-next we also make an electrolizer
+next we also make an electrolyzer
 
 449
 00:27:54,800 --> 00:27:59,333
@@ -1864,7 +1864,7 @@ we won't use the quad cells because these take too much copper
 
 467
 00:29:06,200 --> 00:29:08,566
-and once our quary runs out
+and once our quarry runs out
 
 468
 00:29:08,700 --> 00:29:12,500
@@ -1872,7 +1872,7 @@ we make one more so that it won't be alone in his next location
 
 469
 00:29:13,066 --> 00:29:14,000
-double the quary
+double the quarry
 
 470
 00:29:14,266 --> 00:29:15,066
