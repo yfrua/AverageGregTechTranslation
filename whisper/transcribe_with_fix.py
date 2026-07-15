@@ -12,7 +12,6 @@ The pipeline:
 """
 
 import argparse
-import os
 import statistics
 import subprocess
 import sys
@@ -52,7 +51,6 @@ def detect_buggy_segments(
     Additionally, any segment whose compression ratio falls below
     `hard_floor` is flagged unconditionally.
     """
-    n = len(segments)
     ratios = []
     indices = []
     for i, seg in enumerate(segments):
@@ -170,6 +168,11 @@ def main():
     )
     parser.add_argument("--language", default="en", help="Language code (default: en)")
     parser.add_argument(
+        "--device",
+        default="cuda:0",
+        help="Torch device: cuda:0, cuda:1, cpu, etc. (default: cuda:0)",
+    )
+    parser.add_argument(
         "--skip-first-pass",
         action="store_true",
         help="Skip first-pass if SRT already exists (use cached)",
@@ -209,7 +212,7 @@ def main():
 
     # --- Load model ---
     print(f"Loading model: {args.model}")
-    model = whisper.load_model(args.model)
+    model = whisper.load_model(args.model, device=args.device)
 
     # --- 1st pass ---
     srt_path = out_dir / f"{stem}.srt"
