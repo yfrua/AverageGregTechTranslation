@@ -11,11 +11,11 @@ Video_title, linked [here](url).
 Subtitle file located in ``.
 
 ## Workflow
-- [ ] Transcript
-- [ ] AI translation
-- [ ] Manual translation
+- [ ] Transcribe
+- [ ] AI translate
+- [ ] Manual translate
 - [ ] Review/Polish
-- [ ] Final editing
+- [ ] Final edit
 
 ## Additional Context
 Add any other context here.
