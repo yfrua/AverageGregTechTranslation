@@ -38,18 +38,18 @@ def detect_buggy_segments(
     mad_threshold: float = -2.0,
     min_ratio: float = 0.55,
     hard_floor: float = 0.42,
+    cross_window: int = 3,
+    cross_hard_floor: float = 0.50,
 ) -> set[int]:
     """
     Return set of segment indices that are likely looping/glitched.
 
-    Uses two strategies combined with OR:
-      1. Z-score outlier on per-segment compression ratio (lower = more
-         repetitive → more compressible → buggy).
-      2. Median Absolute Deviation (MAD) outlier — robust to skewed
-         distributions.
-
-    Additionally, any segment whose compression ratio falls below
-    `hard_floor` is flagged unconditionally.
+    Detection strategies (ORed together):
+      1. Per-segment Z-score / MAD outlier.
+      2. Hard floor: single-segment ratio below threshold.
+      3. Cross-segment: for windows of 2..cross_window adjacent segments,
+         if the joined text's compression ratio falls below cross_hard_floor,
+         the loop spans segment boundaries.
     """
     ratios = []
     indices = []
@@ -59,19 +59,20 @@ def detect_buggy_segments(
             ratios.append(compression_ratio(text))
             indices.append(i)
 
+    n = len(segments)
     if len(ratios) < 3:
         return set()
 
     buggy: set[int] = set()
 
-    # --- Z-score ---
+    # --- Per-segment Z-score ---
     mean = statistics.mean(ratios)
     stdev = statistics.stdev(ratios)
     for idx, r in zip(indices, ratios):
         if stdev > 0 and ((r - mean) / stdev) < zscore_threshold:
             buggy.add(idx)
 
-    # --- MAD ---
+    # --- Per-segment MAD ---
     median = statistics.median(ratios)
     mad = statistics.median([abs(r - median) for r in ratios])
     if mad > 0:
@@ -79,12 +80,24 @@ def detect_buggy_segments(
             if (r - median) / mad < mad_threshold:
                 buggy.add(idx)
 
-    # --- Hard floor ---
+    # --- Per-segment hard floor ---
     for idx, r in zip(indices, ratios):
         if r < min_ratio:
             buggy.add(idx)
         if r < hard_floor:
             buggy.add(idx)
+
+    # --- Cross-segment (adjacent windows) ---
+    for wsize in range(2, cross_window + 1):
+        for i in range(n - wsize + 1):
+            window_segs = segments[i : i + wsize]
+            joined = " ".join(s["text"].strip() for s in window_segs)
+            if len(joined) < min_text_len * wsize:
+                continue
+            joined_ratio = compression_ratio(joined)
+            if joined_ratio < cross_hard_floor:
+                for j in range(i, i + wsize):
+                    buggy.add(j)
 
     return buggy
 
@@ -201,6 +214,18 @@ def main():
         help="Hard compression-ratio floor (default: 0.42)",
     )
     parser.add_argument(
+        "--cross-window",
+        type=int,
+        default=3,
+        help="Max adjacent segments to check for cross-segment loops (default: 3)",
+    )
+    parser.add_argument(
+        "--cross-hard-floor",
+        type=float,
+        default=0.50,
+        help="Compression ratio floor for joined adjacent segments (default: 0.50)",
+    )
+    parser.add_argument(
         "--keep-chunks", action="store_true", help="Keep temporary audio chunks on disk"
     )
     args = parser.parse_args()
@@ -264,6 +289,8 @@ def main():
         zscore_threshold=args.zscore,
         min_ratio=args.min_ratio,
         hard_floor=args.hard_floor,
+        cross_window=args.cross_window,
+        cross_hard_floor=args.cross_hard_floor,
     )
     print(f"Detected {len(buggy)} buggy segments out of {len(segments)}")
     if buggy:

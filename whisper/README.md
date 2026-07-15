@@ -75,6 +75,10 @@ optional arguments:
   --min-ratio MIN_RATIO Compression ratio floor (default: 0.55)
   --hard-floor HARD_FLOOR
                         Hard compression-ratio floor (default: 0.42)
+  --cross-window CROSS_WINDOW
+                        Max adjacent segments to check for cross-segment loops (default: 3)
+  --cross-hard-floor CROSS_HARD_FLOOR
+                        Compression ratio floor for joined adjacent segments (default: 0.50)
   --keep-chunks         Keep temporary audio chunks on disk
 ```
 
@@ -84,7 +88,10 @@ optional arguments:
 2. **Detection** — Each segment's text is compressed with zlib. Looping text
    (e.g. "the cheapest drilling rig there is, the cheapest drilling rig...")
    has an unusually low compression ratio. Statistical outlier detection
-   (z-score + MAD) flags suspect segments.
+   (z-score + MAD) flags suspect segments individually. Additionally,
+   adjacent segments are concatenated in windows (2..cross-window) — if the
+   joined text's compression ratio drops below cross-hard-floor, the loop
+   spans segment boundaries and all segments in the window are flagged.
 3. **Correction** — Each flagged segment's audio is cut with ffmpeg and
    re-transcribed with beam search (`temperature=0`, `beam_size=5`) to suppress
    the looping behavior.
