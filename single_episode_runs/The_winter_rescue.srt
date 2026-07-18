@@ -1,0 +1,880 @@
+1
+00:00:00,000 --> 00:00:01,566
+Welcome back.
+
+2
+00:00:01,566 --> 00:00:05,066
+Today we are going to play a new pack called The Winter Rescue.
+
+3
+00:00:05,633 --> 00:00:10,166
+Once again we find ourselves in a custom spawn which looks like a crushed shuttle.
+
+4
+00:00:10,633 --> 00:00:15,600
+And, before we even open the quest book for some lore, the lore found us.
+
+5
+00:00:15,600 --> 00:00:20,800
+And this time it is not just a wall of text but a whole sequence of images.
+
+6
+00:00:21,466 --> 00:00:25,633
+We could skip this, but I think it looks cool and it deserves to be shown,
+
+7
+00:00:25,633 --> 00:00:28,500
+so slow down the video if you want more immersion.
+
+8
+00:00:29,400 --> 00:00:31,333
+And finally we survived.
+
+9
+00:00:31,333 --> 00:00:35,833
+I mean, not only from the rocket crush but also from the long introduction.
+
+10
+00:00:36,766 --> 00:00:38,933
+And now our adventure shall begin.
+
+11
+00:00:39,466 --> 00:00:44,500
+After finding a way out of that wrecked ship, we start collecting the basic materials.
+
+12
+00:00:45,233 --> 00:00:50,833
+The first thing we look for is gravel, which is found underneath the Oxide Daisy flower.
+
+13
+00:00:51,733 --> 00:00:54,300
+Then we gather some sticks from some bushes.
+
+14
+00:00:54,900 --> 00:00:57,100
+And with the help of a rudimentary flint knife,
+
+15
+00:00:57,500 --> 00:01:00,900
+we can also take some vines out of those leaves.
+
+16
+00:01:00,900 --> 00:01:05,066
+But, to do anything more complex, we will need a crafting table.
+
+17
+00:01:05,400 --> 00:01:08,833
+And this one works within world item placement.
+
+18
+00:01:08,833 --> 00:01:13,466
+So, we fill in the grid and then we complete the crafting with a process knife.
+
+19
+00:01:13,466 --> 00:01:20,400
+And the first thing we craft is a drying rack, so that we can get some straw from the vines we collected earlier on.
+
+20
+00:01:20,400 --> 00:01:25,300
+With that, we can make some rope, which we can use to craft our first tools.
+
+21
+00:01:25,300 --> 00:01:30,533
+Now that we have a pickaxe, we can spend the rest of the night collecting stone, 
+
+22
+00:01:30,533 --> 00:01:33,866
+which, as expected, comes in different variants.
+
+23
+00:01:34,500 --> 00:01:37,500
+And after a long night, finally day is coming.
+
+24
+00:01:37,500 --> 00:01:45,333
+Since the weather forecast is good, we can go outside and plow some snow, collect some wood and a bunch of other materials.
+
+25
+00:01:45,800 --> 00:01:48,633
+Since we are getting cold and it's getting dark again,
+
+26
+00:01:48,633 --> 00:01:51,333
+we craft a campfire for our next night.
+
+27
+00:01:51,533 --> 00:01:55,100
+We throw some fuel inside it and then pitch it on fire.
+
+28
+00:01:55,466 --> 00:02:00,333
+This can also be used to light some sticks on fire, making torches.
+
+29
+00:02:00,333 --> 00:02:03,666
+But this is not the only thing we can do with fire.
+
+30
+00:02:03,666 --> 00:02:05,700
+We can also make pottery clens,
+
+31
+00:02:06,000 --> 00:02:09,466
+and the first one shall be used to smooth some stone.
+
+32
+00:02:09,466 --> 00:02:16,966
+The first usage we have for stone is a tree stump, which we can use to chop down tree lumbers into planks.
+
+33
+00:02:16,966 --> 00:02:19,100
+Or to hammer stone into slabs.
+
+34
+00:02:19,700 --> 00:02:23,100
+With those we can finally make our first chest.
+
+35
+00:02:23,100 --> 00:02:27,333
+Which, as you can tell by our inability to pick it up, was really needed.
+
+36
+00:02:27,333 --> 00:02:32,733
+After cleaning our inventory, we smash some flux out of some sedimentary stone.
+
+37
+00:02:32,733 --> 00:02:35,866
+Next, we fire that up to get some quicklime.
+
+38
+00:02:36,533 --> 00:02:41,033
+Meanwhile, we prepare some clay buckets and fire those into ceramic buckets.
+
+39
+00:02:41,433 --> 00:02:45,766
+Now we can fill a barrel with water and dissolve some quicklime in it.
+
+40
+00:02:46,033 --> 00:02:48,766
+Finally, we add some sand to make mortar.
+
+41
+00:02:48,766 --> 00:02:51,266
+And it was then that a storm caught us unprepared.
+
+42
+00:02:51,433 --> 00:02:57,833
+If we go outside, we can barely see anything, and the temperature reached minus 60 degrees.
+
+43
+00:02:58,533 --> 00:03:02,866
+Before freezing to death, we go back to our campfire to warm up.
+
+44
+00:03:02,866 --> 00:03:09,333
+And then we go back to processing some bricks, which will be part of our future bloomery.
+
+45
+00:03:09,333 --> 00:03:13,833
+For that, we are also going to need some copper and some treated wood.
+
+46
+00:03:14,300 --> 00:03:20,733
+Looking for new resources right now is an issue since there is a storm ongoing, so we work with what we have.
+
+47
+00:03:20,733 --> 00:03:26,100
+Luckily we have enough materials to get a creosote funnel and some piles of logs to char.
+
+48
+00:03:26,100 --> 00:03:33,100
+We place the funnel on the bottom of a pile of logs, and then we ignite the thing as if we were on terra firma.
+
+49
+00:03:33,100 --> 00:03:38,800
+After waiting not too much time, the process is complete and we can gather some charcoal.
+
+50
+00:03:38,800 --> 00:03:44,066
+But, what we were looking for at the moment was the leftover creosote oil.
+
+51
+00:03:44,066 --> 00:03:46,800
+Which we use to seal some wood planks.
+
+52
+00:03:46,800 --> 00:03:49,000
+Those are used to craft bellows,
+
+53
+00:03:49,000 --> 00:03:52,700
+but it looks like we also need some leather for that.
+
+54
+00:03:52,700 --> 00:03:54,766
+Luckily the storm is now gone,
+
+55
+00:03:54,966 --> 00:03:57,966
+so we can go outside and hunt some walking leather.
+
+56
+00:03:58,500 --> 00:04:00,633
+But that's not ready yet.
+
+57
+00:04:00,633 --> 00:04:03,600
+We have to first clean it up from all of the fur it had.
+
+58
+00:04:04,400 --> 00:04:08,400
+Now that we have our bellows, we only need a couple of copper ingots.
+
+59
+00:04:08,400 --> 00:04:13,400
+Since the weather is now good, we can go outside and look for some copper.
+
+60
+00:04:13,400 --> 00:04:16,000
+Which luckily wasn't too hard to find.
+
+61
+00:04:16,366 --> 00:04:19,100
+The issue is turning that into a sheet.
+
+62
+00:04:20,266 --> 00:04:23,333
+We start by panning the raw malachite ore out of the gravel.
+
+63
+00:04:24,300 --> 00:04:27,033
+We put that in a clay jar with some charcoal.
+
+64
+00:04:28,500 --> 00:04:31,866
+After firing it up, we can break the jar to retrieve our copper.
+
+65
+00:04:32,166 --> 00:04:37,133
+To make a plate we just put our cold ingots on a wood anvil and smash with our hammer.
+
+66
+00:04:37,500 --> 00:04:39,733
+No need for tedious minigames.
+
+67
+00:04:40,300 --> 00:04:42,666
+With that, we can now craft our tuyere.
+
+68
+00:04:43,366 --> 00:04:48,200
+However, it looks like there's something else we have to do before we can get our bloomery.
+
+69
+00:04:48,500 --> 00:04:53,900
+The first thing is a research station so we can unlock the crafting recipe of the machine.
+
+70
+00:04:54,500 --> 00:04:59,266
+But, even if we did that, we would have no materials to work inside it.
+
+71
+00:04:59,266 --> 00:05:02,100
+So, instead of researching the bloomery,
+
+72
+00:05:02,100 --> 00:05:07,200
+our first research shall be some tools that will help us find some raw minerals to work.
+
+73
+00:05:07,200 --> 00:05:10,433
+And, after committing some stone to that research,
+
+74
+00:05:10,433 --> 00:05:13,333
+we find the missing clues in a copper ingot.
+
+75
+00:05:13,333 --> 00:05:17,100
+Now we have the required knowledge to craft a prospector pick.
+
+76
+00:05:17,600 --> 00:05:20,266
+And the first thing we found is lignite.
+
+77
+00:05:20,266 --> 00:05:26,100
+Usually that's the most useless kind of fuel, but here it can be converted into coal.
+
+78
+00:05:26,100 --> 00:05:29,466
+But that's still not the mineral we need for our progression.
+
+79
+00:05:30,033 --> 00:05:35,900
+So, to have an easier time finding some iron, we research even better prospecting tools.
+
+80
+00:05:36,300 --> 00:05:39,633
+But this time, we also have to do some paperwork.
+
+81
+00:05:40,266 --> 00:05:42,366
+Since we don't have access to paper yet,
+
+82
+00:05:42,533 --> 00:05:46,733
+we shall use a stone plate and some charcoals to draw our schemes.
+
+83
+00:05:46,966 --> 00:05:50,466
+And now we have a new research minigame to figure out.
+
+84
+00:05:51,033 --> 00:05:55,233
+And it looks like we just have to pick matching pairs of items.
+
+85
+00:05:55,233 --> 00:06:01,333
+So, after quickly doing all the paperwork, we need one more clue, a prospector pick.
+
+86
+00:06:01,333 --> 00:06:06,633
+With that, we now have our prospector core spade, which will be way more helpful.
+
+87
+00:06:06,633 --> 00:06:12,200
+And, after some more exploration and prospecting, we found some iron-rich minerals.
+
+88
+00:06:12,200 --> 00:06:19,133
+But, before reaching iron, we gather some tin and some more copper to make some bronze for a better pickaxe.
+
+89
+00:06:19,133 --> 00:06:25,200
+With that, we gather some magnetite which was also required to start the bloomery research.
+
+90
+00:06:25,200 --> 00:06:27,600
+We quickly do the research minigame.
+
+91
+00:06:28,500 --> 00:06:30,033
+And examine some stuff.
+
+92
+00:06:30,966 --> 00:06:34,500
+Thus finishing the research which allows us to build our bloomery.
+
+93
+00:06:35,200 --> 00:06:39,333
+Once the structure is in place, we fill it with magnetite and charcoal,
+
+94
+00:06:39,833 --> 00:06:42,466
+then we pitch it on fire and blow air on it.
+
+95
+00:06:42,466 --> 00:06:47,100
+Once the process is completed and the fire is out, we gather our iron.
+
+96
+00:06:47,600 --> 00:06:54,200
+With that we can now move on to the steam age, where we can finally unlock a normal crafting table.
+
+97
+00:06:54,200 --> 00:07:01,533
+And our rewards is more chunk claims, which remind us that we should stop for a moment to build a proper base.
+
+98
+00:07:01,533 --> 00:07:07,633
+But, before that, we shall get some more quality of life, such as snowshoes.
+
+99
+00:07:07,633 --> 00:07:11,533
+And we must not forget to add some insulating straw to our clothing.
+
+100
+00:07:12,033 --> 00:07:17,200
+With our new shoes, we can run to our new shelter, made out of packed snow.
+
+101
+00:07:17,566 --> 00:07:24,033
+Here we can have a nice room with all of our stuff and also an alloy kiln, which will make melting stuff easier.
+
+102
+00:07:25,000 --> 00:07:29,033
+This is nice and all, but we should also worry about food.
+
+103
+00:07:29,033 --> 00:07:34,700
+The rations we savaged from our ships are running out, so we need something to put in our new pot.
+
+104
+00:07:35,566 --> 00:07:41,266
+During our expedition, we found some frozen stuff which we can defrost on our campfire.
+
+105
+00:07:41,666 --> 00:07:45,433
+And, with that, we now have some seeds to plant.
+
+106
+00:07:45,433 --> 00:07:49,233
+But not all of those plants can grow in this climate.
+
+107
+00:07:49,233 --> 00:07:53,733
+But some do, so we shall have a diet based on rye and turnips.
+
+108
+00:07:54,266 --> 00:08:01,066
+And we can integrate with some extra stuff, such as mushrooms, which we can grow on our armor with our body heat.
+
+109
+00:08:01,333 --> 00:08:04,700
+With all of that stuff we can make a nice stew.
+
+110
+00:08:04,933 --> 00:08:07,666
+But we will also need something to drink.
+
+111
+00:08:08,100 --> 00:08:11,766
+And the water in this place is all dirty and cold.
+
+112
+00:08:11,766 --> 00:08:13,166
+So we boil it.
+
+113
+00:08:13,900 --> 00:08:16,700
+But that was not a balanced enough diet.
+
+114
+00:08:16,700 --> 00:08:20,300
+And since we are all so mentally exhausted and out of inspiration,
+
+115
+00:08:20,300 --> 00:08:25,100
+we take an opportunity on this sunny day to go and do some outside activities,
+
+116
+00:08:25,100 --> 00:08:28,466
+such as placing a campfire on an iced lake.
+
+117
+00:08:28,500 --> 00:08:32,000
+We take off our clothes and then we take a nice refreshing bath
+
+118
+00:08:32,433 --> 00:08:40,566
+And here we also found a source of proteins, some kelps, and also some ruins of an ancient civilization.
+
+119
+00:08:41,533 --> 00:08:47,100
+But we can't keep the breath for long enough to explore those ruins and we are also getting cold.
+
+120
+00:08:47,100 --> 00:08:52,466
+So, we dry out the campfire, put on our dress and go back to the millstone
+
+121
+00:08:52,966 --> 00:08:59,066
+And looking at that thing spin gave us some inspiration for something even more spinny, a mixer
+
+122
+00:08:59,066 --> 00:09:04,100
+And with that we can mix up some fire clay, which we can use for a blast furnace.
+
+123
+00:09:04,166 --> 00:09:08,666
+But there is something else that moves up and down, a forge hammer.
+
+124
+00:09:09,200 --> 00:09:12,600
+This will allow us to convert 3 ingots to 2 plates,
+
+125
+00:09:12,600 --> 00:09:16,433
+giving us the first upgrade from hammering ingots on our wood anvil.
+
+126
+00:09:16,866 --> 00:09:20,533
+However, working that thing by hand is quite hard and slow.
+
+127
+00:09:20,933 --> 00:09:25,466
+So we start working on a way to not have to manually crank those heavy machinery.
+
+128
+00:09:25,500 --> 00:09:29,933
+But it looks like we can't fit those schematics in our stone tablets.
+
+129
+00:09:30,000 --> 00:09:33,700
+So we start working on something to help us with our research.
+
+130
+00:09:34,266 --> 00:09:38,700
+And after a lot of more manual work, we manage to get some proper paper.
+
+131
+00:09:39,500 --> 00:09:40,633
+Then we get some ink.
+
+132
+00:09:41,200 --> 00:09:46,766
+And, with those new tools, we can finally get into researching more complex stuff.
+
+133
+00:09:47,533 --> 00:09:53,533
+And, after an intensive studying session, we manage to fully understand how steam engines work.
+
+134
+00:09:53,533 --> 00:09:57,800
+We studied so intensively that we also crafted one in the meantime.
+
+135
+00:09:58,100 --> 00:10:02,800
+And since crafting more is going to be problematic, we have to use it properly.
+
+136
+00:10:03,266 --> 00:10:06,366
+We start by laying down a burning box with a boiler.
+
+137
+00:10:06,733 --> 00:10:10,766
+Then we add a pump and manually crank it to fill the boiler with water.
+
+138
+00:10:11,333 --> 00:10:14,000
+Finally, we add the engine with its flywheel.
+
+139
+00:10:14,400 --> 00:10:17,933
+Now we just add some fuel and our machine will start working.
+
+140
+00:10:18,200 --> 00:10:20,900
+And to increase its strength we can add a pump.
+
+141
+00:10:21,333 --> 00:10:24,100
+Which, of course, can be pushed by the engine.
+
+142
+00:10:24,700 --> 00:10:27,833
+And we can watch our forge hammer work faster.
+
+143
+00:10:28,033 --> 00:10:33,833
+But what we really need that power for is crafting bigger things, such as a mechanical calculator.
+
+144
+00:10:34,266 --> 00:10:36,700
+And that is one quite heavy machine.
+
+145
+00:10:37,433 --> 00:10:39,900
+And from that machine we get research points,
+
+146
+00:10:39,900 --> 00:10:43,600
+which are now starting to become required to complete our research.
+
+147
+00:10:43,933 --> 00:10:46,666
+And with those points we now unlock ore doubling.
+
+148
+00:10:47,633 --> 00:10:51,666
+But this room is crammed and we are already rebuilding stuff too often.
+
+149
+00:10:52,400 --> 00:10:55,433
+So we made a new room where we can keep all of our machinery.
+
+150
+00:10:55,466 --> 00:11:02,233
+To use them, we fuel our boiler, then we manually crank the pumps until the engine starts spinning.
+
+151
+00:11:02,766 --> 00:11:07,866
+Once it gets some traction, we engage the gears that will connect the pumps to the engine.
+
+152
+00:11:07,900 --> 00:11:11,866
+And now we have leftover power to turn on our workshop machinery.
+
+153
+00:11:12,133 --> 00:11:16,600
+And the machines are now going to work way faster than we were manually cranking.
+
+154
+00:11:16,866 --> 00:11:19,933
+And work more efficiently with the better gear ratios.
+
+155
+00:11:20,833 --> 00:11:22,866
+But making that workshop was not easy.
+
+156
+00:11:23,333 --> 00:11:24,800
+We run into many difficulties.
+
+157
+00:11:24,833 --> 00:11:28,500
+Starting from the diseases caused by our poor diet.
+
+158
+00:11:28,733 --> 00:11:36,933
+So we made an incubator where we start cultivating bacteria to make weird stuff that resemble chocolate that we can integrate in our diet.
+
+159
+00:11:37,300 --> 00:11:39,600
+But that's not the only thing we made.
+
+160
+00:11:39,766 --> 00:11:45,633
+We also set up some fish traps to get some real proteins and also some plant oil.
+
+161
+00:11:45,733 --> 00:11:49,600
+And to keep warm underwater we can use this handy hand stove.
+
+162
+00:11:50,366 --> 00:11:52,733
+And to finish our quality of life improvements.
+
+163
+00:11:52,766 --> 00:11:56,966
+We also have a new water filter where we can refill our new thermos.
+
+164
+00:11:57,233 --> 00:11:59,666
+But, to truly fix our issues.
+
+165
+00:11:59,800 --> 00:12:03,466
+We will need to start cultivating a higher variety of plants.
+
+166
+00:12:03,900 --> 00:12:06,600
+The main issue is that they won't grow on snow.
+
+167
+00:12:06,933 --> 00:12:10,433
+And the dirt bellow is too icy to grow those crops.
+
+168
+00:12:10,866 --> 00:12:13,833
+So, to warm up the ground in a large area.
+
+169
+00:12:13,866 --> 00:12:18,366
+We retrieved the core of our ship and used it to build a large heat generator.
+
+170
+00:12:18,733 --> 00:12:21,466
+And while this will make the soil more fertile.
+
+171
+00:12:21,533 --> 00:12:23,933
+It will also burn a lot of fuel.
+
+172
+00:12:24,833 --> 00:12:27,600
+But what matters is that we can now grow wheat.
+
+173
+00:12:28,133 --> 00:12:31,333
+Once we have some, we can crush it into flour.
+
+174
+00:12:31,533 --> 00:12:33,466
+That we can use for make dough.
+
+175
+00:12:33,900 --> 00:12:35,400
+But eating that is not healthy.
+
+176
+00:12:35,600 --> 00:12:38,800
+So we add some lime dye to make slime balls.
+
+177
+00:12:39,200 --> 00:12:41,533
+And with those we can make some glue.
+
+178
+00:12:41,833 --> 00:12:45,133
+Which means that we can now make contraptions.
+
+179
+00:12:45,433 --> 00:12:48,233
+And thus we have automated the fuel production.
+
+180
+00:12:49,133 --> 00:12:51,633
+You probably notice how slow it's working.
+
+181
+00:12:52,000 --> 00:12:56,766
+And that's because we wanted to keep some of our power producing for the rest of the workshop.
+
+182
+00:12:56,766 --> 00:13:02,566
+But that was still not enough, so we doubled our capacity by moving to the cast iron tier.
+
+183
+00:13:02,566 --> 00:13:06,300
+And most of that power is going inside our new dynamo,
+
+184
+00:13:06,300 --> 00:13:08,833
+which will produce some electricity,
+
+185
+00:13:09,266 --> 00:13:12,433
+which we can use to finally obtain some steel.
+
+186
+00:13:12,433 --> 00:13:18,766
+And to make the process go smoother, we shall use our new assembly line to make our first capacitor.
+
+187
+00:13:18,766 --> 00:13:22,800
+For the next task we are going back in our greening garden,
+
+188
+00:13:22,800 --> 00:13:26,133
+where we tap some latex from a (?) tree.
+
+189
+00:13:26,133 --> 00:13:29,800
+We mix that with some sulfur to make vulcanized rubber,
+
+190
+00:13:29,800 --> 00:13:33,633
+which we can use to finally unlock mechanical belts.
+
+191
+00:13:33,633 --> 00:13:38,900
+Finally, to complete the steam age tier, we quickly craft our first circuitry
+
+192
+00:13:38,900 --> 00:13:43,466
+and we shall use our first circuit for a simple electrolyzer,
+
+193
+00:13:43,466 --> 00:13:50,700
+which of course is going to electrolyze water, or more precisely salt water to get sodium hydroxide.
+
+194
+00:13:50,700 --> 00:13:54,233
+and I guess the leftover gases are vented.
+
+195
+00:13:54,233 --> 00:14:02,400
+Anyways, we wash up some bauxite and then we mix it with sodium hydroxide to extract aluminium hydroxide.
+
+196
+00:14:02,400 --> 00:14:06,600
+We blast it with lava heat to get aluminium oxide.
+
+197
+00:14:06,600 --> 00:14:11,500
+But to extract aluminium from that we are going to need some cryolite,
+
+198
+00:14:11,500 --> 00:14:15,133
+which is going to be just a few more chemical steps.
+
+199
+00:14:15,133 --> 00:14:20,200
+After quickly doing those things, we are ready to cook our first aluminium ingot
+
+200
+00:14:20,200 --> 00:14:23,966
+And getting there was a GrogTech tier-worthy experience.
+
+201
+00:14:23,966 --> 00:14:28,433
+Now that we are on fire, we do not want to go back to RF machinery,
+
+202
+00:14:28,433 --> 00:14:30,933
+so we look into a more complex heat generator.
+
+203
+00:14:30,933 --> 00:14:36,333
+Since to complete our research in conventional ways we would need too many expensive blocks,
+
+204
+00:14:36,333 --> 00:14:41,533
+we instead opt for fueling our research with expensive but easy-to-find coal.
+
+205
+00:14:41,533 --> 00:14:44,233
+And there we have our tier-2 generator.
+
+206
+00:14:44,233 --> 00:14:47,100
+The upgrade consists in a tank for fluids.
+
+207
+00:14:47,100 --> 00:14:52,666
+We can add steam to increase the range and heating our water to power a heat pipe.
+
+208
+00:14:52,666 --> 00:14:58,766
+And the first thing we shall do with that extra heat is feed a steam charger to fill our new heater vest.
+
+209
+00:14:58,766 --> 00:15:02,433
+With that thing equipped, not even a blizzard can stop us.
+
+210
+00:15:02,433 --> 00:15:08,133
+And after fooling around the whole night with our hot drinks, a hot sauna is what we need.
+
+211
+00:15:08,133 --> 00:15:12,133
+That gave us a lot of inspiration, so much that we realized that,
+
+212
+00:15:12,133 --> 00:15:17,433
+instead of wasting steam like that, we can instead feed it to a compact steam engine,
+
+213
+00:15:17,433 --> 00:15:23,100
+which we can use to self-power our farm and have even more leftover fuel for our workshop,
+
+214
+00:15:23,100 --> 00:15:28,400
+which is now equipped with a bending machine that can make plates, rods and wires.
+
+215
+00:15:28,400 --> 00:15:32,600
+And now we can make a big enough batch of circuits and motors.
+
+216
+00:15:32,600 --> 00:15:37,333
+We have motors. We have circuits. We have servo cores.
+
+217
+00:15:37,333 --> 00:15:41,133
+Which means we can now unlock many new machines.
+
+218
+00:15:41,133 --> 00:15:46,733
+However, with those upgrades, our factory has now hit the current end of our adventure.
+
+219
+00:15:46,733 --> 00:15:52,400
+But fear not, we will come back when the new materials and generators will be released.
+
+220
+00:15:52,400 --> 00:15:53,000
+Bye bye.
+
