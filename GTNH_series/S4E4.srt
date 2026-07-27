@@ -8,7 +8,7 @@ and as you can see on my back
 
 3
 00:00:02,500 --> 00:00:04,500
-we now have a lot of brick blast furnaces
+we now have a lot of Brick Blast Furnaces
 
 4
 00:00:05,000 --> 00:00:08,200
@@ -20,7 +20,7 @@ and that's precisely why I build those far from my house
 
 6
 00:00:12,533 --> 00:00:18,000
-um, maybe some people say I overdid it with all of those brick blast furnaces
+maybe some people say I overdid it with all of those Brick Blast Furnaces
 
 7
 00:00:18,000 --> 00:00:20,366
@@ -36,11 +36,11 @@ but I don't like mob farms, magic stuff
 
 10
 00:00:30,466 --> 00:00:35,700
-I want to play a industrial game, technological game
+I want to play a[n] industrial game, technological game
 
 11
 00:00:35,700 --> 00:00:40,800
-and brick blast furnace is the way we go for a industrial technological game
+and Brick Blast Furnace is the way we go for a[n] industrial technological game
 
 12
 00:00:40,800 --> 00:00:43,333
@@ -68,7 +68,7 @@ if you don't want to deal with that
 
 18
 00:01:00,300 --> 00:01:02,966
-there is a quest that will trade some 
+there is the quest that we trade some...
 
 19
 00:01:03,866 --> 00:01:07,200
@@ -100,7 +100,7 @@ so you should only put this armor on when you go next to the polluted areas
 
 26
 00:01:24,166 --> 00:01:26,066
-anyways that we have plenty of steel
+anyways now that we have plenty of steel
 
 27
 00:01:26,066 --> 00:01:29,566
@@ -108,7 +108,7 @@ we can finally start working on the LV age
 
 28
 00:01:31,200 --> 00:01:39,400
-usually in the old versions, I would suggest making one stack of motors using those are recipes
+usually in the old versions, I would suggest making one stack of motors using those recipes
 
 29
 00:01:39,733 --> 00:01:43,233
@@ -120,7 +120,7 @@ so crafting a lot at once
 
 31
 00:01:44,800 --> 00:01:47,200
-we make it so you have a lot of motors already
+we make it, so you have a lot of motors ready
 
 32
 00:01:47,200 --> 00:01:49,600
@@ -164,7 +164,7 @@ when you need those is actually better
 
 42
 00:02:07,566 --> 00:02:12,200
-because the batch crafting was just so you wouldn't have to manually craft all of these steps
+because the batch craft[ing] was just so you wouldn't have to manually craft all of these steps
 
 43
 00:02:12,600 --> 00:02:17,200
@@ -192,7 +192,7 @@ but there are some that are more useful than others
 
 49
 00:02:36,533 --> 00:02:39,733
-for example, my suggestion is to start with a wire mill
+for example, my suggestion is to start with a wiremill
 
 50
 00:02:39,733 --> 00:02:42,900
@@ -248,7 +248,7 @@ if something doesn't work
 
 63
 00:03:16,500 --> 00:03:17,466
-just about it
+just debug it
 
 64
 00:03:17,666 --> 00:03:19,400
@@ -260,7 +260,7 @@ if you're not experience enough
 
 66
 00:03:21,500 --> 00:03:24,366
-and oftentimes is not stressed enough is that
+and often times is not stressed enough is that
 
 67
 00:03:24,366 --> 00:03:26,700
@@ -284,7 +284,7 @@ the wiremill can go there for now
 
 72
 00:03:44,666 --> 00:03:50,466
-and another trick is that if you make the cables with circuit sixteen
+and another trick is that if you make the cables with circuit 16
 
 73
 00:03:51,333 --> 00:03:54,966
@@ -292,11 +292,11 @@ should be a little bit faster than doing it with the other one
 
 74
 00:03:55,066 --> 00:03:56,800
-this one is a sixteen x cable
+this one is a 16x cable
 
 75
 00:03:56,800 --> 00:03:58,200
-it takes seventy seconds
+it takes 70 seconds
 
 76
 00:03:58,366 --> 00:04:03,333
@@ -308,11 +308,11 @@ but if you do the normal wire
 
 78
 00:04:07,666 --> 00:04:10,166
-it takes five seconds for two
+it takes 5 seconds for two
 
 79
 00:04:10,166 --> 00:04:12,866
-making a sixteen x cable is about twice as fast
+making a 16x cable is about twice as fast
 
 80
 00:04:12,866 --> 00:04:14,400
@@ -328,7 +328,7 @@ split manually into small cables
 
 83
 00:04:18,900 --> 00:04:21,300
-doing sixteen x small dimension
+doing 16x small is more time efficient
 
 84
 00:04:23,733 --> 00:04:27,966
@@ -344,11 +344,11 @@ specially for now
 
 87
 00:04:32,566 --> 00:04:33,966
-specially with NEI auto crafting
+specially with NEI auto-crafting
 
 88
 00:04:33,966 --> 00:04:44,166
-but having at least an auto input on one side with an auto output on another side is probably helpful
+but having at least an auto-input on one side with an auto-output on another side is probably helpful
 
 89
 00:04:44,166 --> 00:04:48,533
@@ -364,7 +364,7 @@ this is the kind of automation you probably want at this point of the game
 
 92
 00:04:56,400 --> 00:04:59,266
-next, if your machine stall due to lack of power
+next, if your machine stalled due to lack of power
 
 93
 00:04:59,400 --> 00:05:03,100
@@ -376,7 +376,7 @@ you can also use redstone to power machines
 
 95
 00:05:08,166 --> 00:05:10,700
-each redstone is worth one thousand EU
+each redstone is worth 1000 EU
 
 96
 00:05:11,266 --> 00:05:13,900
@@ -408,7 +408,7 @@ most people try to go with other fuel sources
 
 103
 00:05:36,100 --> 00:05:38,466
-I have my own mean way of playing
+I have my own mean(?) way of playing
 
 104
 00:05:38,500 --> 00:05:41,000
@@ -572,7 +572,7 @@ there is a steam version multiblock
 
 144
 00:07:48,933 --> 00:07:53,000
-but I don't need that (by-product?) right now
+but I don't need that cobalt right now
 
 145
 00:07:53,000 --> 00:07:56,400
@@ -660,7 +660,7 @@ the main issue of those boilers is that
 
 166
 00:09:00,600 --> 00:09:08,700
-every now and then you have to break and remove the block if you do not want to lose two thirds of your steam production
+every now and then you have to break and remove the block if you do not want to lose two-thirds of your steam production
 
 167
 00:09:09,100 --> 00:09:10,466
@@ -688,7 +688,7 @@ we can finally power the main objective of this age
 
 173
 00:09:26,166 --> 00:09:27,900
-the electric blast furnace
+the Electric Blast Furnace
 
 174
 00:09:28,600 --> 00:09:33,066
@@ -696,7 +696,7 @@ and the main challenge that this multiblock will pose is fueling it properly
 
 175
 00:09:33,600 --> 00:09:36,533
-this multiblock to run will need one hundred and twenty EU per tick
+this multiblock to run will need one 120 EU per tick
 
 176
 00:09:36,533 --> 00:09:37,933
@@ -732,15 +732,15 @@ the thing is that each one of those energy hatches can accept two amps
 
 184
 00:10:08,966 --> 00:10:12,866
-and the machine itself needs four amps at thirty EU per tick
+and the machine itself needs 4 amps at 30 EU per tick
 
 185
 00:10:13,066 --> 00:10:14,966
-so here you have a loss of one
+so here you have a loss of 1
 
 186
 00:10:15,133 --> 00:10:17,500
-with one block you already get thirty one
+with one block you already get 31 [EU]
 
 187
 00:10:17,500 --> 00:10:18,733
@@ -752,7 +752,7 @@ you have no margin
 
 189
 00:10:20,566 --> 00:10:22,366
-you are basically net gainer (?)
+you are basically net gain
 
 190
 00:10:22,366 --> 00:10:25,266
@@ -784,7 +784,7 @@ but theoretically you could
 
 197
 00:10:45,366 --> 00:10:52,700
-but you still have the issue that you must ensure that the multiblock gets the one hundred and twenty EU per tick
+but you still have the issue that you must ensure that the multiblock gets the 120 EU per tick
 
 198
 00:10:52,700 --> 00:10:54,166
@@ -820,7 +820,7 @@ you have to be a little bit careful
 
 206
 00:11:13,200 --> 00:11:20,866
-because LV steam turbines require one thousand five hundred fifty two steam per second to run
+because LV steam turbines require 1552 steam per second to run
 
 207
 00:11:21,000 --> 00:11:23,966
@@ -832,11 +832,11 @@ those are four
 
 209
 00:11:26,066 --> 00:11:29,133
-so we need about seven thousand steam per second
+so we need about 7000 steam per second
 
 210
 00:11:29,866 --> 00:11:32,700
-and the normal potin pipe is just six thousand
+and the normal potin pipe is just 6000
 
 211
 00:11:33,666 --> 00:11:35,500
@@ -860,15 +860,15 @@ you also have to do maintenance
 
 216
 00:11:47,300 --> 00:11:53,066
-you can make a soldering alloy, soldering iron which is probably what I'm going to do
+you can make a soldering alloy, soldering iron which is probably what I'm going to do future
 
 217
 00:11:53,533 --> 00:11:54,500
-future, but
+(调整一下断句)
 
 218
 00:11:55,400 --> 00:11:56,766
-right now, I'm lazy
+but right now, I'm lazy
 
 219
 00:11:56,900 --> 00:11:58,466
@@ -904,11 +904,11 @@ if for whatever reason your multiblock loses its maintenance
 
 227
 00:12:14,366 --> 00:12:17,633
-will be prompt to do maintenance
+you will be prompt to do maintenance
 
 228
 00:12:20,466 --> 00:12:22,100
-OK here you can see
+OK, here you can see
 
 229
 00:12:22,666 --> 00:12:25,600
@@ -920,7 +920,7 @@ so you can see the first one is a crowbar
 
 231
 00:12:28,100 --> 00:12:29,900
-second should be either soft
+second should be either soft...
 
 232
 00:12:29,900 --> 00:12:32,333
@@ -1000,7 +1000,7 @@ may get a little bit lost
 
 251
 00:13:24,700 --> 00:13:27,966
-the quest for polythene is actually in MV
+the quest for polyethylene is actually in MV
 
 252
 00:13:27,966 --> 00:13:31,266
@@ -1012,7 +1012,7 @@ and I actually suggest doing in LV
 
 254
 00:13:34,500 --> 00:13:38,000
-both the silicon and the polythene quest lines
+both the silicon and the polyethylene quest lines
 
 255
 00:13:39,300 --> 00:13:41,266
@@ -1088,11 +1088,11 @@ and then you charge it up
 
 273
 00:14:37,000 --> 00:14:41,866
-you also need some soldering alloy in your inventory
+you also need some soldering alloy wire in your inventory
 
 274
 00:14:45,733 --> 00:14:49,500
-which is made by allowing together tin with antimony
+which is made by alloying together tin with antimony
 
 275
 00:14:50,700 --> 00:14:54,300
@@ -1144,19 +1144,19 @@ and now it can run again
 
 287
 00:15:26,933 --> 00:15:29,400
-OK we got our blast furnace
+OK, we got our blast furnace
 
 288
 00:15:29,966 --> 00:15:33,400
-we can use this one to make steel way faster
+now, we can use this one to make steel way faster
 
 289
 00:15:38,933 --> 00:15:41,566
-it can make steel in five seconds
+it can make steel in 5 seconds
 
 290
 00:15:41,733 --> 00:15:46,400
-unlike the six minutes of the brick version
+unlike the 6 minutes of the brick version
 
 291
 00:15:46,866 --> 00:15:48,266
@@ -1168,15 +1168,15 @@ it should be way more power efficient
 
 293
 00:15:51,066 --> 00:15:54,000
-to make steel in the primitive brick blast furnace
+to make steel in the primitive Brick Blast Furnace
 
 294
 00:15:54,000 --> 00:15:58,333
-you need four coal
+you need 4 coal[s]
 
 295
 00:15:59,700 --> 00:16:03,000
-while here you need twelve thousand EU
+while here you need [12000] EU
 
 296
 00:16:03,000 --> 00:16:04,400
@@ -1184,11 +1184,11 @@ there is also oxygen
 
 297
 00:16:06,066 --> 00:16:13,700
-but the thing is that this boiler for example can make almost forty thousand steam with one coal
+this boiler for example can make almost 40000 steam with one coal
 
 298
 00:16:13,700 --> 00:16:16,933
-forty thousand steam is twenty thousand EU
+40000 steam is 20000 EU
 
 299
 00:16:17,733 --> 00:16:21,900
@@ -1196,11 +1196,11 @@ one coal with this boiler will be able to make one and a half ingots
 
 300
 00:16:22,466 --> 00:16:26,300
-while here we need four coal
+while here we need 4 coal
 
 301
 00:16:26,300 --> 00:16:28,533
-so, energy wise it's more efficient
+so, energy-wise it's more efficient
 
 302
 00:16:28,533 --> 00:16:30,400
@@ -1232,7 +1232,7 @@ but to get aluminum
 
 309
 00:16:46,000 --> 00:16:51,200
-to do so, we can either use seventy five seconds with a compressed aluminum dust
+to do so, we can either use 75 seconds with a compressed aluminum dust
 
 310
 00:16:51,200 --> 00:16:54,400
@@ -1272,7 +1272,7 @@ while alumina can be obtained out of a few things
 
 319
 00:17:25,200 --> 00:17:29,133
-i don't suggest it, but you can find a lot of sapphire in the twilight forest
+I don't suggest it, but you can find a lot of sapphire[s] in the twilight forest
 
 320
 00:17:29,533 --> 00:17:32,300
@@ -1312,7 +1312,7 @@ try different things
 
 329
 00:18:01,900 --> 00:18:06,866
-I'm trying to show you the main things you should probably try to remember, I know
+I'm trying to show you the main things you should probably try to remember I know
 
 330
 00:18:06,933 --> 00:18:12,666
@@ -1400,7 +1400,7 @@ and after a little bit of waiting
 
 351
 00:19:34,600 --> 00:19:39,333
-we got enough aluminum to get (?) two MV machines
+we got enough aluminum to get [I] think two MV machines
 
 352
 00:19:40,266 --> 00:19:41,533
@@ -1432,7 +1432,7 @@ because theoretically
 
 359
 00:19:52,666 --> 00:19:59,100
-we can just electrolyze amount of clay to get all of the aluminum we could possibly need
+we can just electrolyze a mountain of clay to get all of the aluminum we could possibly need
 
 360
 00:19:59,666 --> 00:20:03,266
@@ -1456,7 +1456,7 @@ so you can get a lot of this
 
 365
 00:20:15,400 --> 00:20:19,266
-and this one gives a lot of silicon, sodium, aluminum calcium, all good stuff
+and this one gives a lot of silicon, sodium, aluminum, calcium, all good stuff
 
 366
 00:20:20,766 --> 00:20:22,700
@@ -1512,7 +1512,7 @@ oh yeah, you can burn the sodium in a boiler
 
 379
 00:20:56,366 --> 00:20:57,800
-I think they nerf it
+I think they nerfed it
 
 380
 00:20:57,966 --> 00:20:59,766
@@ -1520,7 +1520,7 @@ I remember this one burning more
 
 381
 00:20:59,900 --> 00:21:02,866
-but most likely you want to use the sodium for other stuff
+but most likely you won't use the sodium for other stuff
 
 382
 00:21:02,866 --> 00:21:08,066
@@ -1540,11 +1540,11 @@ and then you get the aluminum
 
 386
 00:21:13,500 --> 00:21:14,366
-you get aluminum
+yeah, you get aluminum
 
 387
 00:21:14,800 --> 00:21:18,566
-these are the receipt used to yield five aluminum, I think
+these are the receipt used to yield 5 aluminum, I think
 
 388
 00:21:19,000 --> 00:21:22,466
@@ -1584,7 +1584,7 @@ I got it out of centrifuging the realgar
 
 397
 00:21:53,133 --> 00:21:55,300
-but that's kind of uh
+but that's kind of...
 
 398
 00:21:56,800 --> 00:21:59,700
@@ -1628,7 +1628,7 @@ here I'm processing sphalerite like that because I do need the gallium
 
 408
 00:22:25,366 --> 00:22:27,566
-should be, let's check if they changed it too, yeah
+should be, let's check if they changed it too
 
 409
 00:22:27,566 --> 00:22:29,300
@@ -1636,7 +1636,7 @@ you electrolyze this sphalerite
 
 410
 00:22:29,300 --> 00:22:31,566
-you have nine percent chance of getting gallium
+you have 9% chance of getting gallium
 
 411
 00:22:32,400 --> 00:22:37,166
@@ -1656,7 +1656,7 @@ the sphalerite is also used in something we will see way later
 
 415
 00:22:48,566 --> 00:22:54,300
-so, I would like to say don't process or you don't need processed
+so, I would like to say don't process what you don't need processed
 
 416
 00:22:55,000 --> 00:22:58,333
@@ -1672,7 +1672,7 @@ at that time, we will have some huge multiblock drilling rigs
 
 419
 00:23:10,400 --> 00:23:13,200
-that will get us just so much of this ore
+that will get us just so too of this ore
 
 420
 00:23:13,200 --> 00:23:20,666
@@ -1680,11 +1680,11 @@ that whatever we save at this tier will be meaningless compared to what we will 
 
 421
 00:23:20,666 --> 00:23:23,100
-also, I'm not going to make you a list
+also, I'm not going to make you a list of ores (调整一下断句)
 
 422
 00:23:23,100 --> 00:23:25,000
-of course you do not want to process
+you do not want to process
 
 423
 00:23:25,000 --> 00:23:26,933
@@ -1716,7 +1716,7 @@ we've finally got our gallium dust
 
 430
 00:23:41,966 --> 00:23:47,233
-which we can throw into the furnace with circuit two
+which we can throw into the furnace with circuit 2
 
 431
 00:23:47,233 --> 00:23:50,533
@@ -1740,15 +1740,15 @@ but once again
 
 436
 00:24:06,333 --> 00:24:11,700
-the quest book suggests you to do this recipe which gets you two diodes out of ...
+the quest book suggests you to do this recipe which gets you two diodes out of...
 
 437
 00:24:13,066 --> 00:24:18,733
-I think sixteen diodes out of the one gallium arsenide once you macerate it into small dust
+I think 16 diodes out of the one gallium arsenide once you macerate it into small dust
 
 438
 00:24:19,266 --> 00:24:20,900
-but if you use polythene
+but if you use polyethylene
 
 439
 00:24:20,900 --> 00:24:22,266
@@ -1768,7 +1768,7 @@ you are going to get like many more
 
 443
 00:24:31,066 --> 00:24:34,500
-because this wafer you get sixteen out of one boule
+because this wafer you get 16 out of one boule
 
 444
 00:24:34,600 --> 00:24:37,533
@@ -1780,7 +1780,7 @@ so it's way more efficient if you try to do this a recipe here instead
 
 446
 00:24:44,200 --> 00:24:48,733
-which also require the polyethylene and the silicon which I mention earlier and
+which also require the polyethylene and the silicon which I mentioned earlier and
 
 447
 00:24:49,266 --> 00:24:50,366
@@ -1792,7 +1792,7 @@ while we wait for things
 
 449
 00:24:56,600 --> 00:25:00,066
-like you can either just use the better recipe
+like, you can either just use the better recipe
 
 450
 00:25:00,166 --> 00:25:03,866
@@ -1840,7 +1840,7 @@ like to spam generators
 
 461
 00:25:35,600 --> 00:25:38,000
-like they even added the
+like they even added...
 
 462
 00:25:39,666 --> 00:25:43,766
@@ -1916,11 +1916,11 @@ which I'm going to try to use to centralize power at MV
 
 480
 00:26:39,100 --> 00:26:43,000
-centralizing power at MV you still have a little bit of power loss, but
+centralizing power at MV you still have a little bit of power loss
 
 481
 00:26:44,100 --> 00:26:46,666
-use a annealed cable
+but use a annealed cable
 
 482
 00:26:46,900 --> 00:26:51,900
@@ -1936,7 +1936,7 @@ so you lose like
 
 485
 00:26:59,400 --> 00:27:01,166
-zero dot two percent of the energy
+0.2% of the energy
 
 486
 00:27:01,166 --> 00:27:03,866
@@ -1960,7 +1960,7 @@ which I think no one ever does
 
 491
 00:27:18,533 --> 00:27:21,433
-and I will get some fame for that
+and I will get some playing for that
 
 492
 00:27:21,433 --> 00:27:23,733
