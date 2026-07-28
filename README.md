@@ -2,6 +2,8 @@
 
 Cooperative subtitle translation project for GregTech-related videos.
 
+Please read and follow [guidelines](guidelines.md) before translating.
+
 [[简体中文](README_ZH.md)]
 
 ## Resources
