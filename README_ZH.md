@@ -1,6 +1,8 @@
 # AverageGregTechTranslation
 GregTech 油管博主相关视频的合作字幕翻译项目。
 
+请阅读并遵循 [指南](guidelines.md) 后开始翻译。
+
 —————————————————注意—————————————————
 
 所有操作均需命令行操作，windows 使用 powershell
