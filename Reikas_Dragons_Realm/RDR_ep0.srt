@@ -224,7 +224,7 @@ At first glance, it looked quite the usual nether
 
 57
 00:04:34,433 --> 00:04:39,800
-but, after moving a littel bit, we started to see that it is quite more annoying than usual
+but, after moving a little bit, we started to see that it is quite more annoying than usual
 
 58
 00:04:40,800 --> 00:04:46,800
