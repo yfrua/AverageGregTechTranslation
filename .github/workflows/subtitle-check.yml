@@ -1,0 +1,43 @@
+name: Validate subtitles
+
+on:
+  pull_request:
+    paths:
+      - "**/*.srt"
+  push:
+    paths:
+      - "**/*.srt"
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Lint changed subtitle files
+        run: |
+          BASE="${{ github.event.pull_request.base.sha || github.event.before }}"
+          if [ -z "$BASE" ] || [ "$BASE" = "0000000000000000000000000000000000000000" ]; then
+            echo "No base ref available; skipping."
+            exit 0
+          fi
+          FILES=$(git diff --name-only --diff-filter=ACMR "$BASE" "$GITHUB_SHA" -- '*.srt')
+          if [ -z "$FILES" ]; then
+            echo "No subtitle files changed."
+            exit 0
+          fi
+          echo "Checking changed subtitle files:"
+          echo "$FILES"
+          # shellcheck disable=SC2086
+          python3 scripts/subtitle_lint.py --base "$BASE" $FILES
