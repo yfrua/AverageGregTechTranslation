@@ -10,6 +10,8 @@ Subtitle files changed in a pull request are validated against the guidelines by
 python3 scripts/subtitle_lint.py --base origin/main <path-to.srt>
 ```
 
+Add `--fix` to auto-correct auto-fixable style violations (capitalization, trailing punctuation, space-as-comma) before checking.
+
 [[简体中文](README_ZH.md)]
 
 ## Resources

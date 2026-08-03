@@ -14,6 +14,9 @@ Style checks (per text line, from guidelines.md):
     * no trailing "。"
     * no spaces used as a comma replacement
 
+With --fix, auto-fixable style violations (EN/case, EN/punct, ZH/punct,
+ZH/space) are rewritten in place. Structure issues are never auto-fixed.
+
 Exit code is non-zero if any violation is found (hard fail).
 """
 
@@ -34,6 +37,103 @@ TIMECODE_RE = re.compile(
 INDEX_RE = re.compile(r"^\d+$")
 
 SPACE_LOG = re.compile(r"\s")
+
+
+def fix_english(line):
+    new = line.rstrip()
+    stripped = new.strip()
+    lead = new[: len(new) - len(new.lstrip())]
+    if not stripped:
+        return new
+    if stripped.endswith(","):
+        stripped = stripped[:-1]
+    elif stripped.endswith(".") and not stripped.endswith("..."):
+        stripped = stripped[:-1]
+    m = LATIN_RE.search(stripped)
+    if m:
+        i = m.start()
+        prefix = stripped[:i]
+        if not any(ch.isalnum() for ch in prefix):
+            ch = stripped[i]
+            if ch.islower():
+                stripped = stripped[:i] + ch.upper() + stripped[i + 1 :]
+    return lead + stripped
+
+
+def fix_chinese(line):
+    new = line.rstrip()
+    stripped = new.strip()
+    lead = new[: len(new) - len(new.lstrip())]
+    if not stripped:
+        return new
+    if stripped.endswith("。"):
+        stripped = stripped[:-1]
+    parts = re.split(r"(\s+)", stripped)
+    out = []
+    i = 0
+    while i < len(parts):
+        out.append(parts[i])
+        if i + 1 < len(parts):
+            sep = parts[i + 1]
+            left = parts[i]
+            right = parts[i + 2] if i + 2 < len(parts) else ""
+            l_cjk = CJK_RE.search(left)
+            r_cjk = CJK_RE.search(right)
+            l_len = len([c for c in left if CJK_RE.match(c)])
+            r_len = len([c for c in right if CJK_RE.match(c)])
+            if l_cjk and r_cjk and (l_len > 1 or r_len > 1):
+                out.append("，")
+            else:
+                out.append(sep)
+        i += 2
+    return lead + "".join(out)
+
+
+def text_line_numbers(filepath):
+    with open(filepath, "r", encoding="utf-8-sig") as fh:
+        lines = fh.read().split("\n")
+    nums = set()
+    current = []
+    blocks = []
+    for lineno, raw in enumerate(lines, start=1):
+        if raw.rstrip("\r\n") == "":
+            if current:
+                blocks.append(current)
+                current = []
+        else:
+            current.append((lineno, raw.rstrip("\r")))
+    if current:
+        blocks.append(current)
+    for block in blocks:
+        if len(block) < 2:
+            continue
+        for t_lineno, _ in block[2:]:
+            nums.add(t_lineno)
+    return nums, lines
+
+
+def fix_one(filepath, changed):
+    text_nums, lines = text_line_numbers(filepath)
+    fixed = 0
+    for idx in sorted(text_nums):
+        if changed is not None and idx not in changed:
+            continue
+        orig = lines[idx - 1]
+        if not orig.strip():
+            continue
+        if is_chinese(orig):
+            new = fix_chinese(orig)
+        elif LATIN_RE.search(orig):
+            new = fix_english(orig)
+        else:
+            continue
+        if new != orig:
+            lines[idx - 1] = new
+            fixed += 1
+    if fixed:
+        with open(filepath, "w", encoding="utf-8") as fh:
+            fh.write("\n".join(lines))
+    return fixed
 
 
 def is_chinese(text):
@@ -194,11 +294,25 @@ def main(argv=None):
         help="git ref to diff against; only report violations on lines changed "
         "by the working tree. Omit to check the whole file.",
     )
+    parser.add_argument(
+        "--fix",
+        action="store_true",
+        help="auto-fix auto-fixable style violations in place before reporting",
+    )
     args = parser.parse_args(argv)
 
     files = args.files
     if not files:
         parser.error("no files given")
+
+    if args.fix:
+        total_fixed = 0
+        for f in files:
+            changed = None
+            if args.base is not None:
+                changed = changed_line_numbers(args.base, f) or set()
+            total_fixed += fix_one(f, changed)
+        print("Auto-fixed %d line(s)." % total_fixed)
 
     all_errors = []
     for f in files:

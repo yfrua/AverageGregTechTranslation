@@ -9,6 +9,8 @@ GregTech 油管博主相关视频的合作字幕翻译项目。
 python3 scripts/subtitle_lint.py --base origin/main <字幕文件.srt>
 ```
 
+加上 `--fix` 可自动修正可修复的样式问题（首字母大写、句末标点、空格代替逗号等）再检查。
+
 —————————————————注意—————————————————
 
 所有操作均需命令行操作，windows 使用 powershell
