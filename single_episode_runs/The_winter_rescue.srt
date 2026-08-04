@@ -116,7 +116,7 @@ But this is not the only thing we can do with fire
 
 30
 00:02:03,666 --> 00:02:05,700
-We can also make pottery clens
+We can also make Pottery Kilns
 
 31
 00:02:06,000 --> 00:02:09,466
@@ -164,7 +164,7 @@ And it was then that a storm caught us unprepared
 
 42
 00:02:51,433 --> 00:02:57,833
-If we go outside, we can barely see anything, and the temperature reached minus 60 degrees
+If we go outside, we can barely see anything, and the temperature reached -60 degrees
 
 43
 00:02:58,533 --> 00:03:02,866
@@ -188,7 +188,7 @@ Luckily we have enough materials to get a creosote funnel and some piles of logs
 
 48
 00:03:26,100 --> 00:03:33,100
-We place the funnel on the bottom of a pile of logs, and then we ignite the thing as if we were on terra firma
+We place the funnel on the bottom of a pile of logs, and then we ignite the thing as if we were on Terra Firma
 
 49
 00:03:33,100 --> 00:03:38,800
@@ -272,7 +272,7 @@ However, it looks like there's something else we have to do before we can get ou
 
 69
 00:04:48,500 --> 00:04:53,900
-The first thing is a research station so we can unlock the crafting recipe of the machine
+The first thing is a Research Station so we can unlock the crafting recipe of the machine
 
 70
 00:04:54,500 --> 00:04:59,266
@@ -340,7 +340,7 @@ So, after quickly doing all the paperwork, we need one more clue, a prospector p
 
 86
 00:06:01,333 --> 00:06:06,633
-With that, we now have our prospector core spade, which will be way more helpful
+With that, we now have our Prospector Core Spade, which will be way more helpful
 
 87
 00:06:06,633 --> 00:06:12,200
@@ -400,7 +400,7 @@ With our new shoes, we can run to our new shelter, made out of packed snow
 
 101
 00:07:17,566 --> 00:07:24,033
-Here we can have a nice room with all of our stuff and also an alloy kiln, which will make melting stuff easier
+Here we can have a nice room with all of our stuff and also an Alloy Kiln, which will make melting stuff easier
 
 102
 00:07:25,000 --> 00:07:29,033
@@ -484,7 +484,7 @@ And looking at that thing spin gave us some inspiration for something even more 
 
 122
 00:08:59,066 --> 00:09:04,100
-And with that we can mix up some fire clay, which we can use for a blast furnace
+And with that we can mix up some fire clay, which we can use for a Blast Furnace
 
 123
 00:09:04,166 --> 00:09:08,666
@@ -568,7 +568,7 @@ And we can watch our forge hammer work faster
 
 143
 00:10:28,033 --> 00:10:33,833
-But what we really need that power for is crafting bigger things, such as a mechanical calculator
+But what we really need that power for is crafting bigger things, such as a Mechanical Calculator
 
 144
 00:10:34,266 --> 00:10:36,700
@@ -640,7 +640,7 @@ We also set up some fish traps to get some real proteins and also some plant oil
 
 161
 00:11:45,733 --> 00:11:49,600
-And to keep warm underwater we can use this handy hand stove
+And to keep warm underwater we can use this handy Hand Stove
 
 162
 00:11:50,366 --> 00:11:52,733
@@ -672,7 +672,7 @@ So, to warm up the ground in a large area
 
 169
 00:12:13,866 --> 00:12:18,366
-We retrieved the core of our ship and used it to build a large heat generator
+We retrieved the core of our ship and used it to build a Large Heat Generator
 
 170
 00:12:18,733 --> 00:12:21,466
@@ -804,7 +804,7 @@ Now that we are on fire, we do not want to go back to RF machinery
 
 202
 00:14:28,433 --> 00:14:30,933
-so we look into a more complex heat generator
+so we look into a more complex Heat Generator
 
 203
 00:14:30,933 --> 00:14:36,333
@@ -844,7 +844,7 @@ That gave us a lot of inspiration, so much that we realized that
 
 212
 00:15:12,133 --> 00:15:17,433
-instead of wasting steam like that, we can instead feed it to a compact steam engine
+instead of wasting steam like that, we can instead feed it to a Compact Steam Engine
 
 213
 00:15:17,433 --> 00:15:23,100
@@ -852,7 +852,7 @@ which we can use to self-power our farm and have even more leftover fuel for our
 
 214
 00:15:23,100 --> 00:15:28,400
-which is now equipped with a bending machine that can make plates, rods and wires
+which is now equipped with a Bending Machine that can make plates, rods and wires
 
 215
 00:15:28,400 --> 00:15:32,600
