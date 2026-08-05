@@ -3,10 +3,10 @@ GregTech 油管博主相关视频的合作字幕翻译项目。
 
 请阅读并遵循 [指南](guidelines.md) 后开始翻译。
 
-拉取请求中改动的字幕文件会由 CI 自动检查是否符合规范（[`scripts/subtitle_lint.py`](scripts/subtitle_lint.py)）。CI 只检查你 PR 中实际改动的行。如需在本地运行同样的检查：
+拉取请求中改动的字幕文件会由 CI 自动检查是否符合规范（[`scripts/subtitle_lint.py`](scripts/subtitle_lint.py)）。CI 会检查整个文件。如需在本地运行同样的检查：
 
 ```bash
-python3 scripts/subtitle_lint.py --base origin/main <字幕文件.srt>
+python3 scripts/subtitle_lint.py <字幕文件.srt>
 ```
 
 加上 `--fix` 可自动修正可修复的样式问题（首字母大写、句末标点、空格代替逗号等）再检查。

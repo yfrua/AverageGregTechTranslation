@@ -39,5 +39,6 @@ jobs:
           fi
           echo "Checking changed subtitle files:"
           echo "$FILES"
+          # whole file of each changed subtitle is checked
           # shellcheck disable=SC2086
-          python3 scripts/subtitle_lint.py --base "$BASE" $FILES
+          python3 scripts/subtitle_lint.py $FILES

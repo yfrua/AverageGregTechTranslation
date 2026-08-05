@@ -4,7 +4,6 @@
 Structure checks:
   * cue index lines are valid sequential integers (allowing a fresh reset)
   * timecode lines match HH:MM:SS,mmm --> HH:MM:SS,mmm
-  * cues are separated by blank lines
 
 Style checks (per text line, from guidelines.md):
   English:
@@ -22,14 +21,11 @@ Exit code is non-zero if any violation is found (hard fail).
 
 import argparse
 import re
-import subprocess
 import sys
 
 CJK_RE = re.compile(r"[\u4e00-\u9fff]")
 LATIN_RE = re.compile(r"[\u0041-\u024f]")
 WORD_RE = re.compile(r"[\u0041-\u024f]")
-
-UNIFIED_HUNK_RE = re.compile(r"^@@ -(\d+)(?:,(\d+))? \+(\d+)(?:,(\d+))? @@")
 
 TIMECODE_RE = re.compile(
     r"^\d{2}:\d{2}:\d{2}[,.]\d{3}\s*-->\s*\d{2}:\d{2}:\d{2}[,.]\d{3}$"
@@ -89,35 +85,15 @@ def fix_chinese(line):
     return lead + "".join(out)
 
 
-def text_line_numbers(filepath):
+def read_lines(filepath):
     with open(filepath, "r", encoding="utf-8-sig") as fh:
-        lines = fh.read().split("\n")
-    nums = set()
-    current = []
-    blocks = []
-    for lineno, raw in enumerate(lines, start=1):
-        if raw.rstrip("\r\n") == "":
-            if current:
-                blocks.append(current)
-                current = []
-        else:
-            current.append((lineno, raw.rstrip("\r")))
-    if current:
-        blocks.append(current)
-    for block in blocks:
-        if len(block) < 2:
-            continue
-        for t_lineno, _ in block[2:]:
-            nums.add(t_lineno)
-    return nums, lines
+        return fh.read().split("\n")
 
 
-def fix_one(filepath, changed):
-    text_nums, lines = text_line_numbers(filepath)
+def fix_one(filepath):
+    lines = read_lines(filepath)
     fixed = 0
-    for idx in sorted(text_nums):
-        if changed is not None and idx not in changed:
-            continue
+    for idx in range(1, len(lines) + 1):
         orig = lines[idx - 1]
         if not orig.strip():
             continue
@@ -261,39 +237,9 @@ def lint_one(filepath):
     return errors
 
 
-def changed_line_numbers(base, filepath):
-    """Return new-file line numbers changed by the current working tree vs `base`."""
-    try:
-        diff = subprocess.check_output(
-            ["git", "diff", "--unified=0", base, "--", filepath],
-            text=True,
-            stderr=subprocess.DEVNULL,
-        )
-    except (subprocess.CalledProcessError, FileNotFoundError):
-        return None
-    numbers = set()
-    if not diff:
-        return numbers
-    for line in diff.splitlines():
-        m = UNIFIED_HUNK_RE.match(line)
-        if m:
-            start = int(m.group(3))
-            count = int(m.group(4)) if m.group(4) else 1
-            for n in range(start, start + count):
-                numbers.add(n)
-    return numbers
-
-
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("files", nargs="*", help="subtitle files to check")
-    parser.add_argument(
-        "--base",
-        metavar="REF",
-        default=None,
-        help="git ref to diff against; only report violations on lines changed "
-        "by the working tree. Omit to check the whole file.",
-    )
     parser.add_argument(
         "--fix",
         action="store_true",
@@ -308,21 +254,12 @@ def main(argv=None):
     if args.fix:
         total_fixed = 0
         for f in files:
-            changed = None
-            if args.base is not None:
-                changed = changed_line_numbers(args.base, f) or set()
-            total_fixed += fix_one(f, changed)
+            total_fixed += fix_one(f)
         print("Auto-fixed %d line(s)." % total_fixed)
 
     all_errors = []
     for f in files:
-        changed = None
-        if args.base is not None:
-            changed = changed_line_numbers(args.base, f) or set()
-        for filepath, lineno, code, msg in lint_one(f):
-            if changed is not None and lineno not in changed:
-                continue
-            all_errors.append((filepath, lineno, code, msg))
+        all_errors.extend(lint_one(f))
 
     if all_errors:
         from collections import defaultdict

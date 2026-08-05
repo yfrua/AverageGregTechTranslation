@@ -4,10 +4,10 @@ Cooperative subtitle translation project for GregTech-related videos.
 
 Please read and follow [guidelines](guidelines.md) before translating.
 
-Subtitle files changed in a pull request are validated against the guidelines by CI ([`scripts/subtitle_lint.py`](scripts/subtitle_lint.py)). Only lines actually changed in your PR are checked. To run the same check locally:
+Subtitle files changed in a pull request are validated against the guidelines by CI ([`scripts/subtitle_lint.py`](scripts/subtitle_lint.py)). The whole file is checked. To run the same check locally:
 
 ```bash
-python3 scripts/subtitle_lint.py --base origin/main <path-to.srt>
+python3 scripts/subtitle_lint.py <path-to.srt>
 ```
 
 Add `--fix` to auto-correct auto-fixable style violations (capitalization, trailing punctuation, space-as-comma) before checking.
