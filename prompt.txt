@@ -1,7 +1,7 @@
 Copy the subtitle file I pinned with a suffix _ZH, and replace the English within it with Chinese translation.
 
-You should follow the @guidelines.md to do the translation and English subtile polishing.
-Don't modify the words in English subtitle file unless there are some obvious errors, also don't delete words in bracket because that's something I'm not sure of for transcription.
+You should follow the @guidelines.md to do the translation and English subtile polishing, and there is an existing lint script available by using `python scripts/subtitle_lint.py --base origin/main --fix <path-to.srt>`, so run this script after finish the translation.
+Don't modify the words in English subtitle file unless it contains obvious errors, also don't delete words in the bracket because that's something I'm not sure of for transcription.
 
 You can find a terminology database at @terms.json, use it to translate the terms you don't know.
 And you can make some addition to it after translating the whole subtitles.
