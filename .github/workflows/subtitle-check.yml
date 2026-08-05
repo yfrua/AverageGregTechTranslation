@@ -28,9 +28,9 @@ jobs:
       - name: Lint changed subtitle files
         run: |
           BASE="${{ github.event.pull_request.base.sha || github.event.before }}"
-          if [ -z "$BASE" ] || [ "$BASE" = "0000000000000000000000000000000000000000" ]; then
-            echo "No base ref available; skipping."
-            exit 0
+          if [ -z "$BASE" ] || [ "$BASE" = "0000000000000000000000000000000000000000" ] || ! git cat-file -e "$BASE" 2>/dev/null; then
+            echo "Base '$BASE' unavailable (new branch or rebased push); falling back to origin/main."
+            BASE="origin/main"
           fi
           FILES=$(git diff --name-only --diff-filter=ACMR "$BASE" "$GITHUB_SHA" -- '*.srt')
           if [ -z "$FILES" ]; then
@@ -39,5 +39,6 @@ jobs:
           fi
           echo "Checking changed subtitle files:"
           echo "$FILES"
+          # whole file of each changed subtitle is checked
           # shellcheck disable=SC2086
-          python3 scripts/subtitle_lint.py --base "$BASE" $FILES
+          python3 scripts/subtitle_lint.py $FILES
