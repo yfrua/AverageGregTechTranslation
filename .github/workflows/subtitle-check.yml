@@ -49,22 +49,36 @@ jobs:
 
   test-lint:
     runs-on: ubuntu-latest
-    if: |
-      always() && (
-        contains(github.event.pull_request.changed_files, 'scripts/subtitle_lint.py') ||
-        contains(github.event.pull_request.changed_files, 'tests')
-      )
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
+      - name: Detect changes to lint script or tests
+        id: changes
+        run: |
+          BASE="${{ github.event.pull_request.base.sha || github.event.before }}"
+          if [ -z "$BASE" ] || [ "$BASE" = "0000000000000000000000000000000000000000" ] || ! git cat-file -e "$BASE" 2>/dev/null; then
+            echo "Base '$BASE' unavailable; falling back to origin/main."
+            BASE="origin/main"
+          fi
+          CHANGED=$(git diff --name-only --diff-filter=ACMR "$BASE" "$GITHUB_SHA" -- 'scripts/subtitle_lint.py' 'tests/')
+          if [ -n "$CHANGED" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Install pytest
+        if: steps.changes.outputs.run == 'true'
         run: pip install pytest
 
       - name: Run lint unit tests
+        if: steps.changes.outputs.run == 'true'
         run: python3 -m pytest tests/ -q
