@@ -12,10 +12,10 @@ Style checks (per text line, from guidelines.md):
   Chinese:
     * no trailing "。"
     * no mid-sentence "，" (use spaces instead)
-    * full-width "？" "！" "……" (no half-width "?" "!" "...")
+    * full-width "？" "！" "……" "（）" (no half-width "?" "!" "..." "(" ")")
 
 Length checks (soft warnings, do not affect exit code):
-  English: < 98 characters (spaces counted)
+  English: < 102 characters (spaces counted)
   Chinese: < 32 CJK characters
 
 With --fix, auto-fixable style violations (EN/punct, ZH/punct, ZH/comma,
@@ -40,7 +40,7 @@ TIMECODE_RE = re.compile(
 )
 INDEX_RE = re.compile(r"^\d+$")
 
-EN_CHAR_LIMIT = 98
+EN_CHAR_LIMIT = 102
 ZH_CJK_LIMIT = 32
 
 
@@ -78,6 +78,7 @@ def fix_chinese(line):
         stripped = stripped[:-1]
     stripped = stripped.replace("，", " ")
     stripped = stripped.replace("...", "……").replace("?", "？").replace("!", "！")
+    stripped = stripped.replace("(", "（").replace(")", "）")
     return lead + stripped
 
 
@@ -130,13 +131,13 @@ def style_chinese(line, lineno, filepath, errors):
         errors.append((filepath, lineno, "ZH/punct", "remove trailing 。"))
     if "，" in stripped:
         errors.append((filepath, lineno, "ZH/comma", "replace ， with a space"))
-    if "?" in stripped or "!" in stripped or "..." in stripped:
+    if "?" in stripped or "!" in stripped or "..." in stripped or "(" in stripped or ")" in stripped:
         errors.append(
             (
                 filepath,
                 lineno,
                 "ZH/halfwidth",
-                "use full-width ？！…… instead of half-width ? ! ...",
+                "use full-width ？！……（） instead of half-width ? ! ... ( )",
             )
         )
 
