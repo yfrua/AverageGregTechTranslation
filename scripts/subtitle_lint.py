@@ -4,35 +4,55 @@
 Structure checks:
   * cue index lines are valid sequential integers (allowing a fresh reset)
   * timecode lines match HH:MM:SS,mmm --> HH:MM:SS,mmm
+  * the EN run and the CN run (parallel translations sharing timecodes) pair up
 
 Style checks (per text line, from guidelines.md):
   English:
-    * first letter of each line is uppercase
     * no trailing "." or "," (but "...", "?", "!", "—" are kept)
   Chinese:
     * no trailing "。"
-    * no spaces used as a comma replacement
+    * no mid-sentence "，" (use spaces instead)
+    * full-width "？" "！" "……" (no half-width "?" "!" "...")
 
-With --fix, auto-fixable style violations (EN/case, EN/punct, ZH/punct,
-ZH/space) are rewritten in place. Structure issues are never auto-fixed.
+Length checks (soft warnings, do not affect exit code):
+  English: < 98 characters (spaces counted)
+  Chinese: < 32 CJK characters
 
-Exit code is non-zero if any violation is found (hard fail).
+With --fix, auto-fixable style violations (EN/punct, ZH/punct, ZH/comma,
+ZH/halfwidth) are rewritten in place. Structure issues and length warnings
+are never auto-fixed.
+
+Exit code is non-zero if any hard violation is found; soft length warnings do
+not fail.
 """
 
 import argparse
 import re
 import sys
 
+from collections import defaultdict
+
 CJK_RE = re.compile(r"[\u4e00-\u9fff]")
 LATIN_RE = re.compile(r"[\u0041-\u024f]")
-WORD_RE = re.compile(r"[\u0041-\u024f]")
 
 TIMECODE_RE = re.compile(
     r"^\d{2}:\d{2}:\d{2}[,.]\d{3}\s*-->\s*\d{2}:\d{2}:\d{2}[,.]\d{3}$"
 )
 INDEX_RE = re.compile(r"^\d+$")
 
-SPACE_LOG = re.compile(r"\s")
+EN_CHAR_LIMIT = 98
+ZH_CJK_LIMIT = 32
+
+
+class Cue:
+    __slots__ = ("idx_lineno", "index", "tc_lineno", "tc", "text")
+
+    def __init__(self, idx_lineno, index, tc_lineno, tc, text):
+        self.idx_lineno = idx_lineno
+        self.index = index
+        self.tc_lineno = tc_lineno
+        self.tc = tc
+        self.text = text  # list of (lineno, raw_line)
 
 
 def fix_english(line):
@@ -45,14 +65,6 @@ def fix_english(line):
         stripped = stripped[:-1]
     elif stripped.endswith(".") and not stripped.endswith("..."):
         stripped = stripped[:-1]
-    m = LATIN_RE.search(stripped)
-    if m:
-        i = m.start()
-        prefix = stripped[:i]
-        if not any(ch.isalnum() for ch in prefix):
-            ch = stripped[i]
-            if ch.islower():
-                stripped = stripped[:i] + ch.upper() + stripped[i + 1 :]
     return lead + stripped
 
 
@@ -64,25 +76,9 @@ def fix_chinese(line):
         return new
     if stripped.endswith("。"):
         stripped = stripped[:-1]
-    parts = re.split(r"(\s+)", stripped)
-    out = []
-    i = 0
-    while i < len(parts):
-        out.append(parts[i])
-        if i + 1 < len(parts):
-            sep = parts[i + 1]
-            left = parts[i]
-            right = parts[i + 2] if i + 2 < len(parts) else ""
-            l_cjk = CJK_RE.search(left)
-            r_cjk = CJK_RE.search(right)
-            l_len = len([c for c in left if CJK_RE.match(c)])
-            r_len = len([c for c in right if CJK_RE.match(c)])
-            if l_cjk and r_cjk and (l_len > 1 or r_len > 1):
-                out.append("，")
-            else:
-                out.append(sep)
-        i += 2
-    return lead + "".join(out)
+    stripped = stripped.replace("，", " ")
+    stripped = stripped.replace("...", "……").replace("?", "？").replace("!", "！")
+    return lead + stripped
 
 
 def read_lines(filepath):
@@ -120,13 +116,6 @@ def style_english(line, lineno, filepath, errors):
     stripped = line.strip()
     if not stripped:
         return
-    # first letter uppercase
-    m = LATIN_RE.search(stripped)
-    if m and m.group().islower():
-        errors.append(
-            (filepath, lineno, "EN/case", "line should start with an uppercase letter")
-        )
-    # trailing . or ,
     if stripped.endswith(","):
         errors.append((filepath, lineno, "EN/punct", "remove trailing comma"))
     elif stripped.endswith(".") and not stripped.endswith("..."):
@@ -139,25 +128,88 @@ def style_chinese(line, lineno, filepath, errors):
         return
     if stripped.endswith("。"):
         errors.append((filepath, lineno, "ZH/punct", "remove trailing 。"))
-    # spaces used as comma replacement: a space between two CJK segments where
-    # at least one side is a multi-character word (single-char emphasis like
-    # "快 快 快" is allowed)
-    tokens = re.split(r"\s+", stripped)
-    for i in range(len(tokens) - 1):
-        left, right = tokens[i], tokens[i + 1]
-        l_cjk = CJK_RE.search(left)
-        r_cjk = CJK_RE.search(right)
-        l_len = len([c for c in left if CJK_RE.match(c)])
-        r_len = len([c for c in right if CJK_RE.match(c)])
-        if l_cjk and r_cjk and (l_len > 1 or r_len > 1):
-            errors.append(
-                (
-                    filepath,
-                    lineno,
-                    "ZH/space",
-                    "space used as a comma replacement; use ，instead",
-                )
+    if "，" in stripped:
+        errors.append((filepath, lineno, "ZH/comma", "replace ， with a space"))
+    if "?" in stripped or "!" in stripped or "..." in stripped:
+        errors.append(
+            (
+                filepath,
+                lineno,
+                "ZH/halfwidth",
+                "use full-width ？！…… instead of half-width ? ! ...",
             )
+        )
+
+
+def count_cjk(text):
+    return len([c for c in text if CJK_RE.match(c)])
+
+
+def tc_to_ms(tc):
+    m = re.match(
+        r"^(\d{2}):(\d{2}):(\d{2})[,.](\d{3})\s*-->\s*"
+        r"(\d{2}):(\d{2}):(\d{2})[,.](\d{3})$",
+        tc,
+    )
+    if not m:
+        return None
+
+    def to_ms(h, mi, s, ms):
+        return int(h) * 3600000 + int(mi) * 60000 + int(s) * 1000 + int(ms)
+
+    return (
+        to_ms(m.group(1), m.group(2), m.group(3), m.group(4)),
+        to_ms(m.group(5), m.group(6), m.group(7), m.group(8)),
+    )
+
+
+def build_cues(lines, filepath, errors):
+    """Parse raw lines into Cue objects, tolerating whisper's blank lines that
+    separate a timecode from its text (a text-only block attaches to the prior
+    cue)."""
+    blocks = []
+    current = []
+    for lineno, raw in enumerate(lines, start=1):
+        line = raw.rstrip("\r")
+        if raw.rstrip("\r\n") == "" or raw == "":
+            if current:
+                blocks.append(current)
+                current = []
+        else:
+            current.append((lineno, line))
+    if current:
+        blocks.append(current)
+
+    cues = []
+    for block in blocks:
+        idx_lineno, idx_line = block[0]
+        first = idx_line.strip()
+        if INDEX_RE.match(first):
+            idx = int(first)
+            if len(block) >= 2 and TIMECODE_RE.match(block[1][1].strip()):
+                tc_lineno, tc_line = block[1]
+                tc = tc_line.strip()
+                text = block[2:]
+                cues.append(Cue(idx_lineno, idx, tc_lineno, tc, text))
+            else:
+                errors.append(
+                    (
+                        filepath,
+                        idx_lineno,
+                        "struct",
+                        "cue index %d not followed by a timecode line" % idx,
+                    )
+                )
+                text = block[1:]
+                cues.append(Cue(idx_lineno, idx, None, None, text))
+        else:
+            if cues:
+                cues[-1].text.extend(block)
+            else:
+                errors.append(
+                    (filepath, idx_lineno, "struct", "text before any cue")
+                )
+    return cues
 
 
 def lint_one(filepath):
@@ -165,76 +217,103 @@ def lint_one(filepath):
         content = fh.read()
     lines = content.split("\n")
     errors = []
+    warnings = []
 
-    # Split into non-empty-line blocks: each cue = [index, timecode, *text]
-    blocks = []
-    current = []
-    for lineno, raw in enumerate(lines, start=1):
-        line = raw.rstrip("\r").strip("\r")
-        if raw.rstrip("\r\n") == "" or raw == "":
-            if current:
-                blocks.append(current)
-                current = []
-        else:
-            current.append((lineno, raw.rstrip("\r")))
-    if current:
-        blocks.append(current)
+    cues = build_cues(lines, filepath, errors)
 
-    # structural scan across the whole file
+    # --- structural: index sequence + timecode format ---
     prev_index = None
-    saw_reset = False
-    cue_parsed = 0
-    i = 0
-    while i < len(blocks):
-        block = blocks[i]
-        if len(block) < 2:
-            err_lineno = block[0][0] if block else 0
-            errors.append(
-                (
-                    filepath,
-                    err_lineno,
-                    "struct",
-                    "cue block must have index and timecode lines",
-                )
-            )
-            i += 1
-            continue
-        idx_lineno, idx_line = block[0]
-        tc_lineno, tc_line = block[1]
-        idx = int(idx_line) if INDEX_RE.match(idx_line.strip()) else None
-        if idx is None:
-            errors.append((filepath, idx_lineno, "struct", "invalid cue index"))
-        elif idx != (prev_index + 1 if prev_index is not None else 1):
-            # allow a fresh reset (e.g. translated section restarts at 1)
-            if idx == 1:
-                saw_reset = True
-            else:
+    for cue in cues:
+        if cue.index is not None:
+            if prev_index is not None and cue.index != prev_index + 1 and cue.index != 1:
                 errors.append(
                     (
                         filepath,
-                        idx_lineno,
+                        cue.idx_lineno,
                         "struct",
-                        "cue index not sequential (expected %s)"
-                        % (prev_index + 1 if prev_index is not None else 1),
+                        "cue index not sequential (expected %d)" % (prev_index + 1),
                     )
                 )
-            prev_index = idx
-        else:
-            prev_index = idx
-        if not TIMECODE_RE.match(tc_line.strip()):
+            prev_index = cue.index
+        if cue.tc is not None and not TIMECODE_RE.match(cue.tc):
             errors.append(
-                (filepath, tc_lineno, "struct", "invalid timecode line: %r" % tc_line)
+                (filepath, cue.tc_lineno, "struct", "invalid timecode line: %r" % cue.tc)
             )
-        # text lines -> style
-        for t_lineno, text_line in block[2:]:
-            text = text_line
-            if is_chinese(text):
-                style_chinese(text, t_lineno, filepath, errors)
-            elif LATIN_RE.search(text):
-                style_english(text, t_lineno, filepath, errors)
-        i += 1
 
-    return errors
+    # --- style checks on each text line ---
+    for cue in cues:
+        for lineno, text_line in cue.text:
+            if not text_line.strip():
+                continue
+            if is_chinese(text_line):
+                style_chinese(text_line, lineno, filepath, errors)
+            elif LATIN_RE.search(text_line):
+                style_english(text_line, lineno, filepath, errors)
+
+    # --- length warnings (soft) per cue ---
+    for cue in cues:
+        texts = [ln for (_, ln) in cue.text if ln.strip()]
+        if not texts:
+            continue
+        full = " ".join(t.strip() for t in texts)
+        if is_chinese(full):
+            cjk = count_cjk(full)
+            if cjk >= ZH_CJK_LIMIT:
+                warnings.append(
+                    (
+                        filepath,
+                        cue.idx_lineno,
+                        "style/length",
+                        "Chinese line has %d CJK chars (limit < %d)" % (cjk, ZH_CJK_LIMIT),
+                    )
+                )
+        elif LATIN_RE.search(full):
+            chars = len(full)
+            if chars >= EN_CHAR_LIMIT:
+                warnings.append(
+                    (
+                        filepath,
+                        cue.idx_lineno,
+                        "style/length",
+                        "English line has %d chars (limit < %d)" % (chars, EN_CHAR_LIMIT),
+                    )
+                )
+
+    # --- EN/CN pairing (guideline: 中英文同时出现消失) ---
+    split = next(
+        (i for i, cue in enumerate(cues) if any(is_chinese(t) for (_, t) in cue.text)),
+        None,
+    )
+    if split is not None and split > 0:
+        en_run = cues[:split]
+        cn_run = cues[split:]
+        if len(en_run) != len(cn_run):
+            errors.append(
+                (
+                    filepath,
+                    cn_run[0].idx_lineno,
+                    "struct/pairing",
+                    "EN run has %d cues but CN run has %d (timecodes must pair up)"
+                    % (len(en_run), len(cn_run)),
+                )
+            )
+        else:
+            for i, (en, cn) in enumerate(zip(en_run, cn_run), start=1):
+                if en.tc and cn.tc:
+                    en_t = tc_to_ms(en.tc)
+                    cn_t = tc_to_ms(cn.tc)
+                    if en_t is not None and cn_t is not None and en_t != cn_t:
+                        errors.append(
+                            (
+                                filepath,
+                                cn.idx_lineno,
+                                "struct/pairing",
+                                "pair %d timecode mismatch: EN [%s] vs CN [%s]"
+                                % (i, en.tc, cn.tc),
+                            )
+                        )
+
+    return errors, warnings
 
 
 def main(argv=None):
@@ -258,25 +337,36 @@ def main(argv=None):
         print("Auto-fixed %d line(s)." % total_fixed)
 
     all_errors = []
+    all_warnings = []
     for f in files:
-        all_errors.extend(lint_one(f))
+        e, w = lint_one(f)
+        all_errors.extend(e)
+        all_warnings.extend(w)
 
-    if all_errors:
-        from collections import defaultdict
-
+    def print_grouped(items, label):
         by_file = defaultdict(list)
-        for filepath, lineno, code, msg in all_errors:
+        for filepath, lineno, code, msg in items:
             by_file[filepath].append((lineno, code, msg))
         for filepath in sorted(by_file):
             print("%s:" % filepath)
             for lineno, code, msg in sorted(by_file[filepath]):
                 print("  [%s] line %d: %s" % (code, lineno, msg))
-        print("\n%d violation(s) in %d file(s)" % (len(all_errors), len(by_file)))
+        print("\n%d %s in %d file(s)" % (len(items), label, len(by_file)))
+        print()
+
+    if all_errors:
+        print_grouped(all_errors, "violation(s)")
+    if all_warnings:
+        print_grouped(all_warnings, "length warning(s)")
+
+    if all_errors:
         return 1
-    print("OK: no style/structure violations in %d file(s)" % len(files))
+    if all_warnings:
+        print("OK with %d length warning(s); no hard violations." % len(all_warnings))
+        return 0
+    print("OK: no style/structure/length violations in %d file(s)" % len(files))
     return 0
 
 
 if __name__ == "__main__":
     sys.exit(main())
-
