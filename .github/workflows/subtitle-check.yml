@@ -4,9 +4,13 @@ on:
   pull_request:
     paths:
       - "**/*.srt"
+      - "scripts/subtitle_lint.py"
+      - "tests/**"
   push:
     paths:
       - "**/*.srt"
+      - "scripts/subtitle_lint.py"
+      - "tests/**"
 
 permissions:
   contents: read
@@ -42,3 +46,25 @@ jobs:
           # whole file of each changed subtitle is checked
           # shellcheck disable=SC2086
           python3 scripts/subtitle_lint.py $FILES
+
+  test-lint:
+    runs-on: ubuntu-latest
+    if: |
+      always() && (
+        contains(github.event.pull_request.changed_files, 'scripts/subtitle_lint.py') ||
+        contains(github.event.pull_request.changed_files, 'tests')
+      )
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install pytest
+        run: pip install pytest
+
+      - name: Run lint unit tests
+        run: python3 -m pytest tests/ -q

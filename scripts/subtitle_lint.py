@@ -13,14 +13,15 @@ Style checks (per text line, from guidelines.md):
     * no trailing "。"
     * no mid-sentence "，" (use spaces instead)
     * full-width "？" "！" "……" "（）" (no half-width "?" "!" "..." "(" ")")
+    * a space separates Chinese from non-Chinese characters
 
 Length checks (soft warnings, do not affect exit code):
   English: < 102 characters (spaces counted)
   Chinese: < 32 CJK characters
 
 With --fix, auto-fixable style violations (EN/punct, ZH/punct, ZH/comma,
-ZH/halfwidth) are rewritten in place. Structure issues and length warnings
-are never auto-fixed.
+ZH/halfwidth, ZH/space) are rewritten in place. Structure issues and length
+warnings are never auto-fixed.
 
 Exit code is non-zero if any hard violation is found; soft length warnings do
 not fail.
@@ -34,6 +35,9 @@ from collections import defaultdict
 
 CJK_RE = re.compile(r"[\u4e00-\u9fff]")
 LATIN_RE = re.compile(r"[\u0041-\u024f]")
+NOT_SPACED_CJK = re.compile(
+    r"(?<=[\u4e00-\u9fff])[\u0041-\u024f0-9]|[\u0041-\u024f0-9](?=[\u4e00-\u9fff])"
+)
 
 TIMECODE_RE = re.compile(
     r"^\d{2}:\d{2}:\d{2}[,.]\d{3}\s*-->\s*\d{2}:\d{2}:\d{2}[,.]\d{3}$"
@@ -79,7 +83,14 @@ def fix_chinese(line):
     stripped = stripped.replace("，", " ")
     stripped = stripped.replace("...", "……").replace("?", "？").replace("!", "！")
     stripped = stripped.replace("(", "（").replace(")", "）")
+    stripped = space_cjk_latin(stripped)
     return lead + stripped
+
+
+def space_cjk_latin(text):
+    text = re.sub(r"([\u4e00-\u9fff])(?=[\u0041-\u024f0-9])", r"\1 ", text)
+    text = re.sub(r"([\u0041-\u024f0-9])(?=[\u4e00-\u9fff])", r"\1 ", text)
+    return text
 
 
 def read_lines(filepath):
@@ -138,6 +149,15 @@ def style_chinese(line, lineno, filepath, errors):
                 lineno,
                 "ZH/halfwidth",
                 "use full-width ？！……（） instead of half-width ? ! ... ( )",
+            )
+        )
+    if NOT_SPACED_CJK.search(stripped):
+        errors.append(
+            (
+                filepath,
+                lineno,
+                "ZH/space",
+                "add a space between Chinese and non-Chinese characters",
             )
         )
 
