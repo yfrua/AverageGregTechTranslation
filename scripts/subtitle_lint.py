@@ -5,6 +5,7 @@ Structure checks:
   * cue index lines are valid sequential integers (allowing a fresh reset)
   * timecode lines match HH:MM:SS,mmm --> HH:MM:SS,mmm
   * the EN run and the CN run (parallel translations sharing timecodes) pair up
+    (warning only; comment cues wrapped in （） are excluded from pairing)
 
 Style checks (per text line, from guidelines.md):
   English:
@@ -23,8 +24,8 @@ With --fix, auto-fixable style violations (EN/punct, ZH/punct, ZH/comma,
 ZH/halfwidth, ZH/space) are rewritten in place. Structure issues and length
 warnings are never auto-fixed.
 
-Exit code is non-zero if any hard violation is found; soft length warnings do
-not fail.
+Exit code is non-zero if any hard violation is found. Soft length warnings and
+EN/CN pairing warnings (count or timecode) do not fail.
 """
 
 import argparse
@@ -122,6 +123,18 @@ def fix_one(filepath):
 
 def is_chinese(text):
     return bool(CJK_RE.search(text))
+
+
+def is_comment_cue(cue):
+    if not cue.text:
+        return False
+    first = cue.text[0][1].strip()
+    last = cue.text[-1][1].strip()
+    if not first or not last:
+        return False
+    return (first.startswith("(") or first.startswith("\uff08")) and (
+        last.endswith(")") or last.endswith("\uff09")
+    )
 
 
 def style_english(line, lineno, filepath, errors):
@@ -300,16 +313,17 @@ def lint_one(filepath):
                     )
                 )
 
-    # --- EN/CN pairing (guideline: 中英文同时出现消失) ---
+    # --- EN/CN pairing (warning only; comment cues are excluded) ---
+    real = [cue for cue in cues if not is_comment_cue(cue)]
     split = next(
-        (i for i, cue in enumerate(cues) if any(is_chinese(t) for (_, t) in cue.text)),
+        (i for i, cue in enumerate(real) if any(is_chinese(t) for (_, t) in cue.text)),
         None,
     )
     if split is not None and split > 0:
-        en_run = cues[:split]
-        cn_run = cues[split:]
+        en_run = real[:split]
+        cn_run = real[split:]
         if len(en_run) != len(cn_run):
-            errors.append(
+            warnings.append(
                 (
                     filepath,
                     cn_run[0].idx_lineno,
@@ -324,7 +338,7 @@ def lint_one(filepath):
                     en_t = tc_to_ms(en.tc)
                     cn_t = tc_to_ms(cn.tc)
                     if en_t is not None and cn_t is not None and en_t != cn_t:
-                        errors.append(
+                        warnings.append(
                             (
                                 filepath,
                                 cn.idx_lineno,
@@ -378,12 +392,12 @@ def main(argv=None):
     if all_errors:
         print_grouped(all_errors, "violation(s)")
     if all_warnings:
-        print_grouped(all_warnings, "length warning(s)")
+        print_grouped(all_warnings, "warning(s)")
 
     if all_errors:
         return 1
     if all_warnings:
-        print("OK with %d length warning(s); no hard violations." % len(all_warnings))
+        print("OK with %d warning(s); no hard violations." % len(all_warnings))
         return 0
     print("OK: no style/structure/length violations in %d file(s)" % len(files))
     return 0
