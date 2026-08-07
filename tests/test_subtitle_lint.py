@@ -169,7 +169,8 @@ def test_lint_pairing_count_mismatch(tmp_path):
         "3\n00:00:00,000 --> 00:00:02,000\n你好\n\n"
     )
     errors, warnings = sl.lint_one(_write(tmp_path, srt))
-    assert any(e[2] == "struct/pairing" for e in errors)
+    assert any(w[2] == "struct/pairing" for w in warnings)
+    assert all(e[2] != "struct/pairing" for e in errors)
 
 
 def test_lint_pairing_timecode_mismatch(tmp_path):
@@ -178,8 +179,20 @@ def test_lint_pairing_timecode_mismatch(tmp_path):
         "2\n00:00:00,000 --> 00:00:02,000\n你好\n\n"
     )
     errors, warnings = sl.lint_one(_write(tmp_path, srt))
-    pairing = [e for e in errors if e[2] == "struct/pairing"]
+    pairing = [w for w in warnings if w[2] == "struct/pairing"]
     assert pairing and "timecode mismatch" in pairing[0][3]
+    assert all(e[2] != "struct/pairing" for e in errors)
+
+
+def test_lint_comment_cue_excluded_from_pairing(tmp_path):
+    srt = (
+        "1\n00:00:00,000 --> 00:00:02,000\nhello\n\n"
+        "2\n00:00:00,000 --> 00:00:02,000\n你好\n\n"
+        "3\n00:00:00,000 --> 00:00:02,000\n（我只是在开玩笑\n不是字幕）\n\n"
+    )
+    errors, warnings = sl.lint_one(_write(tmp_path, srt))
+    assert all(w[2] != "struct/pairing" for w in warnings)
+    assert all(e[2] != "struct/pairing" for e in errors)
 
 
 def test_lint_length_warnings(tmp_path):
