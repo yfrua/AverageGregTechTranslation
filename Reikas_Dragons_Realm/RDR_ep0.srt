@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:04,533
-Hello everyone, today we are going to try out Dragon's Realm
+Hello everyone, today we are going to try out Dragons Realm
 
 2
 00:00:04,533 --> 00:00:07,066
@@ -68,7 +68,7 @@ And, once the night comes, we go explore the caves under the surface
 
 18
 00:01:19,400 --> 00:01:22,266
-Where we find some quite interesting things
+where we find some quite interesting things
 
 19
 00:01:22,900 --> 00:01:25,933
@@ -248,7 +248,7 @@ And I gotta say, just checking out that tree cleaned out my eyes from that helli
 
 63
 00:05:12,300 --> 00:05:19,300
-Once we get home, we use our new loot to craft and build a blast furnace, we went with the railcraft one
+Once we get home, we use our new loot to craft and build a blast furnace, we went with the RailCraft one
 
 64
 00:05:19,800 --> 00:05:24,800
@@ -256,11 +256,11 @@ And it was when we tried to use it, that we found out something was wrong
 
 65
 00:05:25,800 --> 00:05:31,800
-Apparently, both railcraft and immersive blast furnaces require some enriched coal to work
+Apparently, both RailCraft and Immersive Engineering blast furnaces require some enriched coal to work
 
 66
 00:05:32,300 --> 00:05:36,800
-Luckily, we can quickly make it in a buildcraft assembly table
+Luckily, we can quickly make it in a BuildCraft assembly table
 
 67
 00:05:37,300 --> 00:05:41,800
@@ -296,7 +296,7 @@ Once it reaches 600 degrees, we can finally use it to make the most used metal o
 
 75
 00:06:20,800 --> 00:06:26,300
-And our first usage for it shall be a work table, required to make RF cables
+And our first usage for it shall be a worktable, required to make RF cables
 
 76
 00:06:26,800 --> 00:06:29,400
