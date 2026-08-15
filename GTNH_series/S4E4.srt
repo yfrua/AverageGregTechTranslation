@@ -1632,7 +1632,7 @@ Should be, let's check if they changed it too
 
 409
 00:22:27,566 --> 00:22:29,300
-Yeah, you electrolyze this sphalerite (本句时间轴稍改)
+Yeah, you electrolyze this sphalerite （本句时间轴稍改）
 
 410
 00:22:29,300 --> 00:22:31,566
@@ -2996,7 +2996,7 @@ Bye bye
 
 750
 00:13:43,566 --> 00:13:47,300
-最可行  ·的方法 我建议从石油开始
+最可行  · 的方法 我建议从石油开始
 
 751
 00:13:48,366 --> 00:13:50,400
