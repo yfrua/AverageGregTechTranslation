@@ -196,7 +196,7 @@ def test_lint_comment_cue_excluded_from_pairing(tmp_path):
 
 
 def test_lint_length_warnings(tmp_path):
-    long_en = "x" * 105
+    long_en = "x" * 115
     long_zh = "汉" * 35
     srt = (
         "1\n00:00:00,000 --> 00:00:02,000\n%s\n\n"

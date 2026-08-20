@@ -17,7 +17,7 @@ Style checks (per text line, from guidelines.md):
     * a space separates Chinese from non-Chinese characters
 
 Length checks (soft warnings, do not affect exit code):
-  English: < 102 characters (spaces counted)
+  English: < 110 characters (spaces counted)
   Chinese: < 32 CJK characters
 
 With --fix, auto-fixable style violations (EN/punct, ZH/punct, ZH/comma,
