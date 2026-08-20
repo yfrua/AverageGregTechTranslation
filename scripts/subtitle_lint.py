@@ -31,7 +31,6 @@ EN/CN pairing warnings (count or timecode) do not fail.
 import argparse
 import re
 import sys
-
 from collections import defaultdict
 
 CJK_RE = re.compile(r"[\u4e00-\u9fff]")
@@ -155,7 +154,13 @@ def style_chinese(line, lineno, filepath, errors):
         errors.append((filepath, lineno, "ZH/punct", "remove trailing 。"))
     if "，" in stripped:
         errors.append((filepath, lineno, "ZH/comma", "replace ， with a space"))
-    if "?" in stripped or "!" in stripped or "..." in stripped or "(" in stripped or ")" in stripped:
+    if (
+        "?" in stripped
+        or "!" in stripped
+        or "..." in stripped
+        or "(" in stripped
+        or ")" in stripped
+    ):
         errors.append(
             (
                 filepath,
@@ -240,9 +245,7 @@ def build_cues(lines, filepath, errors):
             if cues:
                 cues[-1].text.extend(block)
             else:
-                errors.append(
-                    (filepath, idx_lineno, "struct", "text before any cue")
-                )
+                errors.append((filepath, idx_lineno, "struct", "text before any cue"))
     return cues
 
 
@@ -259,7 +262,11 @@ def lint_one(filepath):
     prev_index = None
     for cue in cues:
         if cue.index is not None:
-            if prev_index is not None and cue.index != prev_index + 1 and cue.index != 1:
+            if (
+                prev_index is not None
+                and cue.index != prev_index + 1
+                and cue.index != 1
+            ):
                 errors.append(
                     (
                         filepath,
@@ -271,7 +278,12 @@ def lint_one(filepath):
             prev_index = cue.index
         if cue.tc is not None and not TIMECODE_RE.match(cue.tc):
             errors.append(
-                (filepath, cue.tc_lineno, "struct", "invalid timecode line: %r" % cue.tc)
+                (
+                    filepath,
+                    cue.tc_lineno,
+                    "struct",
+                    "invalid timecode line: %r" % cue.tc,
+                )
             )
 
     # --- style checks on each text line ---
@@ -298,7 +310,8 @@ def lint_one(filepath):
                         filepath,
                         cue.idx_lineno,
                         "style/length",
-                        "Chinese line has %d CJK chars (limit < %d)" % (cjk, ZH_CJK_LIMIT),
+                        "Chinese line has %d CJK chars (limit < %d)"
+                        % (cjk, ZH_CJK_LIMIT),
                     )
                 )
         elif LATIN_RE.search(full):
@@ -309,7 +322,8 @@ def lint_one(filepath):
                         filepath,
                         cue.idx_lineno,
                         "style/length",
-                        "English line has %d chars (limit < %d)" % (chars, EN_CHAR_LIMIT),
+                        "English line has %d chars (limit < %d)"
+                        % (chars, EN_CHAR_LIMIT),
                     )
                 )
 
@@ -405,3 +419,4 @@ def main(argv=None):
 
 if __name__ == "__main__":
     sys.exit(main())
+
