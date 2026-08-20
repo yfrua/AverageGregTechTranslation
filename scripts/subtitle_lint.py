@@ -44,7 +44,7 @@ TIMECODE_RE = re.compile(
 )
 INDEX_RE = re.compile(r"^\d+$")
 
-EN_CHAR_LIMIT = 102
+EN_CHAR_LIMIT = 110
 ZH_CJK_LIMIT = 32
 
 
