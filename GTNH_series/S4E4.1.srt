@@ -1,0 +1,1244 @@
+1
+00:00:00,733 --> 00:00:01,866
+Welcome back
+
+2
+00:00:01,866 --> 00:00:03,700
+and this is going to be a filler episode
+
+3
+00:00:04,600 --> 00:00:08,566
+So I'm mostly going to talk 20 minutes on how to craft an electrolyzer
+
+4
+00:00:08,633 --> 00:00:12,466
+how to pick the recipes for crafting it
+
+5
+00:00:13,066 --> 00:00:14,300
+and that's going to be it
+
+6
+00:00:15,066 --> 00:00:18,500
+Next episode I'm going to actually do some infrastructure, hopefully
+
+7
+00:00:19,233 --> 00:00:23,800
+So if you want a bunch of random tips for MV and LV
+
+8
+00:00:24,300 --> 00:00:25,700
+go ahead and watch the rest
+
+9
+00:00:25,733 --> 00:00:28,466
+If you just want to see me building infrastructure
+
+10
+00:00:28,466 --> 00:00:30,566
+just skip this episode, go to the next one
+
+11
+00:00:30,566 --> 00:00:34,700
+because this episode is just going to be a filler about crafting an electrolyzer
+
+12
+00:00:36,200 --> 00:00:36,800
+Welcome back
+
+13
+00:00:36,800 --> 00:00:39,033
+and today we are going to start the MV tier
+
+14
+00:00:39,766 --> 00:00:42,500
+Now, last episode I didn't even finish the circuits
+
+15
+00:00:42,500 --> 00:00:46,033
+because I wasn't sure which recipe to go with the diodes
+
+16
+00:00:46,033 --> 00:00:49,366
+and I think this tier we are going to see today
+
+17
+00:00:50,233 --> 00:00:55,700
+is mostly going to be about figuring out how we want to do things and which recipes to use
+
+18
+00:00:56,733 --> 00:01:01,200
+And that issue will start right away from the next quest
+
+19
+00:01:01,200 --> 00:01:02,066
+getting a circuit board
+
+20
+00:01:02,533 --> 00:01:07,466
+The quest book here makes you think that you should go with this recipe
+
+21
+00:01:08,033 --> 00:01:09,700
+which I think is totally wrong
+
+22
+00:01:09,700 --> 00:01:12,533
+because if you make a good circuit board like that
+
+23
+00:01:12,566 --> 00:01:16,066
+you're going to need four gold ingots to make a circuit board
+
+24
+00:01:16,766 --> 00:01:20,733
+but if you go with this way you can only use one ingot
+
+25
+00:01:21,033 --> 00:01:25,500
+So this recipe is four times cheaper on gold
+
+26
+00:01:25,500 --> 00:01:27,833
+and I think it's totally worth to use that recipe
+
+27
+00:01:28,566 --> 00:01:33,000
+And of course, once again we have to choose if we want to do iron III chloride or sodium persulfate
+
+28
+00:01:34,533 --> 00:01:42,566
+I think that can be a good exercise to figure out NEI and look around at which way you rather do
+
+29
+00:01:43,700 --> 00:01:46,300
+And I've decided to go with iron III chloride
+
+30
+00:01:46,300 --> 00:01:48,100
+which is probably a little bit easier
+
+31
+00:01:48,100 --> 00:01:52,666
+because sodium persulfate is easier if you already have sulfuric acid
+
+32
+00:01:53,033 --> 00:01:57,300
+I would have got this from oil processing, maybe
+
+33
+00:01:57,300 --> 00:02:00,300
+but, I think I just go with iron III chloride (?)
+
+34
+00:02:00,566 --> 00:02:02,633
+Also, you need less iron III chloride
+
+35
+00:02:02,800 --> 00:02:06,033
+If you use sodium persulfate you need twice as much
+
+36
+00:02:06,033 --> 00:02:08,600
+but once again you can have this one in bigger bulks
+
+37
+00:02:09,100 --> 00:02:14,866
+So anyways, to get this one we are going to need some hydrochloric acid
+
+38
+00:02:15,000 --> 00:02:18,566
+That's the main issue, but the issue really is hydrogen
+
+39
+00:02:19,733 --> 00:02:25,666
+Now the laziest way of getting hydrogen is to just electrolyze some water
+
+40
+00:02:25,700 --> 00:02:31,566
+but that is also the slowest possible way of doing it
+
+41
+00:02:31,566 --> 00:02:37,266
+because it takes 50 seconds at full power for one cell
+
+42
+00:02:38,500 --> 00:02:47,733
+The better way, which is a little bit more annoying however to do, is to simply centrifuge some limonite
+
+43
+00:02:49,000 --> 00:02:51,766
+So I already got here some limonite
+
+44
+00:02:52,700 --> 00:02:54,000
+We wash it
+
+45
+00:02:55,700 --> 00:02:59,100
+This one goes into a centrifuge with a cell
+
+46
+00:03:00,433 --> 00:03:02,633
+And of course that is the centrifuge I'm using too
+
+47
+00:03:03,633 --> 00:03:05,233
+So it should be quite fast
+
+48
+00:03:06,433 --> 00:03:07,900
+We should get another hatch
+
+49
+00:03:09,900 --> 00:03:12,300
+Okay, that should make it work
+
+50
+00:03:12,700 --> 00:03:13,233
+Come on
+
+51
+00:03:13,600 --> 00:03:14,266
+Okay, good
+
+52
+00:03:14,800 --> 00:03:17,300
+Getting hydrogen from a steam centrifuge
+
+53
+00:03:18,033 --> 00:03:20,900
+Half a minute to get six cells of hydrogen
+
+54
+00:03:21,633 --> 00:03:23,366
+That basically fills up the output hatch
+
+55
+00:03:24,400 --> 00:03:25,666
+Once it's done, we collect the hydrogen
+
+56
+00:03:26,266 --> 00:03:28,266
+And I like to use the large cells
+
+57
+00:03:30,100 --> 00:03:32,500
+Choose whatever cells you have available really
+
+58
+00:03:32,900 --> 00:03:34,500
+I really like the large cells
+
+59
+00:03:35,033 --> 00:03:36,500
+but you can totally work with those
+
+60
+00:03:36,600 --> 00:03:39,666
+You have to use those in the recipes anyways later
+
+61
+00:03:39,966 --> 00:03:43,900
+But anyways, you only need a little bit of hydrogen because then it loops
+
+62
+00:03:44,533 --> 00:03:45,766
+Let's get there and you will see
+
+63
+00:03:46,933 --> 00:03:50,233
+The second ingredient is going to be some chlorine
+
+64
+00:03:51,366 --> 00:03:54,000
+Now chlorine, you most likely want to get it out of salt
+
+65
+00:03:54,666 --> 00:03:58,200
+And if you use rock salt, it should be better
+
+66
+00:03:59,133 --> 00:04:01,300
+Let me check so, chlorine
+
+67
+00:04:02,633 --> 00:04:05,833
+Yeah, it takes some time to see everything
+
+68
+00:04:06,066 --> 00:04:06,900
+I rush on my things. (?)
+
+69
+00:04:07,500 --> 00:04:11,400
+Rock salt takes four seconds, while normal salt takes 16 seconds
+
+70
+00:04:12,166 --> 00:04:15,066
+It's like five times faster normal rock salt
+
+71
+00:04:16,366 --> 00:04:18,966
+Sodium may be a little bit more useful than potassium
+
+72
+00:04:18,966 --> 00:04:20,566
+but at the beginning...
+
+73
+00:04:20,933 --> 00:04:22,233
+(it's/that's going to?) go with this one
+
+74
+00:04:23,133 --> 00:04:25,666
+I mean, I'm not using the electrolyzer for anything else
+
+75
+00:04:25,666 --> 00:04:27,333
+So I could just leave it work
+
+76
+00:04:29,366 --> 00:04:32,000
+But let's (wait?) this way
+
+77
+00:04:33,800 --> 00:04:35,100
+Okay, got some rock salt
+
+78
+00:04:35,300 --> 00:04:36,833
+I'm going to process more later
+
+79
+00:04:39,033 --> 00:04:41,400
+Okay, that should quickly get us the chlorine
+
+80
+00:04:42,666 --> 00:04:46,600
+This is something that most likely you want to have a dedicated machine for
+
+81
+00:04:47,733 --> 00:04:49,300
+Right now I'm doing it because...
+
+82
+00:04:49,300 --> 00:04:52,366
+Right now my setup is super small, tight and ugly
+
+83
+00:04:53,600 --> 00:04:57,866
+Later on, when I have things setup a little better, I'm going to passivate
+
+84
+00:04:57,866 --> 00:05:02,766
+Usually I will passivate from the first usage, so I never do it manually
+
+85
+00:05:03,133 --> 00:05:06,333
+But doing things manually is also nice sometimes
+
+86
+00:05:07,766 --> 00:05:13,166
+And I just figured out I have never made a chemical reactor so far
+
+87
+00:05:14,800 --> 00:05:16,566
+Okay, I got a chemical reactor
+
+88
+00:05:17,000 --> 00:05:19,600
+Circuit one, hydrogen and chlorine
+
+89
+00:05:20,166 --> 00:05:22,633
+And that should get us the hydrochloric acid
+
+90
+00:05:23,000 --> 00:05:23,733
+Good
+
+91
+00:05:24,866 --> 00:05:30,933
+And now that we have that, we can finish it off by adding iron dust
+
+92
+00:05:32,566 --> 00:05:33,466
+And there we go
+
+93
+00:05:33,633 --> 00:05:36,666
+We also got the hydrogen back, which we can use to make more later
+
+94
+00:05:37,033 --> 00:05:38,966
+But we don't really need much of this
+
+95
+00:05:39,300 --> 00:05:41,500
+Two buckets is already enough for 20 circuits
+
+96
+00:05:41,666 --> 00:05:44,600
+But I'm going to make just two circuits right now
+
+97
+00:05:45,200 --> 00:05:46,766
+We will talk about this soon
+
+98
+00:05:47,733 --> 00:05:49,466
+Meanwhile I already got the gold foil
+
+99
+00:05:49,466 --> 00:05:51,066
+    and this thing...
+
+100
+00:05:51,966 --> 00:05:54,133
+which goes back in there
+
+101
+00:05:54,566 --> 00:05:56,066
+with a little bit of that
+
+102
+00:05:56,500 --> 00:05:59,000
+And we get the circuit boards
+
+103
+00:05:59,733 --> 00:06:03,333
+The other thing we needed was the diodes
+
+104
+00:06:03,800 --> 00:06:05,233
+The other thing we need is diodes
+
+105
+00:06:06,433 --> 00:06:08,166
+Those are made from gallium arsenide
+
+106
+00:06:08,333 --> 00:06:10,433
+Why did this one not (?)
+
+107
+00:06:11,533 --> 00:06:13,033
+Okay, we got this one
+
+108
+00:06:13,500 --> 00:06:15,533
+Now, as I said in the last episode
+
+109
+00:06:17,166 --> 00:06:24,800
+ideally I will try to get polyethylene and wafers to get a lot of diodes
+
+110
+00:06:25,533 --> 00:06:28,733
+But this run, I decided to do things differently
+
+111
+00:06:28,733 --> 00:06:30,300
+so I'm going to rush through the circuits
+
+112
+00:06:30,300 --> 00:06:33,300
+and then I will work slightly differently
+
+113
+00:06:34,100 --> 00:06:35,100
+So, I got those
+
+114
+00:06:36,933 --> 00:06:43,033
+If I went with the silicon boules, I would have to forge hammer into the tiny version
+
+115
+00:06:43,133 --> 00:06:45,833
+but instead I'm going to macerate it to get the dust
+
+116
+00:06:47,233 --> 00:06:49,633
+   Actually, you know what, I'm macerating both of those
+
+117
+00:06:50,566 --> 00:06:53,000
+This one is busy, let's use this one
+
+118
+00:06:55,133 --> 00:06:58,500
+OK, while it macerates the other thing we need is glass
+
+119
+00:06:58,500 --> 00:07:00,633
+now there are two different glasses
+
+120
+00:07:00,633 --> 00:07:02,733
+one is the Tinker's Construct
+
+121
+00:07:02,733 --> 00:07:05,166
+the other one is the GregTech one
+
+122
+00:07:05,700 --> 00:07:07,266
+you can put a bucket...
+
+123
+00:07:07,266 --> 00:07:10,766
+to get this one, you put glass dust inside this smeltery
+
+124
+00:07:10,766 --> 00:07:12,100
+you put a bucket in there
+
+125
+00:07:12,100 --> 00:07:13,533
+and you pour it out
+
+126
+00:07:14,033 --> 00:07:16,033
+maybe that's a way I could do
+
+127
+00:07:16,900 --> 00:07:22,000
+the GregTech one, ideally you want to use glass or sand
+
+128
+00:07:22,000 --> 00:07:24,566
+but that requires MV, we don't have MV
+
+129
+00:07:25,500 --> 00:07:29,333
+so I think I have some (?)
+
+130
+00:07:29,333 --> 00:07:31,800
+yeah you can do it (with quartzite at LV?)
+
+131
+00:07:31,800 --> 00:07:33,933
+but it's one minute to get one glass
+
+132
+00:07:34,666 --> 00:07:38,200
+at this point I think I would rather use this smeltery
+
+133
+00:07:38,766 --> 00:07:43,233
+so let's get a little bit of quartz sand
+
+134
+00:07:44,466 --> 00:07:47,333
+gosh I have to macerate more stuff
+
+135
+00:07:49,233 --> 00:07:50,533
+to get sand it's easy
+
+136
+00:07:51,533 --> 00:07:54,033
+soon there would be a better way of getting glass too
+
+137
+00:07:54,033 --> 00:07:56,966
+you need a MV arc furnace which we are going to get later
+
+138
+00:07:56,966 --> 00:07:59,433
+but okay to get sand also...
+
+139
+00:08:00,700 --> 00:08:02,300
+oh there are sand crops
+
+140
+00:08:02,300 --> 00:08:04,800
+I'm going to do crops in the future
+
+141
+00:08:05,466 --> 00:08:08,300
+right now... I like to do crops after I get world accelerators
+
+142
+00:08:08,300 --> 00:08:10,566
+the new crops should be really nice to work with
+
+143
+00:08:10,566 --> 00:08:13,600
+theoretically, you can do those like in stone age
+
+144
+00:08:14,033 --> 00:08:19,566
+but I feel like I have better things I can do in stone age
+
+145
+00:08:19,566 --> 00:08:23,566
+I'd rather do those while I'm waiting for something else and when I already have the world accelerators
+
+146
+00:08:23,866 --> 00:08:27,033
+anyways, I was looking for...
+
+147
+00:08:27,033 --> 00:08:33,733
+okay I wanted to show, to get sand, I think it's easier to just forge jammer some gravel
+
+148
+00:08:33,733 --> 00:08:36,733
+and you get gravel from forge hammering cobblestone
+
+149
+00:08:36,733 --> 00:08:40,233
+I mean you can go dig the sand or the gravel
+
+150
+00:08:40,233 --> 00:08:43,900
+but most likely you have so much cobblestone from using the hammer that...
+
+151
+00:08:45,066 --> 00:08:48,433
+just forge hammer it, it's super easy super fast
+
+152
+00:08:49,166 --> 00:08:52,666
+and then I was going to do glass the ugly way
+
+153
+00:08:52,666 --> 00:08:57,566
+which means sand into quartz sand and then into glass dust
+
+154
+00:09:01,966 --> 00:09:03,300
+there we go
+
+155
+00:09:03,300 --> 00:09:05,766
+and I made way too much
+
+156
+00:09:05,766 --> 00:09:07,600
+we only need how much per diode?
+
+157
+00:09:08,700 --> 00:09:12,200
+one bucket I think, yeah one bucket two diodes
+
+158
+00:09:12,700 --> 00:09:15,766
+I'm going to do just two of those
+
+159
+00:09:16,366 --> 00:09:18,933
+because I'm only going to make two circuits
+
+160
+00:09:18,933 --> 00:09:23,033
+and then I will wait basically half of the video before making more
+
+161
+00:09:23,666 --> 00:09:27,366
+ideally I'm going to use those two circuits for an electrolyzer
+
+162
+00:09:27,366 --> 00:09:30,766
+but ideally you should really get a circuit assembler
+
+163
+00:09:30,766 --> 00:09:34,800
+anyways once it's molten we move it down, put the buckets there
+
+164
+00:09:34,833 --> 00:09:41,966
+And we should be able to, yes, get the glass like that inside the bucket
+
+165
+00:09:42,633 --> 00:09:45,633
+does it work? well it should, okay
+
+166
+00:09:45,633 --> 00:09:49,200
+there we got one of those buckets
+
+167
+00:09:50,266 --> 00:09:53,566
+the stuff goes into the assembler
+
+168
+00:09:53,733 --> 00:09:55,366
+one two
+
+169
+00:09:56,366 --> 00:09:59,800
+this one must be, what is it
+
+170
+00:10:01,900 --> 00:10:06,700
+okay oh I think if I had annealed copper
+
+171
+00:10:09,166 --> 00:10:13,000
+yeah annealed copper probably works better
+
+172
+00:10:13,000 --> 00:10:15,400
+but I think I have to use poly...
+
+173
+00:10:15,400 --> 00:10:19,133
+there are some combinations which maybe don't work
+
+174
+00:10:19,133 --> 00:10:21,133
+let's see, annealed...
+
+175
+00:10:21,933 --> 00:10:23,733
+yeah you need polyethylene to use annealed copper
+
+176
+00:10:23,733 --> 00:10:25,366
+so I'm not even bothering
+
+177
+00:10:25,900 --> 00:10:27,800
+I didn't get an arc furnace yet
+
+178
+00:10:27,800 --> 00:10:30,166
+you can get an arc furnace at this point
+
+179
+00:10:30,166 --> 00:10:34,966
+like I can get a LV arc furnace for annealed copper and cast iron
+
+180
+00:10:34,966 --> 00:10:40,833
+they renamed wrought iron into cast iron by the way
+
+181
+00:10:42,900 --> 00:10:44,633
+what the heck
+
+182
+00:10:44,633 --> 00:10:49,133
+okay they changed many things since the last time I played
+
+183
+00:10:49,133 --> 00:10:52,766
+so that is how you get it now, cool
+
+184
+00:10:53,100 --> 00:10:56,633
+okay now I'm wondering if it is worth it
+
+185
+00:10:57,666 --> 00:10:59,533
+ that thing has some fuel value
+
+186
+00:11:00,566 --> 00:11:06,766
+but okay anyways I'm skipping to a MV arc furnace which can do better stuff
+
+187
+00:11:07,600 --> 00:11:13,233
+And that remind me of something I didn't really explain properly in the previous episode
+
+188
+00:11:13,600 --> 00:11:17,033
+Earlier on, to get cast iron, we have to compress nuggets
+
+189
+00:11:17,033 --> 00:11:20,700
+which we would have to make by smelting a nugget again
+
+190
+00:11:21,533 --> 00:11:26,333
+and maybe some people would go with this recipe and mold ingots into nuggets
+
+191
+00:11:26,866 --> 00:11:32,933
+now instead of doing that, you can smelt a pure iron ore into nuggets
+
+192
+00:11:32,933 --> 00:11:36,033
+The thing is that, every pure metal
+
+193
+00:11:36,033 --> 00:11:39,433
+like crushed iron, crushed copper, crushed silver, crushed gold
+
+194
+00:11:39,433 --> 00:11:42,033
+will give you 10 nuggets instead of an ingot
+
+195
+00:11:42,033 --> 00:11:46,233
+to use something like pyrite, it will give you an iron ingot
+
+196
+00:11:46,233 --> 00:11:49,733
+so you can get either ingots or nuggets depending on what it is
+
+197
+00:11:49,766 --> 00:11:53,333
+the rule is if it is a pure metal, it will give you 10 nuggets
+
+198
+00:11:53,333 --> 00:11:56,033
+if it is an oxide, it will give you one ingot
+
+199
+00:11:56,033 --> 00:11:59,333
+Sometimes you want the nuggets, sometimes the ingot
+
+200
+00:11:59,333 --> 00:12:04,066
+If you want to force the ingot, you can just forge hammer it
+
+201
+00:12:04,066 --> 00:12:07,300
+and then the crushed dust will always melt into an ingot
+
+202
+00:12:07,300 --> 00:12:11,400
+but to make cast iron, it's quite nice to get the nuggets this way
+
+203
+00:12:12,200 --> 00:12:17,766
+meanwhile there is stuff like copper which I think is super annoying if it gives you nuggets
+
+204
+00:12:17,766 --> 00:12:20,066
+but as I said in the previous episode
+
+205
+00:12:20,066 --> 00:12:24,466
+you probably want to process copper differently to get the gold dust
+
+206
+00:12:24,866 --> 00:12:28,933
+so try to figure out how you want to process the different ores
+
+207
+00:12:29,666 --> 00:12:32,600
+anyways I don't even know how I got into that
+
+208
+00:12:32,600 --> 00:12:35,266
+but we can now have the diodes
+
+209
+00:12:38,233 --> 00:12:42,233
+which we can use to make the MV circuits finally
+
+210
+00:12:42,766 --> 00:12:43,700
+come on
+
+211
+00:12:44,000 --> 00:12:45,866
+oh, did I forget something?
+
+212
+00:12:46,200 --> 00:12:49,733
+OH! This quest book wanted these
+
+213
+00:12:51,333 --> 00:12:53,833
+And now that we have 16 diodes
+
+214
+00:12:54,266 --> 00:12:59,900
+we can finally make a few circuits after my plan got changed so many times
+
+215
+00:13:00,800 --> 00:13:06,233
+Now, the first circuit we have to make it with the crafting recipe in the crafting table
+
+216
+00:13:06,233 --> 00:13:08,600
+which takes three of those circuits
+
+217
+00:13:09,366 --> 00:13:15,733
+and then I guess we're going to get a circuit assembler so that we can use only two circuits to make one MV
+
+218
+00:13:16,500 --> 00:13:18,833
+and there we go
+
+219
+00:13:21,800 --> 00:13:24,600
+okay we got our circuit assembler
+
+220
+00:13:25,100 --> 00:13:28,200
+and now we can start assembling circuits
+
+221
+00:13:28,200 --> 00:13:36,166
+now once again always check the recipes because this circuit here too will now be way cheaper
+
+222
+00:13:36,200 --> 00:13:37,666
+instead of...
+
+223
+00:13:38,833 --> 00:13:40,400
+maybe not even that much
+
+224
+00:13:41,033 --> 00:13:47,866
+we save basically a little bit of steel and the rubber, we save the rubber
+
+225
+00:13:48,633 --> 00:13:51,566
+and also once again I didn't show it up
+
+226
+00:13:51,566 --> 00:13:58,566
+but you can make vacuum tubes way cheaper inside an assembler rather than in those recipes
+
+227
+00:13:58,566 --> 00:14:03,400
+like mostly MV is the tier where you really want to check all of your recipes
+
+228
+00:14:03,400 --> 00:14:09,666
+I heavily suggest removing the favorite from all of those recipes that are not too good
+
+229
+00:14:09,666 --> 00:14:12,866
+once again at the beginning of a few episodes ago
+
+230
+00:14:12,866 --> 00:14:17,866
+I said that just because you can make things with a better recipe you don't have to
+
+231
+00:14:17,866 --> 00:14:23,133
+MV is where you really have to start considering when it's worth to do a recipe the better way
+
+232
+00:14:23,133 --> 00:14:26,033
+and when it's worth making it manually
+
+233
+00:14:26,033 --> 00:14:30,133
+depending on time, cost and other things
+
+234
+00:14:31,066 --> 00:14:33,900
+by the way I'm using soldering alloy here
+
+235
+00:14:33,900 --> 00:14:37,866
+but most likely at this tier you want to use a normal lead
+
+236
+00:14:37,866 --> 00:14:43,966
+because soldering alloy takes tin which is used quite a lot so you have to go dig it
+
+237
+00:14:43,966 --> 00:14:47,000
+while you probably have some leftover lead by...
+
+238
+00:14:48,166 --> 00:14:51,000
+When you collect cryolite, it's in the same vein...
+
+239
+00:14:52,933 --> 00:14:57,433
+So most likely once you start collect more cryolite, you will have a lot of leftover lead
+
+240
+00:14:57,433 --> 00:14:59,433
+May as well use the lead
+
+241
+00:15:00,266 --> 00:15:02,533
+Like, you need more of it
+
+242
+00:15:03,100 --> 00:15:06,100
+but lead is useless, may as well use it
+
+243
+00:15:06,600 --> 00:15:11,733
+And then we use the new circuit assembler to re-craft those circuits with the cheaper recipe
+
+244
+00:15:12,300 --> 00:15:17,000
+The only thing left to do is to get the copper cables for the electrolyzer
+
+245
+00:15:17,733 --> 00:15:23,133
+Those cannot be made in a crafting table, I've been using it so far, so we need an assembler
+
+246
+00:15:23,133 --> 00:15:30,300
+And at this point I heavily suggest having a dedicated assembler plus chemical reactor setup
+
+247
+00:15:30,300 --> 00:15:35,400
+to get the rubber, to get the cable coating done constantly
+
+248
+00:15:36,266 --> 00:15:38,466
+And there we have it
+
+249
+00:15:38,933 --> 00:15:42,900
+Just leave cables in there and it should work
+
+250
+00:15:43,433 --> 00:15:45,000
+I think I forgot to connect power
+
+251
+00:15:45,933 --> 00:15:48,566
+Yes, ok, power connected, now it works
+
+252
+00:15:49,333 --> 00:15:52,266
+And we should get our copper cables
+
+253
+00:15:52,800 --> 00:15:59,266
+Which we use to make the first machine you should aim at in MV, the electrolyzer
+
+254
+00:15:59,266 --> 00:16:03,833
+This one will allow you to get aluminum in many ways you could not access earlier
+
+255
+00:16:04,000 --> 00:16:06,500
+Before this one getting aluminum is hard
+
+256
+00:16:06,800 --> 00:16:11,400
+but this one will make sourcing raw aluminum and alumina super easy
+
+257
+00:16:11,766 --> 00:16:17,600
+I got quite a bunch of aluminum, so I may as well do a MV steam turbine
+
+258
+00:16:17,600 --> 00:16:23,066
+but you can use a transformer from LV to step it up to MV
+
+259
+00:16:24,833 --> 00:16:29,866
+Also in MV we will soon get the extruder capable of doing efficient rods
+
+260
+00:16:30,233 --> 00:16:33,700
+In other GregTech modpacks you get two rods out of one ingot
+
+261
+00:16:34,133 --> 00:16:37,633
+GTNH you need an extruder to do that, which we will get soon in MV
+
+262
+00:16:37,633 --> 00:16:40,866
+but here we...
+
+263
+00:16:40,866 --> 00:16:44,333
+I'm using the lathe only on a few things like aluminum
+
+264
+00:16:45,366 --> 00:16:47,600
+I wanted to save a little bit of aluminum
+
+265
+00:16:48,933 --> 00:16:51,700
+Still, there we have our steam turbine
+
+266
+00:16:52,533 --> 00:16:54,200
+Which can power the electrolyzer
+
+267
+00:16:55,233 --> 00:16:58,833
+Did I forget to check-mark the quests?
+
+268
+00:16:59,333 --> 00:17:04,133
+And I didn't get the quests because I didn't get that machine hull in my bag
+
+269
+00:17:05,033 --> 00:17:09,633
+Ok, so I think at this point this episode is not really fit to be an episode
+
+270
+00:17:10,333 --> 00:17:16,233
+I'm going to do an actual MV episode where I will be talking more about the actual progress
+
+271
+00:17:17,033 --> 00:17:19,833
+how to lay down cables, etc, etc
+
+272
+00:17:19,833 --> 00:17:20,500
+I feel like...
+
+273
+00:17:21,533 --> 00:17:24,966
+What I added so far is not worth of a true episode
+
+274
+00:17:24,966 --> 00:17:27,600
+so I'm going to call it a half episode or something
+
+275
+00:17:28,200 --> 00:17:30,700
+So I'm going to stop there
+
+276
+00:17:30,700 --> 00:17:38,100
+and do the actual MV episode where I think I'm going to try to centralize power and do some better automation
+
+277
+00:17:38,666 --> 00:17:39,833
+as another episode
+
+278
+00:17:40,533 --> 00:17:45,033
+Think of today I fit into that episode right here
+
+279
+00:17:45,033 --> 00:17:47,466
+Many tips I forgot to put in the previous episode
+
+280
+00:17:47,700 --> 00:17:49,066
+It's going to be a half episode
+
+281
+00:17:49,600 --> 00:17:52,533
+There is another thing I want to prepare for the next episode
+
+282
+00:17:52,533 --> 00:17:55,633
+Which is a trash can, that will require an ender pearl
+
+283
+00:17:56,700 --> 00:18:05,000
+Which at this point of the game the easiest way of getting it is probably by buying enderman spawn eggs
+
+284
+00:18:05,833 --> 00:18:07,766
+Now, spawn enderman...
+
+285
+00:18:08,800 --> 00:18:10,500
+No, NO!
+
+286
+00:18:11,266 --> 00:18:14,800
+I still have to figure out how I have to click to favorite something
+
+287
+00:18:15,866 --> 00:18:16,300
+Ok
+
+288
+00:18:16,700 --> 00:18:19,666
+So you get the spawn enderman thing
+
+289
+00:18:20,133 --> 00:18:25,066
+In the future we will be able to make a on demand power spawners
+
+290
+00:18:25,066 --> 00:18:27,500
+but right now we have to do it like that
+
+291
+00:18:27,533 --> 00:18:30,900
+Make sure the top of this smeltery does not view the sun
+
+292
+00:18:30,900 --> 00:18:33,800
+otherwise the enderman will teleport out
+
+293
+00:18:34,500 --> 00:18:39,833
+And then you can just drop it in there
+
+294
+00:18:41,300 --> 00:18:44,933
+And that should get you a lot of liquid ender
+
+295
+00:18:46,333 --> 00:18:49,400
+We're going to need a little bit of time and it will get up
+
+296
+00:18:50,333 --> 00:18:52,466
+And then to pour out all of those
+
+297
+00:18:52,500 --> 00:18:54,266
+Which is actually nothing
+
+298
+00:18:55,066 --> 00:18:55,900
+You can use a pipe
+
+299
+00:18:56,500 --> 00:18:58,700
+So you can connect the pipe like this
+
+300
+00:18:59,733 --> 00:19:01,100
+And then like that
+
+301
+00:19:01,233 --> 00:19:02,000
+Put this one there
+
+302
+00:19:03,233 --> 00:19:06,000
+And it should just...
+
+303
+00:19:06,566 --> 00:19:07,500
+work
+
+304
+00:19:07,833 --> 00:19:09,866
+Fits up the pipe and fills up this one
+
+305
+00:19:10,333 --> 00:19:12,166
+This way you don't have to keep clicking
+
+306
+00:19:13,200 --> 00:19:19,033
+And also don't forget to actually collect the ender pearls
+
+307
+00:19:19,400 --> 00:19:23,600
+You can get a regenerating enderman or something better
+
+308
+00:19:23,600 --> 00:19:26,333
+You can make a lot of ender pearls
+
+309
+00:19:26,833 --> 00:19:29,300
+I didn't get any (?)
+
+310
+00:19:29,300 --> 00:19:30,733
+But you can get way more
+
+311
+00:14:51,100 --> 00:14:53,033
+Lead and cryolite are in the same vein
+
