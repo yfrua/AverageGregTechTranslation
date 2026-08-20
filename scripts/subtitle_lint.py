@@ -17,21 +17,24 @@ Style checks (per text line, from guidelines.md):
     * a space separates Chinese from non-Chinese characters
 
 Length checks (soft warnings, do not affect exit code):
-  English: < 102 characters (spaces counted)
+  English: < 110 characters (spaces counted)
   Chinese: < 32 CJK characters
 
-With --fix, auto-fixable style violations (EN/punct, ZH/punct, ZH/comma,
-ZH/halfwidth, ZH/space) are rewritten in place. Structure issues and length
-warnings are never auto-fixed.
+Flash frame check (soft warning, does not affect exit code):
+  warns when the gap between two consecutive cues is 2-4 frames at 30 fps,
+  which may cause a visible flash on screen
 
-Exit code is non-zero if any hard violation is found. Soft length warnings and
-EN/CN pairing warnings (count or timecode) do not fail.
+With --fix, auto-fixable style violations (EN/punct, ZH/punct, ZH/comma,
+ZH/halfwidth, ZH/space) are rewritten in place. Structure issues, length
+warnings, and flash frame warnings are never auto-fixed.
+
+Exit code is non-zero if any hard violation is found. Soft length warnings,
+flash frame warnings, and EN/CN pairing warnings (count or timecode) do not fail.
 """
 
 import argparse
 import re
 import sys
-
 from collections import defaultdict
 
 CJK_RE = re.compile(r"[\u4e00-\u9fff]")
@@ -45,8 +48,12 @@ TIMECODE_RE = re.compile(
 )
 INDEX_RE = re.compile(r"^\d+$")
 
-EN_CHAR_LIMIT = 102
+EN_CHAR_LIMIT = 110
 ZH_CJK_LIMIT = 32
+
+FPS = 30
+FLASH_FRAME_MIN_FRAMES = 2
+FLASH_FRAME_MAX_FRAMES = 4
 
 
 class Cue:
@@ -155,7 +162,13 @@ def style_chinese(line, lineno, filepath, errors):
         errors.append((filepath, lineno, "ZH/punct", "remove trailing 。"))
     if "，" in stripped:
         errors.append((filepath, lineno, "ZH/comma", "replace ， with a space"))
-    if "?" in stripped or "!" in stripped or "..." in stripped or "(" in stripped or ")" in stripped:
+    if (
+        "?" in stripped
+        or "!" in stripped
+        or "..." in stripped
+        or "(" in stripped
+        or ")" in stripped
+    ):
         errors.append(
             (
                 filepath,
@@ -240,9 +253,7 @@ def build_cues(lines, filepath, errors):
             if cues:
                 cues[-1].text.extend(block)
             else:
-                errors.append(
-                    (filepath, idx_lineno, "struct", "text before any cue")
-                )
+                errors.append((filepath, idx_lineno, "struct", "text before any cue"))
     return cues
 
 
@@ -259,7 +270,11 @@ def lint_one(filepath):
     prev_index = None
     for cue in cues:
         if cue.index is not None:
-            if prev_index is not None and cue.index != prev_index + 1 and cue.index != 1:
+            if (
+                prev_index is not None
+                and cue.index != prev_index + 1
+                and cue.index != 1
+            ):
                 errors.append(
                     (
                         filepath,
@@ -271,7 +286,12 @@ def lint_one(filepath):
             prev_index = cue.index
         if cue.tc is not None and not TIMECODE_RE.match(cue.tc):
             errors.append(
-                (filepath, cue.tc_lineno, "struct", "invalid timecode line: %r" % cue.tc)
+                (
+                    filepath,
+                    cue.tc_lineno,
+                    "struct",
+                    "invalid timecode line: %r" % cue.tc,
+                )
             )
 
     # --- style checks on each text line ---
@@ -298,7 +318,8 @@ def lint_one(filepath):
                         filepath,
                         cue.idx_lineno,
                         "style/length",
-                        "Chinese line has %d CJK chars (limit < %d)" % (cjk, ZH_CJK_LIMIT),
+                        "Chinese line has %d CJK chars (limit < %d)"
+                        % (cjk, ZH_CJK_LIMIT),
                     )
                 )
         elif LATIN_RE.search(full):
@@ -309,16 +330,54 @@ def lint_one(filepath):
                         filepath,
                         cue.idx_lineno,
                         "style/length",
-                        "English line has %d chars (limit < %d)" % (chars, EN_CHAR_LIMIT),
+                        "English line has %d chars (limit < %d)"
+                        % (chars, EN_CHAR_LIMIT),
                     )
                 )
 
-    # --- EN/CN pairing (warning only; comment cues are excluded) ---
+    # --- EN/CN split (shared by flash-frame and pairing checks) ---
     real = [cue for cue in cues if not is_comment_cue(cue)]
     split = next(
         (i for i, cue in enumerate(real) if any(is_chinese(t) for (_, t) in cue.text)),
         None,
     )
+
+    # --- flash frame warnings (soft): 2-4 frame gap between consecutive cues ---
+    timeline = real[:split] if (split is not None and split > 0) else real
+    prev_end = None
+    for cue in timeline:
+        if cue.tc is None:
+            continue
+        ms = tc_to_ms(cue.tc)
+        if ms is None:
+            continue
+        start_ms, end_ms = ms
+        if prev_end is not None and start_ms > prev_end:
+            gap_ms = start_ms - prev_end
+            if (
+                FLASH_FRAME_MIN_FRAMES * 1000
+                <= gap_ms * FPS
+                <= FLASH_FRAME_MAX_FRAMES * 1000
+            ):
+                warnings.append(
+                    (
+                        filepath,
+                        cue.idx_lineno,
+                        "timing/flash-frame",
+                        "gap of %d ms (~%.1f frames) from previous cue may flash "
+                        "(%d-%d frames at %d fps)"
+                        % (
+                            gap_ms,
+                            gap_ms * FPS / 1000,
+                            FLASH_FRAME_MIN_FRAMES,
+                            FLASH_FRAME_MAX_FRAMES,
+                            FPS,
+                        ),
+                    )
+                )
+        prev_end = end_ms
+
+    # --- EN/CN pairing (warning only; comment cues are excluded) ---
     if split is not None and split > 0:
         en_run = real[:split]
         cn_run = real[split:]
@@ -405,3 +464,4 @@ def main(argv=None):
 
 if __name__ == "__main__":
     sys.exit(main())
+

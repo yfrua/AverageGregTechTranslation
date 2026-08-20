@@ -196,7 +196,7 @@ def test_lint_comment_cue_excluded_from_pairing(tmp_path):
 
 
 def test_lint_length_warnings(tmp_path):
-    long_en = "x" * 105
+    long_en = "x" * 115
     long_zh = "汉" * 35
     srt = (
         "1\n00:00:00,000 --> 00:00:02,000\n%s\n\n"
@@ -221,6 +221,94 @@ def test_lint_invalid_timecode(tmp_path):
     srt = "1\nnot-a-timecode --> x\nhello\n\n"
     errors, warnings = sl.lint_one(_write(tmp_path, srt))
     assert any(e[2] == "struct" for e in errors)
+
+
+# ---------------------------------------------------------------------------
+# flash frame warnings
+# ---------------------------------------------------------------------------
+
+def test_lint_flash_frame_warning(tmp_path):
+    # gap of 100 ms = 3 frames at 30 fps -> flash frame
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,100 --> 00:00:02,000\nworld\n\n"
+    )
+    errors, warnings = sl.lint_one(_write(tmp_path, srt))
+    assert errors == []
+    assert any(w[2] == "timing/flash-frame" for w in warnings)
+
+
+def test_lint_flash_frame_boundary_2_frames(tmp_path):
+    # gap of 67 ms = ~2.01 frames -> flash frame
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,067 --> 00:00:02,000\nworld\n\n"
+    )
+    errors, warnings = sl.lint_one(_write(tmp_path, srt))
+    assert any(w[2] == "timing/flash-frame" for w in warnings)
+
+
+def test_lint_flash_frame_boundary_4_frames(tmp_path):
+    # gap of 133 ms = ~3.99 frames -> flash frame
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,133 --> 00:00:02,000\nworld\n\n"
+    )
+    errors, warnings = sl.lint_one(_write(tmp_path, srt))
+    assert any(w[2] == "timing/flash-frame" for w in warnings)
+
+
+def test_lint_flash_frame_no_warning_below_2_frames(tmp_path):
+    # gap of 66 ms = ~1.98 frames -> no flash frame
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,066 --> 00:00:02,000\nworld\n\n"
+    )
+    errors, warnings = sl.lint_one(_write(tmp_path, srt))
+    assert all(w[2] != "timing/flash-frame" for w in warnings)
+
+
+def test_lint_flash_frame_no_warning_above_4_frames(tmp_path):
+    # gap of 500 ms = 15 frames -> no flash frame
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,500 --> 00:00:02,000\nworld\n\n"
+    )
+    errors, warnings = sl.lint_one(_write(tmp_path, srt))
+    assert all(w[2] != "timing/flash-frame" for w in warnings)
+
+
+def test_lint_flash_frame_no_warning_adjacent_cues(tmp_path):
+    # gap of 0 ms -> no flash frame
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,000 --> 00:00:02,000\nworld\n\n"
+    )
+    errors, warnings = sl.lint_one(_write(tmp_path, srt))
+    assert all(w[2] != "timing/flash-frame" for w in warnings)
+
+
+def test_lint_flash_frame_no_warning_overlapping_cues(tmp_path):
+    # negative gap (overlap) -> no flash frame
+    srt = (
+        "1\n00:00:00,000 --> 00:00:02,000\nhello\n\n"
+        "2\n00:00:01,000 --> 00:00:03,000\nworld\n\n"
+    )
+    errors, warnings = sl.lint_one(_write(tmp_path, srt))
+    assert all(w[2] != "timing/flash-frame" for w in warnings)
+
+
+def test_lint_flash_frame_no_duplicate_for_en_cn(tmp_path):
+    # EN+CN pairing with a 3-frame gap -> only one warning (from the EN run)
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,100 --> 00:00:02,000\nworld\n\n"
+        "3\n00:00:00,000 --> 00:00:01,000\n你好\n\n"
+        "4\n00:00:01,100 --> 00:00:02,000\n世界\n\n"
+    )
+    errors, warnings = sl.lint_one(_write(tmp_path, srt))
+    flash = [w for w in warnings if w[2] == "timing/flash-frame"]
+    assert len(flash) == 1
 
 
 # ---------------------------------------------------------------------------
