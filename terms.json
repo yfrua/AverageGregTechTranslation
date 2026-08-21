@@ -1,7 +1,7 @@
 {
   "meta": {
     "description": "GTNH video subtitle EN→CN terminology database — sourced from existing translations in this repo",
-    "last_updated": "2026-08-16",
+    "last_updated": "2026-08-21",
     "usage": "When translating English subtitles to Chinese, consult this glossary for consistent terminology and known conventions."
   },
   "known_conventions": {
@@ -278,7 +278,27 @@
     "gallium arsenide": "砷化镓",
     "lazurite": "蓝金石",
     "sapphire": "蓝宝石",
-    "benzene": "苯"
+    "benzene": "苯",
+    "iron III chloride": "三氯化铁",
+    "sodium persulfate": "过硫酸钠",
+    "sulfuric acid": "硫酸",
+    "hydrochloric acid": "盐酸",
+    "limonite": "褐铁矿",
+    "rock salt": "岩盐",
+    "salt": "盐",
+    "pyrite": "黄铁矿",
+    "quartzite": "石英岩",
+    "quartz sand": "石英砂",
+    "gold foil": "金箔",
+    "annealed copper": "退火铜",
+    "cast iron": "铸铁",
+    "wrought iron": "铸铁",
+    "soldering alloy": "焊锡",
+    "nugget": "粒",
+    "silicon boule": "单晶硅",
+    "liquid ender": "熔融末影",
+    "ender pearl": "末影珍珠",
+    "cable coating": "包裹线缆"
   },
   "machines": {
     "_ref": "See known_conventions for common machines. This section covers additional ones.",
@@ -317,6 +337,12 @@
     "diamond chest": "钻石箱子",
     "vending machine": "自动售货机",
     "tool forge": "工具锻造台",
+    "arc furnace": "电弧炉",
+    "transformer": "变压器",
+    "world accelerator": "世界加速器",
+    "machine hull": "机器外壳",
+    "trash can": "垃圾桶",
+    "power spawner": "电动刷怪笼",
     "wall share": "共享结构方块",
     "wall sharing": "共享结构方块"
   },
@@ -439,7 +465,15 @@
     "centralize power": "集中供能",
     "power loss": "能量损耗",
     "maintenance hatch": "维护仓",
-    "AFK": "挂机"
+    "AFK": "挂机",
+    "passivate": "被动",
+    "fuel value": "燃值",
+    "crops": "作物",
+    "diode": "二极管",
+    "vacuum tube": "真空管",
+    "spawn egg": "刷怪蛋",
+    "enderman": "末影人",
+    "pipe": "管道"
   },
   "ui_and_controls": {
     "UI": "界面",
@@ -458,7 +492,9 @@
     "podcast": "播客",
     "guide": "指南",
     "tutorial": "教程",
-    "series": "系列"
+    "series": "系列",
+    "filler episode": "过渡集",
+    "half episode": "半集"
   },
   "building_and_aesthetics": {
     "aesthetics": "美观",
