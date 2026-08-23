@@ -1,98 +1,121 @@
-# transcribe_with_fix.py
+# Whisper Transcription Tools
 
-Whisper transcription with automatic looping-sentence detection and correction.
-When Whisper gets stuck repeating the same phrase, the script detects it via
-compression-ratio analysis and re-transcribes only the affected audio clips
-with beam search.
+Whisper transcription with Silero VAD filtering, beam search, word
+timestamps, and semantic cue splitting. Built on faster-whisper
+(CTranslate2): VAD removes silence/music *before* inference, which prevents
+the looping/hallucination issues of raw openai-whisper at the source.
+
+Typical episode workflow:
+1. Drop the video/audio as `RDR_epN.mp4` in this directory.
+2. Run `transcribe_with_fix.py` → `RDR_epN.raw.srt`.
+3. Review/correct the raw SRT (jargon, stutters, cue boundaries) → final `RDR_epN.srt`.
+4. Lint against repo style rules: `python3 scripts/subtitle_lint.py RDR_epN.srt`.
+
+## Cue-building policy
+
+Implemented in `transcribe_with_fix.py::build_cues`; limits mirror
+`scripts/subtitle_lint.py`:
+
+- **One line per cue** — no two-line wrapping (guidelines.md).
+- **Split priority**: sentence end (`.?!…`) > clause boundary (`,` `;` `:` `—`)
+  > speech pause (≥0.35 s) > breath-point force-split (pathological runs only).
+- **Lengths**: pack to ≤95 chars per cue (leaves headroom so the Chinese
+  translation sharing the timecode fits <32 CJK chars); 110 is the hard cap.
+  A single clause with no boundary inside may exceed 110 rather than be
+  force-split mid-thought (lint warns; accepted case-by-case).
+- **Timing**: raw word timestamps — no minimum duration, no gap chaining;
+  flash-frame warnings from the linter are accepted.
+- **Punctuation**: trailing `.` and `,` stripped, `?` `!` `...` `—` kept,
+  casing comes from ASR plus the manual review pass.
+- Echo artifacts (ASR repeating the previous cue's last word) are dropped
+  automatically; anything subtler is left to the correction pass.
+
+Outputs: `<prefix>.raw.srt`, `<prefix>.raw.txt` (plain transcript),
+`<prefix>.words.json` (word timestamps; enables `--reuse-words` to re-split
+without re-running ASR).
 
 ## Installation
 
+Already set up in the `whisper` conda env:
 ```bash
-# Create conda environment
-conda create -n whisper python=3.9 -y
-conda activate whisper
-
-# Install dependencies
-pip install openai-whisper
-
-# System dependency: ffmpeg (for audio chunk extraction)
-conda install -c conda-forge ffmpeg
+pip install faster-whisper        # pulls ctranslate2 + onnxruntime + av
 ```
 
-Download a model (or let Whisper fetch it automatically):
+Notes on version pinning:
+- ctranslate2 >= 4.5 needs cuDNN 9 (this machine has it). For CUDA 11 /
+  cuDNN 8 systems use `ctranslate2==3.24.0`.
+- ctranslate2 4.x removed the old Whisper `.pt` converter, so we use a
+  pre-converted CTranslate2 model instead of `large-v3.pt`.
+
+## Model setup
+
+HuggingFace is unreachable from this machine (even through the local proxy).
+Download the ready-made CTranslate2 model from ModelScope instead:
+
 ```bash
-# large-v3 (recommended for English)
-wget https://openaipublic.azureedge.net/main/whisper/models/e5b1a55b89c1367dacf97e3e19bfd829a01529dbfdeefa8caeb59b3f1b81dadb/large-v3.pt
+mkdir -p models/faster-whisper-large-v3 && cd models/faster-whisper-large-v3
+for f in config.json tokenizer.json vocabulary.json preprocessor_config.json model.bin; do
+    curl -L -o "$f" \
+      "https://www.modelscope.cn/models/gpustack/faster-whisper-large-v3/resolve/master/$f"
+done
 ```
+(`model.bin` is ~2.9 GB; mirrors `keepitsimple/faster-whisper-large-v3` and
+`pengzhendong/faster-whisper-large-v3` host identical files.)
 
 ## Usage
 
-### Full pipeline (transcribe + detect + fix)
 ```bash
-python transcribe_with_fix.py audio.m4a
+# Typical run (video or audio input works)
+python transcribe_with_fix.py RDR_ep1.mp4
+
+# Explicit output prefix and device
+python transcribe_with_fix.py RDR_ep1.mp4 --out-prefix RDR_ep1 --device cuda
 ```
 
-### Dry-run: check only (no re-transcription)
-```bash
-python transcribe_with_fix.py audio.m4a --dry-run
-```
-
-### Skip first pass (use existing .srt, only fix)
-```bash
-# First run normally to get .srt, then:
-python transcribe_with_fix.py audio.m4a --skip-first-pass
-```
-
-### GPU selection
-```bash
-python transcribe_with_fix.py audio.m4a --device cuda:0
-python transcribe_with_fix.py audio.m4a --device cuda:1
-python transcribe_with_fix.py audio.m4a --device cpu
-```
-
-### Tune detection sensitivity
-```bash
-# Tighter (fewer false positives)
-python transcribe_with_fix.py audio.m4a --zscore -2.0 --min-ratio 0.50
-
-# Looser (catches more)
-python transcribe_with_fix.py audio.m4a --zscore -1.0 --min-ratio 0.60
-```
-
-### Full options
+Options:
 ```
 positional arguments:
-  audio                 Path to input audio file (m4a, mp3, wav, etc.)
+  media                 Input audio/video file (anything ffmpeg can read)
 
 optional arguments:
-  --model MODEL         Whisper model name or path (default: ./large-v3.pt)
-  --out-dir OUT_DIR     Output directory (default: same as input)
-  --language LANGUAGE   Language code (default: en)
-  --device DEVICE       Torch device: cuda:0, cuda:1, cpu, etc. (default: cuda:0)
-  --skip-first-pass     Skip first-pass if SRT already exists
-  --dry-run             Only detect buggy segments, don't re-transcribe
-  --zscore ZSCORE       Z-score threshold (default: -1.5, lower = stricter)
-  --min-ratio MIN_RATIO Compression ratio floor (default: 0.55)
-  --hard-floor HARD_FLOOR
-                        Hard compression-ratio floor (default: 0.42)
-  --cross-window CROSS_WINDOW
-                        Max adjacent segments to check for cross-segment loops (default: 3)
-  --cross-hard-floor CROSS_HARD_FLOOR
-                        Compression ratio floor for joined adjacent segments (default: 0.50)
-  --keep-chunks         Keep temporary audio chunks on disk
+  --model-dir           Path to CTranslate2 model dir
+                        (default: ./models/faster-whisper-large-v3)
+  --out-prefix          Output prefix (default: input stem)
+  --device              cuda or cpu (default: cuda)
+  --compute-type        float16 / int8_float16 / int8 (default: float16)
+  --language            Language code (default: en)
+  --beam-size           Beam width (default: 5)
 ```
 
-## How it works
+Decoding settings baked in: `temperature=0`, `condition_on_previous_text=False`
+(prevents loop propagation across chunks), `vad_filter=True`
+(`min_silence_duration_ms=500`).
 
-1. **First pass** — Whisper transcribes the full audio with word timestamps.
-2. **Detection** — Each segment's text is compressed with zlib. Looping text
-   (e.g. "the cheapest drilling rig there is, the cheapest drilling rig...")
-   has an unusually low compression ratio. Statistical outlier detection
-   (z-score + MAD) flags suspect segments individually. Additionally,
-   adjacent segments are concatenated in windows (2..cross-window) — if the
-   joined text's compression ratio drops below cross-hard-floor, the loop
-   spans segment boundaries and all segments in the window are flagged.
-3. **Correction** — Each flagged segment's audio is cut with ffmpeg and
-   re-transcribed with beam search (`temperature=0`, `beam_size=5`) to suppress
-   the looping behavior.
-4. **Output** — Corrected segments are merged back and written as a single `.srt`.
+## Manual correction pass
+
+No ASR is error-free on gaming audio, so every transcript gets a manual
+review pass before release.
+
+Workflow:
+1. Skim `RDR_epN.raw.txt` (fast) or `RDR_epN.raw.srt` (with timings).
+2. Apply fixes, typically as a small throwaway script:
+   - global textual replacements — stutters, echo words
+   - full-text cue overrides — jargon, grammar, boundary adjustments
+   - merges of interjection cues into the following one
+3. Write the final `RDR_epN.srt`, then lint (see workflow above).
+
+Common ASR error classes seen on this content:
+- Mod jargon: "Ricker's mods" → Reika's mods, "RotoEcraft" → RotaryCraft,
+  "Redis tone power" → redstone power
+- Word-level stutters at segment boundaries: "which which", "we We"
+- Orphan echo cues: last word of a cue repeated as a tiny standalone cue
+- Homophones: "first tour" → first ore, "savaged" → salvaged,
+  "to mount" → amount
+
+## File inventory
+
+- `models/faster-whisper-large-v3/` — CTranslate2 model used by the script
+- `RDR_ep*.raw.srt/.txt/.words.json` — uncorrected ASR output (keep for diffing)
+- `RDR_ep*.srt` — corrected, release-ready subtitles
+- `large-v3.pt` — legacy openai-whisper checkpoint, unused by the current
+  pipeline (kept only as a backup; safe to delete if disk space is needed)

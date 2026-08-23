@@ -1,6 +1,9 @@
 *.pt
 *.m4a
+*.mp4
 *.srt
 *.vtt
 *.tsv
 *.txt
+*.json
+models/
