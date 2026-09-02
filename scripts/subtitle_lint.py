@@ -25,8 +25,9 @@ Flash frame check (soft warning, does not affect exit code):
   which may cause a visible flash on screen
 
 With --fix, auto-fixable style violations (EN/punct, ZH/punct, ZH/comma,
-ZH/halfwidth, ZH/space) are rewritten in place. Structure issues, length
-warnings, and flash frame warnings are never auto-fixed.
+ZH/halfwidth, ZH/space) and flash frame gaps (2-3 frames snapped to 0,
+4 frames expanded to 5) are rewritten in place. Structure issues and
+length warnings are never auto-fixed.
 
 Exit code is non-zero if any hard violation is found. Soft length warnings,
 flash frame warnings, and EN/CN pairing warnings (count or timecode) do not fail.
@@ -54,6 +55,7 @@ ZH_CJK_LIMIT = 32
 FPS = 30
 FLASH_FRAME_MIN_FRAMES = 2
 FLASH_FRAME_MAX_FRAMES = 4
+FLASH_FRAME_EXPAND_FRAMES = 5
 
 
 class Cue:
@@ -107,9 +109,68 @@ def space_cjk_latin(text):
     return text
 
 
+def ms_to_timestamp(ms, sep=","):
+    h = ms // 3600000
+    ms %= 3600000
+    mi = ms // 60000
+    ms %= 60000
+    s = ms // 1000
+    ms %= 1000
+    return f"{h:02d}:{mi:02d}:{s:02d}{sep}{ms:03d}"
+
+
+def format_timecode(start_ms, end_ms, sep=","):
+    return f"{ms_to_timestamp(start_ms, sep)} --> {ms_to_timestamp(end_ms, sep)}"
+
+
 def read_lines(filepath):
     with open(filepath, "r", encoding="utf-8-sig") as fh:
         return fh.read().split("\n")
+
+
+def fix_flash_frames_in_cues(cues, lines):
+    """Adjust cue end times to eliminate 2-3 frame gaps (snap to 0) and expand
+    4-frame gaps to 5 frames at FPS."""
+    real = [cue for cue in cues if not is_comment_cue(cue)]
+    split = next(
+        (i for i, cue in enumerate(real) if any(is_chinese(t) for (_, t) in cue.text)),
+        None,
+    )
+    runs = [real[:split], real[split:]] if (split is not None and split > 0) else [real]
+    fixed_count = 0
+
+    for run in runs:
+        for i in range(len(run) - 1):
+            cue_prev = run[i]
+            cue_next = run[i + 1]
+            if cue_prev.tc is None or cue_next.tc is None:
+                continue
+            ms_prev = tc_to_ms(cue_prev.tc)
+            ms_next = tc_to_ms(cue_next.tc)
+            if ms_prev is None or ms_next is None:
+                continue
+            start_prev, end_prev = ms_prev
+            start_next, end_next = ms_next
+
+            if start_next > end_prev:
+                gap_ms = start_next - end_prev
+                frames = round(gap_ms * FPS / 1000)
+                if frames in (2, 3):
+                    new_end_prev = start_next
+                elif frames == 4:
+                    new_end_prev = start_next - round(FLASH_FRAME_EXPAND_FRAMES * 1000 / FPS)
+                else:
+                    continue
+
+                if new_end_prev > start_prev and new_end_prev != end_prev:
+                    sep = "." if "." in cue_prev.tc else ","
+                    new_tc = format_timecode(start_prev, new_end_prev, sep)
+                    if new_tc != cue_prev.tc:
+                        cue_prev.tc = new_tc
+                        lines[cue_prev.tc_lineno - 1] = new_tc
+                        fixed_count += 1
+
+    return fixed_count
 
 
 def fix_one(filepath):
@@ -128,6 +189,11 @@ def fix_one(filepath):
         if new != orig:
             lines[idx - 1] = new
             fixed += 1
+
+    errors = []
+    cues = build_cues(lines, filepath, errors)
+    fixed += fix_flash_frames_in_cues(cues, lines)
+
     if fixed:
         with open(filepath, "w", encoding="utf-8") as fh:
             fh.write("\n".join(lines))
@@ -446,7 +512,7 @@ def main(argv=None):
     parser.add_argument(
         "--fix",
         action="store_true",
-        help="auto-fix auto-fixable style violations in place before reporting",
+        help="auto-fix auto-fixable style violations and flash frame gaps in place before reporting",
     )
     args = parser.parse_args(argv)
 
