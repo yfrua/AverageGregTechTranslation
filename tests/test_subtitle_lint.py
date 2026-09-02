@@ -384,3 +384,210 @@ def test_main_output_format_without_start_time(tmp_path, capsys):
     assert exit_code == 1
     captured = capsys.readouterr()
     assert "line 1: text before any cue" in captured.out
+
+
+# ---------------------------------------------------------------------------
+# ms_to_timestamp and format_timecode
+# ---------------------------------------------------------------------------
+
+def test_ms_to_timestamp():
+    assert sl.ms_to_timestamp(0) == "00:00:00,000"
+    assert sl.ms_to_timestamp(1500) == "00:00:01,500"
+    assert sl.ms_to_timestamp(3661005) == "01:01:01,005"
+    assert sl.ms_to_timestamp(1500, sep=".") == "00:00:01.500"
+
+
+def test_format_timecode():
+    assert (
+        sl.format_timecode(0, 1000)
+        == "00:00:00,000 --> 00:00:01,000"
+    )
+    assert (
+        sl.format_timecode(0, 1000, sep=".")
+        == "00:00:00.000 --> 00:00:01.000"
+    )
+
+
+# ---------------------------------------------------------------------------
+# flash frame interval auto-fixing
+# ---------------------------------------------------------------------------
+
+def test_fix_flash_frame_2_frames_snap_to_0(tmp_path):
+    # gap of 67 ms = ~2 frames -> snapped to 0
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,067 --> 00:00:02,000\nworld\n\n"
+    )
+    p = _write(tmp_path, srt)
+    assert sl.fix_one(p) == 1
+    with open(p, encoding="utf-8") as fh:
+        content = fh.read()
+    assert "00:00:00,000 --> 00:00:01,067" in content
+    assert "00:00:01,067 --> 00:00:02,000" in content
+    # No flash-frame warning after fix
+    errors, warnings = sl.lint_one(p)
+    assert errors == []
+    assert all(w[2] != "timing/flash-frame" for w in warnings)
+
+
+def test_fix_flash_frame_3_frames_snap_to_0(tmp_path):
+    # gap of 100 ms = 3 frames -> snapped to 0
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,100 --> 00:00:02,000\nworld\n\n"
+    )
+    p = _write(tmp_path, srt)
+    assert sl.fix_one(p) == 1
+    with open(p, encoding="utf-8") as fh:
+        content = fh.read()
+    assert "00:00:00,000 --> 00:00:01,100" in content
+    assert "00:00:01,100 --> 00:00:02,000" in content
+    errors, warnings = sl.lint_one(p)
+    assert errors == []
+    assert all(w[2] != "timing/flash-frame" for w in warnings)
+
+
+def test_fix_flash_frame_4_frames_expand_to_5(tmp_path):
+    # gap of 133 ms = ~4 frames -> expanded to 5 frames (167 ms gap)
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,133 --> 00:00:02,000\nworld\n\n"
+    )
+    p = _write(tmp_path, srt)
+    assert sl.fix_one(p) == 1
+    with open(p, encoding="utf-8") as fh:
+        content = fh.read()
+    # 1133 - 167 = 966
+    assert "00:00:00,000 --> 00:00:00,966" in content
+    assert "00:00:01,133 --> 00:00:02,000" in content
+    errors, warnings = sl.lint_one(p)
+    assert errors == []
+    assert all(w[2] != "timing/flash-frame" for w in warnings)
+
+
+def test_fix_flash_frame_1_frame_untouched(tmp_path):
+    # gap of 33 ms = 1 frame -> untouched
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,033 --> 00:00:02,000\nworld\n\n"
+    )
+    p = _write(tmp_path, srt)
+    assert sl.fix_one(p) == 0
+
+
+def test_fix_flash_frame_5_frames_untouched(tmp_path):
+    # gap of 167 ms = 5 frames -> untouched
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,167 --> 00:00:02,000\nworld\n\n"
+    )
+    p = _write(tmp_path, srt)
+    assert sl.fix_one(p) == 0
+
+
+def test_fix_flash_frame_bilingual_both_runs_fixed(tmp_path):
+    # EN run and CN run both fixed consistently
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,100 --> 00:00:02,000\nworld\n\n"
+        "3\n00:00:00,000 --> 00:00:01,000\n你好\n\n"
+        "4\n00:00:01,100 --> 00:00:02,000\n世界\n\n"
+    )
+    p = _write(tmp_path, srt)
+    assert sl.fix_one(p) == 2
+    with open(p, encoding="utf-8") as fh:
+        content = fh.read()
+    # Both EN cue 1 and CN cue 3 updated
+    assert content.count("00:00:00,000 --> 00:00:01,100") == 2
+    errors, warnings = sl.lint_one(p)
+    assert errors == []
+    assert warnings == []
+
+
+def test_fix_flash_frame_preserves_dot_separator(tmp_path):
+    srt = (
+        "1\n00:00:00.000 --> 00:00:01.000\nhello\n\n"
+        "2\n00:00:01.100 --> 00:00:02.000\nworld\n\n"
+    )
+    p = _write(tmp_path, srt)
+    assert sl.fix_one(p) == 1
+    with open(p, encoding="utf-8") as fh:
+        content = fh.read()
+    assert "00:00:00.000 --> 00:00:01.100" in content
+
+
+def test_fix_one_fixes_both_style_and_flash_frames(tmp_path):
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\n在GTNH中\n\n"
+        "2\n00:00:01,100 --> 00:00:02,000\n我们走吧。\n\n"
+    )
+    p = _write(tmp_path, srt)
+    # 1 style fix (ZH/space) + 1 style fix (ZH/punct) + 1 timecode fix = 3
+    assert sl.fix_one(p) == 3
+    with open(p, encoding="utf-8") as fh:
+        content = fh.read()
+    assert "在 GTNH 中\n" in content
+    assert "我们走吧\n" in content
+    assert "00:00:00,000 --> 00:00:01,100" in content
+
+
+def test_main_with_fix_flag(tmp_path, capsys):
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,100 --> 00:00:02,000\nworld\n\n"
+    )
+    p = _write(tmp_path, srt)
+    exit_code = sl.main(["--fix", p])
+    assert exit_code == 0
+    captured = capsys.readouterr()
+    assert "Auto-fixed 1 line(s)." in captured.out
+    assert "OK: no style/structure/length violations in 1 file(s)" in captured.out
+
+
+def test_fix_flash_frames_chained_cues(tmp_path):
+    # Cue 1 -> 2: 2 frames gap (67ms) -> snap to 0
+    # Cue 2 -> 3: 4 frames gap (133ms) -> expand to 5 (167ms gap)
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nfirst\n\n"
+        "2\n00:00:01,067 --> 00:00:02,000\nsecond\n\n"
+        "3\n00:00:02,133 --> 00:00:03,000\nthird\n\n"
+    )
+    p = _write(tmp_path, srt)
+    assert sl.fix_one(p) == 2
+    with open(p, encoding="utf-8") as fh:
+        content = fh.read()
+    assert "00:00:00,000 --> 00:00:01,067" in content
+    assert "00:00:01,067 --> 00:00:01,966" in content
+    assert "00:00:02,133 --> 00:00:03,000" in content
+    errors, warnings = sl.lint_one(p)
+    assert errors == []
+    assert all(w[2] != "timing/flash-frame" for w in warnings)
+
+
+def test_fix_flash_frames_does_not_invert_zero_length_cue(tmp_path):
+    # Cue 1 starts at 1.100 and ends at 1.110 (10ms duration).
+    # Cue 2 starts at 1.243 (gap is 133ms = 4 frames).
+    # Expanding to 5 frames would set Cue 1 end to 1.243 - 0.167 = 1.076 (< start 1.100).
+    # It must not set end <= start.
+    srt = (
+        "1\n00:00:01,100 --> 00:00:01,110\nshort\n\n"
+        "2\n00:00:01,243 --> 00:00:02,000\nsecond\n\n"
+    )
+    p = _write(tmp_path, srt)
+    assert sl.fix_one(p) == 0
+
+
+def test_fix_flash_frames_ignores_comment_cues(tmp_path):
+    srt = (
+        "1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+        "2\n00:00:01,100 --> 00:00:02,000\nworld\n\n"
+        "3\n00:00:02,100 --> 00:00:03,000\n（注释说明）\n\n"
+    )
+    p = _write(tmp_path, srt)
+    # Only cue 1 is fixed (gap to cue 2 is 100ms = 3 frames); comment cue 3 is excluded
+    assert sl.fix_one(p) == 1
+    with open(p, encoding="utf-8") as fh:
+        content = fh.read()
+    assert "00:00:00,000 --> 00:00:01,100" in content
+    assert "00:00:01,100 --> 00:00:02,000" in content
+    assert "00:00:02,100 --> 00:00:03,000" in content
