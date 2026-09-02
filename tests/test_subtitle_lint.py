@@ -334,3 +334,53 @@ def test_fix_one_noop_when_clean(tmp_path):
     srt = "1\n00:00:00,000 --> 00:00:02,000\nhello world\n\n"
     p = _write(tmp_path, srt)
     assert sl.fix_one(p) == 0
+
+
+# ---------------------------------------------------------------------------
+# start_time and output formatting
+# ---------------------------------------------------------------------------
+
+def test_cue_start_time_property():
+    cue = sl.Cue(1, 1, 2, "00:01:23,456 --> 00:01:25,789", [(3, "text")])
+    assert cue.start_time == "00:01:23,456"
+
+    cue_dot = sl.Cue(1, 1, 2, "00:01:23.456 --> 00:01:25.789", [(3, "text")])
+    assert cue_dot.start_time == "00:01:23.456"
+
+    cue_none = sl.Cue(1, 1, None, None, [(2, "text")])
+    assert cue_none.start_time is None
+
+
+def test_lint_includes_start_time(tmp_path):
+    srt = (
+        "1\n00:01:00,000 --> 00:01:02,000\nhello world,\n\n"
+        "2\n00:02:00,000 --> 00:02:02,000\n在GTNH中\n\n"
+    )
+    errors, warnings = sl.lint_one(_write(tmp_path, srt))
+    assert len(errors) == 2
+    # error 1: EN/punct on cue 1
+    assert errors[0][2] == "EN/punct"
+    assert errors[0][4] == "00:01:00,000"
+    # error 2: ZH/space on cue 2
+    assert errors[1][2] == "ZH/space"
+    assert errors[1][4] == "00:02:00,000"
+
+
+def test_main_output_format_with_start_time(tmp_path, capsys):
+    srt = (
+        "1\n00:01:23,456 --> 00:01:25,000\nhello,\n\n"
+    )
+    p = _write(tmp_path, srt)
+    exit_code = sl.main([p])
+    assert exit_code == 1
+    captured = capsys.readouterr()
+    assert "line 3 (00:01:23,456): remove trailing comma" in captured.out
+
+
+def test_main_output_format_without_start_time(tmp_path, capsys):
+    srt = "text before cue\n\n1\n00:00:00,000 --> 00:00:01,000\nhello\n\n"
+    p = _write(tmp_path, srt)
+    exit_code = sl.main([p])
+    assert exit_code == 1
+    captured = capsys.readouterr()
+    assert "line 1: text before any cue" in captured.out

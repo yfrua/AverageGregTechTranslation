@@ -66,6 +66,12 @@ class Cue:
         self.tc = tc
         self.text = text  # list of (lineno, raw_line)
 
+    @property
+    def start_time(self):
+        if not self.tc:
+            return None
+        return self.tc.split("-->")[0].strip()
+
 
 def fix_english(line):
     new = line.rstrip()
@@ -144,24 +150,32 @@ def is_comment_cue(cue):
     )
 
 
-def style_english(line, lineno, filepath, errors):
+def style_english(line, lineno, filepath, errors, start_time=None):
     stripped = line.strip()
     if not stripped:
         return
     if stripped.endswith(","):
-        errors.append((filepath, lineno, "EN/punct", "remove trailing comma"))
+        errors.append(
+            (filepath, lineno, "EN/punct", "remove trailing comma", start_time)
+        )
     elif stripped.endswith(".") and not stripped.endswith("..."):
-        errors.append((filepath, lineno, "EN/punct", "remove trailing period"))
+        errors.append(
+            (filepath, lineno, "EN/punct", "remove trailing period", start_time)
+        )
 
 
-def style_chinese(line, lineno, filepath, errors):
+def style_chinese(line, lineno, filepath, errors, start_time=None):
     stripped = line.strip()
     if not stripped:
         return
     if stripped.endswith("。"):
-        errors.append((filepath, lineno, "ZH/punct", "remove trailing 。"))
+        errors.append(
+            (filepath, lineno, "ZH/punct", "remove trailing 。", start_time)
+        )
     if "，" in stripped:
-        errors.append((filepath, lineno, "ZH/comma", "replace ， with a space"))
+        errors.append(
+            (filepath, lineno, "ZH/comma", "replace ， with a space", start_time)
+        )
     if (
         "?" in stripped
         or "!" in stripped
@@ -175,6 +189,7 @@ def style_chinese(line, lineno, filepath, errors):
                 lineno,
                 "ZH/halfwidth",
                 "use full-width ？！……（） instead of half-width ? ! ... ( )",
+                start_time,
             )
         )
     if NOT_SPACED_CJK.search(stripped):
@@ -184,6 +199,7 @@ def style_chinese(line, lineno, filepath, errors):
                 lineno,
                 "ZH/space",
                 "add a space between Chinese and non-Chinese characters",
+                start_time,
             )
         )
 
@@ -245,6 +261,7 @@ def build_cues(lines, filepath, errors):
                         idx_lineno,
                         "struct",
                         "cue index %d not followed by a timecode line" % idx,
+                        None,
                     )
                 )
                 text = block[1:]
@@ -253,7 +270,9 @@ def build_cues(lines, filepath, errors):
             if cues:
                 cues[-1].text.extend(block)
             else:
-                errors.append((filepath, idx_lineno, "struct", "text before any cue"))
+                errors.append(
+                    (filepath, idx_lineno, "struct", "text before any cue", None)
+                )
     return cues
 
 
@@ -281,6 +300,7 @@ def lint_one(filepath):
                         cue.idx_lineno,
                         "struct",
                         "cue index not sequential (expected %d)" % (prev_index + 1),
+                        cue.start_time,
                     )
                 )
             prev_index = cue.index
@@ -291,6 +311,7 @@ def lint_one(filepath):
                     cue.tc_lineno,
                     "struct",
                     "invalid timecode line: %r" % cue.tc,
+                    cue.start_time,
                 )
             )
 
@@ -300,9 +321,13 @@ def lint_one(filepath):
             if not text_line.strip():
                 continue
             if is_chinese(text_line):
-                style_chinese(text_line, lineno, filepath, errors)
+                style_chinese(
+                    text_line, lineno, filepath, errors, cue.start_time
+                )
             elif LATIN_RE.search(text_line):
-                style_english(text_line, lineno, filepath, errors)
+                style_english(
+                    text_line, lineno, filepath, errors, cue.start_time
+                )
 
     # --- length warnings (soft) per cue ---
     for cue in cues:
@@ -320,6 +345,7 @@ def lint_one(filepath):
                         "style/length",
                         "Chinese line has %d CJK chars (limit < %d)"
                         % (cjk, ZH_CJK_LIMIT),
+                        cue.start_time,
                     )
                 )
         elif LATIN_RE.search(full):
@@ -332,6 +358,7 @@ def lint_one(filepath):
                         "style/length",
                         "English line has %d chars (limit < %d)"
                         % (chars, EN_CHAR_LIMIT),
+                        cue.start_time,
                     )
                 )
 
@@ -373,6 +400,7 @@ def lint_one(filepath):
                             FLASH_FRAME_MAX_FRAMES,
                             FPS,
                         ),
+                        cue.start_time,
                     )
                 )
         prev_end = end_ms
@@ -389,6 +417,7 @@ def lint_one(filepath):
                     "struct/pairing",
                     "EN run has %d cues but CN run has %d (timecodes must pair up)"
                     % (len(en_run), len(cn_run)),
+                    cn_run[0].start_time,
                 )
             )
         else:
@@ -404,6 +433,7 @@ def lint_one(filepath):
                                 "struct/pairing",
                                 "pair %d timecode mismatch: EN [%s] vs CN [%s]"
                                 % (i, en.tc, cn.tc),
+                                cn.start_time,
                             )
                         )
 
@@ -439,12 +469,23 @@ def main(argv=None):
 
     def print_grouped(items, label):
         by_file = defaultdict(list)
-        for filepath, lineno, code, msg in items:
-            by_file[filepath].append((lineno, code, msg))
+        for item in items:
+            filepath, lineno, code, msg = item[0], item[1], item[2], item[3]
+            start_time = item[4] if len(item) > 4 else None
+            by_file[filepath].append((lineno, code, msg, start_time))
         for filepath in sorted(by_file):
             print("%s:" % filepath)
-            for lineno, code, msg in sorted(by_file[filepath]):
-                print("  [%s] line %d: %s" % (code, lineno, msg))
+            for lineno, code, msg, start_time in sorted(
+                by_file[filepath],
+                key=lambda x: (x[0], x[1], x[2], x[3] or ""),
+            ):
+                if start_time:
+                    print(
+                        "  [%s] line %d (%s): %s"
+                        % (code, lineno, start_time, msg)
+                    )
+                else:
+                    print("  [%s] line %d: %s" % (code, lineno, msg))
         print("\n%d %s in %d file(s)" % (len(items), label, len(by_file)))
         print()
 
