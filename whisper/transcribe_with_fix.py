@@ -111,27 +111,26 @@ def force_split_breaths(words: list[dict], n_parts: int) -> list[list[dict]]:
 
 
 def split_oversize(chunk: list[dict]) -> list[list[dict]]:
-    """Reduce an over-HARD chunk with no clause boundary inside: escalate
-    pause thresholds, then fall back to breath-point force-splits."""
-    parts = None
+    """Reduce an over-HARD chunk: split at the coarsest pause threshold that
+    yields >1 part, pack, then recurse into parts still over the cap. A run
+    with no boundary inside is kept when <= 2x hard cap (accepted over-length
+    per policy) and force-split at breath points beyond that."""
+    total = len(joined_text(chunk))
+    if total <= HARD_CHARS:
+        return [chunk]
     for threshold in PAUSE_THRESHOLDS:
-        parts_ = split_pauses(chunk, threshold)
-        if len(parts_) > 1:
-            parts = parts_
-            break
-    if parts is None:
-        return force_split_breaths(
-            chunk, math.ceil(len(joined_text(chunk)) / TARGET_CHARS)
-        )
-    out = []
-    for p in pack(parts, TARGET_CHARS):
-        if len(joined_text(p)) <= HARD_CHARS:
-            out.append(p)
-        else:
-            out.extend(
-                force_split_breaths(p, math.ceil(len(joined_text(p)) / TARGET_CHARS))
-            )
-    return out
+        parts = split_pauses(chunk, threshold)
+        if len(parts) > 1:
+            out = []
+            for p in pack(parts, TARGET_CHARS):
+                if len(joined_text(p)) <= HARD_CHARS:
+                    out.append(p)
+                else:
+                    out.extend(split_oversize(p))
+            return out
+    if total <= 2 * HARD_CHARS:
+        return [chunk]
+    return force_split_breaths(chunk, math.ceil(total / TARGET_CHARS))
 
 
 def pack(items: list[list[dict]], limit: int) -> list[list[dict]]:
@@ -209,7 +208,7 @@ def merge_fragments(cues: list[dict]) -> list[dict]:
     skip_next_merge = False
     for i, cue in enumerate(out):
         if skip_next_merge:
-            merged.append(cue)
+            # already consumed by the previous forward merge
             skip_next_merge = False
             continue
         words_cur = cue["text"].split()
@@ -251,22 +250,8 @@ def build_cues(words: list[dict]) -> list[dict]:
                 emit(chunk)
             continue
         for chunk in pack(clauses, TARGET_CHARS):
-            if len(joined_text(chunk)) <= HARD_CHARS:
-                emit(chunk)
-            else:
-                # single clause over the hard cap: pauses first; mild
-                # over-length (<= 2x hard cap) is kept as-is by policy;
-                # only pathological runs get breath-point force-splits
-                parts = split_pauses(chunk, PAUSE_THRESHOLDS[0])
-                if len(parts) > 1:
-                    for part in pack(parts, TARGET_CHARS):
-                        emit(part)
-                elif len(joined_text(chunk)) > 2 * HARD_CHARS:
-                    n_parts = math.ceil(len(joined_text(chunk)) / TARGET_CHARS)
-                    for part in force_split_breaths(chunk, n_parts):
-                        emit(part)
-                else:
-                    emit(chunk)  # accepted over-length
+            for piece in split_oversize(chunk):
+                emit(piece)
     return merge_fragments(dedup_echoes(cues))
 
 
