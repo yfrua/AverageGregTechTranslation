@@ -5,9 +5,17 @@ timestamps, and semantic cue splitting. Built on faster-whisper
 (CTranslate2): VAD removes silence/music *before* inference, which prevents
 the looping/hallucination issues of raw openai-whisper at the source.
 
+Two scripts live in this directory:
+
+- `transcribe_semantic.py` — the current pipeline (faster-whisper + semantic
+  cue splitting); everything below up to "Manual correction pass" describes it.
+- `transcribe_with_fix.py` — the original openai-whisper script with
+  compression-ratio loop detection/correction (legacy; see the section at the
+  end).
+
 Typical episode workflow:
 1. Drop the video/audio as `RDR_epN.mp4` in this directory.
-2. Run `transcribe_with_fix.py` → `RDR_epN.raw.srt`.
+2. Run `transcribe_semantic.py` → `RDR_epN.raw.srt`.
 3. Review/correct the raw SRT (jargon, stutters, cue boundaries) → final `RDR_epN.srt`.
 4. Lint against repo style rules: `python3 scripts/subtitle_lint.py RDR_epN.srt`.
 
@@ -249,13 +257,13 @@ EOF
 
 ```bash
 # Typical run (video or audio input works)
-python transcribe_with_fix.py RDR_ep1.mp4
+python transcribe_semantic.py RDR_ep1.mp4
 
 # Explicit output prefix and device
-python transcribe_with_fix.py RDR_ep1.mp4 --out-prefix RDR_ep1 --device cuda
+python transcribe_semantic.py RDR_ep1.mp4 --out-prefix RDR_ep1 --device cuda
 
 # Re-split cues without re-running ASR (after tweaking splitter settings)
-python transcribe_with_fix.py RDR_ep1.mp4 --reuse-words
+python transcribe_semantic.py RDR_ep1.mp4 --reuse-words
 ```
 
 Options:
@@ -286,7 +294,7 @@ Outputs:
 
 ## Cue-building policy
 
-Implemented in `transcribe_with_fix.py::build_cues`; limits mirror
+Implemented in `transcribe_semantic.py::build_cues`; limits mirror
 `scripts/subtitle_lint.py`:
 
 - **One line per cue** — no two-line wrapping (guidelines.md).
@@ -324,10 +332,55 @@ Common ASR error classes seen on this content:
 - Homophones: "first tour" → first ore, "savaged" → salvaged,
   "to mount" → amount
 
+## Legacy script: `transcribe_with_fix.py`
+
+The original openai-whisper pipeline, kept as a fallback. It transcribes with
+openai-whisper, detects looping/hallucinated segments via compression-ratio
+analysis (zlib ratio + z-score/MAD outliers + cross-segment windows), and
+re-transcribes only the flagged chunks with beam search. Superseded by
+`transcribe_semantic.py` — VAD filtering prevents the looping at the source —
+but it needs nothing beyond `pip install openai-whisper` plus the `large-v3.pt`
+checkpoint already in this directory, so it still works if the CT2 model dir
+is unavailable.
+
+```bash
+python transcribe_with_fix.py RDR_ep1.m4a                     # transcribe + detect + fix
+python transcribe_with_fix.py RDR_ep1.m4a --dry-run           # detection report only
+python transcribe_with_fix.py RDR_ep1.m4a --skip-first-pass   # fix existing .srt only
+```
+
+Options:
+```
+positional arguments:
+  audio                 Input audio file (m4a, mp3, wav, etc.)
+
+optional arguments:
+  --model               Whisper model name or path (default: ./large-v3.pt)
+  --out-dir             Output directory (default: same as input)
+  --language            Language code (default: en)
+  --device              Torch device: cuda:0, cuda:1, cpu (default: cuda:0)
+  --skip-first-pass     Skip first pass if the SRT already exists
+  --dry-run             Only detect buggy segments, don't re-transcribe
+  --zscore              Z-score threshold (default: -1.5, lower = stricter)
+  --min-ratio           Compression ratio floor (default: 0.55)
+  --hard-floor          Hard compression-ratio floor (default: 0.42)
+  --cross-window        Max adjacent segments checked for cross-segment loops (default: 3)
+  --cross-hard-floor    Compression ratio floor for joined adjacent segments (default: 0.50)
+  --keep-chunks         Keep temporary audio chunks on disk
+```
+
+Output: `<stem>.srt` directly (no `.raw.` intermediate, no semantic cue
+splitting) — the detection/correction replaces the raw whisper segments.
+
 ## File inventory
 
-- `models/faster-whisper-large-v3/` — CTranslate2 model used by the script
+- `transcribe_semantic.py` — current pipeline: faster-whisper + VAD +
+  semantic cue splitting (see Usage above)
+- `transcribe_with_fix.py` — legacy openai-whisper loop-fix script (see
+  section above)
+- `models/faster-whisper-large-v3/` — CTranslate2 model used by
+  `transcribe_semantic.py`
 - `RDR_ep*.raw.srt/.txt/.words.json` — uncorrected ASR output (keep for diffing)
 - `RDR_ep*.srt` — corrected, release-ready subtitles
-- `large-v3.pt` — legacy openai-whisper checkpoint; unused at runtime but
-  usable as input for the Route C transform (safe to delete if disk is tight)
+- `large-v3.pt` — openai-whisper checkpoint; used by `transcribe_with_fix.py`
+  and as input for the Route C transform (safe to delete if disk is tight)
