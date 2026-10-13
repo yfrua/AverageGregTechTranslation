@@ -1,0 +1,2304 @@
+1
+00:00:00,333 --> 00:00:01,466
+Welcome back!
+
+2
+00:00:01,700 --> 00:00:06,000
+And today we're going to see both AE2 and EV
+
+3
+00:00:06,000 --> 00:00:09,733
+I wanted to split those two things apart
+
+4
+00:00:09,733 --> 00:00:12,500
+and have two different episodes, one dedicated to each one
+
+5
+00:00:12,500 --> 00:00:16,500
+but those two things are too much interlocked one with the other
+
+6
+00:00:16,500 --> 00:00:20,466
+it would be too annoying to edit and probably it would not even look good
+
+7
+00:00:20,466 --> 00:00:22,800
+so this episode will cover both
+
+8
+00:00:23,700 --> 00:00:25,700
+it's going to be mostly about AE2
+
+9
+00:00:25,700 --> 00:00:31,533
+but before diving into AE2, we really have to do a few things of the EV tier
+
+10
+00:00:32,533 --> 00:00:38,066
+and the first issue is that my power generation is barely working for the HV tier
+
+11
+00:00:38,066 --> 00:00:41,366
+so this will not work for EV
+
+12
+00:00:41,700 --> 00:00:45,500
+and the way we want to do it is with a nuclear reactor
+
+13
+00:00:45,500 --> 00:00:49,266
+more specifically, I'm going to do a vacuum nuke running on thorium
+
+14
+00:00:49,566 --> 00:00:54,900
+and once again, read the quest book because this stuff is really well explained inside the quest book
+
+15
+00:00:54,900 --> 00:00:58,800
+but once again, the quest book does not show you exactly how to do it
+
+16
+00:00:58,800 --> 00:01:04,800
+so I'm going to show you my setup, and then you can figure out how to make your own the way you like it
+
+17
+00:01:05,400 --> 00:01:10,233
+and those are going to be the really bare minimum parts to make a really basic setup
+
+18
+00:01:10,233 --> 00:01:16,166
+and as you notice, from the many things I probably forgot, the main one is coolant and fuel
+
+19
+00:01:16,400 --> 00:01:21,166
+and for that I'm going to use an ore that is underrated, monazite
+
+20
+00:01:21,166 --> 00:01:31,233
+from one monazite, one single ore, and if you break it with the hammer you get on average or two or three raws you get 16 crushed
+
+21
+00:01:31,233 --> 00:01:36,633
+and from 16 crushed you get something like three thorium dusts
+
+22
+00:01:37,433 --> 00:01:39,733
+more than you will get from a thorium ore
+
+23
+00:01:39,733 --> 00:01:44,933
+and also you can fluid extract from the monazite helium to make the coolant cells
+
+24
+00:01:45,766 --> 00:01:47,933
+and there we go
+
+25
+00:01:48,533 --> 00:01:52,866
+now there are many tutorials way better than what I'm going to do on how to make this
+
+26
+00:01:52,866 --> 00:01:56,266
+but I want to do it my own way
+
+27
+00:01:56,266 --> 00:02:00,533
+in the comments you'll probably find many people who know better than me
+
+28
+00:02:00,533 --> 00:02:04,200
+or will tell you how poorly my system is designed
+
+29
+00:02:04,200 --> 00:02:06,666
+but I didn't want it to be a meme system (?)
+
+30
+00:02:06,666 --> 00:02:10,766
+but I'm also going to explain why I want it to be done a specific way
+
+31
+00:02:13,266 --> 00:02:21,866
+the first thing which probably is not too good is that I'm going to need some sample coolant depletion
+
+32
+00:02:21,866 --> 00:02:30,400
+basically I want those cells to reach the level damage which I will use in the filters to filter when to extract those
+
+33
+00:02:31,566 --> 00:02:35,700
+the thing is that I have seen many ways of doing that but
+
+34
+00:02:36,500 --> 00:02:39,366
+that way I'm going to show is the one I like the most
+
+35
+00:02:40,000 --> 00:02:45,866
+Soycake did a really really good SFM program that was probably the best thing I have ever seen
+
+36
+00:02:45,866 --> 00:02:47,800
+he should make a tutorial about it
+
+37
+00:02:47,800 --> 00:02:50,733
+the way we did it in the speedrun was awesome
+
+38
+00:02:50,733 --> 00:02:54,433
+but I'm not going to make an sfm program for that task
+
+39
+00:02:55,133 --> 00:02:57,300
+actually, this process takes too much
+
+40
+00:02:57,300 --> 00:02:59,766
+it's easier if you focus on a single cell
+
+41
+00:03:01,366 --> 00:03:03,200
+it should be like three times faster
+
+42
+00:03:04,333 --> 00:03:09,766
+and while this one gets consumed up, we can set up the rest of the system
+
+43
+00:03:10,266 --> 00:03:12,133
+now we are going to have two chests
+
+44
+00:03:12,500 --> 00:03:16,166
+one for the fresh coolant, one for the exhaust coolant
+
+45
+00:03:16,566 --> 00:03:19,733
+and we have to set up the conduits carefully
+
+46
+00:03:22,200 --> 00:03:27,000
+I mean we can connect it whatever we want
+
+47
+00:03:27,000 --> 00:03:33,566
+but we must make sure we do the sides correctly
+
+48
+00:03:34,866 --> 00:03:38,000
+okay, let's do it nicely
+
+49
+00:03:39,033 --> 00:03:40,900
+okay now I'm going to do...
+
+50
+00:03:41,633 --> 00:03:43,700
+this one will become...
+
+51
+00:03:44,200 --> 00:03:51,433
+we insert here the cold coolant and we will extract brown to say hot coolant
+
+52
+00:03:52,266 --> 00:03:56,400
+then this cell(chest) will be the cold coolant
+
+53
+00:03:57,000 --> 00:04:01,366
+but blue is the extract, yes
+
+54
+00:04:02,166 --> 00:04:06,500
+So blue, hot extract, OK
+
+55
+00:04:06,500 --> 00:04:09,900
+that will have fresh coolant which will go inside the reactor
+
+56
+00:04:09,900 --> 00:04:13,833
+Then the brown will go in there
+
+57
+00:04:15,333 --> 00:04:17,800
+those will be cells that must be refreshed
+
+58
+00:04:19,633 --> 00:04:27,200
+then we can extract those with, let's say, light gray
+
+59
+00:04:27,700 --> 00:04:35,733
+and they go inside the freezer to get refreshed
+
+60
+00:04:35,733 --> 00:04:37,800
+and they come back here
+
+61
+00:04:38,566 --> 00:04:41,000
+we'll have put this chest just right there, but whatever
+
+62
+00:04:41,000 --> 00:04:44,066
+with the conduit I can add more vacuum freezer later
+
+63
+00:04:44,066 --> 00:04:48,200
+but this is just the most setup one in this dimension
+
+64
+00:04:50,566 --> 00:04:56,500
+and from this one we will extract, gray, insert
+
+65
+00:04:58,000 --> 00:05:01,400
+right, here, okay that should work out
+
+66
+00:05:01,400 --> 00:05:05,300
+fresh coolant, blue, goes into the reactor
+
+67
+00:05:05,966 --> 00:05:10,533
+once it's depleted we'll extract brown, we're going to this chest
+
+68
+00:05:10,533 --> 00:05:12,833
+then we're going to the freezer
+
+69
+00:05:12,833 --> 00:05:15,233
+then we'll go into the fresh coolant again
+
+70
+00:05:15,233 --> 00:05:16,766
+okay that should look nicely
+
+71
+00:05:16,766 --> 00:05:24,100
+now we're going to have two filters and the best spot to put those is inside those two chests
+
+72
+00:05:24,100 --> 00:05:30,533
+because if you put this one on the insert of the hot coolant
+
+73
+00:05:30,533 --> 00:05:31,733
+and on the...
+
+74
+00:05:33,233 --> 00:05:35,900
+oh wait we only need one, I don't know why it's two
+
+75
+00:05:36,433 --> 00:05:39,400
+yeah basically if you put this one on the insert here
+
+76
+00:05:39,400 --> 00:05:43,433
+when we build more nuclear reactors we don't have to add more filters
+
+77
+00:05:43,433 --> 00:05:46,766
+because this one will filter what goes in there
+
+78
+00:05:46,766 --> 00:05:49,500
+and since the extraction can only go in there
+
+79
+00:05:49,966 --> 00:05:53,900
+this one will be the one filtering which cells will be extracted
+
+80
+00:05:53,900 --> 00:05:56,266
+that way we make one filter one time
+
+81
+00:05:56,266 --> 00:05:59,700
+and it will be good for as many reactors as we want
+
+82
+00:06:00,400 --> 00:06:03,500
+once again try to figure out how you think you...
+
+83
+00:06:03,500 --> 00:06:07,600
+like I don't like copy pasting the setups that someone else does
+
+84
+00:06:07,600 --> 00:06:12,700
+I enjoy thinking myself how to make a setup that I think will work and debug it
+
+85
+00:06:12,900 --> 00:06:20,233
+so I will keep encouraging you into trying to design your own setup instead of copy pasting the one of someone else
+
+86
+00:06:21,166 --> 00:06:24,866
+So this is probably not even a good tutorial, I'm not even making a tutorial
+
+87
+00:06:24,866 --> 00:06:26,800
+I'm just showing you my way of doing things
+
+88
+00:06:27,500 --> 00:06:33,833
+Once again I suggest you check on the wiki how those parts work and the values of each part
+
+89
+00:06:35,000 --> 00:06:40,300
+Anyway, this cell almost reached 3, which is where I want to stop it at 3%
+
+90
+00:06:40,733 --> 00:06:42,166
+okay, now I have this one
+
+91
+00:06:42,266 --> 00:06:46,233
+I'm going to use this one as a sample for the filter of what I want to be removed from the reactor
+
+92
+00:06:47,166 --> 00:06:59,666
+So insert here on 3%, and we must make sure here that we do not match NBT data but we match metadata
+
+93
+00:06:59,666 --> 00:07:06,666
+because this one is 3%, we want to extract this one at 3%, not when it has exactly that stored heat
+
+94
+00:07:08,266 --> 00:07:13,700
+like depending on how it's placed in the reactor the stored heat could be different regardless of the 3%
+
+95
+00:07:13,700 --> 00:07:16,500
+so make sure we ignore nbt data but we match metadata
+
+96
+00:07:17,133 --> 00:07:20,066
+there are other ways of filtering that work even better
+
+97
+00:07:20,066 --> 00:07:23,766
+like whenever it's less than 10% but I like to do it this way
+
+98
+00:07:23,766 --> 00:07:27,533
+you can even risk it with 1% but I like to make it super safe
+
+99
+00:07:28,233 --> 00:07:30,766
+the lower you go the more you use it of course
+
+100
+00:07:31,433 --> 00:07:33,666
+then I'm going to get it to 2%
+
+101
+00:07:34,866 --> 00:07:38,000
+okay no wait it's still three come on
+
+102
+00:07:38,833 --> 00:07:43,566
+okay and then again I'm going to filter it again for 1%
+
+103
+00:07:44,300 --> 00:07:46,900
+okay, that way it should be pretty safe
+
+104
+00:07:46,900 --> 00:07:50,433
+if it does not get it out at three, it should let you if you want
+
+105
+00:07:51,400 --> 00:07:55,266
+with this setup, it's not even needed to be that careful
+
+106
+00:07:55,266 --> 00:07:58,933
+but if we do something with uranium, we have to be more careful
+
+107
+00:07:59,366 --> 00:08:02,566
+but this is a super basic setup and I'm even going to meme about it
+
+108
+00:08:02,566 --> 00:08:05,533
+you will see soon what I'm going to do with this setup
+
+109
+00:08:05,533 --> 00:08:07,666
+because the thing is that redstone
+
+110
+00:08:08,233 --> 00:08:14,533
+now if you want to be super safe you should make an enclosure around the reactor with something that is indestructible
+
+111
+00:08:15,266 --> 00:08:18,766
+warded glass if you are doing magic is great otherwise you can use
+
+112
+00:08:19,900 --> 00:08:22,433
+reinforced stone, if it didn't nerf this one
+
+113
+00:08:23,133 --> 00:08:26,666
+this one should be done exactly for that purpose if they didn't nerf it
+
+114
+00:08:27,200 --> 00:08:31,533
+otherwise if you're doing magic warded glass is perfect
+
+115
+00:08:31,533 --> 00:08:39,566
+but if you have backups and are crazy like me just go without enclosure
+
+116
+00:08:40,266 --> 00:08:44,066
+or you dis(able)... I don't even know if you can disable explosion of IC2
+
+117
+00:08:44,066 --> 00:08:46,633
+anyway that was saying now redstone
+
+118
+00:08:46,633 --> 00:08:50,633
+ideally I have frequently I have an AND here
+
+119
+00:08:50,633 --> 00:08:56,700
+usually I make an AND gate put it there and have one condition being the heat level of the reactor
+
+120
+00:08:58,000 --> 00:09:01,000
+that way if it ever overheats it shuts off
+
+121
+00:09:01,800 --> 00:09:04,466
+a lever to manually control the single reactor
+
+122
+00:09:04,466 --> 00:09:11,500
+and then a cable that depends on the energy level of the battery buffer to turn it on and off depending on energy
+
+123
+00:09:11,800 --> 00:09:22,100
+But in this version they made the AND gate way too annoying to craft for me
+
+124
+00:09:22,633 --> 00:09:27,000
+so I'm not going to bother crafting all of this stuff without AE2
+
+125
+00:09:27,000 --> 00:09:28,466
+I'm going to get AE2 soon
+
+126
+00:09:28,466 --> 00:09:31,866
+also we want to burn as much thorium as possible
+
+127
+00:09:31,866 --> 00:09:37,333
+because we don't do magic, that's probably one of the best way of getting lutetium
+
+128
+00:09:37,333 --> 00:09:38,633
+we're going to need a lot of this
+
+129
+00:09:38,633 --> 00:09:42,633
+so thorium is easy to get, recycles pretty well
+
+130
+00:09:42,633 --> 00:09:45,533
+so just burn as much of this fuel as you can
+
+131
+00:09:45,533 --> 00:09:50,600
+and that was for saying, I'm not going to toggle this reactor depending on the energy level
+
+132
+00:09:50,600 --> 00:09:56,066
+I'm going to make it run as long as it's not overheating which should never happen
+
+133
+00:09:57,900 --> 00:10:02,366
+so, with that said, we can start using the layout
+
+134
+00:10:02,366 --> 00:10:06,266
+and also we can start testing if the system loop works
+
+135
+00:10:06,266 --> 00:10:11,200
+the only thing I should have forgot should be this one, that should extract perfectly one percent cell
+
+136
+00:10:11,566 --> 00:10:13,333
+we should be in there there perfect
+
+137
+00:10:13,333 --> 00:10:18,300
+okay it's getting refreshed and I should go back there
+
+138
+00:10:18,300 --> 00:10:22,633
+and i don't remember how many rods I had before
+
+139
+00:10:22,633 --> 00:10:25,633
+okay it's not in there so it should have got that, good
+
+140
+00:10:26,366 --> 00:10:31,000
+then the layout I want to use is going to also have some vents
+
+141
+00:10:31,000 --> 00:10:34,033
+those vents simply cool down the core
+
+142
+00:10:34,600 --> 00:10:39,533
+there are better setups on the wiki but I like this one because it looks nice
+
+143
+00:10:40,466 --> 00:10:45,100
+and I'm going to just place the rods like this
+
+144
+00:10:46,933 --> 00:10:51,666
+and whenever it gets too hot, this system will trigger
+
+145
+00:10:53,500 --> 00:11:01,533
+and once it trigger those fans will slowly cool it down and it just keeps toggling on and off
+
+146
+00:11:01,533 --> 00:11:05,033
+if it was the uranium all filled up without size(?), it would be more dangerous
+
+147
+00:11:05,033 --> 00:11:10,266
+but the setup could even work without coolant basically that was I wanted to say
+
+148
+00:11:10,966 --> 00:11:13,533
+all right and this should give you an idea of this setup
+
+149
+00:11:13,533 --> 00:11:16,933
+I'm going to fill up this with fuel later, but this already works
+
+150
+00:11:17,100 --> 00:11:22,733
+now the thing I really wanted to point out is how you extract power from this reactor
+
+151
+00:11:22,733 --> 00:11:26,966
+because if you look at the reactor you can see it's producing 3k EU/t
+
+152
+00:11:26,966 --> 00:11:30,833
+but if you look at the battery buffer it's only getting 2000
+
+153
+00:11:30,833 --> 00:11:34,233
+so I'm losing 50(33)% of the power
+
+154
+00:11:35,200 --> 00:11:39,633
+the reason why is because if you extract power with cables
+
+155
+00:11:39,633 --> 00:11:41,800
+which as far as I know is the only way
+
+156
+00:11:43,266 --> 00:11:48,100
+the reactor will try to convert it into amps of the voltage of the cable
+
+157
+00:11:48,900 --> 00:11:59,133
+This cable is 2000 volts, and 3000 divided by 2 makes 1, and it loses the reminder, basically
+
+158
+00:11:59,133 --> 00:12:01,500
+Because it does not produce enough to make a second amp
+
+159
+00:12:01,600 --> 00:12:04,866
+and it doesn't do alternate ticks on and off
+
+160
+00:12:05,866 --> 00:12:12,633
+so to avoid that either you try to make a design that matches the power of the cable
+
+161
+00:12:13,133 --> 00:12:19,400
+or another solution is use a lower tier and then a transformer
+
+162
+00:12:19,833 --> 00:12:25,866
+so that you can better take that output by using a smaller divider
+
+163
+00:12:26,966 --> 00:12:32,766
+basically, this one you need a soft mallet
+
+164
+00:12:33,300 --> 00:12:41,033
+I think why not, I think I really do transformer toggling a lot compared to other people
+
+165
+00:12:42,000 --> 00:12:43,600
+now let's have it
+
+166
+00:12:45,433 --> 00:12:50,833
+thinking on how I will expand this system because I'm probably going to have another reactor there
+
+167
+00:12:50,833 --> 00:12:58,166
+but bigger setup will be done when I will be moving base to the garden dim which I'm going to do in IV
+
+168
+00:12:59,100 --> 00:13:01,900
+ok now this one goes there
+
+169
+00:13:03,033 --> 00:13:06,466
+ok that should should work out, let's see
+
+170
+00:13:06,800 --> 00:13:08,266
+perfect it doesn't work
+
+171
+00:13:09,666 --> 00:13:13,400
+I think it's because... no
+
+172
+00:13:14,266 --> 00:13:17,666
+okay let me figure out why does it not work
+
+173
+00:13:17,666 --> 00:13:20,233
+step up, pushing power
+
+174
+00:13:21,933 --> 00:13:28,166
+i think you need the cable to first connect to the GregTech block and then to the IC2 block
+
+175
+00:13:30,033 --> 00:13:31,633
+yeah, those cables...
+
+176
+00:13:31,633 --> 00:13:37,133
+if you connect a machine that is not GregTech, both when you use RF or IC2
+
+177
+00:13:37,366 --> 00:13:44,033
+first connect the cable to a GregTech machine, then reconnect it to the machine of the other mod
+
+178
+00:13:44,033 --> 00:13:45,866
+that's how the mod conversion works
+
+179
+00:13:45,866 --> 00:13:50,133
+anyways, as you can see now, it's about two or five thousand
+
+180
+00:13:50,133 --> 00:13:53,133
+so we squeezed a little bit more of it again
+
+181
+00:13:53,666 --> 00:14:00,600
+once again it's because 3040, it has to divide by 512
+
+182
+00:14:02,766 --> 00:14:03,866
+and that does...
+
+183
+00:14:03,866 --> 00:14:08,500
+oh if it was like a little bit more, we will get six amp
+
+184
+00:14:08,933 --> 00:14:15,200
+since it basically cuts the integer number, we lose all of that power
+
+185
+00:14:15,900 --> 00:14:20,366
+we are so close, one more rod we'll get three thousand out of it basically
+
+186
+00:14:20,366 --> 00:14:29,000
+but we already recovered a lot because earlier on what it was doing, wait it's 2048
+
+187
+00:14:29,000 --> 00:14:33,733
+earlier on what it was doing doing was trashing this 0.48
+
+188
+00:14:34,600 --> 00:14:39,000
+right now we lose this but what matter is the percentage
+
+189
+00:14:39,000 --> 00:14:44,666
+here we were wasting 48(33)% here we waste something like 24(16)%
+
+190
+00:14:45,600 --> 00:14:49,833
+and now that we fix the energy issues it's finally time to get into AE2
+
+191
+00:14:50,533 --> 00:14:55,433
+and this time my suggestion is to first try to complete as many quests as you can before doing anything else
+
+192
+00:14:56,000 --> 00:14:59,333
+notably those quests will give you some loot bags that are incredibly good
+
+193
+00:15:00,033 --> 00:15:06,800
+So I suggest enchanting those with a fortune III book to get this loot and not the trash loot
+
+194
+00:15:07,066 --> 00:15:16,400
+Also it's worth noting that the vending machine has some really really nice things you can buy after doing the very first quest of the AE2 page
+
+195
+00:15:16,900 --> 00:15:20,466
+And after stocking up a lot of parts we can finally start setting up AE2
+
+196
+00:15:20,700 --> 00:15:25,466
+Now this is not going to be a tutorial but just showing how I usually go on with that
+
+197
+00:15:25,800 --> 00:15:29,400
+So to get started we are going to build a controller and power it
+
+198
+00:15:29,900 --> 00:15:37,433
+and I'm also going to put to good use the old HV battery buffer since now I have a new one EV with the Lapotrons
+
+199
+00:15:38,600 --> 00:15:42,866
+Now this is going to be the first controller and it's actually going to be two controllers
+
+200
+00:15:42,866 --> 00:15:45,666
+one for the p2p subnetwork and one for the main one
+
+201
+00:15:45,666 --> 00:15:48,866
+but at this stage of the game, don't worry about it
+
+202
+00:15:48,866 --> 00:15:52,600
+I'm going to show you how I will do it to manage it early on
+
+203
+00:15:53,000 --> 00:15:56,133
+but I'm pretty sure you're going to want to rebuild this
+
+204
+00:15:56,133 --> 00:15:59,533
+By the way we got the reward in the last tier
+
+205
+00:15:59,700 --> 00:16:02,200
+we got as reward the personal dimension
+
+206
+00:16:02,200 --> 00:16:07,133
+but I think it's better to wait a little bit before moving there
+
+207
+00:16:07,133 --> 00:16:11,766
+I think the best moment for the moving is when you start building all of the multiblocks, 
+
+208
+00:16:12,666 --> 00:16:24,900
+Right now I still don't have all of the bending multiblock, wiremill multiblock, electric macerator, mixer multiblock and such
+
+209
+00:16:26,500 --> 00:16:28,800
+and also AE2, I don't have, I'm making AE2 now
+
+210
+00:16:28,800 --> 00:16:30,266
+so once I have...
+
+211
+00:16:30,666 --> 00:16:35,833
+  when I will be able to build the good multi-blocks is when I will not be moving but building a new base
+
+212
+00:16:36,366 --> 00:16:42,533
+that way you don't have to move but you just build a new base when you have to anyways due to the upgrades
+
+213
+00:16:42,933 --> 00:16:49,466
+so as I was saying, this one will be the controller for p2p network and this one for the actual connections
+
+214
+00:16:50,000 --> 00:16:54,233
+I'm going to do things in the future but I think that should work out for the beginning
+
+215
+00:16:55,433 --> 00:16:59,833
+Now we are going to need power, so energy acceptor
+
+216
+00:17:00,866 --> 00:17:04,333
+my power cable is... I think down there
+
+217
+00:17:05,533 --> 00:17:07,266
+where is it, power cable
+
+218
+00:17:09,533 --> 00:17:10,833
+Now the yellow one
+
+219
+00:17:12,166 --> 00:17:13,200
+should be...
+
+220
+00:17:14,033 --> 00:17:14,566
+this one
+
+221
+00:17:18,200 --> 00:17:20,600
+that's transformer here
+
+222
+00:17:22,733 --> 00:17:23,433
+Connect
+
+223
+00:17:25,400 --> 00:17:26,100
+Power
+
+224
+00:17:28,133 --> 00:17:33,333
+And I am actually going to use the battery buffer as a backup power
+
+225
+00:17:36,666 --> 00:17:39,500
+going to do this way and
+
+226
+00:17:40,333 --> 00:17:42,566
+for whatever reason I ran out of power there
+
+227
+00:17:42,966 --> 00:17:45,200
+I still have this as a backup power
+
+228
+00:17:45,200 --> 00:17:48,066
+I'm not connecting it so that if I ever...
+
+229
+00:17:48,466 --> 00:17:50,500
+I'm going to keep this one for emergency
+
+230
+00:17:50,500 --> 00:17:53,133
+if I am on an emergency I can simply connect this one here
+
+231
+00:17:54,233 --> 00:17:59,933
+and this should turn it on and off because it's charging the battery buffer
+
+232
+00:18:01,400 --> 00:18:02,033
+come on
+
+233
+00:18:02,633 --> 00:18:04,333
+yes okay it works
+
+234
+00:18:05,433 --> 00:18:06,966
+now this one is going to be main network
+
+235
+00:18:06,966 --> 00:18:08,866
+this one is sub-network for P2Ps
+
+236
+00:18:09,433 --> 00:18:16,266
+This one will need power too, and we can get it by linking it with Quartz Fiber
+
+237
+00:18:17,433 --> 00:18:24,500
+Okay, Quartz Fiber splits the networks, so this way, network 1, which is going to be main and sub-network for P2Ps
+
+238
+00:18:26,800 --> 00:18:34,700
+Okay, I'm not going to explain, if you don't know what sub-network for P2Ps is, probably you should go watch a video
+
+239
+00:18:34,700 --> 00:18:38,466
+There are many many many many many many many good tutorials, go watch them
+
+240
+00:18:38,966 --> 00:18:44,700
+I'm mostly showing this on how I do it in my runs, like I'm not doing a tutorial
+
+241
+00:18:44,900 --> 00:18:47,800
+I'm showing how I actually do it in a real run
+
+242
+00:18:50,300 --> 00:18:55,133
+this is a waste of channels, because you can extract 32 channels from each side
+
+243
+00:18:55,133 --> 00:18:59,666
+but this cable only carries 8, and this one uses 0, so this is a waste of channels
+
+244
+00:18:59,866 --> 00:19:03,333
+Probably going to put something else in there, but I'm not worrying too much
+
+245
+00:19:03,433 --> 00:19:06,633
+like this is a temporary controller, I'm gonna rebuild it in feature
+
+246
+00:19:06,633 --> 00:19:08,433
+also we have those batteries
+
+247
+00:19:11,033 --> 00:19:16,933
+at the beginning those are useless but later on you will want to have a few of those to buffer power inside the network
+
+248
+00:19:16,933 --> 00:19:19,633
+because every time items are moved you have power spikes
+
+249
+00:19:20,066 --> 00:19:24,833
+and if you only have the energy of the controller you are going to have issues, so those help a buffer
+
+250
+00:19:25,166 --> 00:19:29,566
+and as I was saying this controller is very temporary because I'm already moving it
+
+251
+00:19:30,000 --> 00:19:33,133
+so let's start again a little bit better
+
+252
+00:19:34,066 --> 00:19:39,500
+okay, now the thing is that this was a waste of efficiency, let's say
+
+253
+00:19:40,633 --> 00:19:45,900
+so I want the main controller to start a little bit bigger so I have more room for stuff
+
+254
+00:19:46,933 --> 00:19:50,400
+and this one should get a little bit more...
+
+255
+00:19:51,366 --> 00:19:52,666
+this is an awful start
+
+256
+00:19:53,500 --> 00:19:57,700
+it's okay, I'm going to move to the personal dimension in like two episodes at most
+
+257
+00:19:57,700 --> 00:20:01,333
+probably next episode I'm already moving to the personal dimension, but
+
+258
+00:20:02,033 --> 00:20:04,866
+okay there we are
+
+259
+00:20:05,566 --> 00:20:07,766
+this one, oh yeah, that one was the issue 
+
+260
+00:20:09,200 --> 00:20:14,466
+now this is a network to give it power
+
+261
+00:20:14,833 --> 00:20:16,433
+thing is that I...
+
+262
+00:20:17,333 --> 00:20:20,233
+okay, first let me connect this then I will explain
+
+263
+00:20:20,666 --> 00:20:22,966
+now p2p network is a different network
+
+264
+00:20:22,966 --> 00:20:23,966
+which is going to be this one
+
+265
+00:20:23,966 --> 00:20:25,333
+it must not connect to this one
+
+266
+00:20:25,700 --> 00:20:30,133
+if i mis-connect this one, it will connect two controllers in the same network and it will go red
+
+267
+00:20:30,466 --> 00:20:31,033
+there
+
+268
+00:20:31,500 --> 00:20:34,200
+so cannot do that, I have to be careful not to do that
+
+269
+00:20:35,900 --> 00:20:38,100
+now P2Ps one and two, there
+
+270
+00:20:38,466 --> 00:20:40,000
+connect, connect, there
+
+271
+00:20:40,633 --> 00:20:42,866
+now this one is one network...
+
+272
+00:20:43,166 --> 00:20:47,200
+okay let me get the network visualizer actually because...
+
+273
+00:20:48,466 --> 00:20:51,766
+and there we go
+
+274
+00:20:52,600 --> 00:20:55,166
+okay crafted this one, this one
+
+275
+00:20:55,166 --> 00:20:57,766
+and while I was at it, I was also trying...
+
+276
+00:20:57,766 --> 00:21:00,633
+okay so I was saying, I also crafted a portable scanner
+
+277
+00:21:00,900 --> 00:21:03,000
+you can craft this one way earlier than I did
+
+278
+00:21:03,000 --> 00:21:05,766
+and it's super useful to debug machines
+
+279
+00:21:06,566 --> 00:21:10,800
+and with the network visualizer you can see it all starts from the controller
+
+280
+00:21:11,300 --> 00:21:13,266
+goes through this
+
+281
+00:21:13,266 --> 00:21:14,900
+and then goes there
+
+282
+00:21:15,466 --> 00:21:17,000
+okay this one is too small to show
+
+283
+00:21:17,600 --> 00:21:20,733
+meanwhile this controller here controls the p2ps
+
+284
+00:21:21,166 --> 00:21:23,966
+so there are two p2ps here and here
+
+285
+00:21:24,233 --> 00:21:28,433
+they go to the controller and then they go back from the controller to this one (and ?)
+
+286
+00:21:30,366 --> 00:21:36,100
+okay, it's not those two, it's simply every single thing has to connect to the controller
+
+287
+00:21:36,566 --> 00:21:40,466
+those don't go there, but simply everything goes to the controller
+
+288
+00:21:40,900 --> 00:21:43,066
+it doesn't go from one to the other, like...
+
+289
+00:21:44,033 --> 00:21:48,333
+things that goes inside it goes from from one P2P tunnel to the other
+
+290
+00:21:48,733 --> 00:21:54,033
+the channel used is always every single piece of the network to the controller
+
+291
+00:21:55,200 --> 00:21:59,300
+Anyways, basically this one is going to be filled up on every side of P2Ps
+
+292
+00:21:59,300 --> 00:22:00,666
+They will all connect to this one
+
+293
+00:22:00,666 --> 00:22:03,366
+and then this one will spread the P2Ps across all of the base
+
+294
+00:22:03,366 --> 00:22:04,266
+That's the idea
+
+295
+00:22:04,833 --> 00:22:10,133
+With that said, the first destination is probably going to be an area with massive storage
+
+296
+00:22:10,866 --> 00:22:13,200
+which I'm just (throwing?)
+
+297
+00:22:14,066 --> 00:22:18,966
+I mean, for a few things, it's probably worth it to not use P2P
+
+298
+00:22:19,400 --> 00:22:22,533
+If I do a storage area, I can just simply do that
+
+299
+00:22:23,400 --> 00:22:26,366
+Instead of a P2P, I can use a cable for one time
+
+300
+00:22:28,633 --> 00:22:34,400
+Yeah, I'm going to redesign, I'm going to rebuild a new base in the personal dimension
+
+301
+00:22:34,400 --> 00:22:36,300
+hopefully before this gets to clutter
+
+302
+00:22:37,400 --> 00:22:39,566
+Anyways, for storage, there are many solutions
+
+303
+00:22:39,566 --> 00:22:45,400
+but I just want to go with a drive because it's the most future-proof one, let's say
+
+304
+00:22:45,400 --> 00:22:51,933
+and at the beginning I'm simply going to use the cheapest size because I probably won't need too much space at the very beginning
+
+305
+00:22:51,933 --> 00:22:55,266
+at the very beginning and I'm not putting everything in there anyway so it should be fine
+
+306
+00:22:56,366 --> 00:23:01,233
+while at it I'm also going to set up auto crafting which I will show later
+
+307
+00:23:01,866 --> 00:23:06,966
+we're going to need cpus, I think it's good to have different sizes of cpus
+
+308
+00:23:06,966 --> 00:23:13,766
+but ideally you should probably want to get enough of big cpus, but you can chip out
+
+309
+00:23:13,766 --> 00:23:18,200
+like I keep the smallest crafting storage even late game
+
+310
+00:23:18,200 --> 00:23:23,866
+because it's still useful to restock small amounts of things you keep to restock every now and then
+
+311
+00:23:23,866 --> 00:23:27,033
+like there are a few times this one will be used
+
+312
+00:23:27,033 --> 00:23:30,966
+and if this one can do the job, you don't need one extra of the big one
+
+313
+00:23:30,966 --> 00:23:33,533
+I mean those are not big, but later on we'll have bigger
+
+314
+00:23:34,366 --> 00:23:37,000
+and finally a molecular assembler, but
+
+315
+00:23:38,066 --> 00:23:42,933
+once again, let me figure out how to explain what I'm doing
+
+316
+00:23:44,466 --> 00:23:46,300
+okay, this stuff will be for auto crafting
+
+317
+00:23:46,300 --> 00:23:49,433
+hopefully when I will be using it, I will explain it, and
+
+318
+00:23:50,333 --> 00:23:52,433
+okay then we're going to need some terminals
+
+319
+00:23:53,233 --> 00:23:57,266
+and I want one terminal in the main hall of my base I'm actually going to do
+
+320
+00:23:58,133 --> 00:23:58,900
+and I like... 
+
+321
+00:24:00,033 --> 00:24:01,900
+think it can work there 
+
+322
+00:24:03,533 --> 00:24:06,166
+so here I'm going to have (the terminal)
+
+323
+00:24:06,566 --> 00:24:09,866
+this space is looking working so horribly right now
+
+324
+00:24:11,800 --> 00:24:16,933
+Let's see, I'm going to need an interface, terminal, crafting, pattern
+
+325
+00:24:19,333 --> 00:24:20,700
+No, wait, this one, not neither
+
+326
+00:24:21,833 --> 00:24:24,733
+Okay, crafting terminal, this one is the most basic one
+
+327
+00:24:26,066 --> 00:24:27,266
+I'm actually going to have a...
+
+328
+00:24:30,600 --> 00:24:32,166
+I don't know why I'm even...
+
+329
+00:24:33,966 --> 00:24:38,033
+Okay, the level of which I'm putting this one is like the last of the issues I should be worrying about
+
+330
+00:24:38,700 --> 00:24:42,533
+Of course, it's not linked because this cable goes nowhere
+
+331
+00:24:43,333 --> 00:24:45,500
+and since I'm doing it this way
+
+332
+00:24:46,500 --> 00:24:48,000
+I could get a p2p there
+
+333
+00:24:48,166 --> 00:24:50,233
+but actually I'm not going to use more...
+
+334
+00:24:50,500 --> 00:24:53,066
+I think I have enough of eight channels there
+
+335
+00:24:53,366 --> 00:24:56,500
+this cable can carry 32, but I'm using like nothing
+
+336
+00:24:56,900 --> 00:24:59,100
+so may as well just connect it there 
+
+337
+00:25:00,166 --> 00:25:03,566
+this cable is way cheaper than the bigger cable
+
+338
+00:25:04,400 --> 00:25:08,000
+I think you need the expensive rubber
+
+339
+00:25:10,900 --> 00:25:14,066
+yeah, you need... this shouldn't even be that expensive, but
+
+340
+00:25:14,833 --> 00:25:17,333
+right now I'm not going to bother crafting it
+
+341
+00:25:18,200 --> 00:25:20,300
+Once I get AE2, we'll craft it later
+
+342
+00:25:21,433 --> 00:25:25,100
+Okay, now this one goes there
+
+343
+00:25:25,100 --> 00:25:29,533
+Okay, so that terminal should now be online and I have some storage
+
+344
+00:25:29,533 --> 00:25:32,333
+so I should finally be able to drop in items
+
+345
+00:25:32,933 --> 00:25:34,900
+and there we can save our items
+
+346
+00:25:36,000 --> 00:25:38,400
+You can sort by different rules
+
+347
+00:25:39,766 --> 00:25:41,533
+I like to use inventory tweaks
+
+348
+00:25:42,666 --> 00:25:45,166
+and you can figure out the settings you like
+
+349
+00:25:46,633 --> 00:25:50,300
+but to actually do anything meaningful, we're going to need auto crafting
+
+350
+00:25:50,900 --> 00:25:54,733
+so, pattern terminal is where you do auto crafting
+
+351
+00:25:54,733 --> 00:25:56,500
+you are going to need blank patterns
+
+352
+00:25:57,200 --> 00:25:58,866
+you have a bunch, yeah
+
+353
+00:26:00,600 --> 00:26:02,533
+OK, this one goes in there
+
+354
+00:26:02,966 --> 00:26:05,666
+and now we just do those from NEI
+
+355
+00:26:06,533 --> 00:26:15,800
+now my suggestion here is to start by getting the starter setting up the auto crafting for the thing you need to do auto crafting
+
+356
+00:26:16,333 --> 00:26:20,866
+like don't manually craft this stuff to auto craft something else
+
+357
+00:26:20,866 --> 00:26:23,800
+so the first thing is going to be the pattern itself
+
+358
+00:26:24,933 --> 00:26:27,300
+I think I want this one
+
+359
+00:26:27,800 --> 00:26:28,133
+there
+
+360
+00:26:29,166 --> 00:26:32,733
+okay this one is a crafting table recipe
+
+361
+00:26:32,733 --> 00:26:37,000
+so it goes into the molecular assembler, which is the thing I built above earlier
+
+362
+00:26:37,833 --> 00:26:40,000
+now when you put an interface on something
+
+363
+00:26:41,000 --> 00:26:43,333
+now when you place an interface on a machine
+
+364
+00:26:43,833 --> 00:26:50,066
+automatically it will show up in the interface terminal with the name of that machine and now also the circuit
+
+365
+00:26:50,066 --> 00:26:50,733
+really cool
+
+366
+00:26:51,200 --> 00:26:52,200
+really good
+
+367
+00:26:53,233 --> 00:26:58,133
+you can hide it, there are a few situations where you do not want to see some interfaces
+
+368
+00:26:58,466 --> 00:26:59,166
+you can hide it
+
+369
+00:26:59,900 --> 00:27:01,700
+but I guess there's only one we want
+
+370
+00:27:01,700 --> 00:27:05,133
+and here you put what you want to be crafted in that machine
+
+371
+00:27:05,633 --> 00:27:10,666
+the molecular assembler I built earlier up there is supposed to work as a crafting crafting table
+
+372
+00:27:11,100 --> 00:27:13,600
+this one is a crafting table, it's called molecular assembler
+
+373
+00:27:14,000 --> 00:27:17,233
+and we put in there the pattern we did earlier which I already lost
+
+374
+00:27:17,833 --> 00:27:18,900
+now wait I already put it
+
+375
+00:27:19,233 --> 00:27:22,500
+okay I placed it from the interface terminal and it went there
+
+376
+00:27:23,233 --> 00:27:27,066
+basically this one tells you that if it needs blank patterns it can be crafted there
+
+377
+00:27:28,933 --> 00:27:31,466
+let's go back and let's try
+
+378
+00:27:32,766 --> 00:27:34,900
+and if we try we can try to craft
+
+379
+00:27:34,900 --> 00:27:37,733
+and there is the list of what we need
+
+380
+00:27:38,566 --> 00:27:42,233
+Now let's get it what it needs and let's see if it actually works
+
+381
+00:27:43,866 --> 00:27:45,200
+Now, certus quartz
+
+382
+00:27:45,800 --> 00:27:47,433
+Okay, all of the stuff goes there
+
+383
+00:27:47,733 --> 00:27:50,833
+Blank pattern, 10, next, start
+
+384
+00:27:50,833 --> 00:27:53,033
+and it's crafting inside the molecular assembler
+
+385
+00:27:53,766 --> 00:27:57,100
+I wanted to try to run and see it crafting but it was too quick
+
+386
+00:27:57,633 --> 00:28:01,466
+It's nice how every version they managed to make it even nicer
+
+387
+00:28:01,900 --> 00:28:03,033
+have seen some...
+
+388
+00:28:03,033 --> 00:28:04,666
+we will investigate later
+
+389
+00:28:05,266 --> 00:28:10,633
+and after adding a few more patterns which will allow for craftings to chain
+
+390
+00:28:11,300 --> 00:28:13,966
+you can see the crafting tree to make this one it has to
+
+391
+00:28:14,966 --> 00:28:17,366
+craft those which are here etc etc
+
+392
+00:28:17,833 --> 00:28:20,333
+the issue there I don't know they don't have...
+
+393
+00:28:20,333 --> 00:28:21,466
+okay yeah I want...
+
+394
+00:28:22,600 --> 00:28:28,766
+but here we are going to need this thing which is actually going to be made in a machine
+
+395
+00:28:29,200 --> 00:28:30,966
+This one must be made in a machine
+
+396
+00:28:31,400 --> 00:28:35,166
+So this one is a good example of something really advanced to do
+
+397
+00:28:35,800 --> 00:28:37,000
+Because this one has two issues
+
+398
+00:28:37,000 --> 00:28:42,233
+First of all it has to be done in a machine, second of all this one has an output chance
+
+399
+00:28:42,700 --> 00:28:45,966
+This one is not, you don't always get this one when you do this recipe
+
+400
+00:28:45,966 --> 00:28:47,366
+you have a chance of getting it
+
+401
+00:28:47,966 --> 00:28:54,133
+So the way I do it is that I make a pattern the same way you would normally do
+
+402
+00:28:54,500 --> 00:28:59,533
+but then, since this is not guaranteed, I'm going to multiply the input a little bit
+
+403
+00:28:59,533 --> 00:29:02,633
+and then I'm going to tell it that it's only going to get 1
+
+404
+00:29:03,233 --> 00:29:07,566
+This way, best case scenario, it will get 4 of those
+
+405
+00:29:07,566 --> 00:29:11,466
+otherwise, depending on the chance, you can get more or less
+
+406
+00:29:12,033 --> 00:29:19,800
+This one is 90% success chance, so it's quite unlikely for this one to not work
+
+407
+00:29:20,166 --> 00:29:26,066
+and the thing about working this way is that if you do a single craft and you don't have that many
+
+408
+00:29:26,933 --> 00:29:33,400
+the downside of this thing is that if you didn't multiply enough and you are only crafting one
+
+409
+00:29:33,400 --> 00:29:37,766
+there is a small chance that it will fail and the crafting CPU will get stuck
+
+410
+00:29:38,033 --> 00:29:44,466
+otherwise if you need like three of those it's going to try to try crafting 12 instead of 3 
+
+411
+00:29:45,366 --> 00:29:49,900
+anyways, this is a pattern which contains a fluid so it must be inserted inside a dual interface
+
+412
+00:29:50,333 --> 00:29:52,566
+which we are going to place in here 
+
+413
+00:29:53,500 --> 00:29:57,433
+now, when you do that always remember set the output to the interface
+
+414
+00:29:57,433 --> 00:30:02,233
+and click with the screwdriver so that it can allow the input from the actual interface
+
+415
+00:30:02,233 --> 00:30:05,100
+otherwise by default you cannot input stuff from the output side
+
+416
+00:30:05,533 --> 00:30:07,366
+and don't forget your auto-output
+
+417
+00:30:07,600 --> 00:30:11,133
+okay now we need to connect this one to the main network and I'm going to use p2p
+
+418
+00:30:11,733 --> 00:30:13,633
+which there it goes
+
+419
+00:30:13,633 --> 00:30:16,066
+and this one is the network that holds p2p
+
+420
+00:30:16,633 --> 00:30:21,700
+and to link the p2p on the main controller to the actual output, we can use a memory card
+
+421
+00:30:22,366 --> 00:30:24,866
+first on the input and then on the output
+
+422
+00:30:25,733 --> 00:30:29,100
+now there is an advanced memory card thing
+
+423
+00:30:29,100 --> 00:30:33,900
+this one is probably better, but you have to use it properly
+
+424
+00:30:33,900 --> 00:30:37,466
+I think this one is a little bit easier but more annoying
+
+425
+00:30:37,466 --> 00:30:42,266
+this one is a little bit more complicated but it saves a little bit of walking
+
+426
+00:30:43,833 --> 00:30:44,833
+I'm not going to show you this one
+
+427
+00:30:44,833 --> 00:30:46,800
+go watch a tutorial if you want to know
+
+428
+00:30:46,800 --> 00:30:49,433
+I'm just saying it so you know there is this 
+
+429
+00:30:50,100 --> 00:30:54,433
+also for patterns that have a circuit inside, I heavily suggest using the any circuit
+
+430
+00:30:55,133 --> 00:30:56,666
+now if you do that...
+
+431
+00:30:57,666 --> 00:31:04,233
+the thing about using this one is that if in the future you change which kind of circuit you use
+
+432
+00:31:04,766 --> 00:31:12,466
+you set the pattern here and then you simply change this pattern without changing every single pattern that uses the circuit
+
+433
+00:31:13,300 --> 00:31:16,666
+next, we probably want to automate our machines in the cleanroom
+
+434
+00:31:16,666 --> 00:31:23,533
+to do so we can use a wireless connector to go from one side of the cleanroom to the other
+
+435
+00:31:24,500 --> 00:31:28,166
+the closer the distance the least amount of energy used
+
+436
+00:31:28,166 --> 00:31:34,500
+if you just make it go through one wall like, that it's 14.7 EU/t I think
+
+437
+00:31:35,766 --> 00:31:42,000
+otherwise you can make it a little bit longer and it's going to use a little bit more of energy
+
+438
+00:31:43,333 --> 00:31:47,033
+this connection for example is 35 EU
+
+439
+00:31:48,666 --> 00:31:51,133
+ 17 EU/t
+
+440
+00:31:51,933 --> 00:31:54,966
+Next issue we're going to have to deal with is multiblocks
+
+441
+00:31:55,333 --> 00:31:59,133
+Now, there are many, many, many, many, many ways of dealing with AE2 and multiblocks
+
+442
+00:31:59,133 --> 00:32:02,300
+  I'm going to show you my solution at this point of the game and (win here, we're here, we will hear?)
+
+443
+00:32:02,600 --> 00:32:05,333
+So, first of all, I'm going to use quadruple hatches
+
+444
+00:32:05,333 --> 00:32:08,966
+so we can fit all of the possibly required fluids inside a single hatch
+
+445
+00:32:09,466 --> 00:32:12,700
+and we are using those buses
+
+446
+00:32:13,633 --> 00:32:18,100
+So, I'm probably going to wallshare a second one here, and I'm wallsharing the outputs
+
+447
+00:32:18,433 --> 00:32:22,133
+Those are outputs (ME), so I don't have to deal with much stuff
+
+448
+00:32:22,633 --> 00:32:27,866
+And I was originally going to do subnetworks here, but I have a better idea
+
+449
+00:32:28,500 --> 00:32:32,366
+So the subnetwork way, which is kind of complicated
+
+450
+00:32:33,200 --> 00:32:42,400
+is that you put one interface here, one here, and then you use the storage buses
+
+451
+00:32:43,100 --> 00:32:44,700
+and I forgot the cables
+
+452
+00:32:46,333 --> 00:32:49,033
+all right so you have to do this
+
+453
+00:32:49,533 --> 00:32:54,833
+don't forget to give power to this super small subnetwork like this
+
+454
+00:32:54,833 --> 00:32:59,000
+and now this interface you put the patterns in there, it will drop inside this interface
+
+455
+00:32:59,000 --> 00:33:03,533
+which will drop in the only available storage, so inside the machine
+
+456
+00:33:03,833 --> 00:33:07,266
+also you need a blocking card in this one
+
+457
+00:33:07,266 --> 00:33:11,866
+so that you don't push excessive amounts of ingredients in there and mess everything up
+
+458
+00:33:11,866 --> 00:33:17,766
+now this is a really versatile way because you can have multiple storages and many things
+
+459
+00:33:18,100 --> 00:33:20,300
+but this is annoying to build
+
+460
+00:33:21,000 --> 00:33:25,666
+in this specific situation, there is a better way which I just remember
+
+461
+00:33:26,066 --> 00:33:29,100
+by the way I just got back home from things
+
+462
+00:33:29,966 --> 00:33:33,233
+so I don't even remember what I was doing in this playthrough
+
+463
+00:33:33,233 --> 00:33:35,833
+I remember I didn't like how I'm editing this season
+
+464
+00:33:36,566 --> 00:33:40,700
+in the future I'm probably going to avoid doing tutorial-ish series
+
+465
+00:33:40,700 --> 00:33:46,900
+I'm going to do more meme-like or I'm going to edit it in a different way in the future
+
+466
+00:33:47,300 --> 00:33:49,166
+OK, whatever, back to the game
+
+467
+00:33:50,666 --> 00:33:54,833
+So, the plan I'm going to do...
+
+468
+00:33:54,833 --> 00:33:57,700
+what I'm going to do here is full block interface
+
+469
+00:33:58,200 --> 00:34:02,100
+rotate to the hatch
+
+470
+00:34:03,000 --> 00:34:07,766
+OK, that way the interface can put stuff inside the hatches
+
+471
+00:34:08,900 --> 00:34:10,966
+and then the buses
+
+472
+00:34:11,500 --> 00:34:14,866
+you can paint those so they don't conflict
+
+473
+00:34:17,233 --> 00:34:18,866
+this one will be orange
+
+474
+00:34:19,333 --> 00:34:23,700
+and that's going to be three different input channels
+
+475
+00:34:24,633 --> 00:34:27,766
+that way you can have different circuits in each one of those
+
+476
+00:34:30,033 --> 00:34:33,466
+okay, so this one will drop the blue it's in there
+
+477
+00:34:33,466 --> 00:34:37,433
+it still has to put items and I want the items to go in there
+
+478
+00:34:37,866 --> 00:34:40,733
+now there are many many many ways to do that
+
+479
+00:34:41,333 --> 00:34:44,400
+and I don't want to complicate things, so
+
+480
+00:34:45,100 --> 00:34:49,600
+ I'm just going to use GregTech pipes, it should work hopefully
+
+481
+00:34:50,366 --> 00:34:52,900
+okay, and we can completely the multiblocks
+
+482
+00:34:52,900 --> 00:34:55,900
+so, theoretically this one should work
+
+483
+00:34:57,000 --> 00:35:02,800
+and apparently those tin item pipes don't work, but the conduits should work
+
+484
+00:35:03,600 --> 00:35:05,700
+let's see, insert
+
+485
+00:35:09,766 --> 00:35:12,900
+okay, the thing is that I put the arrow in there, that's the issue
+
+486
+00:35:13,900 --> 00:35:16,133
+so maybe maybe...
+
+487
+00:35:16,133 --> 00:35:19,433
+I don't think there should be any issue if I actually remove the arrow
+
+488
+00:35:21,666 --> 00:35:24,233
+OK, okay okay, it's working, it's working, it's working
+
+489
+00:35:24,933 --> 00:35:28,633
+hopefully this one won't wrongfully input into that one
+
+490
+00:35:29,100 --> 00:35:30,400
+guess I will find out 
+
+491
+00:35:32,300 --> 00:35:39,066
+ okay, uh, with an LCR, it should still have perfect overclock if that game update didn't mess it up
+
+492
+00:35:40,466 --> 00:35:47,300
+still looking at those coils, feel like someday they will make it LCR not have perfect overclock
+
+493
+00:35:47,300 --> 00:35:49,866
+or have it depending on the amount of coils
+
+494
+00:35:49,866 --> 00:35:52,033
+I don't want to give ideas to the devs
+
+495
+00:35:52,033 --> 00:35:58,033
+but I feel like the LCR is too overpowered, make it require higher tier coil or something to speed up
+
+496
+00:35:58,966 --> 00:35:59,666
+at this point
+
+497
+00:36:01,100 --> 00:36:01,900
+uh, okay
+
+498
+00:36:03,233 --> 00:36:08,866
+and also to avoid confusion, don't forget to rename those interfaces
+
+499
+00:36:09,566 --> 00:36:11,333
+let's have the circuit
+
+500
+00:36:12,000 --> 00:36:15,000
+this one is LCR 24
+
+501
+00:36:15,333 --> 00:36:19,000
+and this one is still free to be used as however we like
+
+502
+00:36:20,100 --> 00:36:25,966
+Now there are many many many many many many many more machines I have to add to this AE2 system
+
+503
+00:36:26,200 --> 00:36:30,833
+there are many things I didn't do about AE2 yet
+
+504
+00:36:31,500 --> 00:36:33,366
+probably not going...
+
+505
+00:36:33,366 --> 00:36:35,033
+I hope I won't have to do magic
+
+506
+00:36:35,033 --> 00:36:36,933
+once again I don't like magic
+
+507
+00:36:39,633 --> 00:36:42,266
+also doing tutorials is not for me
+
+508
+00:36:42,833 --> 00:36:45,733
+this is probably the last tutorial-like series I do
+
+509
+00:36:46,066 --> 00:36:53,000
+in the future I will do more fun meme oriented videos rather than tutorials
+
+510
+00:36:53,000 --> 00:36:54,533
+tutorials are not me
+
+511
+00:36:54,533 --> 00:37:00,066
+anyways I was going to say, for this episode I don't think there is much more AE2 to show
+
+512
+00:37:00,366 --> 00:37:05,200
+also I'm lost because I haven't played for two months because I have been in a hospital
+
+513
+00:37:05,200 --> 00:37:06,633
+I'm good now don't worry
+
+514
+00:37:06,633 --> 00:37:10,300
+but haven't played for like maybe even three months
+
+515
+00:37:10,633 --> 00:37:13,600
+so I don't remember what's the layout of this base
+
+516
+00:37:15,766 --> 00:37:22,466
+also I did basically most of the editing up to like 20 minutes of this video before that happened
+
+517
+00:37:23,133 --> 00:37:27,366
+so you probably noticed a little bit of difference between the start and the end of this video
+
+518
+00:37:27,366 --> 00:37:31,633
+but I'm not satisfied with how I'm editing videos lately
+
+519
+00:37:31,633 --> 00:37:35,133
+I have to change editing style, but this season is going to be like that
+
+520
+00:37:36,433 --> 00:37:37,500
+Anyways, I was going to say
+
+521
+00:37:37,600 --> 00:37:42,633
+I don't think there is much more relevant stuff to add or show about AE2 here
+
+522
+00:37:43,400 --> 00:37:47,433
+So what I'm going to do now is use all of those assemblers I have for AE2
+
+523
+00:37:47,433 --> 00:37:53,666
+to craft this super annoying AND gate here
+
+524
+00:37:54,300 --> 00:38:00,900
+Now that I have AE2, I can ask AE2 to craft all of this annoying stuff for me
+
+525
+00:38:02,333 --> 00:38:06,000
+With this thing we can now increase the efficiency of our reactor
+
+526
+00:38:06,000 --> 00:38:09,766
+by shutting it off whenever our battery buffer is filled up
+
+527
+00:38:09,766 --> 00:38:13,100
+That way it doesn't keep running constantly and losing energy
+
+528
+00:38:14,266 --> 00:38:14,800
+So yeah
+
+529
+00:38:15,133 --> 00:38:22,566
+one way to properly manage power is to toggle on and off the energy production depending on your battery level
+
+530
+00:38:22,566 --> 00:38:26,400
+another way which I usually do and I find it being more efficient
+
+531
+00:38:26,400 --> 00:38:31,500
+is that you toggle on and off some EBFs depending on how much energy you have
+
+532
+00:38:31,500 --> 00:38:35,900
+but this is a relaxed run so I'm just doing it this way
+
+533
+00:38:36,433 --> 00:38:41,500
+okay I have to figure out how to not cause issues with that redstone
+
+534
+00:38:42,266 --> 00:38:44,333
+let me wire up things
+
+535
+00:38:45,066 --> 00:38:46,966
+and there we go
+
+536
+00:38:47,400 --> 00:38:51,400
+now simply have to set the one in the correct way
+
+537
+00:38:51,400 --> 00:38:55,066
+so whenever it's 90% filled up
+
+538
+00:38:55,966 --> 00:38:57,266
+is that 90%?
+
+539
+00:38:58,200 --> 00:38:59,766
+do I need the inverted condition
+
+540
+00:39:00,900 --> 00:39:02,200
+oh inverted
+
+541
+00:39:05,066 --> 00:39:11,833
+okay, I think that should stop it once it's charged up to 90% 
+
+542
+00:39:13,266 --> 00:39:18,266
+all right now maybe instead of universal, it's including batteries
+
+543
+00:39:19,133 --> 00:39:22,500
+oh wait, this one, okay this one, electricity storage (including batteries)
+
+544
+00:39:22,500 --> 00:39:27,000
+because 1 million EU is not 90%
+
+545
+00:39:27,000 --> 00:39:29,800
+it's 100 million so it's got to be 90 millions
+
+546
+00:39:30,066 --> 00:39:33,666
+now let's see let's try again, 90%
+
+547
+00:39:33,666 --> 00:39:35,833
+okay that does make sense
+
+548
+00:39:36,366 --> 00:39:38,566
+and I don't want it inverted
+
+549
+00:39:39,533 --> 00:39:40,600
+or do I?
+
+550
+00:39:42,733 --> 00:39:45,033
+wait, do I want it or not?
+
+551
+00:39:46,333 --> 00:39:50,233
+okay let's say 70% 
+
+552
+00:39:51,133 --> 00:39:52,000
+okay, it's off
+
+553
+00:39:52,000 --> 00:39:53,000
+with seventy...
+
+554
+00:39:53,000 --> 00:39:58,266
+batteries right now are at 80%, if I set 70%, it stops working
+
+555
+00:39:58,766 --> 00:40:00,766
+I'll set it to 90%
+
+556
+00:40:02,700 --> 00:40:05,500
+it's going to work until those get to 90%
+
+557
+00:40:05,500 --> 00:40:07,733
+okay that should work nicely
+
+558
+00:40:08,400 --> 00:40:12,333
+and I gotta say it's really nice how every update things get better and better and better
+
+559
+00:40:12,800 --> 00:40:17,200
+a few updates ago we wouldn't even have those green and yellow colors
+
+560
+00:40:17,400 --> 00:40:19,966
+now it even tells you what it's waiting for
+
+561
+00:40:20,233 --> 00:40:21,533
+this is blocking mode
+
+562
+00:40:23,033 --> 00:40:24,466
+these are not enough ingredients
+
+563
+00:40:24,833 --> 00:40:27,900
+I have seen other things appear, but
+
+564
+00:40:29,700 --> 00:40:31,933
+ yeah if you play you will notice those things
+
+565
+00:40:31,933 --> 00:40:35,133
+probably not much to show or tell right now
+
+566
+00:40:36,233 --> 00:40:41,766
+anyways I did remember I wanted to finish this part for this video
+
+567
+00:40:42,300 --> 00:40:45,333
+Two months ago I remember I wanted to do that for the video
+
+568
+00:40:45,966 --> 00:40:50,700
+and I don't remember what else this video was supposed to contain
+
+569
+00:40:51,266 --> 00:40:54,366
+so I don't even know what I'm going to do in the next episode
+
+570
+00:40:54,766 --> 00:40:59,566
+I want to upload something since I haven't uploaded a video in three months
+
+571
+00:40:59,566 --> 00:41:02,433
+so I guess that's going to be it for this episode
+
+572
+00:41:02,800 --> 00:41:06,366
+and I have no clue about what I'm going to do in the next episode
+
+573
+00:41:08,033 --> 00:41:11,433
+so see you next time I guess
+
+574
+00:41:11,966 --> 00:41:12,733
+bye bye
+
+575
+00:41:13,066 --> 00:41:14,233
+wait what is it
+
+576
+00:41:14,966 --> 00:41:16,166
+okay, bye bye
+
