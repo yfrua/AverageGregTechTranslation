@@ -355,7 +355,7 @@ Once again I suggest you check on the wiki how those parts work and the values o
 Anyway, this cell almost reached 3, which is where I want to stop it at 3%
 
 90
-00:06:40,733 --> 00:06:42,166
+00:06:40,733 --> 00:06:42,266
 okay, now I have this one
 
 91
@@ -627,7 +627,7 @@ the reactor will try to convert it into amps of the voltage of the cable
 This cable is 2000 volts, and 3000 divided by 2 makes 1, and it loses the reminder, basically
 
 158
-00:11:59,133 --> 00:12:01,500
+00:11:59,133 --> 00:12:01,600
 Because it does not produce enough to make a second amp
 
 159
@@ -824,7 +824,7 @@ but I think it's better to wait a little bit before moving there
 
 207
 00:16:07,133 --> 00:16:11,766
-I think the best moment for the moving is when you start building all of the multiblocks, 
+I think the best moment for the moving is when you start building all of the multiblocks
 
 208
 00:16:12,666 --> 00:16:24,900
@@ -971,7 +971,7 @@ this is a waste of channels, because you can extract 32 channels from each side
 but this cable only carries 8, and this one uses 0, so this is a waste of channels
 
 244
-00:18:59,866 --> 00:19:03,333
+00:18:59,866 --> 00:19:03,433
 Probably going to put something else in there, but I'm not worrying too much
 
 245
@@ -1032,7 +1032,7 @@ okay there we are
 
 259
 00:20:05,566 --> 00:20:07,766
-this one, oh yeah, that one was the issue 
+this one, oh yeah, that one was the issue
 
 260
 00:20:09,200 --> 00:20:14,466
@@ -1276,11 +1276,11 @@ and I want one terminal in the main hall of my base I'm actually going to do
 
 320
 00:23:58,133 --> 00:23:58,900
-and I like... 
+and I like...
 
 321
 00:24:00,033 --> 00:24:01,900
-think it can work there 
+think it can work there
 
 322
 00:24:03,533 --> 00:24:06,166
@@ -1340,7 +1340,7 @@ this cable can carry 32, but I'm using like nothing
 
 336
 00:24:56,900 --> 00:24:59,100
-so may as well just connect it there 
+so may as well just connect it there
 
 337
 00:25:00,166 --> 00:25:03,566
@@ -1636,7 +1636,7 @@ there is a small chance that it will fail and the crafting CPU will get stuck
 
 410
 00:29:38,033 --> 00:29:44,466
-otherwise if you need like three of those it's going to try to try crafting 12 instead of 3 
+otherwise if you need like three of those it's going to try to try crafting 12 instead of 3
 
 411
 00:29:45,366 --> 00:29:49,900
@@ -1644,7 +1644,7 @@ anyways, this is a pattern which contains a fluid so it must be inserted inside 
 
 412
 00:29:50,333 --> 00:29:52,566
-which we are going to place in here 
+which we are going to place in here
 
 413
 00:29:53,500 --> 00:29:57,433
@@ -1708,7 +1708,7 @@ go watch a tutorial if you want to know
 
 428
 00:30:46,800 --> 00:30:49,433
-I'm just saying it so you know there is this 
+I'm just saying it so you know there is this
 
 429
 00:30:50,100 --> 00:30:54,433
@@ -1956,7 +1956,7 @@ hopefully this one won't wrongfully input into that one
 
 490
 00:35:29,100 --> 00:35:30,400
-guess I will find out 
+guess I will find out
 
 491
 00:35:32,300 --> 00:35:39,066
@@ -2075,7 +2075,7 @@ but I'm not satisfied with how I'm editing videos lately
 I have to change editing style, but this season is going to be like that
 
 520
-00:37:36,433 --> 00:37:37,500
+00:37:36,433 --> 00:37:37,600
 Anyways, I was going to say
 
 521
@@ -2160,7 +2160,7 @@ oh inverted
 
 541
 00:39:05,066 --> 00:39:11,833
-okay, I think that should stop it once it's charged up to 90% 
+okay, I think that should stop it once it's charged up to 90%
 
 542
 00:39:13,266 --> 00:39:18,266
@@ -2200,7 +2200,7 @@ wait, do I want it or not?
 
 551
 00:39:46,333 --> 00:39:50,233
-okay let's say 70% 
+okay let's say 70%
 
 552
 00:39:51,133 --> 00:39:52,000
