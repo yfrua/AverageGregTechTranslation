@@ -15,13 +15,17 @@ Cue-building policy (see whisper/README.md):
 import argparse
 import json
 import math
+import subprocess
+import tempfile
 from pathlib import Path
+from typing import Optional, Tuple
 
 from faster_whisper import WhisperModel
 
 TARGET_CHARS = 95
 HARD_CHARS = 110
 PAUSE_THRESHOLDS = (0.8, 0.5, 0.35)
+DEFAULT_HIGHPASS_HZ = 180
 
 SENTENCE_ENDINGS = (".", "?", "!", "。", "？", "！")
 CLAUSE_ENDINGS = (",", ";", ":", "—", "–")
@@ -279,6 +283,30 @@ def write_txt(cues: list[dict], path: Path) -> None:
         f.write(" ".join(c["text"] for c in cues))
 
 
+def prefilter_audio(media: Path, highpass_hz: int) -> Tuple[Path, Optional[tempfile.TemporaryDirectory]]:
+    """High-pass the input to strip sub-speech rumble.
+
+    Low-frequency rumble (mic handling, fans, road/game bass) biases
+    whisper's decoder toward punctuation-less, lower-cased output; that
+    starves the semantic splitter of sentence/clause boundaries. A
+    high-pass around 180 Hz restores punctuation on affected recordings
+    (120 Hz fixed most of GTNH_S4E8; 180 Hz fixed its opening too).
+    """
+    tmpdir = tempfile.TemporaryDirectory(prefix="whisper_hp_")
+    out = Path(tmpdir.name) / (media.stem + ".hp.wav")
+    subprocess.run(
+        [
+            "ffmpeg", "-y", "-i", str(media), "-vn",
+            "-af", f"highpass=f={highpass_hz}",
+            "-ar", "16000", "-ac", "1", str(out),
+        ],
+        check=True,
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.DEVNULL,
+    )
+    return out, tmpdir
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("media", help="Input audio/video file")
@@ -292,6 +320,13 @@ def main():
         "--reuse-words",
         action="store_true",
         help="skip ASR; rebuild cues from the existing .words.json",
+    )
+    ap.add_argument(
+        "--highpass-hz",
+        type=int,
+        default=DEFAULT_HIGHPASS_HZ,
+        help="high-pass filter cutoff in Hz applied before ASR "
+        "(0 disables; default: %(default)s)",
     )
     args = ap.parse_args()
 
@@ -310,9 +345,15 @@ def main():
             args.model_dir, device=args.device, compute_type=args.compute_type
         )
 
+        hp_tmp = None
+        asr_input = media
+        if args.highpass_hz > 0:
+            print(f"High-pass filtering at {args.highpass_hz} Hz ...")
+            asr_input, hp_tmp = prefilter_audio(media, args.highpass_hz)
+
         print(f"Transcribing {media.name} ...")
         segments, info = model.transcribe(
-            str(media),
+            str(asr_input),
             language=args.language,
             beam_size=args.beam_size,
             temperature=0.0,
@@ -337,6 +378,8 @@ def main():
             )
         print()
         info_duration = info.duration
+        if hp_tmp is not None:
+            hp_tmp.cleanup()
 
     cues = build_cues(words)
     srt_path = stem.with_suffix(".raw.srt")

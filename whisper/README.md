@@ -281,6 +281,8 @@ optional arguments:
   --language            Language code (default: en)
   --beam-size           Beam width (default: 5)
   --reuse-words         Skip ASR; rebuild cues from the existing .words.json
+  --highpass-hz         High-pass filter cutoff in Hz applied before ASR
+                        (0 disables; default: 180)
 ```
 
 Decoding settings baked in: `temperature=0`, `condition_on_previous_text=False`
@@ -310,6 +312,32 @@ Implemented in `transcribe_semantic.py::build_cues`; limits mirror
   casing comes from ASR plus the manual review pass.
 - Echo artifacts (ASR repeating the previous cue's last word) are dropped
   automatically; anything subtler is left to the correction pass.
+
+## High-pass pre-filter (punctuation loss)
+
+Whisper normally emits capitalization and punctuation, and the semantic
+splitter depends on that punctuation to find sentence/clause boundaries.
+Some recordings contain **low-frequency rumble** (mic handling, fans, desk
+thumps, game bass) that biases the decoder into producing **lower-cased,
+punctuation-less** output. Symptom: the `.raw.srt` looks like raw ~6 s ASR
+segments packed to the char limit, with `group_sentences`/
+`split_clauses` finding almost no boundaries — i.e. "not split semantically
+at all". Seen on `GTNH_S4E8`: the first ~8:40 had zero punctuation vs. the
+rest of the file.
+
+Fix: `transcribe_semantic.py` now high-passes the input with
+`ffmpeg -af highpass=f=180` before ASR (see `--highpass-hz`). On S4E8 this
+restored full punctuation from the first word; 120 Hz fixed most of the file
+but not the opening, so 180 Hz is the default. Set `--highpass-hz 0` to
+disable, or raise it if you still see punctuation-less stretches.
+
+Diagnose by decoding a short slice raw vs. filtered:
+
+```bash
+ffmpeg -y -ss 0 -t 40 -i GTNH_S4E8.m4a -vn -af highpass=f=180 /tmp/hp.wav
+# transcribe /tmp/hp.wav and GTNH_S4E8.m4a's opening; punctuation absent in
+# the raw decode but present in the filtered one ⇒ rumble is the cause.
+```
 
 ## Manual correction pass
 
