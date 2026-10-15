@@ -22,7 +22,8 @@ Add `--fix` to auto-correct auto-fixable style violations (trailing punctuation,
 - online quest book (both Eng and Chs, toggle at upper right): https://gtnhquestsbook.top/
 - online NEI (Chinese, server may be down): https://nei.gtnh.work/index?dataSource=273
 - online NEI (English): https://shadowtheage.github.io/gtnh/
-- **Terminology database for this project**: [`terms.json`](terms.json) — consistent EN→CN term mappings for subtitle translation
+- **Terminology database for this project**: [`terms.json`](terms.json) — curated EN→CN terms *not* covered by Paratranz, plus project-specific conventions
+- **Paratranz GTNH terms**: https://paratranz.cn/projects/4964/terms — ~1500 upstream terms (see [AGENTS.md](AGENTS.md) for the lookup tooling)
 
 ## Quick Start (Git Newcomer)
 

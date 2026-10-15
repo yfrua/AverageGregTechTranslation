@@ -4,12 +4,12 @@ on:
   pull_request:
     paths:
       - "**/*.srt"
-      - "scripts/subtitle_lint.py"
+      - "scripts/**"
       - "tests/**"
   push:
     paths:
       - "**/*.srt"
-      - "scripts/subtitle_lint.py"
+      - "scripts/**"
       - "tests/**"
 
 permissions:
@@ -60,7 +60,7 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Detect changes to lint script or tests
+      - name: Detect changes to scripts or tests
         id: changes
         run: |
           BASE="${{ github.event.pull_request.base.sha || github.event.before }}"
@@ -68,7 +68,7 @@ jobs:
             echo "Base '$BASE' unavailable; falling back to origin/main."
             BASE="origin/main"
           fi
-          CHANGED=$(git diff --name-only --diff-filter=ACMR "$BASE" "$GITHUB_SHA" -- 'scripts/subtitle_lint.py' 'tests/')
+          CHANGED=$(git diff --name-only --diff-filter=ACMR "$BASE" "$GITHUB_SHA" -- 'scripts/' 'tests/')
           if [ -n "$CHANGED" ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
@@ -79,6 +79,6 @@ jobs:
         if: steps.changes.outputs.run == 'true'
         run: pip install pytest
 
-      - name: Run lint unit tests
+      - name: Run unit tests
         if: steps.changes.outputs.run == 'true'
         run: python3 -m pytest tests/ -q
