@@ -60,7 +60,6 @@ PAGE_SIZE = 500
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CURATED_PATH = os.path.join(ROOT, "terms.json")
 CACHE_PATH = os.path.join(ROOT, "terms.paratranz.json")
-PRUNE_REPORT_PATH = os.path.join(ROOT, "terms.prune-report.json")
 
 DEFAULT_TIMEOUT = 60
 DEFAULT_RETRIES = 3
@@ -719,7 +718,7 @@ def main(argv=None):
         "--prune-curated",
         action="store_true",
         help="rewrite terms.json, removing terms already covered by Paratranz "
-        "(writes a terms.prune-report.json summary)",
+        "(prints a summary; terms.json meta._keep overrides are kept)",
     )
     args = parser.parse_args(argv)
 
@@ -752,31 +751,24 @@ def main(argv=None):
         with open(CURATED_PATH, "w", encoding="utf-8") as f:
             json.dump(pruned, f, ensure_ascii=False, indent=2)
             f.write("\n")
-        report = {
-            "note": "Terms removed from terms.json because the Paratranz glossary "
-            "(project 4964) already covers them. Entries listed under 'retained' "
-            "are deliberate overrides (curated meta._keep) and were kept.",
-            "removed_count": len(removed),
-            "removed": [{"term": k, "translation": v} for k, v in removed],
-            "conflicts": [
-                {"term": k, "curated": c, "paratranz": p} for k, c, p in conflicts
-            ],
-            "retained": [{"term": k, "translation": v} for k, v in retained],
-        }
-        with open(PRUNE_REPORT_PATH, "w", encoding="utf-8") as f:
-            json.dump(report, f, ensure_ascii=False, indent=2)
-            f.write("\n")
         print(
-            "Pruned %d term(s) from %s (%d conflict(s), %d deliberate override(s) "
-            "kept; report in %s)"
+            "Pruned %d term(s) from %s (%d translation conflict(s), "
+            "%d deliberate override(s) kept via meta._keep)"
             % (
                 len(removed),
                 os.path.relpath(CURATED_PATH, ROOT),
                 len(conflicts),
                 len(retained),
-                os.path.relpath(PRUNE_REPORT_PATH, ROOT),
             )
         )
+        if conflicts:
+            print("\nRemoved entries whose translation differed from Paratranz:")
+            for key, curated_t, para_t in sorted(conflicts, key=lambda x: x[0].lower()):
+                print("  %s: curated=%s paratranz=%s" % (key, curated_t, "/".join(para_t)))
+        if retained:
+            print("\nDeliberate overrides kept (meta._keep):")
+            for key, value in sorted(retained, key=lambda x: x[0].lower()):
+                print("  %s -> %s" % (key, value))
         return 0
 
     glossary, curated, paratranz_rows = load_glossary(args)
