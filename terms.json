@@ -2,7 +2,26 @@
   "meta": {
     "description": "Curated GTNH subtitle terminology for EN→CN — terms not covered by the Paratranz GTNH glossary (project 4964). The lookup script merges this with terms.paratranz.json.",
     "last_updated": "2026-10-14",
-    "usage": "Terms already present in Paratranz have been removed; use scripts/terms_lookup.py to merge both sources. Keep only project-specific conventions and Paratranz gaps here."
+    "usage": "Terms already present in Paratranz have been removed; use scripts/terms_lookup.py to merge both sources. Keep only project-specific conventions and Paratranz gaps here.",
+    "_keep_note": "Terms below override Paratranz on purpose and are never removed by --prune-curated.",
+    "_keep": [
+      "HV",
+      "EV",
+      "IV",
+      "LuV",
+      "ZPM",
+      "UV",
+      "UHV",
+      "UEV",
+      "UIV",
+      "UMV",
+      "UXV",
+      "MAX",
+      "SFM",
+      "Steve's Factory Manager",
+      "overclock",
+      "right click"
+    ]
   },
   "known_conventions": {
     "_note": "These are conventions observed across the existing translations. Prefer these over alternatives.",

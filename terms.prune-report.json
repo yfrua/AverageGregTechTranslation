@@ -1,5 +1,5 @@
 {
-  "note": "Terms removed from terms.json because the Paratranz glossary (project 4964) already covers them. 'conflicts' lists removed terms whose translation differed from Paratranz. Deliberate overrides (voltage tiers, SFM, overclock, right click) are retained in terms.json and excluded here.",
+  "note": "Terms removed from terms.json because the Paratranz glossary (project 4964) already covers them. 'conflicts' = removed terms whose translation differed from Paratranz. 'retained' = deliberate overrides (curated meta._keep) kept in terms.json even though Paratranz has them.",
   "removed_count": 112,
   "removed": [
     {
@@ -577,6 +577,52 @@
       "paratranz": [
         "并行"
       ]
+    }
+  ],
+  "retained": [
+    {
+      "term": "EV",
+      "translation": "EV"
+    },
+    {
+      "term": "IV",
+      "translation": "IV"
+    },
+    {
+      "term": "ZPM",
+      "translation": "ZPM"
+    },
+    {
+      "term": "UV",
+      "translation": "UV"
+    },
+    {
+      "term": "UEV",
+      "translation": "UEV"
+    },
+    {
+      "term": "UIV",
+      "translation": "UIV"
+    },
+    {
+      "term": "UMV",
+      "translation": "UMV"
+    },
+    {
+      "term": "Steve's Factory Manager",
+      "translation": "SFM"
+    },
+    {
+      "term": "SFM",
+      "translation": "SFM"
+    },
+    {
+      "term": "right click",
+      "translation": "右键点击"
+    },
+    {
+      "term": "overclock",
+      "translation": "超频"
     }
   ]
 }

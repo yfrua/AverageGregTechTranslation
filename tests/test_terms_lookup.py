@@ -153,10 +153,11 @@ def test_prune_curated_removes_matches_only():
         }
     }
     paratranz = [{"term": "Coke Oven", "translation": "焦炉", "variants": []}]
-    pruned, removed, conflicts = tl.prune_curated(curated, paratranz)
+    pruned, removed, conflicts, retained = tl.prune_curated(curated, paratranz)
     assert pruned["known_conventions"] == {"macerator": "研磨机"}
     assert removed == [("coke_oven", "焦炉")]
     assert conflicts == []
+    assert retained == []
 
 
 def test_prune_curated_removes_via_variant():
@@ -164,19 +165,50 @@ def test_prune_curated_removes_via_variant():
     paratranz = [
         {"term": "Electric Blast Furnace", "translation": "工业高炉", "variants": ["EBF"]}
     ]
-    pruned, removed, conflicts = tl.prune_curated(curated, paratranz)
+    pruned, removed, conflicts, _ = tl.prune_curated(curated, paratranz)
     assert pruned["machines"] == {}
     assert removed == [("EBF", "电高炉")]
     # Translation differs -> conflict recorded (but entry still removed).
     assert conflicts == [("EBF", "电高炉", ["工业高炉"])]
 
 
-def test_prune_curated_preserves_underscore_and_meta_keys():
+def test_prune_curated_keeps_meta_keep_terms():
+    curated = {
+        "meta": {"_keep": ["EV", "right click"]},
+        "known_conventions": {"EV": "EV", "iron": "铁"},
+        "game_mechanics": {"right click": "右键点击"},
+    }
+    paratranz = [
+        {"term": "EV", "translation": "超高压", "variants": []},
+        {"term": "Iron", "translation": "铁", "variants": []},
+        {"term": "right click", "translation": "右击", "variants": []},
+    ]
+    pruned, removed, conflicts, retained = tl.prune_curated(curated, paratranz)
+    # Deliberate overrides survive; they are not reported as removed.
+    assert pruned["known_conventions"] == {"EV": "EV"}
+    assert pruned["game_mechanics"] == {"right click": "右键点击"}
+    assert removed == [("iron", "铁")]
+    assert retained == [("EV", "EV"), ("right click", "右键点击")]
+    # A kept term with a differing translation is NOT a conflict (we keep ours).
+    assert conflicts == []
+
+
+def test_curated_keep_keys_normalizes():
+    curated = {"meta": {"_keep": ["Coke  Oven", "right_click", ""]}}
+    assert tl.curated_keep_keys(curated) == {"coke oven", "right click"}
+
+
+def test_curated_keep_keys_missing_is_empty():
+    assert tl.curated_keep_keys({}) == set()
+    assert tl.curated_keep_keys({"meta": {}}) == set()
+
+
+def test_prune_curated_keeps_underscore_and_meta_keys():
     curated = {
         "meta": {"description": "keep"},
         "cat": {"_note": "keep me", "macerator": "研磨机"},
     }
-    pruned, removed, _ = tl.prune_curated(curated, [])
+    pruned, removed, _, _ = tl.prune_curated(curated, [])
     assert pruned["meta"] == {"description": "keep"}
     assert pruned["cat"]["_note"] == "keep me"
     assert pruned["cat"]["macerator"] == "研磨机"

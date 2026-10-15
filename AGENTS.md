@@ -52,6 +52,11 @@ python3 scripts/terms_lookup.py --prune-curated           # drop terms.json entr
 - After refreshing, `--prune-curated` removes any `terms.json` entry now
   covered by Paratranz and writes `terms.prune-report.json` listing what was
   dropped and any translation conflicts, for human review.
+- To keep a curated term that deliberately overrides Paratranz, add it to the
+  `meta._keep` list in `terms.json`; `--prune-curated` never removes those and
+  reports them under `retained`. This is used for English shortcodes and
+  conventions where the spoken form is the English term (voltage tiers
+  `EV`/`IV`/`ZPM`/..., `SFM`, `overclock`, `right click`).
 - Add new project-specific terms to `terms.json` (curated) — they override
   Paratranz and are the place for terms Paratranz lacks.
 

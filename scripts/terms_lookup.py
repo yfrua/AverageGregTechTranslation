@@ -357,18 +357,41 @@ def paratranz_keys(paratranz_rows):
     return keys
 
 
+def curated_keep_keys(curated):
+    """Loose keys listed in ``meta._keep`` that must never be pruned.
+
+    ``meta._keep`` is a list of curated term names (any spelling/casing) that
+    deliberately override Paratranz; ``--prune-curated`` leaves them in place.
+    """
+    keep = set()
+    if isinstance(curated, dict):
+        meta = curated.get("meta")
+        if isinstance(meta, dict):
+            for item in meta.get("_keep") or []:
+                k = _loose_key(item) if item else ""
+                if k:
+                    keep.add(k)
+    return keep
+
+
 def prune_curated(curated, paratranz_rows):
     """Remove curated entries already covered by Paratranz.
 
-    Returns ``(pruned_obj, removed, conflicts)`` where:
+    Terms listed in ``curated['meta']['_keep']`` are never removed, so
+    deliberate overrides (e.g. English voltage-tier codes) survive re-runs.
+
+    Returns ``(pruned_obj, removed, conflicts, retained)`` where:
       * pruned_obj is a copy of *curated* without the matched leaf terms,
         preserving category structure and empty categories' keys as needed;
       * removed is a list of ``(key, translation)`` that were dropped;
       * conflicts is a list of ``(key, curated_translation,
         [paratranz_translations])`` for dropped entries whose translation
-        disagreed with Paratranz (so the change can be reviewed).
+        disagreed with Paratranz (so the change can be reviewed);
+      * retained is a list of ``(key, translation)`` kept via ``_keep``
+        even though Paratranz also has the term.
     """
     keys = paratranz_keys(paratranz_rows)
+    keep = curated_keep_keys(curated)
     para_trans = {}
     for row in paratranz_rows or []:
         if not isinstance(row, dict):
@@ -383,6 +406,7 @@ def prune_curated(curated, paratranz_rows):
 
     removed = []
     conflicts = []
+    retained = []
 
     def prune(node):
         if not isinstance(node, dict):
@@ -396,17 +420,23 @@ def prune_curated(curated, paratranz_rows):
                 out[key] = prune(value)
             elif isinstance(value, str):
                 k = _loose_key(key)
-                if k in keys:
+                if k in keep:
+                    # Deliberate override: keep it even if Paratranz has it.
+                    if k in keys:
+                        retained.append((key, value))
+                    out[key] = value
+                elif k in keys:
                     removed.append((key, value))
                     if value not in para_trans.get(k, set()):
                         conflicts.append((key, value, sorted(para_trans.get(k, set()))))
                     continue
-                out[key] = value
+                else:
+                    out[key] = value
             else:
                 out[key] = value
         return out
 
-    return prune(curated), removed, conflicts
+    return prune(curated), removed, conflicts, retained
 
 
 def conflicts(curated, paratranz_rows):
@@ -718,26 +748,32 @@ def main(argv=None):
                 file=sys.stderr,
             )
             return 1
-        pruned, removed, conflicts = prune_curated(curated, rows)
+        pruned, removed, conflicts, retained = prune_curated(curated, rows)
         with open(CURATED_PATH, "w", encoding="utf-8") as f:
             json.dump(pruned, f, ensure_ascii=False, indent=2)
             f.write("\n")
         report = {
+            "note": "Terms removed from terms.json because the Paratranz glossary "
+            "(project 4964) already covers them. Entries listed under 'retained' "
+            "are deliberate overrides (curated meta._keep) and were kept.",
             "removed_count": len(removed),
             "removed": [{"term": k, "translation": v} for k, v in removed],
             "conflicts": [
                 {"term": k, "curated": c, "paratranz": p} for k, c, p in conflicts
             ],
+            "retained": [{"term": k, "translation": v} for k, v in retained],
         }
         with open(PRUNE_REPORT_PATH, "w", encoding="utf-8") as f:
             json.dump(report, f, ensure_ascii=False, indent=2)
             f.write("\n")
         print(
-            "Pruned %d term(s) from %s (%d translation conflict(s) recorded in %s)"
+            "Pruned %d term(s) from %s (%d conflict(s), %d deliberate override(s) "
+            "kept; report in %s)"
             % (
                 len(removed),
                 os.path.relpath(CURATED_PATH, ROOT),
                 len(conflicts),
+                len(retained),
                 os.path.relpath(PRUNE_REPORT_PATH, ROOT),
             )
         )
