@@ -1,7 +1,12 @@
 Copy the subtitle file I pinned with a suffix _ZH, and replace the English within it with Chinese translation.
+Although the finished subtitle contains both English and Chinese, the subtitle file you create should only contain the Chinese.
 
-Follow @guidelines.md for the translation and the English subtitle polishing. There is a lint script that checks a subtitle against the guidelines: run `python3 scripts/subtitle_lint.py --fix <path-to.srt>` after finishing the translation. `--fix` auto-corrects the fixable style issues (trailing punctuation, mid-sentence `，` → space, half-width ? ! ... ( ) → full-width, flash-frame gaps); the CI runs the same check on the whole file, so make sure it exits cleanly.
+Follow @guidelines.md for the translation and the English subtitle polishing.
+There is a lint script that checks a subtitle against the guidelines: run `python3 scripts/subtitle_lint.py --fix <path-to.srt>` after finishing the translation.
+`--fix` auto-corrects the fixable style issues (trailing punctuation, mid-sentence `，` → space, half-width ? ! ... ( ) → full-width, flash-frame gaps);
+the CI runs the same check on the whole file, so make sure it exits cleanly.
 
 Don't modify the words in the English subtitle file unless they contain obvious errors, and don't delete words in brackets, because that's something I'm not sure about from the transcription.
 
 For terminology, follow @AGENTS.md: run `python3 scripts/terms_lookup.py <path-to.srt>` to get the EN→ZH terms that actually occur in the subtitle, and use those translations for consistency.
+Treat terms in @terms.json with higher priority than those in @terms.paratranz.json, and use the latter for consistency.
