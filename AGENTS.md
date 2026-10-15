@@ -10,8 +10,7 @@ and [guidelines.md](guidelines.md).
    except for obvious transcription errors; keep words in `()`).
 2. Translate following [guidelines.md](guidelines.md).
 3. **Look up terminology first** (see below) and use the returned EN→ZH pairs.
-4. Lint and auto-fix:
-   `python3 scripts/subtitle_lint.py --fix --base origin/main <path-to.srt>`
+4. Lint and auto-fix: `python3 scripts/subtitle_lint.py --fix <path-to.srt>`
 
 ## Terminology lookup
 
