@@ -1,0 +1,892 @@
+1
+00:00:00,666 --> 00:00:02,400
+Welcome back boys
+
+2
+00:00:03,266 --> 00:00:07,733
+Today we are going to finally start doing something related to Reika's mods
+
+3
+00:00:08,166 --> 00:00:12,000
+We have a lot of different books from which to choose where to start
+
+4
+00:00:12,000 --> 00:00:14,766
+and we are going to start with RotaryCraft
+
+5
+00:00:15,200 --> 00:00:18,566
+This is a mod based around gears and axles
+
+6
+00:00:18,566 --> 00:00:21,366
+and the power is given by torque times speed
+
+7
+00:00:22,200 --> 00:00:27,600
+But, before we get started, we should probably secure an area around our base
+
+8
+00:00:28,166 --> 00:00:32,833
+that is to keep us safe from creatures that exist only to make our game less fun
+
+9
+00:00:33,233 --> 00:00:37,233
+Next, to make our base look cooler and not get dirty
+
+10
+00:00:37,233 --> 00:00:40,966
+we shall replace the dirt with some nicer looking stone bricks
+
+11
+00:00:41,566 --> 00:00:45,200
+Finally, we make a small farm to sustain ourselves
+
+12
+00:00:46,100 --> 00:00:49,733
+And now it is time to fill this land with machines
+
+13
+00:00:50,466 --> 00:00:54,600
+The first machine we are going to try to run is an extractor
+
+14
+00:00:54,600 --> 00:00:58,533
+This is a machine which processes raw ores with a four-step operation
+
+15
+00:00:58,533 --> 00:01:02,266
+which will quintuple the yield when compared to a vanilla furnace
+
+16
+00:01:02,533 --> 00:01:07,200
+while also giving some extra by-products that can only be obtained that way
+
+17
+00:01:07,700 --> 00:01:10,700
+This machine has some particular power requirements
+
+18
+00:01:11,066 --> 00:01:13,966
+so we are also going to need a power source
+
+19
+00:01:14,333 --> 00:01:17,133
+The most affordable one is probably steam engines
+
+20
+00:01:17,766 --> 00:01:21,933
+These will require water, so we should probably start with a pump
+
+21
+00:01:22,133 --> 00:01:26,233
+which we will power with the weakest, redstone-powered generator
+
+22
+00:01:26,966 --> 00:01:30,300
+We start by placing down the redstone motor
+
+23
+00:01:30,300 --> 00:01:34,000
+which will start spinning as soon as we give it a redstone signal
+
+24
+00:01:34,900 --> 00:01:40,333
+Using a screwdriver, we rotate it towards the water, where we can place a pump
+
+25
+00:01:41,000 --> 00:01:44,500
+However, as you can see, the pump is not working
+
+26
+00:01:45,233 --> 00:01:50,333
+The power requirement is 1 kilowatt, which is exactly the power our motor produces
+
+27
+00:01:50,600 --> 00:01:53,000
+but we are not providing enough torque
+
+28
+00:01:54,000 --> 00:01:57,700
+To fix that, we shall add a 4 to 1 ratio gearbox
+
+29
+00:01:58,100 --> 00:02:00,000
+which will trade speed for force
+
+30
+00:02:00,466 --> 00:02:02,666
+However, that still doesn't work
+
+31
+00:02:02,900 --> 00:02:05,700
+The issue is that this gearbox is in speed mode
+
+32
+00:02:05,966 --> 00:02:10,433
+once we turn it in torque mode, the pump starts filling up with water
+
+33
+00:02:11,166 --> 00:02:13,933
+which we can finally move with a liquid pipe
+
+34
+00:02:14,500 --> 00:02:18,200
+Now we can use that water to feed 4 steam engines
+
+35
+00:02:19,033 --> 00:02:23,433
+However, they don't run just on water, they also need some heat
+
+36
+00:02:23,433 --> 00:02:25,800
+so we fire them up, literally
+
+37
+00:02:26,600 --> 00:02:30,433
+And, once they heat up enough, they will start spinning
+
+38
+00:02:31,000 --> 00:02:33,233
+Since we were not getting enough water
+
+39
+00:02:33,233 --> 00:02:36,933
+we have also upgraded our pump to use a steam engine
+
+40
+00:02:38,200 --> 00:02:40,500
+Going back to our 4-engine setup
+
+41
+00:02:40,500 --> 00:02:46,433
+we use some bevel gears and some shaft junctions to merge their power into a single output
+
+42
+00:02:47,100 --> 00:02:51,200
+This will sum the strength of the motors, thus summing the torque
+
+43
+00:02:51,200 --> 00:02:53,466
+while the speed will be kept the same
+
+44
+00:02:53,966 --> 00:03:00,733
+This will bring us to a total of 65 kilowatts with a torque of 128 newton meters
+
+45
+00:03:00,733 --> 00:03:02,466
+While we have enough power
+
+46
+00:03:02,466 --> 00:03:06,466
+we still lack both torque and strength for using the extractor
+
+47
+00:03:06,900 --> 00:03:10,333
+Thus we add a 4 to 1 gearbox to reach the minimum torque
+
+48
+00:03:10,333 --> 00:03:14,333
+required for stage 1 and 4 of the extracting process
+
+49
+00:03:15,100 --> 00:03:17,600
+However, when we place the extractor
+
+50
+00:03:17,600 --> 00:03:21,000
+we notice that we still haven't reached the required power
+
+51
+00:03:21,433 --> 00:03:24,733
+And that is because our stone gears are getting damaged
+
+52
+00:03:24,733 --> 00:03:28,233
+The more damage they take, the more power we lose
+
+53
+00:03:28,233 --> 00:03:31,133
+To fix that, we are going to need lubricant
+
+54
+00:03:31,466 --> 00:03:35,966
+And we should have not used stone gears without lubricant to begin with
+
+55
+00:03:36,633 --> 00:03:42,200
+Anyways, we quickly make a setup that will extract lubricant from canola seeds
+
+56
+00:03:43,100 --> 00:03:48,366
+And, using a lubricant hose, we move that all the way to our stone gearbox
+
+57
+00:03:49,166 --> 00:03:53,700
+While that will prevent the gears from getting further damaged, it will not repair them
+
+58
+00:03:53,933 --> 00:03:55,766
+so we add some new gears
+
+59
+00:03:56,500 --> 00:03:58,733
+Now that we have recovered the lost power
+
+60
+00:03:58,733 --> 00:04:02,166
+we can finally start testing out our extractor
+
+61
+00:04:03,500 --> 00:04:06,400
+We managed to completely pulverize our first ore
+
+62
+00:04:06,400 --> 00:04:09,766
+but we now lack the speed for the second processing stage
+
+63
+00:04:10,433 --> 00:04:15,166
+So we swap our torque gearbox with a 16 to 1 speed gearbox
+
+64
+00:04:16,133 --> 00:04:20,400
+And we should have switched gear to speed mode before connecting it to the system
+
+65
+00:04:20,933 --> 00:04:24,266
+We do that again, this time with speed mode
+
+66
+00:04:24,266 --> 00:04:28,366
+and we can see that we are now doing the second stage of the ore processing
+
+67
+00:04:28,800 --> 00:04:33,200
+Then we do the third stage in parallel, all at full speed mode
+
+68
+00:04:33,766 --> 00:04:36,866
+Until we finally get stuck on the fourth stage
+
+69
+00:04:36,866 --> 00:04:40,366
+which requires us to change gears back to torque mode
+
+70
+00:04:41,100 --> 00:04:43,800
+And, after a long and slow processing
+
+71
+00:04:44,133 --> 00:04:47,833
+we managed to extract nine flakes out of a single ore
+
+72
+00:04:48,366 --> 00:04:53,200
+Using a smeltery, we can turn these into more than 49 ingots
+
+73
+00:04:54,266 --> 00:04:56,266
+Now, this looks nicely
+
+74
+00:04:56,533 --> 00:05:01,100
+but we can't stay here and change gears every time manually with a pickaxe
+
+75
+00:05:01,100 --> 00:05:04,200
+so we shall slightly edit this system to be more automated
+
+76
+00:05:04,766 --> 00:05:09,400
+To have an automatic gear shift system, we first need a multidirectional clutch
+
+77
+00:05:09,766 --> 00:05:13,633
+which can change the output side based on redstone power level
+
+78
+00:05:13,966 --> 00:05:17,366
+Once we correctly set up everything, we can have a system
+
+79
+00:05:17,366 --> 00:05:23,533
+where, by toggling a lever, we choose between low speed high torque or high speed low torque
+
+80
+00:05:24,166 --> 00:05:29,400
+However, we do not want to stand there toggling a lever, so we use a sequencer
+
+81
+00:05:29,866 --> 00:05:33,766
+And here we can see our timed automatic gear shift in action
+
+82
+00:05:34,500 --> 00:05:36,766
+Finally, we add some more gears
+
+83
+00:05:36,766 --> 00:05:40,266
+and set the timer in a funny way to see how the mechanism works
+
+84
+00:05:42,033 --> 00:05:45,833
+Now that our ore facility is slowly working on its own
+
+85
+00:05:46,166 --> 00:05:51,233
+we should probably do something for the lubricant production before we run out of canola seeds
+
+86
+00:05:52,266 --> 00:05:55,766
+To do so, we are going to apply a fan to our farm
+
+87
+00:05:56,133 --> 00:06:01,133
+Once we turn it on, it will blow so hard that it will get the seeds out of the plants
+
+88
+00:06:02,066 --> 00:06:04,700
+And look how nice of a job it is doing
+
+89
+00:06:05,433 --> 00:06:09,233
+That will only push all the seeds as dropped items on the ground
+
+90
+00:06:09,233 --> 00:06:13,700
+We could collect these with a hopper, but an item vacuum will do a better job
+
+91
+00:06:14,333 --> 00:06:18,566
+Finally, we use Thermal Expansion's tubes to move the items
+
+92
+00:06:19,866 --> 00:06:24,300
+Now that we have fully automated lubricant, we can look at what we can do next
+
+93
+00:06:24,300 --> 00:06:28,066
+possibly a better power source to speed up our extractor
+
+94
+00:06:28,266 --> 00:06:33,900
+We could make a gasoline engine, but that's just as much power as our 4 steam engines
+
+95
+00:06:35,100 --> 00:06:41,133
+An AC redstone engine seems to require manual maintenance, so let's skip that one too
+
+96
+00:06:41,666 --> 00:06:47,966
+The performance engine makes as much power as 16 steam engines, but it requires fuels
+
+97
+00:06:48,800 --> 00:06:52,500
+And it still can't power the extractor without gear shifting
+
+98
+00:06:53,600 --> 00:06:59,100
+So, an interesting choice is a watermill, which makes a lot of torque but at low speed
+
+99
+00:06:59,766 --> 00:07:04,366
+And it only eats lubricant, which we have automated in a renewable way
+
+100
+00:07:05,200 --> 00:07:08,033
+The only issue is that, to be crafted
+
+101
+00:07:08,033 --> 00:07:13,600
+we need a metal that requires us to bring the blast furnace at 1000 degrees
+
+102
+00:07:14,433 --> 00:07:17,566
+Lava can only bring us to 600 degrees
+
+103
+00:07:17,566 --> 00:07:20,666
+so let's try going above that with a friction heater
+
+104
+00:07:20,933 --> 00:07:26,533
+And by hooking it up to 4 steam engines, it seems that we won't reach 800 degrees
+
+105
+00:07:26,866 --> 00:07:31,000
+which is not even enough for a material required by the performance engine
+
+106
+00:07:31,433 --> 00:07:35,366
+By looking at the wiki, we can see the formula for the temperature
+
+107
+00:07:35,366 --> 00:07:39,700
+which is logarithmic, and that we should try to balance speed and torque
+
+108
+00:07:40,200 --> 00:07:44,600
+However, even if we balance the torque and speed of 4 steam engines
+
+109
+00:07:45,000 --> 00:07:47,566
+we still can't reach even 800 degrees
+
+110
+00:07:48,166 --> 00:07:50,066
+If we added 4 more engines
+
+111
+00:07:50,600 --> 00:07:55,100
+we could get really close to the heat required for making the performance engines
+
+112
+00:07:55,100 --> 00:07:57,066
+a 9th one should make it
+
+113
+00:07:57,333 --> 00:08:03,166
+So, we add one more engine and look for a place where we can take the power of 4 others
+
+114
+00:08:03,900 --> 00:08:08,033
+And, exactly when we finished the setup, something went wrong
+
+115
+00:08:08,466 --> 00:08:15,466
+It looks like shaft junctions can't merge the power of more than 4 generators until we gain access to Bedrockium
+
+116
+00:08:15,966 --> 00:08:17,600
+So we need another solution
+
+117
+00:08:17,600 --> 00:08:21,800
+And I think that, for this job, AC engines are perfect
+
+118
+00:08:22,600 --> 00:08:27,666
+And, by the way, we can use some of the leftover parts to power a furnace
+
+119
+00:08:27,666 --> 00:08:30,600
+Now we can smelt items faster and for free
+
+120
+00:08:30,866 --> 00:08:34,100
+We quickly swap the steam engines with AC motors
+
+121
+00:08:34,400 --> 00:08:40,366
+but, other than giving them alternated redstone signals, we also need a magnetized shaft
+
+122
+00:08:40,866 --> 00:08:42,800
+which we make in a magnetizer
+
+123
+00:08:43,400 --> 00:08:45,800
+Once we get one of these in our inventory
+
+124
+00:08:45,800 --> 00:08:50,333
+we can see that the motors start spinning as soon as we get close to them
+
+125
+00:08:51,433 --> 00:08:58,200
+And, once we drop in the shafts, we can finally get enough heat to even melt down spring steel
+
+126
+00:08:59,000 --> 00:09:02,000
+Now we can craft the hydrokinetic engine
+
+127
+00:09:02,333 --> 00:09:05,666
+but we can't run it at full power due to its massive torque
+
+128
+00:09:05,933 --> 00:09:08,800
+To do that, we would need diamond gears
+
+129
+00:09:08,800 --> 00:09:12,033
+but these require more heat than we can reach at the moment
+
+130
+00:09:12,866 --> 00:09:17,433
+And, even if we used a well-balanced 4 performance engine setup
+
+131
+00:09:17,433 --> 00:09:23,866
+we would still only reach 1230 degrees, which is still not enough
+
+132
+00:09:24,466 --> 00:09:28,000
+So, our next option is to make a microturbine
+
+133
+00:09:28,300 --> 00:09:34,200
+that burns jet fuel and works at 131,000 revolutions per minute
+
+134
+00:09:34,966 --> 00:09:38,166
+Such speed can't be managed with steel gears
+
+135
+00:09:38,500 --> 00:09:42,000
+but we can make the tungsten alloy ones that can handle it
+
+136
+00:09:42,533 --> 00:09:48,300
+But, there is still something we can't make for the microturbine, inductive ingots
+
+137
+00:09:48,300 --> 00:09:51,133
+For these, we need a pulse jet furnace
+
+138
+00:09:51,500 --> 00:09:54,433
+Since that machine too requires high speed
+
+139
+00:09:54,433 --> 00:09:59,700
+we start off by making some tungsten alloy ingots for the new gearboxes
+
+140
+00:09:59,700 --> 00:10:02,400
+Once we finish off the new gears and furnace
+
+141
+00:10:02,666 --> 00:10:05,766
+we realize that speed is not enough to run this machine
+
+142
+00:10:06,266 --> 00:10:08,000
+We also need jet fuel
+
+143
+00:10:08,866 --> 00:10:15,400
+To get jet fuel we have to start all the way back from finding oil, which spawns in the deserts
+
+144
+00:10:15,900 --> 00:10:20,600
+We set up a pump and fill a bunch of tanks so that we can bring it back home
+
+145
+00:10:21,033 --> 00:10:23,733
+We dry some of it to obtain tar sand
+
+146
+00:10:24,233 --> 00:10:27,533
+and we refine the rest to produce some fuel
+
+147
+00:10:27,533 --> 00:10:32,366
+which we use to power a combustion engine so that we can refine even more
+
+148
+00:10:32,866 --> 00:10:37,033
+Once we have a decent amount, we bring it to a fuel enhancer
+
+149
+00:10:37,033 --> 00:10:42,400
+where, with the help of some expensive materials, we can finally obtain jet fuel
+
+150
+00:10:43,000 --> 00:10:45,400
+Now that our jet furnace is ready
+
+151
+00:10:45,400 --> 00:10:49,266
+we can redirect the power from our blast furnace to the jet one
+
+152
+00:10:49,900 --> 00:10:55,533
+This furnace can smelt even steel armors, but we are going to use it for inductive ingots
+
+153
+00:10:56,066 --> 00:11:00,766
+Now that we have these, we can redirect the power to the blast furnace
+
+154
+00:11:00,766 --> 00:11:07,266
+where we use these new ingots to make the missing part of the microturbine, a high-temperature combustor
+
+155
+00:11:07,733 --> 00:11:12,800
+We finish our turbine, take half of the jet fuel we made and power it on
+
+156
+00:11:13,266 --> 00:11:18,833
+And it turns out that the turbine needs some time at high fuel consumption to speed up
+
+157
+00:11:19,266 --> 00:11:24,800
+With half of the fuel we made so far, we barely made it reach 1/10 of its power
+
+158
+00:11:25,266 --> 00:11:28,666
+We should probably automate the production of fuel ingredients
+
+159
+00:11:29,100 --> 00:11:31,966
+but we are trying to make this just a temporary setup
+
+160
+00:11:31,966 --> 00:11:36,533
+so we gather some more ingredients and do one more batch of jet fuel
+
+161
+00:11:37,300 --> 00:11:39,466
+This time we made 2 buckets
+
+162
+00:11:39,466 --> 00:11:43,400
+we give all of that to the turbine and wait for it to speed up
+
+163
+00:11:43,866 --> 00:11:47,366
+And, once we managed to reach the working speed
+
+164
+00:11:47,366 --> 00:11:51,566
+we realize one was not enough for the temperature required for diamond gears
+
+165
+00:11:52,333 --> 00:11:57,933
+To fix that, we would need a second turbine, but we also run out of fuel
+
+166
+00:11:58,133 --> 00:12:00,166
+so let's try something else
+
+167
+00:12:00,666 --> 00:12:03,266
+We shall try a hydrokinetic engine
+
+168
+00:12:03,733 --> 00:12:09,533
+This machine will produce power at low speed but super high torque when water flows on it
+
+169
+00:12:10,033 --> 00:12:14,266
+When the waterfall is just 4 meters high, the power is really low
+
+170
+00:12:14,266 --> 00:12:16,833
+but if we make a high water dam
+
+171
+00:12:17,100 --> 00:12:21,900
+we can see that we can achieve a torque so high that even tungsten gears can't handle it
+
+172
+00:12:21,900 --> 00:12:24,700
+and that's why we needed the diamond ones
+
+173
+00:12:25,400 --> 00:12:32,366
+Now, we could try to find a waterfall height that produces a manageable power and a complex gear setup
+
+174
+00:12:32,366 --> 00:12:37,433
+but I'd rather climb on a flying island to get some magical slime tree saplings
+
+175
+00:12:38,133 --> 00:12:41,200
+Once we get our loot, we can head back home
+
+176
+00:12:41,733 --> 00:12:47,366
+where we can start working on a fresh batch of jet fuel and a second microturbine
+
+177
+00:12:48,233 --> 00:12:53,100
+Once we have stocked up enough fuel, we bring it to the turbines and turn them on
+
+178
+00:12:53,566 --> 00:12:57,700
+And we managed to reach the working speed almost when out of fuel
+
+179
+00:12:58,166 --> 00:13:02,066
+Luckily they consume little amounts once they reach top speed
+
+180
+00:13:02,600 --> 00:13:05,633
+Since it took us so much to power this furnace
+
+181
+00:13:05,633 --> 00:13:09,100
+we shall make enough diamond gears for the rest of the playthrough
+
+182
+00:13:09,500 --> 00:13:13,866
+I mean, let's just make as many as we can before we run out of fuel
+
+183
+00:13:14,566 --> 00:13:17,400
+And I think we managed to make more than enough
+
+184
+00:13:17,400 --> 00:13:21,300
+hopefully we won't have to go find any more fuel materials
+
+185
+00:13:21,966 --> 00:13:24,933
+Or maybe the fuel materials will find us
+
+186
+00:13:25,366 --> 00:13:30,300
+I think they looked for us not to be turned into jet fuel but to take revenge
+
+187
+00:13:30,300 --> 00:13:33,800
+Moving on, we should probably turn on the hydro dam
+
+188
+00:13:33,800 --> 00:13:36,766
+but it looks like someone drank all of the water
+
+189
+00:13:37,000 --> 00:13:40,100
+And that's probably how the King Slime got so big
+
+190
+00:13:40,666 --> 00:13:43,700
+Okay, we should not jump to conclusions
+
+191
+00:13:44,100 --> 00:13:47,033
+It was just too cold and the water froze
+
+192
+00:13:47,500 --> 00:13:51,666
+Now you can see how much power and strength this watermill makes
+
+193
+00:13:51,666 --> 00:13:55,433
+But, fear not, diamond gears can manage that
+
+194
+00:13:56,066 --> 00:13:58,500
+And now the output is more manageable
+
+195
+00:13:58,866 --> 00:14:00,400
+But we don't have space
+
+196
+00:14:00,833 --> 00:14:05,800
+So I think it is time to redo our whole base with this new power source
+
+197
+00:14:11,033 --> 00:14:16,100
+Once we have done a nice cleaning, we shall start working on something inside the mountain
+
+198
+00:14:16,100 --> 00:14:21,633
+and that is a lubricant farm, since that's the only thing the watermill consumes
+
+199
+00:14:21,633 --> 00:14:27,500
+However, it looks like working with such high powers on a single centrifuge is not efficient
+
+200
+00:14:27,500 --> 00:14:31,133
+and we could be using up more lubricant than we are producing
+
+201
+00:14:31,500 --> 00:14:34,933
+So, we shall step back and do a different kind of setup
+
+202
+00:14:34,966 --> 00:14:38,366
+that also puts to good use the old stuff we salvaged
+
+203
+00:14:38,366 --> 00:14:44,500
+And there we have it, 5 centrifuges and 5 grinders powered by the old steam engines
+
+204
+00:14:44,966 --> 00:14:50,666
+Now that we have a lot of lubricant, we can go back and focus on our main power network
+
+205
+00:14:50,666 --> 00:14:58,333
+We shall bring the torque down to 256 newton meters at a higher speed, 8000 revolutions per minute
+
+206
+00:14:58,766 --> 00:15:03,233
+Such power configuration can even be managed by stone shafts
+
+207
+00:15:03,433 --> 00:15:07,066
+But, before getting to work, we shall close off the dam
+
+208
+00:15:07,333 --> 00:15:12,000
+Instead of using a clutch, we are going to remove the water from the mills
+
+209
+00:15:12,000 --> 00:15:14,433
+that way we stock up lubricant too
+
+210
+00:15:14,866 --> 00:15:18,300
+Instead of splitting off the power to machines we don't need
+
+211
+00:15:18,300 --> 00:15:25,066
+we are going to use multidirectional clutches to choose which machine shall receive the full power of the hydro dam
+
+212
+00:15:25,400 --> 00:15:27,900
+And now it is time to do a run test
+
+213
+00:15:28,466 --> 00:15:34,566
+For the moment, we can choose between directing the power into heating a blast furnace or a vanilla furnace
+
+214
+00:15:35,100 --> 00:15:39,233
+And, as you can see, only one at a time will get the power
+
+215
+00:15:39,766 --> 00:15:42,033
+Next we add all of the other machines
+
+216
+00:15:42,566 --> 00:15:46,366
+and we even have a jet furnace which runs at 2 million RPM
+
+217
+00:15:47,000 --> 00:15:49,266
+And, when we shut down everything
+
+218
+00:15:49,666 --> 00:15:53,933
+the stone cables will redirect the kinetic energy to our extractor
+
+219
+00:15:53,933 --> 00:15:57,166
+which still can't run all the four stages at once
+
+220
+00:15:57,666 --> 00:15:59,700
+And I think that's enough for today
+
+221
+00:16:00,166 --> 00:16:01,833
+In the next episode
+
+222
+00:16:01,833 --> 00:16:07,033
+we could try to see if we find a way of making so much power to break even the bedrock
+
+223
+00:16:07,633 --> 00:16:08,366
+Bye-bye
+
