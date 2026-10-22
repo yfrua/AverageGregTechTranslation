@@ -1,0 +1,2548 @@
+1
+00:00:00,333 --> 00:00:01,900
+Welcome back!
+
+2
+00:00:01,900 --> 00:00:05,133
+And today I'm not too sure what we are going to do
+
+3
+00:00:05,366 --> 00:00:07,266
+Usually I already know what I want to do
+
+4
+00:00:07,266 --> 00:00:10,000
+this time I'm not too sure because of reasons
+
+5
+00:00:10,766 --> 00:00:16,900
+Now, I think I'm most likely going to try to finish EV and I will also start IV
+
+6
+00:00:17,466 --> 00:00:22,933
+I don't know how much of it I will do, most likely a little bit, but my plan...
+
+7
+00:00:22,966 --> 00:00:25,166
+Okay, my plan for this playthrough...
+
+8
+00:00:25,166 --> 00:00:31,566
+as you noticed, I could have moved in the personal dimension back in HV
+
+9
+00:00:32,066 --> 00:00:34,433
+but I'm waiting for the good multiblocks
+
+10
+00:00:34,800 --> 00:00:39,333
+Basically, my plan is that once you unlock all of the good multiblocks
+
+11
+00:00:39,333 --> 00:00:40,366
+where the heck are those?
+
+12
+00:00:40,566 --> 00:00:44,500
+Okay, once you unlock all of those good multiblocks there
+
+13
+00:00:44,500 --> 00:00:48,033
+you basically have to rebuild, you want to build all of those multiblocks
+
+14
+00:00:48,033 --> 00:00:53,000
+and get rid of all of the old steam stuff, all of the old single blocks
+
+15
+00:00:53,533 --> 00:00:57,133
+so since I have to rebuild my whole base for those multiblocks
+
+16
+00:00:57,133 --> 00:01:01,733
+I may as well do it at the same time that I move into the HV personal dimension
+
+17
+00:01:02,766 --> 00:01:06,433
+so hopefully this episode will make everything
+
+18
+00:01:06,833 --> 00:01:11,866
+basically the idea is that this episode will be about unlocking all of those multiblocks
+
+19
+00:01:11,866 --> 00:01:15,200
+where the heck are those, I get lost, sorry, I keep getting lost
+
+20
+00:01:15,200 --> 00:01:18,266
+okay the idea for this episode is probably to unlock all of those
+
+21
+00:01:18,266 --> 00:01:20,700
+the next episode will be way more interesting
+
+22
+00:01:20,700 --> 00:01:23,766
+and will be when I actually moved to the personal dimension
+
+23
+00:01:23,766 --> 00:01:29,400
+so I will try in the next episode to explain how I want to move and do the layout for the base
+
+24
+00:01:29,400 --> 00:01:30,600
+but that's for the next episode
+
+25
+00:01:31,233 --> 00:01:35,500
+So yeah, basically we have to finish EV
+
+26
+00:01:36,200 --> 00:01:38,700
+first thing is to get tungsten
+
+27
+00:01:38,700 --> 00:01:41,966
+I do have a tungsten cube, by the way, in real life
+
+28
+00:01:43,200 --> 00:01:45,166
+okay, that was a side note
+
+29
+00:01:45,600 --> 00:01:49,100
+okay, the other thing I wanted to say before getting started is that
+
+30
+00:01:50,800 --> 00:01:55,933
+a long time ago, I used to do the whole passive processing line in a sub network for the platline
+
+31
+00:01:56,566 --> 00:02:00,633
+like I used to do a dedicated sub network with all of this stuff passive
+
+32
+00:02:01,333 --> 00:02:04,333
+but, okay, that was a long time ago
+
+33
+00:02:04,700 --> 00:02:11,600
+then people keep telling me to do level maintained platline in a sub network and I did that too
+
+34
+00:02:12,800 --> 00:02:17,933
+I don't even know if I did that in an actual season or if I did that in the multiplayer run
+
+35
+00:02:17,933 --> 00:02:23,533
+whatever, but what I'm going to do this season is not even level maintaining platlines
+
+36
+00:02:23,533 --> 00:02:27,300
+I'm going to do on-demand platlines in the main network
+
+37
+00:02:28,366 --> 00:02:30,100
+Yeah, maybe even...
+
+38
+00:02:30,100 --> 00:02:33,433
+maybe maybe maybe maybe we can start doing that...
+
+39
+00:02:33,433 --> 00:02:36,500
+maybe maybe maybe we can start doing that even in this episode
+
+40
+00:02:36,533 --> 00:02:38,666
+but I don't know
+
+41
+00:02:38,666 --> 00:02:42,566
+Yeah, the main idea for this episode is getting ready to move to the personal dimension
+
+42
+00:02:43,266 --> 00:02:51,333
+so anyways I want to say let's get started before cutting my editing sequence
+
+43
+00:02:51,333 --> 00:02:54,566
+but I'm not even sure what I need to do
+
+44
+00:02:55,033 --> 00:02:57,500
+because, like doing that...
+
+45
+00:02:58,533 --> 00:03:02,566
+basically doing the circuit is just making AE2 patterns
+
+46
+00:03:02,600 --> 00:03:04,600
+I don't think there is much to show
+
+47
+00:03:05,233 --> 00:03:08,133
+so I have to think on how I even want to edit this
+
+48
+00:03:08,133 --> 00:03:12,633
+because I don't want to make a boring editing about just making patterns
+
+49
+00:03:12,666 --> 00:03:20,933
+but maybe I could do a speed up sequence about just doing that with a little bit of background music
+
+50
+00:03:29,966 --> 00:03:33,466
+And that should take care of all of the easy AE2 patterns
+
+51
+00:03:33,733 --> 00:03:36,166
+so that we can now just craft whatever we need
+
+52
+00:03:36,933 --> 00:03:43,600
+Moving on, we now have to do a couple more things to get to the next dimension
+
+53
+00:03:44,700 --> 00:03:50,833
+Now, I didn't do that because there are a few things I want to show on how to get there
+
+54
+00:03:51,466 --> 00:03:54,133
+So the first thing we have to go through is a radon
+
+55
+00:03:54,333 --> 00:03:58,566
+now we could get a little bit of plutonium
+
+56
+00:03:59,766 --> 00:04:04,900
+there are a few tricks to get this, mostly using a reactor, but it's too annoying
+
+57
+00:04:05,733 --> 00:04:07,233
+I don't know, maybe there is a better way
+
+58
+00:04:07,233 --> 00:04:10,766
+but for the moment what I'm going to do is to go with the radon decay
+
+59
+00:04:11,366 --> 00:04:15,533
+and I do know we have the miners
+
+60
+00:04:16,900 --> 00:04:21,266
+like I could just drop one of those in the nether to collect some thorium
+
+61
+00:04:21,866 --> 00:04:22,500
+don't think...
+
+62
+00:04:23,333 --> 00:04:25,433
+I think it's too early to get those
+
+63
+00:04:25,433 --> 00:04:27,366
+now I think right now I can only use thorium
+
+64
+00:04:27,400 --> 00:04:29,633
+I'm too lazy to even read the quest book
+
+65
+00:04:30,566 --> 00:04:33,733
+so probably would be to drop one of those in the nether
+
+66
+00:04:34,600 --> 00:04:38,300
+but you know what, I'm doing a relaxed run
+
+67
+00:04:38,333 --> 00:04:41,033
+so what I'm going to do is just...
+
+68
+00:04:43,166 --> 00:04:47,433
+go in the nether and manually dig a bunch of this stuff
+
+69
+00:04:48,266 --> 00:04:57,566
+I think it's kind of nice and relaxing to just dig some rock in peaceful and collect whatever we need
+
+70
+00:04:58,333 --> 00:05:03,000
+Also I'm also too lazy for other stuff such as crops
+
+71
+00:05:03,766 --> 00:05:04,400
+so...
+
+72
+00:05:07,333 --> 00:05:10,766
+I'm even collecting glowstone in the nether here like that
+
+73
+00:05:11,233 --> 00:05:14,166
+I'm too lazy to figure out a better way of getting glowstone
+
+74
+00:05:14,466 --> 00:05:23,633
+I feel like it can be just nice and relaxing to just go around, look for some glowstone and just collect it
+
+75
+00:05:23,833 --> 00:05:27,700
+I would like to say vanilla way but in vanilla you can't fly
+
+76
+00:05:28,166 --> 00:05:32,300
+it's nice, it's nice to have those tools, the jetpack
+
+77
+00:05:32,333 --> 00:05:37,233
+and just relax and collect a bunch of things around
+
+78
+00:05:40,266 --> 00:05:43,233
+Alright, then we quickly process it
+
+79
+00:05:43,833 --> 00:05:46,933
+and with quickly I mean we drop it in a machine
+
+80
+00:05:47,200 --> 00:05:49,600
+we AFK 10 minutes
+
+81
+00:05:51,833 --> 00:05:59,733
+and then we manually wash this stuff so that we can sift it to get the thing we need for the quest
+
+82
+00:06:01,600 --> 00:06:03,733
+So, let me do that
+
+83
+00:06:04,000 --> 00:06:05,400
+disable the magnet
+
+84
+00:06:05,800 --> 00:06:07,633
+ one, two, three
+
+85
+00:06:08,666 --> 00:06:10,233
+water here
+
+86
+00:06:12,900 --> 00:06:14,233
+fill up for the next time
+
+87
+00:06:15,900 --> 00:06:20,666
+and then, oh yeah, I built a multiblock sifter by the way
+
+88
+00:06:23,166 --> 00:06:26,300
+they changed all of the multiblock structure
+
+89
+00:06:27,433 --> 00:06:31,300
+so it would have been a good season to try to build a nice looking base
+
+90
+00:06:31,300 --> 00:06:35,933
+but maybe when I move to the personal dimension, we will see
+
+91
+00:06:37,000 --> 00:06:40,000
+Okay, and I should slowly sift all of those
+
+92
+00:06:41,000 --> 00:06:45,200
+now I could leave it AFK or I could actually do something
+
+93
+00:06:46,233 --> 00:06:49,133
+now let's see what is left to do
+
+94
+00:06:49,133 --> 00:06:51,500
+oh I could open all of those loot bags
+
+95
+00:06:52,633 --> 00:06:54,200
+I keep a bunch of...
+
+96
+00:06:55,800 --> 00:06:57,933
+we even got an IV loot bag
+
+97
+00:06:57,966 --> 00:07:00,900
+this IV loot bag was from...
+
+98
+00:07:00,900 --> 00:07:02,866
+there was a quest...
+
+99
+00:07:03,600 --> 00:07:06,966
+there was a quest which I was wondering why even...
+
+100
+00:07:07,733 --> 00:07:09,466
+why is that quest even IV?
+
+101
+00:07:10,466 --> 00:07:12,666
+I don't even recall which one it was
+
+102
+00:07:12,666 --> 00:07:17,600
+There was one quest in there that gave an IV loot bag instead of an EV
+
+103
+00:07:19,466 --> 00:07:21,133
+Okay, this one
+
+104
+00:07:22,200 --> 00:07:24,266
+as usual, we get trash
+
+105
+00:07:24,966 --> 00:07:26,566
+Okay, nichrome
+
+106
+00:07:27,433 --> 00:07:30,066
+At this point of the game that's not even worth being got
+
+107
+00:07:31,533 --> 00:07:34,166
+And from all of that we get...
+
+108
+00:07:37,166 --> 00:07:39,966
+as usual nothing of value
+
+109
+00:07:41,966 --> 00:07:45,600
+I mean maybe this one has some value?
+
+110
+00:07:47,933 --> 00:07:52,333
+Yeah, I mean I didn't enchant those loot bags, so...
+
+111
+00:07:53,400 --> 00:07:59,766
+yeah okay, it shouldn't be too surprised, I didn't enchant the loot bags so I got random stuff
+
+112
+00:08:01,633 --> 00:08:03,233
+ Okay
+
+113
+00:08:04,733 --> 00:08:12,066
+then using a lead box, we are going to decay the thing that contains the gas we need
+
+114
+00:08:12,800 --> 00:08:17,133
+So here we should get this stuff which is radioactive
+
+115
+00:08:17,133 --> 00:08:19,900
+If you get this one in your inventory it's going to start decaying
+
+116
+00:08:19,900 --> 00:08:22,633
+You want this one to decay into that stuff
+
+117
+00:08:23,100 --> 00:08:24,866
+It takes more than one hour
+
+118
+00:08:25,500 --> 00:08:28,566
+Holding it in your inventory can be annoying so we're going to automate this
+
+119
+00:08:29,100 --> 00:08:32,133
+The quest book luckily doesn't want to see it, only wants to decay it
+
+120
+00:08:33,066 --> 00:08:39,766
+And to make it less annoying we are simply going to use a conduit and filter things up
+
+121
+00:08:40,966 --> 00:08:44,233
+so this is the non-decayed version
+
+122
+00:08:44,733 --> 00:08:46,266
+this is the decayed version
+
+123
+00:08:47,400 --> 00:08:49,533
+we extract...
+
+124
+00:08:51,266 --> 00:08:53,466
+extract this one
+
+125
+00:08:54,566 --> 00:08:57,166
+always active, let's say brown
+
+126
+00:08:58,100 --> 00:08:59,433
+insert brown
+
+127
+00:08:59,433 --> 00:09:03,766
+okay good, it's going there and you can see the time ticking
+
+128
+00:09:04,466 --> 00:09:06,966
+then we extract back
+
+129
+00:09:08,666 --> 00:09:12,700
+I don't know if it prevents you from removing this one with conduit
+
+130
+00:09:12,700 --> 00:09:14,466
+but for safety let's have a filter
+
+131
+00:09:15,333 --> 00:09:18,966
+once it's decayed, it will go back to the chest
+
+132
+00:09:20,166 --> 00:09:23,266
+okay that should work
+
+133
+00:09:23,266 --> 00:09:25,533
+out oh I forgot this
+
+134
+00:09:25,533 --> 00:09:29,633
+okay that should work out hopefully, I mean 15 for quest
+
+135
+00:09:29,633 --> 00:09:31,333
+oh this one is still shifting
+
+136
+00:09:32,233 --> 00:09:33,933
+what even are the odds
+
+137
+00:09:35,600 --> 00:09:37,033
+oh okay
+
+138
+00:09:37,933 --> 00:09:40,600
+well, it can take its time
+
+139
+00:09:40,900 --> 00:09:49,633
+and I just realized I lost that uranium by processing it with the old steam machines
+
+140
+00:09:50,566 --> 00:09:57,900
+I could really have collected that uranium using other machines
+
+141
+00:09:58,100 --> 00:10:02,800
+like if I used the HV macerator and a washing machine
+
+142
+00:10:03,466 --> 00:10:05,600
+I would have got quite a bunch of uranium
+
+143
+00:10:06,533 --> 00:10:08,033
+but it's not a big deal
+
+144
+00:10:08,433 --> 00:10:12,066
+Soon I'm going to get to Mars and there are uranium veins on Mars
+
+145
+00:10:13,233 --> 00:10:16,233
+Okay, while we wait for this stuff we can do other stuff
+
+146
+00:10:16,700 --> 00:10:21,766
+like indium, which I don't need but I want to show how I do this
+
+147
+00:10:22,433 --> 00:10:26,366
+Usually you really want to have a passive setup dedicated to this stuff
+
+148
+00:10:27,033 --> 00:10:30,300
+but I'm going to do it in the the laziest possible way
+
+149
+00:10:30,933 --> 00:10:32,500
+which is with a AE2
+
+150
+00:10:33,600 --> 00:10:37,900
+Now ideally I would like to use this as a pattern, but
+
+151
+00:10:38,666 --> 00:10:41,466
+ this requires an EV input hatch
+
+152
+00:10:41,466 --> 00:10:45,300
+I mean right now I could afford a hatch big enough for this stuff
+
+153
+00:10:46,266 --> 00:10:50,600
+but for reasons I'm going to go with this one
+
+154
+00:10:51,833 --> 00:10:55,666
+So this one is circuit 1, I have to deal with this
+
+155
+00:10:56,500 --> 00:10:59,333
+and this one is once again circuit 1
+
+156
+00:11:00,733 --> 00:11:03,700
+okay can I make more of those? good
+
+157
+00:11:04,700 --> 00:11:09,833
+I'm afraid that, oh yeah, that fills it up 
+
+158
+00:11:11,166 --> 00:11:15,633
+okay I'm leaving a space like those do not require this circuit
+
+159
+00:11:16,166 --> 00:11:18,800
+I really needed to figure out how to get more slots
+
+160
+00:11:19,266 --> 00:11:22,933
+either a second LCR or I'm working on...
+
+161
+00:11:23,800 --> 00:11:26,000
+there was a reason I couldn't make those 
+
+162
+00:11:27,300 --> 00:11:28,733
+okay that was too muc
+
+163
+00:11:30,133 --> 00:11:31,900
+ okay this one, oh yeah the laser
+
+164
+00:11:32,566 --> 00:11:35,733
+I can't craft this laser yet, because I need the radon 
+
+165
+00:11:36,466 --> 00:11:38,666
+yeah once I get radon I can get...
+
+166
+00:11:39,533 --> 00:11:41,100
+I can finally get those
+
+167
+00:11:42,300 --> 00:11:47,933
+uh anyways, I'm making the tiny just so I don't need big hatches
+
+168
+00:11:49,000 --> 00:11:50,866
+molecular assembler here
+
+169
+00:11:52,700 --> 00:11:54,500
+and this one
+
+170
+00:11:54,833 --> 00:12:00,433
+so okay, this way I will be able to get indium with AE2
+
+171
+00:12:01,233 --> 00:12:06,933
+of course I have to source the minerals which I'm not processing with AE2 yet
+
+172
+00:12:06,933 --> 00:12:10,100
+so I have to manually search those
+
+173
+00:12:10,100 --> 00:12:13,366
+but the big thing here is that if I do it this way
+
+174
+00:12:13,966 --> 00:12:19,700
+when it actually crafts the dust, it also produces some of this stuff
+
+175
+00:12:20,000 --> 00:12:22,066
+this stuff will get stuck inside AE2
+
+176
+00:12:22,066 --> 00:12:26,833
+because I basically will never use this if I do...
+
+177
+00:12:26,833 --> 00:12:31,100
+like the on-demand recipe will make this one, and this will be forever left in my AE2
+
+178
+00:12:31,866 --> 00:12:33,000
+We have to electrolyze it
+
+179
+00:12:33,000 --> 00:12:40,500
+so basically I'm just going to have an export bus to passively electrolyze all of this stuff
+
+180
+00:12:41,433 --> 00:12:46,100
+Using an export bus inside an electrolyzer is not the best thing
+
+181
+00:12:47,000 --> 00:12:49,600
+I mean early game that's how you have to do it
+
+182
+00:12:50,100 --> 00:12:53,033
+later on I will have a different filtering system
+
+183
+00:12:53,033 --> 00:12:55,333
+but I guess that's something we will see later on
+
+184
+00:12:55,800 --> 00:12:58,633
+for the moment I'm not even bothering doing it, I'm going to keep it
+
+185
+00:12:58,633 --> 00:13:00,266
+like for what this stuff is worth
+
+186
+00:13:00,266 --> 00:13:06,066
+I'm just going to store it up until I actually have a main electrolyzer thing
+
+187
+00:13:07,400 --> 00:13:11,400
+and finally the last thing we're going to have to work on is tungsten
+
+188
+00:13:11,833 --> 00:13:13,400
+which is probably the most important
+
+189
+00:13:13,900 --> 00:13:16,566
+For the moment sourcing it is not too easy
+
+190
+00:13:18,566 --> 00:13:23,366
+sourcing it from endstone, another way is from the moondust
+
+191
+00:13:23,400 --> 00:13:26,466
+but I think the easiest one is from endstone
+
+192
+00:13:26,733 --> 00:13:31,733
+and once again, since this is a relaxed run
+
+193
+00:13:32,133 --> 00:13:38,066
+the way I'm collecting tungsten is by just tunneling in the end
+
+194
+00:13:38,833 --> 00:13:42,866
+just filling up my inventory and then I'll go back
+
+195
+00:13:45,166 --> 00:13:49,533
+let's say I usually fill up a backpack or a compressed chest
+
+196
+00:13:50,166 --> 00:13:51,766
+then I go back home
+
+197
+00:13:51,766 --> 00:13:55,366
+oh wait don't forget to leave the stuff there
+
+198
+00:13:56,733 --> 00:14:00,166
+um I have to sort out a little bit inventories there
+
+199
+00:14:00,166 --> 00:14:01,766
+but those were the trash chests
+
+200
+00:14:02,666 --> 00:14:04,366
+this one goes in there
+
+201
+00:14:05,233 --> 00:14:12,333
+and okay we macerate it, centrifuge, centrifuge and we get the tungstate
+
+202
+00:14:14,266 --> 00:14:17,033
+okay so that's the first step
+
+203
+00:14:17,866 --> 00:14:22,233
+and then once again this is something which has multiple steps
+
+204
+00:14:22,833 --> 00:14:27,700
+so this is something that usually you passive it
+
+205
+00:14:28,566 --> 00:14:31,533
+but this run I wanted to make everything on demand
+
+206
+00:14:31,533 --> 00:14:33,400
+Now I'm a little bit (?) there
+
+207
+00:14:33,400 --> 00:14:36,633
+because I did the titanium passively
+
+208
+00:14:37,600 --> 00:14:39,400
+which is working so nicely
+
+209
+00:14:39,866 --> 00:14:42,166
+that passive titanium is so good
+
+210
+00:14:43,033 --> 00:14:45,933
+but for tungsten that's a big question
+
+211
+00:14:46,400 --> 00:14:52,233
+So later on in the new dimension I'm going to make it on demand
+
+212
+00:14:52,700 --> 00:14:56,066
+right now do I make it on demand or do I passivate?
+
+213
+00:14:56,666 --> 00:15:02,066
+I mean I have such a little amount that it doesn't even make any sense to passivate
+
+214
+00:15:02,833 --> 00:15:06,700
+but once again I have to think that as soon as we get on Mars
+
+215
+00:15:07,200 --> 00:15:09,766
+I will find the pure tungsten ore
+
+216
+00:15:10,866 --> 00:15:11,833
+somewhere in there
+
+217
+00:15:13,900 --> 00:15:15,900
+Yeah, the tungstate ore
+
+218
+00:15:16,733 --> 00:15:21,033
+So, okay, you find the pure tungstate ore
+
+219
+00:15:21,700 --> 00:15:23,300
+you still have to process it
+
+220
+00:15:24,166 --> 00:15:28,000
+So so so do I do it passive or on demand?
+
+221
+00:15:28,800 --> 00:15:30,200
+Let's see the steps are
+
+222
+00:15:31,066 --> 00:15:34,100
+Well I already do have an EV autoclave
+
+223
+00:15:34,100 --> 00:15:35,566
+so this step...
+
+224
+00:15:35,566 --> 00:15:38,200
+yeah, I don't want to craft another EV autoclave
+
+225
+00:15:38,200 --> 00:15:40,233
+I'm going to save machines
+
+226
+00:15:41,100 --> 00:15:44,700
+hopefully that won't cause losses of times later
+
+227
+00:15:44,700 --> 00:15:48,433
+but I want to be... I'm confident on this
+
+228
+00:15:49,533 --> 00:15:52,433
+so, this is the first step, autoclave
+
+229
+00:15:55,633 --> 00:15:58,266
+oh wait I don't, oh okay, sorry I'm lost
+
+230
+00:15:58,266 --> 00:16:01,466
+so basically I have two HV autoclaves
+
+231
+00:16:01,500 --> 00:16:05,433
+because I crafted this one like three months ago
+
+232
+00:16:05,766 --> 00:16:08,266
+I didn't play due to reasons
+
+233
+00:16:08,800 --> 00:16:10,566
+and then I crafted another one
+
+234
+00:16:10,566 --> 00:16:12,833
+then I realized I really had two
+
+235
+00:16:12,833 --> 00:16:17,233
+and I really had the one ready for the tungstate processing
+
+236
+00:16:17,800 --> 00:16:22,200
+Now, do I make this or do I passivate?
+
+237
+00:16:22,533 --> 00:16:24,500
+Well, you know what? I already made the pattern
+
+238
+00:16:25,000 --> 00:16:27,466
+If I have an interface...
+
+239
+00:16:27,466 --> 00:16:28,766
+Oh, perfect, one
+
+240
+00:16:31,466 --> 00:16:34,200
+Yeah, and that's how slowly one step at a time
+
+241
+00:16:34,533 --> 00:16:36,366
+I made everything for making the tungsten
+
+242
+00:16:36,766 --> 00:16:38,833
+Now, this one cannot blow up
+
+243
+00:16:38,833 --> 00:16:41,200
+because I don't have any IV wire
+
+244
+00:16:42,533 --> 00:16:43,700
+this one should be EV
+
+245
+00:16:44,800 --> 00:16:49,600
+yeah, I know my machine place is a total mess
+
+246
+00:16:50,866 --> 00:16:56,066
+maybe I will try to keep things a little bit more clean in the personal dimension, hopefully
+
+247
+00:16:57,033 --> 00:16:58,433
+okay this one goes there
+
+248
+00:16:59,266 --> 00:17:02,766
+also I have to say I did update the game
+
+249
+00:17:02,766 --> 00:17:03,800
+I don't remember which version...
+
+250
+00:17:03,800 --> 00:17:07,333
+I think I was on beta 2 before
+
+251
+00:17:07,333 --> 00:17:09,933
+but the great thing is that
+
+252
+00:17:09,933 --> 00:17:18,566
+every time you place an interface, usually you have to right click the thing to allow the input from the interface
+
+253
+00:17:19,066 --> 00:17:22,700
+they switched the default, so now by default it works
+
+254
+00:17:22,700 --> 00:17:25,400
+you no longer need to click with the screwdriver
+
+255
+00:17:25,400 --> 00:17:27,066
+that's such a nice
+
+256
+00:17:27,066 --> 00:17:28,366
+so that's such a nice update
+
+257
+00:17:28,866 --> 00:17:32,833
+I'm wondering a little bit if that could cause issues when you do things with pipes
+
+258
+00:17:32,833 --> 00:17:36,133
+but I don't care I don't have pipes anymore
+
+259
+00:17:37,566 --> 00:17:41,733
+okay so that should get me this stuff
+
+260
+00:17:43,266 --> 00:17:47,633
+Now let's hope, I think there should be some loops
+
+261
+00:17:48,033 --> 00:17:49,533
+I will see where this goes
+
+262
+00:17:50,766 --> 00:17:54,033
+The main issue when you do everything on demand like I'm doing right now
+
+263
+00:17:54,400 --> 00:17:56,233
+is that if there is a loop
+
+264
+00:17:56,866 --> 00:17:58,833
+okay, if there is a loop
+
+265
+00:17:58,833 --> 00:18:03,333
+you simply make it craft the stuff that goes into the loop one time
+
+266
+00:18:04,066 --> 00:18:06,600
+and then it saves it for the next time
+
+267
+00:18:07,533 --> 00:18:08,900
+like here maybe
+
+268
+00:18:09,366 --> 00:18:10,266
+Wait, this one?
+
+269
+00:18:10,733 --> 00:18:12,833
+Okay, this one doesn't require anything special
+
+270
+00:18:15,466 --> 00:18:16,400
+This one...
+
+271
+00:18:17,366 --> 00:18:18,933
+Okay, I'm lost and look at this
+
+272
+00:18:18,966 --> 00:18:21,000
+Where does this chlorine come from?
+
+273
+00:18:21,733 --> 00:18:23,300
+Oh, okay, this is an issue
+
+274
+00:18:24,466 --> 00:18:26,633
+I'm going to make it craft it one time
+
+275
+00:18:26,633 --> 00:18:32,066
+but then, like, then you should use the leftover from the (?) craft
+
+276
+00:18:32,666 --> 00:18:36,966
+There are some issues keeping this on stock in a correct amount so you don't get too much
+
+277
+00:18:36,966 --> 00:18:41,700
+but we will talk about this in the future episodes hopefully
+
+278
+00:18:42,600 --> 00:18:45,100
+So now let's make...
+
+279
+00:18:48,133 --> 00:18:51,200
+Oh I also get this as a byproduct when making platinum
+
+280
+00:18:52,766 --> 00:18:55,000
+Yeah okay but that's not the way I want to craft
+
+281
+00:18:55,266 --> 00:18:57,833
+Theoretically I should always have too much of this
+
+282
+00:18:58,433 --> 00:19:03,966
+but I think I don't need, I need a way to electrolyze this once I get too much
+
+283
+00:19:06,400 --> 00:19:08,066
+yeah and this is the other recipe
+
+284
+00:19:09,466 --> 00:19:13,233
+okay, chemical reactor here
+
+285
+00:19:14,333 --> 00:19:19,233
+and this one all LCR circuit zero
+
+286
+00:19:20,266 --> 00:19:22,433
+I think it should work just fine if I do that
+
+287
+00:19:23,466 --> 00:19:25,900
+the issue is that once again
+
+288
+00:19:26,266 --> 00:19:29,500
+yeah okay now I really don't have any more slot in my LCR
+
+289
+00:19:30,333 --> 00:19:31,333
+but
+
+290
+00:19:33,366 --> 00:19:34,933
+quest book needs
+
+291
+00:19:35,366 --> 00:19:37,266
+what do I need for the quest book
+
+292
+00:19:38,166 --> 00:19:38,966
+36
+
+293
+00:19:39,966 --> 00:19:41,300
+can you do that
+
+294
+00:19:42,166 --> 00:19:44,766
+yeah okay this is what I'm missing, water
+
+295
+00:19:45,666 --> 00:19:48,633
+of all of the things water is what I'm missing
+
+296
+00:19:49,700 --> 00:19:54,366
+and I kind of see why that behaving like that
+
+297
+00:19:54,833 --> 00:19:57,833
+I don't have water in any other, this is distilled
+
+298
+00:19:57,833 --> 00:20:01,066
+Well, you know what, it takes so much to fill up this
+
+299
+00:20:01,066 --> 00:20:05,333
+I mean now it's quick because it had the internal tank
+
+300
+00:20:05,333 --> 00:20:08,800
+but ah, whatever, let's take some of this too
+
+301
+00:20:09,533 --> 00:20:10,466
+36
+
+302
+00:20:12,500 --> 00:20:14,033
+ok, start, good
+
+303
+00:20:15,333 --> 00:20:16,833
+ok, it should be processing
+
+304
+00:20:20,566 --> 00:20:26,000
+Next (?) option, ok, and then 24 tungsten trioxide
+
+305
+00:20:27,333 --> 00:20:31,433
+Of course, it was not working because I forgot to click on the outputs
+
+306
+00:20:32,600 --> 00:20:36,233
+but after that, (H?), I got it
+
+307
+00:20:36,933 --> 00:20:39,833
+So, why am I keeping this titanium in my inventory?
+
+308
+00:20:41,200 --> 00:20:45,766
+Okay, tungsten trioxide
+
+309
+00:20:46,900 --> 00:20:49,533
+did I forget this, that, oh, it's EBF
+
+310
+00:20:50,600 --> 00:20:53,200
+I still don't have an EBF for AE2
+
+311
+00:20:54,533 --> 00:20:56,566
+Okay, how much of this can I make?
+
+312
+00:20:57,633 --> 00:20:58,166
+Go
+
+313
+00:20:59,700 --> 00:21:00,833
+okay
+
+314
+00:21:03,066 --> 00:21:05,833
+come on, you can do this
+
+315
+00:21:08,033 --> 00:21:10,500
+target is full, not enough ingredients, okay
+
+316
+00:21:11,633 --> 00:21:14,100
+oh yeah, I already have 21
+
+317
+00:21:14,800 --> 00:21:18,366
+okay, this one goes into an EBF
+
+318
+00:21:30,100 --> 00:21:35,866
+let's sort out things a little bit while that thing completes
+
+319
+00:21:40,500 --> 00:21:41,866
+Okay, that should...
+
+320
+00:21:42,533 --> 00:21:45,333
+I need a little bit more of that
+
+321
+00:21:50,366 --> 00:21:52,833
+make the aluminum next
+
+322
+00:21:53,900 --> 00:21:56,333
+okay, that was the tungsten trioxide
+
+323
+00:21:58,766 --> 00:22:02,366
+and then we finally got tungsten steel
+
+324
+00:22:03,566 --> 00:22:07,633
+well I mean, for the moment I'm doing this manually I guess
+
+325
+00:22:08,400 --> 00:22:09,500
+could setup by AE2 but 
+
+326
+00:22:09,500 --> 00:22:11,700
+okay there is nothing special to show there
+
+327
+00:22:12,333 --> 00:22:15,700
+I'm already showing too much boring stuff in this series
+
+328
+00:22:15,700 --> 00:22:17,500
+this is going to be the boring series
+
+329
+00:22:18,433 --> 00:22:22,900
+Yeah, this is going to be the slowest and most boring series that is not live streamed
+
+330
+00:22:23,933 --> 00:22:26,366
+And after completing all of the required quests
+
+331
+00:22:26,366 --> 00:22:28,433
+we are finally ready to craft our rocket
+
+332
+00:22:30,233 --> 00:22:32,900
+which we only need one aluminum ingot
+
+333
+00:22:34,200 --> 00:22:38,066
+Well, we can start with missing reels as soon as the ingot is ready
+
+334
+00:22:38,066 --> 00:22:38,966
+I can just start it
+
+335
+00:22:39,833 --> 00:22:42,833
+And of course I don't have a CPU big enough to...
+
+336
+00:22:42,833 --> 00:22:47,100
+Okay, you know what, maybe doing a rocket in a single step right now is not the best idea
+
+337
+00:22:47,500 --> 00:22:50,966
+Also, you can't really automatically do this recipe
+
+338
+00:22:51,233 --> 00:22:58,500
+so what I'm doing is placing the custom made patterns in a chest and I will finish it
+
+339
+00:22:59,000 --> 00:23:02,866
+Anyways, let's do things one at a time
+
+340
+00:23:03,366 --> 00:23:09,166
+starting from the (?), I can't even do the (?), I need bigger CPUs
+
+341
+00:23:10,266 --> 00:23:10,966
+One
+
+342
+00:23:12,566 --> 00:23:14,433
+Oh, come on
+
+343
+00:23:16,333 --> 00:23:18,200
+I have to make bigger CPUs
+
+344
+00:23:18,700 --> 00:23:19,900
+I think it's four or more
+
+345
+00:23:22,566 --> 00:23:24,600
+Why am I even putting this inside the video?
+
+346
+00:23:25,700 --> 00:23:27,933
+I expected to just start the rocket
+
+347
+00:23:27,933 --> 00:23:29,566
+show oh look the rocket is crafting
+
+348
+00:23:30,166 --> 00:23:36,600
+but, yeah, I had to figure that it was going to take time
+
+349
+00:23:38,433 --> 00:23:39,600
+Probably
+
+350
+00:23:40,900 --> 00:23:44,266
+Probably I can start some of those parts
+
+351
+00:23:45,400 --> 00:23:46,233
+maybe
+
+352
+00:23:47,400 --> 00:23:49,833
+I think it got to be like 10 of those to start
+
+353
+00:23:50,366 --> 00:23:52,866
+Okay, whatever, rockets, slowly crafting
+
+354
+00:23:52,866 --> 00:23:59,400
+but the other thing I'm going to need is to get the rocket schematic
+
+355
+00:24:00,633 --> 00:24:05,433
+I think, yeah, gotta go on the moon
+
+356
+00:24:06,800 --> 00:24:08,766
+so nice the teleportation command
+
+357
+00:24:09,566 --> 00:24:11,800
+Do I even have oxygen? Yes
+
+358
+00:24:12,833 --> 00:24:15,666
+And now we gotta find the dungeon
+
+359
+00:24:17,666 --> 00:24:19,733
+and there we go
+
+360
+00:24:21,433 --> 00:24:26,500
+And I gotta say, if you put the torch on the ground, it shuts off because there is no oxygen
+
+361
+00:24:26,500 --> 00:24:31,166
+so torches don't work, but if you hold a torch in your hand it works
+
+362
+00:24:33,300 --> 00:24:37,566
+Anyways, we quickly fight the boss, because he fights us
+
+363
+00:24:38,600 --> 00:24:43,966
+I think, nah, that should be easy, come on, I have skill issues
+
+364
+00:24:46,133 --> 00:24:49,700
+Okay, come on, grab the key
+
+365
+00:24:50,766 --> 00:24:52,633
+grab the key
+
+366
+00:24:53,800 --> 00:24:57,766
+okay that key is invisible while in the hot pot
+
+367
+00:24:58,800 --> 00:25:04,733
+and I think that should be the correct... yes
+
+368
+00:25:06,066 --> 00:25:08,266
+now let's see if we have the correct schematic
+
+369
+00:25:09,666 --> 00:25:15,333
+oh yeah, well I mean if we got the other one, if we got the wrong one we can just convert it back
+
+370
+00:25:19,200 --> 00:25:23,333
+And okay, with that we can craft the rocket
+
+371
+00:25:24,566 --> 00:25:29,100
+and once the new rocket is ready, we can take off to the new planets
+
+372
+00:25:30,233 --> 00:25:32,633
+Here we are going to look for tungsten and uranium
+
+373
+00:25:33,600 --> 00:25:39,366
+so we take our prospector and we start prospecting for the good stuff
+
+374
+00:25:40,333 --> 00:25:43,133
+and this may take a little while
+
+375
+00:25:43,833 --> 00:25:47,200
+okay, actually this time it took almost no time
+
+376
+00:25:47,200 --> 00:25:53,333
+usually this is a harder vein to find but there we are
+
+377
+00:25:53,333 --> 00:25:57,533
+it's night, not because it took us a lot of time to find it
+
+378
+00:25:57,533 --> 00:26:02,500
+but because it took me a little bit to craft the stuff to automatically collect it
+
+379
+00:26:02,533 --> 00:26:05,000
+maybe I should have just manually collected it
+
+380
+00:26:05,000 --> 00:26:08,533
+but whatever, I'm collecting this like that 
+
+381
+00:26:09,300 --> 00:26:13,033
+now, doing this in the dark is not the easiest
+
+382
+00:26:13,033 --> 00:26:16,033
+so I put the miner rotate to the chest 
+
+383
+00:26:16,766 --> 00:26:19,300
+here just take this
+
+384
+00:26:20,533 --> 00:26:21,133
+this one
+
+385
+00:26:22,500 --> 00:26:23,500
+where did I put it
+
+386
+00:26:24,933 --> 00:26:26,900
+uh, sorry, I'm a little bit...
+
+387
+00:26:27,633 --> 00:26:31,666
+I don't know what's the correct adjective to describe me right now
+
+388
+00:26:32,600 --> 00:26:37,500
+Okay, don't forget auto-output, don't forget to chunk-load
+
+389
+00:26:37,966 --> 00:26:39,566
+oh, you can do that now?
+
+390
+00:26:42,000 --> 00:26:44,700
+Oh, you can now do a bigger...
+
+391
+00:26:44,700 --> 00:26:48,766
+I remember for how long it was to click every single chunk
+
+392
+00:26:48,766 --> 00:26:50,766
+now you can drag like this
+
+393
+00:26:54,100 --> 00:26:54,933
+come on
+
+394
+00:26:55,200 --> 00:26:55,933
+so nice
+
+395
+00:26:58,433 --> 00:27:00,333
+I already did the set-form
+
+396
+00:27:01,633 --> 00:27:04,466
+and now we should be getting tungstate
+
+397
+00:27:05,500 --> 00:27:06,733
+okay, that stuff works
+
+398
+00:27:08,666 --> 00:27:10,600
+Okay, collect all of the tungsten
+
+399
+00:27:11,266 --> 00:27:14,033
+Meanwhile I could craft another one
+
+400
+00:27:14,033 --> 00:27:17,100
+or I could manually collect the pitchblende
+
+401
+00:27:17,666 --> 00:27:21,700
+Okay, I can put this one in the reactor to get a lot of power
+
+402
+00:27:21,733 --> 00:27:23,633
+but maybe not right now
+
+403
+00:27:25,733 --> 00:27:30,566
+Really, I'm using all of the power the reactor is currently making
+
+404
+00:27:31,500 --> 00:27:33,433
+but it could be useful
+
+405
+00:27:34,866 --> 00:27:37,266
+Maybe I could do like half thorium, half uranium
+
+406
+00:27:37,933 --> 00:27:39,833
+I have to think about it
+
+407
+00:27:41,433 --> 00:27:43,600
+yeah batteries are charged up so it's fine
+
+408
+00:27:44,966 --> 00:27:47,833
+uh okay so we got the tungsten
+
+409
+00:27:47,833 --> 00:27:49,533
+what's the next quest
+
+410
+00:27:50,800 --> 00:27:52,000
+oh we have to collect...
+
+411
+00:27:53,400 --> 00:27:55,533
+we have to collect a bunch of stone
+
+412
+00:27:59,966 --> 00:28:02,300
+that's probably not the best way to play
+
+413
+00:28:02,300 --> 00:28:04,200
+but I like to play like this 
+
+414
+00:28:05,033 --> 00:28:08,300
+and I don't even know what is the wrong thing I'm doing
+
+415
+00:28:08,766 --> 00:28:10,333
+I mean I could be more efficient
+
+416
+00:28:10,333 --> 00:28:12,666
+but I don't care
+
+417
+00:28:13,300 --> 00:28:19,566
+I mean it's It's already something that I'm using the miner instead of manually collecting the tungsten
+
+418
+00:28:20,533 --> 00:28:22,966
+Okay, we got this stuff
+
+419
+00:28:22,966 --> 00:28:23,933
+Two more loot bags
+
+420
+00:28:24,966 --> 00:28:27,066
+Doesn't have mean disappointment lately
+
+421
+00:28:30,433 --> 00:28:31,600
+What is this?
+
+422
+00:28:33,966 --> 00:28:36,966
+Okay, I have no clue what this is used for
+
+423
+00:28:37,933 --> 00:28:40,600
+I don't recall this being a thing in the past
+
+424
+00:28:41,133 --> 00:28:42,700
+Like I know you can make this
+
+425
+00:28:42,700 --> 00:28:46,166
+but I never made this stuff in GTNH
+
+426
+00:28:47,500 --> 00:28:48,433
+Ah, whatever
+
+427
+00:28:49,266 --> 00:28:51,533
+So yeah, this loot bag was a disappointment
+
+428
+00:28:52,233 --> 00:28:56,266
+Okay, now we need this stuff for the quest
+
+429
+00:28:57,833 --> 00:29:01,733
+and oh, we can also go on the other two dimensions
+
+430
+00:29:02,933 --> 00:29:06,733
+This will get a bunch more, some more things
+
+431
+00:29:08,966 --> 00:29:14,033
+But okay, the main objective now is to get one stack of tungsten steel
+
+432
+00:29:14,566 --> 00:29:16,966
+and then we can start looking into IV
+
+433
+00:29:18,166 --> 00:29:21,666
+Okay, let me get the tungsten steel and then we can start looking into IV
+
+434
+00:29:22,466 --> 00:29:27,000
+Okay, do you remember when I talked about screw driving the face of machines
+
+435
+00:29:27,666 --> 00:29:34,133
+so that you enable the input from output side?
+
+436
+00:29:34,866 --> 00:29:41,633
+Every newly placed machine in this game version has it by default on, which is great for AE2
+
+437
+00:29:43,233 --> 00:29:48,033
+Having this defaulted to allowed is a really great feature for AE2
+
+438
+00:29:48,433 --> 00:29:52,166
+but earlier game, if you do if I do this kind of setups
+
+439
+00:29:52,166 --> 00:29:59,366
+it's a little bit of an issue because this one is outputting those in there which I did not want
+
+440
+00:29:59,366 --> 00:30:02,466
+I had a pipe to collect all of the outputs and then drop into chests
+
+441
+00:30:02,966 --> 00:30:07,233
+but in this case this stuff goes from this machine to that machine
+
+442
+00:30:07,733 --> 00:30:11,633
+and if that machine is filled up and this chest filled up
+
+443
+00:30:11,633 --> 00:30:15,666
+it's going to output to the macerator
+
+444
+00:30:16,366 --> 00:30:19,566
+which I really hope it does not at any point
+
+445
+00:30:20,700 --> 00:30:25,700
+And after a little bit of waiting we finally got the tungstensteel required to complete the quest
+
+446
+00:30:26,200 --> 00:30:28,600
+but this is still nothing compared to what we need
+
+447
+00:30:28,933 --> 00:30:34,900
+Anyways, now that we finally completed this quest we can open another trash bag
+
+448
+00:30:35,600 --> 00:30:37,233
+yeah that was a trash bag
+
+449
+00:30:37,833 --> 00:30:40,666
+and we can move on to the IV tier
+
+450
+00:30:42,133 --> 00:30:43,833
+Oh, I forgot to do graphene
+
+451
+00:30:44,266 --> 00:30:49,066
+yeah I could have worked on this thing instead of AFKing
+
+452
+00:30:49,800 --> 00:30:50,700
+give me a moment
+
+453
+00:30:51,600 --> 00:30:53,433
+and there we go
+
+454
+00:30:54,100 --> 00:30:57,400
+okay now we can finally move to the IV tier
+
+455
+00:30:58,000 --> 00:31:00,733
+and what we really want out of this tier
+
+456
+00:31:01,933 --> 00:31:03,800
+is to unlock the multiblocks
+
+457
+00:31:07,366 --> 00:31:09,833
+which should be there, okay
+
+458
+00:31:10,600 --> 00:31:14,966
+this is what I wanted to have before for starting the new base
+
+459
+00:31:15,833 --> 00:31:18,966
+Now of course, okay, all of those...
+
+460
+00:31:18,966 --> 00:31:21,466
+I will slowly build all of those multiblocks probably
+
+461
+00:31:22,166 --> 00:31:23,833
+but in the new dimension
+
+462
+00:31:25,166 --> 00:31:30,166
+And the first multiblock we actually want is not even one of those, but it's...
+
+463
+00:31:30,866 --> 00:31:33,400
+I mean, there are many ways of playing
+
+464
+00:31:33,400 --> 00:31:37,466
+I'm just showing what I want to do in this playthrough
+
+465
+00:31:38,733 --> 00:31:43,933
+Now, the first thing I want is an LSC, which is there
+
+466
+00:31:44,433 --> 00:31:47,100
+okay this is the first machine I want to have
+
+467
+00:31:47,833 --> 00:31:51,166
+and this is a quite expensive in tungsten 
+
+468
+00:31:52,100 --> 00:31:54,500
+now, each one of those is...
+
+469
+00:31:56,500 --> 00:31:59,300
+I think it's four tungsten ingot each one of those things
+
+470
+00:31:59,933 --> 00:32:04,633
+and the quest wants to see 46
+
+471
+00:32:05,700 --> 00:32:12,333
+but this machine requires, what is it, okay, 17 at minimum
+
+472
+00:32:13,000 --> 00:32:15,333
+We could... I could miss
+
+473
+00:32:15,966 --> 00:32:18,000
+The first time I build this, the third mini game
+
+474
+00:32:18,000 --> 00:32:22,300
+usually I get just 17 blocks and then I fill it with ULV dynamos
+
+475
+00:32:23,400 --> 00:32:25,900
+I don't know what I'm going to do this time
+
+476
+00:32:25,900 --> 00:32:27,933
+I mean I could complete this quest
+
+477
+00:32:27,933 --> 00:32:30,566
+but what do I even get from this loot bag?
+
+478
+00:32:31,733 --> 00:32:34,200
+Yeah it's all RNG depending
+
+479
+00:32:34,866 --> 00:32:38,000
+Like I could get the tungsten back maybe
+
+480
+00:32:38,000 --> 00:32:40,233
+but nah it's not worth it
+
+481
+00:32:40,500 --> 00:32:42,133
+I think I'm doing 17 of those
+
+482
+00:32:44,833 --> 00:32:47,666
+it doesn't even get anything too interesting
+
+483
+00:32:47,666 --> 00:32:50,800
+so yeah most likely I'm doing just 17 blocks
+
+484
+00:32:51,766 --> 00:32:54,900
+and then I'm going to cheese it with the low tier dynamos
+
+485
+00:33:01,300 --> 00:33:04,800
+so okay, to move to the new base, the first thing I would want is one of those
+
+486
+00:33:05,333 --> 00:33:07,800
+but just getting a battery is not enough
+
+487
+00:33:08,466 --> 00:33:10,600
+I'm already crafting more reactors
+
+488
+00:33:11,100 --> 00:33:12,866
+I could have made an AE2 pattern for
+
+489
+00:33:15,333 --> 00:33:20,100
+oh it's still the issue about the new machine
+
+490
+00:33:20,100 --> 00:33:23,766
+I moved this one then I wanted an assembler for personal usage
+
+491
+00:33:23,800 --> 00:33:26,800
+so I put one back like the old one went to AE2
+
+492
+00:33:27,300 --> 00:33:30,766
+I placed a new one there and by default now they do that
+
+493
+00:33:33,333 --> 00:33:35,933
+okay we need way more tungsten steel
+
+494
+00:33:35,933 --> 00:33:39,700
+so okay I was saying I'm preparing a reactor for the new base
+
+495
+00:33:40,200 --> 00:33:42,366
+I'm also going to want a lot of blocks
+
+496
+00:33:42,833 --> 00:33:49,966
+I was thinking I really like the style of lave with season 2
+
+497
+00:33:51,900 --> 00:33:55,400
+Last time I tried to use this block here
+
+498
+00:33:55,400 --> 00:34:01,033
+people told me my low bitrate would cause a mess with this texture here
+
+499
+00:34:01,800 --> 00:34:05,400
+since I'm recording and not live streaming, this time I may actually use that
+
+500
+00:34:06,366 --> 00:34:11,233
+Or... well, you know what? You can put in the comments block suggestions
+
+501
+00:34:14,033 --> 00:34:18,000
+Yeah, any decorative block should be easy to craft anyways
+
+502
+00:34:18,266 --> 00:34:19,933
+so I can just make it on the go
+
+503
+00:34:23,000 --> 00:34:25,733
+Then, then, then, to move to the next dimension...
+
+504
+00:34:25,733 --> 00:34:28,066
+So, battery will craft soon
+
+505
+00:34:28,433 --> 00:34:30,200
+Reactor, I'm working on it
+
+506
+00:34:31,233 --> 00:34:35,766
+Yeah, and then I think I can basically start moving to the new dimension already
+
+507
+00:34:36,733 --> 00:34:39,200
+I don't think there is much else left to do
+
+508
+00:34:40,300 --> 00:34:45,333
+So yeah, I can probably take the personal dimension
+
+509
+00:34:46,733 --> 00:34:49,700
+and next episode I'm going to configure this
+
+510
+00:34:51,433 --> 00:34:54,066
+Uh wait, is there something else I forgot?
+
+511
+00:34:58,833 --> 00:35:02,333
+Yeah, I think I'm making the new rocket with the new base
+
+512
+00:35:03,566 --> 00:35:05,633
+I'm making all of that in the new base
+
+513
+00:35:05,633 --> 00:35:07,466
+This one is a check mark, good
+
+514
+00:35:09,166 --> 00:35:13,200
+All of that is going to be made on demand in the new base
+
+515
+00:35:13,766 --> 00:35:16,766
+So yeah basically now I'm going to start moving to the new base
+
+516
+00:35:17,333 --> 00:35:21,133
+So I guess this episode is going to be called EV
+
+517
+00:35:22,100 --> 00:35:27,200
+Also look at this mess, I have to try to make things a little bit better sorted in the new base
+
+518
+00:35:28,166 --> 00:35:32,100
+And before I finish this episode there are a few more things I want to check
+
+519
+00:35:32,566 --> 00:35:37,533
+First of all it's time to get a better armor and since I got...
+
+520
+00:35:38,300 --> 00:35:40,766
+I really want to test this new armor there
+
+521
+00:35:41,500 --> 00:35:46,533
+and with tungsten we can finally get the jetpack for that armor
+
+522
+00:35:46,533 --> 00:35:52,133
+So let's see if I'm wasting an advanced jetpack or not
+
+523
+00:35:53,366 --> 00:35:55,300
+Make missing parts
+
+524
+00:35:55,966 --> 00:35:56,700
+Okay
+
+525
+00:35:57,766 --> 00:36:00,700
+Wait, does this all require... EVs?
+
+526
+00:36:01,400 --> 00:36:03,566
+Oh, I think I have an MV extruder
+
+527
+00:36:03,733 --> 00:36:05,366
+Okay, let me upgrade the extruder
+
+528
+00:36:06,033 --> 00:36:10,633
+So yeah, basically because I did not want to have to deal with making kanthal wire
+
+529
+00:36:10,633 --> 00:36:17,533
+I went with MV and I forgot that you can't process tungstensteel in MV extruders
+
+530
+00:36:18,433 --> 00:36:23,166
+So I should upgrade all of the extruders now
+
+531
+00:36:23,700 --> 00:36:25,400
+Gosh, how annoying
+
+532
+00:36:25,733 --> 00:36:30,966
+Also HV machines are a little bit annoying because you have to source all of the gold
+
+533
+00:36:31,533 --> 00:36:35,766
+Gold is a little bit annoying to source, but not too much
+
+534
+00:36:36,600 --> 00:36:40,666
+I mean, somehow I feel like EV is easier
+
+535
+00:36:40,866 --> 00:36:43,266
+Blacksteel feels easier to me to collect
+
+536
+00:36:43,700 --> 00:36:47,100
+but I'm just making a big deal because I'm manually processing ores
+
+537
+00:36:47,600 --> 00:36:49,633
+Yeah, the thing is that I'm manually processing ores
+
+538
+00:36:49,833 --> 00:36:51,766
+that's why I'm making a big deal out of that
+
+539
+00:36:53,133 --> 00:36:57,133
+Okay, let me get the tungstensteel rods
+
+540
+00:36:57,700 --> 00:36:59,466
+and there we go
+
+541
+00:36:59,966 --> 00:37:05,400
+Okay, now let's see how much of a disappointment that new armor is
+
+542
+00:37:06,266 --> 00:37:10,566
+because I tried it a little bit earlier a few episodes ago
+
+543
+00:37:10,566 --> 00:37:11,833
+it doesn't look like that much (?)
+
+544
+00:37:11,833 --> 00:37:15,966
+Well, let's see, okay, this should work
+
+545
+00:37:16,933 --> 00:37:20,066
+I guess I need to charge it a little bit
+
+546
+00:37:21,400 --> 00:37:23,900
+Okay, which tier does it even charge at?
+
+547
+00:37:25,066 --> 00:37:28,666
+Okay, 500 volt, it's even typed
+
+548
+00:37:29,866 --> 00:37:31,833
+Okay, I can't tell if the capa(city)-
+
+549
+00:37:31,833 --> 00:37:33,766
+I think that's the same capacity of the NanoSuit
+
+550
+00:37:33,800 --> 00:37:35,500
+it's charging so quickly
+
+551
+00:37:36,733 --> 00:37:38,633
+I remember NanoSuit being slower
+
+552
+00:37:39,833 --> 00:37:41,300
+okay how do I...
+
+553
+00:37:42,666 --> 00:37:45,166
+okay okay jetpack works
+
+554
+00:37:46,733 --> 00:37:48,966
+how do I use the hover
+
+555
+00:37:50,466 --> 00:37:52,633
+well I mean as a jetpack it works
+
+556
+00:37:53,033 --> 00:37:54,866
+but I really want the hover mode
+
+557
+00:37:58,966 --> 00:38:02,333
+Where is it? okay this is the one I use
+
+558
+00:38:02,333 --> 00:38:05,733
+it has a little bit of things inside it
+
+559
+00:38:06,200 --> 00:38:07,700
+Yeah that should be the one, like...
+
+560
+00:38:07,700 --> 00:38:09,666
+oh yeah, effect jetpack hover
+
+561
+00:38:10,166 --> 00:38:12,033
+so there is
+
+562
+00:38:15,533 --> 00:38:16,666
+okay there is a...
+
+563
+00:38:18,233 --> 00:38:21,166
+quest book doesn't tell you what you have to click
+
+564
+00:38:22,066 --> 00:38:23,433
+okay, let me figure this out
+
+565
+00:38:24,266 --> 00:38:26,500
+oh I see how it works
+
+566
+00:38:27,700 --> 00:38:30,833
+so I think I'm never using the
+
+567
+00:38:32,400 --> 00:38:33,966
+do I need both of them?
+
+568
+00:38:35,600 --> 00:38:38,166
+okay, I think I need to have both keys
+
+569
+00:38:39,200 --> 00:38:41,533
+uh controls, jetpack
+
+570
+00:38:42,366 --> 00:38:44,266
+so let's use this, can I...
+
+571
+00:38:45,000 --> 00:38:45,933
+can I do a...
+
+572
+00:38:46,366 --> 00:38:46,800
+no
+
+573
+00:38:48,466 --> 00:38:52,033
+uh which, okay
+
+574
+00:38:53,233 --> 00:38:56,000
+so, this, this
+
+575
+00:38:56,500 --> 00:38:57,766
+oh it works
+
+576
+00:38:57,766 --> 00:39:00,866
+okay I got to say that's nice
+
+577
+00:39:00,866 --> 00:39:02,500
+okay that flight is nice
+
+578
+00:39:02,500 --> 00:39:03,800
+and that is the Tier 1
+
+579
+00:39:04,100 --> 00:39:05,833
+because this one has an upgrade
+
+580
+00:39:08,066 --> 00:39:12,700
+Okay, I guess in the next tier we will figure out how this one works
+
+581
+00:39:13,100 --> 00:39:16,266
+The other thing I really, really, really, really wanted
+
+582
+00:39:16,266 --> 00:39:20,600
+was the night vision module
+
+583
+00:39:22,566 --> 00:39:26,433
+This one, start, start
+
+584
+00:39:27,233 --> 00:39:29,566
+I need another thing there
+
+585
+00:39:30,333 --> 00:39:31,366
+I can throw this one
+
+586
+00:39:36,000 --> 00:39:38,733
+okay this one goes into the helmet
+
+587
+00:39:39,200 --> 00:39:42,766
+and I already have the hazmat
+
+588
+00:39:43,400 --> 00:39:46,466
+okay I think this one can be put in any...
+
+589
+00:39:47,200 --> 00:39:49,866
+yeah you can put this one in any armor piece
+
+590
+00:39:49,866 --> 00:39:53,400
+you only need one, I hope, if I understand it correctly
+
+591
+00:39:55,100 --> 00:39:58,800
+wait something... oh wait I have to take this one
+
+592
+00:40:00,166 --> 00:40:01,666
+I feel like I did something wrong
+
+593
+00:40:03,300 --> 00:40:06,400
+okay let's charge it up a little bit
+
+594
+00:40:07,066 --> 00:40:11,066
+I didn't really look much into what other modules I could use
+
+595
+00:40:13,433 --> 00:40:15,633
+Mostly I just make what I need
+
+596
+00:40:15,833 --> 00:40:19,700
+I need a jetpack and I need the night vision
+
+597
+00:40:19,700 --> 00:40:21,700
+I need night vision, jetpack and hazmat suit
+
+598
+00:40:22,200 --> 00:40:24,166
+Those are the only things I really care about
+
+599
+00:40:26,533 --> 00:40:28,866
+Maybe this one could be useful, I don't know
+
+600
+00:40:29,933 --> 00:40:33,333
+okay, how do I enable night vision
+
+601
+00:40:35,000 --> 00:40:38,400
+let's see, is there a cave I can go in
+
+602
+00:40:40,100 --> 00:40:42,000
+okay, let's go inside the dungeon
+
+603
+00:40:42,000 --> 00:40:43,233
+those dungeons are spawn...
+
+604
+00:40:43,233 --> 00:40:45,866
+every time I load a backup, a new dungeon spawns
+
+605
+00:40:46,566 --> 00:40:47,733
+that's kind of annoying
+
+606
+00:40:48,700 --> 00:40:51,166
+I had to load two backups like months ago
+
+607
+00:40:51,700 --> 00:40:54,433
+uh that may got fixed, I think they already fixed that
+
+608
+00:40:54,933 --> 00:40:57,233
+that was an issue with an older beta
+
+609
+00:40:57,233 --> 00:40:58,666
+it should already be fixed
+
+610
+00:41:01,833 --> 00:41:03,633
+Okay, this thing is not working
+
+611
+00:41:06,200 --> 00:41:08,366
+Do we even have to enable the hazmat suit?
+
+612
+00:41:09,933 --> 00:41:11,333
+controls
+
+613
+00:41:13,100 --> 00:41:15,766
+GregTech armor, toggle night vision, R
+
+614
+00:41:17,100 --> 00:41:17,833
+oh, okay
+
+615
+00:41:18,333 --> 00:41:19,733
+Okay, there is something off
+
+616
+00:41:19,900 --> 00:41:21,633
+It looks like there is fog
+
+617
+00:41:22,500 --> 00:41:23,866
+It doesn't look right
+
+618
+00:41:24,833 --> 00:41:25,866
+Maybe it's just me
+
+619
+00:41:26,866 --> 00:41:29,100
+Okay, I don't know if it is me or...
+
+620
+00:41:31,866 --> 00:41:35,600
+well the lightning is supposed to be weird I guess
+
+621
+00:41:37,766 --> 00:41:38,966
+ah, whatever it works
+
+622
+00:41:39,633 --> 00:41:43,833
+uh, okay, I don't have to enable the hazmat suit, right?
+
+623
+00:41:46,366 --> 00:41:47,300
+okay let's see
+
+624
+00:41:48,433 --> 00:41:51,966
+I should have a little bit of uranium rods
+
+625
+00:41:51,966 --> 00:41:54,333
+okay this, oh it works
+
+626
+00:41:54,833 --> 00:41:56,233
+because if I remove this one
+
+627
+00:41:56,733 --> 00:41:59,833
+yeah, okay, perfect, hazmat suit, got it
+
+628
+00:42:00,100 --> 00:42:02,000
+and I may as well recycle those
+
+629
+00:42:03,966 --> 00:42:06,100
+Okay what else can I yap about?
+
+630
+00:42:06,100 --> 00:42:08,466
+I think I'm going to call this EV Yap
+
+631
+00:42:08,466 --> 00:42:13,300
+because I redid EV the previous livestream
+
+632
+00:42:13,933 --> 00:42:17,700
+Yeah I'm managing this season as if it was a live stream (?)
+
+633
+00:42:17,700 --> 00:42:20,333
+and I just kept out all of the boring stuff
+
+634
+00:42:21,133 --> 00:42:26,400
+I don't know what else I can do in this episode
+
+635
+00:42:26,800 --> 00:42:27,900
+Let me think about it
+
+636
+00:42:28,666 --> 00:42:30,600
+Well I guess that's it for today
+
+637
+00:42:30,800 --> 00:42:33,566
+See you next time for the moving to the personal dimension
+
