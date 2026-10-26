@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:00,333 --> 00:00:01,566
 Welcome back
 
@@ -7,8 +7,12 @@ Welcome back
 And today we are going to see the HV age
 
 3
-00:00:05,033 --> 00:00:09,666
+00:00:05,033 --> 00:00:08,166
 Now, this is another age filled with quality of life things, unlike MV actually
+
+4
+00:00:08,300 --> 00:00:09,666
+（向上合并）
 
 5
 00:00:10,533 --> 00:00:13,000
@@ -107,8 +111,12 @@ But it can also yield one byproduct
 Which for example can be super useful to obtain extra gallium or a huge amount of chromium
 
 29
-00:01:47,233 --> 00:01:55,200
+00:01:47,233 --> 00:01:49,300
 If you process rubies in a Macerator two times and then you make the ruby juice
+
+30
+00:01:49,300 --> 00:01:55,200
+（向上合并）
 
 31
 00:01:56,100 --> 00:01:59,333
@@ -219,8 +227,12 @@ It's probably a good idea to look for oil
 Which we can also use for powering
 
 58
-00:03:36,400 --> 00:03:41,066
+00:03:36,400 --> 00:03:39,733
 Now, usually people will go with some renewable way of making oil, like with plants
+
+59
+00:03:39,900 --> 00:03:41,066
+（向上合并）
 
 60
 00:03:41,400 --> 00:03:44,200
@@ -263,8 +275,12 @@ This chunk for example has oil
 And every chunk inside it has different values
 
 70
-00:04:10,933 --> 00:04:13,533
+00:04:10,933 --> 00:04:12,200
 This one was raw oil which is a different oil
+
+71
+00:04:12,200 --> 00:04:13,533
+（向上合并）
 
 72
 00:04:14,333 --> 00:04:18,566
@@ -335,8 +351,12 @@ And I suggest looking for deposit that is at least 1/4 of the maximum amount
 This field I found here is really huge
 
 89
-00:05:22,933 --> 00:05:26,666
+00:05:22,933 --> 00:05:25,600
 This is the cheapest drilling rig there is, the steel version
+
+90
+00:05:25,766 --> 00:05:26,666
+（向上合并）
 
 91
 00:05:26,800 --> 00:05:28,900
@@ -499,12 +519,20 @@ And that efficiency is the success rate of the crafting you do inside it
 So we have to wait basically 20 minutes before using it
 
 131
-00:07:48,866 --> 00:07:54,600
+00:07:48,866 --> 00:07:52,433
 Otherwise, we have a this chance of success and 90% chance of failing basically
 
+132
+00:07:52,433 --> 00:07:54,600
+（向上合并）
+
 133
-00:07:55,800 --> 00:08:00,800
+00:07:55,800 --> 00:07:58,233
 So you don't want this one to power fail and have to wait for it to clean again
+
+134
+00:07:58,233 --> 00:08:00,800
+（向上合并）
 
 135
 00:08:01,533 --> 00:08:02,666
@@ -563,14 +591,10 @@ One big tip, I use this glass because it's the easiest to make
 But if you do...
 
 149
-00:08:44,366 --> 00:08:48,000
-If you crafted the unstable ingot to get the healing axe or other things
+00:08:44,366 --> 00:08:50,366
+If you crafted the unstable ingot to get the healing axe or other things you may have seen in other people's video
 
 150
-00:08:48,200 --> 00:08:50,366
-you may have seen in other people's video
-
-
 00:08:50,933 --> 00:08:52,200
 You can craft this glass
 
@@ -599,16 +623,16 @@ So I didn't use it
 But that's a way
 
 157
-00:09:06,333 --> 00:09:11,000
-Another big thing is that you must have a door in the cleanroom I think
+00:09:06,333 --> 00:09:12,700
+Another big thing is that you must have a door in the cleanroom I think, unless they removed the requirement
 
 158
-00:09:11,000 --> 00:09:12,700
-unless they removed the requirement
+00:09:12,966 --> 00:09:14,700
+But every time you open the door, the efficiency will go down
 
 159
-00:09:12,966 --> 00:09:17,000
-But every time you open the door, the efficiency will go down
+00:09:15,166 --> 00:09:17,000
+（向上合并）
 
 160
 00:09:18,300 --> 00:09:23,366
@@ -774,8 +798,12 @@ We are going to have to handle five different outputs
 00:11:35,100 --> 00:11:37,566
 And we probably want those to go in different places
 
+201
+00:11:37,966 --> 00:11:38,800
+（向下合并）
+
 202
-00:11:37,966 --> 00:11:42,566
+00:11:39,200 --> 00:11:42,566
 For that purpose, we can have a different output hatch for each fluid
 
 203
@@ -795,7 +823,7 @@ Then we are also going to have an electrolyzer to recover the hydrogen out of th
 As we did with the older setup
 
 207
-00:12:01,466 --> 00:12:04,200
+00:12:01,466 --> 00:12:02,200
 Like that
 
 208
@@ -2643,8 +2671,12 @@ I almost forgot to say bye bye
 今天我们将看 HV 时代的流程
 
 669
-00:00:05,033 --> 00:00:09,666
+00:00:05,033 --> 00:00:08,166
 不同于中压时代 这是另一个充满妙妙工具的时代
+
+670
+00:00:08,300 --> 00:00:09,666
+（向上合并）
 
 671
 00:00:10,533 --> 00:00:13,000
@@ -2743,8 +2775,12 @@ I almost forgot to say bye bye
 例如 通过研磨机处理红宝石两次 然后通过红宝石溶液
 
 695
-00:01:47,233 --> 00:01:55,200
+00:01:47,233 --> 00:01:49,300
 这对于获得额外的镓和铬非常有用
+
+696
+00:01:49,300 --> 00:01:55,200
+（向上合并）
 
 697
 00:01:56,100 --> 00:01:59,333
@@ -2855,8 +2891,12 @@ I almost forgot to say bye bye
 我们也可以用石油供能
 
 724
-00:03:36,400 --> 00:03:41,066
+00:03:36,400 --> 00:03:39,733
 通常人们会用一些可再生的方法来制造石油 比如用植物
+
+725
+00:03:39,900 --> 00:03:41,066
+（向上合并）
 
 726
 00:03:41,400 --> 00:03:44,200
@@ -2899,8 +2939,12 @@ I almost forgot to say bye bye
 里面的每一区块都有不同的值
 
 736
-00:04:10,933 --> 00:04:13,533
+00:04:10,933 --> 00:04:12,200
 这个是原油 和石油不同
+
+737
+00:04:12,200 --> 00:04:13,533
+（向上合并）
 
 738
 00:04:14,333 --> 00:04:18,566
@@ -2971,8 +3015,12 @@ I almost forgot to say bye bye
 我发现的这块油田的数值真的很高
 
 755
-00:05:22,933 --> 00:05:26,666
+00:05:22,933 --> 00:05:25,600
 这是最便宜的钻机 用钢做的
+
+756
+00:05:25,766 --> 00:05:26,666
+（向上合并）
 
 757
 00:05:26,800 --> 00:05:28,900
@@ -3135,12 +3183,20 @@ I almost forgot to say bye bye
 所以我们必须等 20 分钟才能用它
 
 797
-00:07:48,866 --> 00:07:54,600
+00:07:48,866 --> 00:07:52,433
 否则 我们只有 10% 的成功率 90% 的失败率
 
+798
+00:07:52,433 --> 00:07:54,600
+（向上合并）
+
 799
-00:07:55,800 --> 00:08:00,800
+00:07:55,800 --> 00:07:58,233
 所以你不会想让它没电 等它重新除尘的
+
+800
+00:07:58,233 --> 00:08:00,800
+（向上合并）
 
 801
 00:08:01,533 --> 00:08:02,666
@@ -3235,8 +3291,12 @@ I almost forgot to say bye bye
 另一个重要的事情是 你的超净间应该必须要有一个门 除非他们取消了这个要求
 
 824
-00:09:12,966 --> 00:09:17,000
+00:09:12,966 --> 00:09:14,700
 但每次你打开门 净化效率会下降
+
+825
+00:09:15,166 --> 00:09:17,000
+（向上合并）
 
 826
 00:09:18,300 --> 00:09:23,366
@@ -3402,8 +3462,12 @@ I almost forgot to say bye bye
 00:11:35,100 --> 00:11:37,566
 我们希望它们输出到不同的地方
 
+867
+00:11:37,966 --> 00:11:38,800
+（向下合并）
+
 868
-00:11:37,966 --> 00:11:42,566
+00:11:39,200 --> 00:11:42,566
 为此 我们可以为每种流体提供不同的输出仓
 
 869
@@ -3832,7 +3896,7 @@ HV 下两秒
 
 975
 00:18:05,733 --> 00:18:09,900
-我对涡轮机里卡住1升汽油有阴影了
+我对涡轮机里卡住 1 升汽油有阴影了
 
 976
 00:18:10,166 --> 00:18:14,533
@@ -4192,7 +4256,7 @@ HV 下两秒
 
 1065
 00:23:01,533 --> 00:23:04,966
-如果一些EBF或其他东西用电过多
+如果一些 EBF 或其他东西用电过多
 
 1066
 00:23:05,100 --> 00:23:06,600
@@ -4544,7 +4608,7 @@ AE2 需要它
 
 1153
 00:28:33,733 --> 00:28:38,600
-所以 只要加一点这种东西 你的热值就会翻倍。
+所以 只要加一点这种东西 你的热值就会翻倍
 
 1154
 00:28:39,166 --> 00:28:43,633
@@ -4580,7 +4644,7 @@ AE2 需要它
 
 1162
 00:29:08,400 --> 00:29:12,266
-但是我懒得把所有东西导来导去 还要放5台机器
+但是我懒得把所有东西导来导去 还要放 5 台机器
 
 1163
 00:29:13,000 --> 00:29:16,133
@@ -4747,8 +4811,12 @@ AE2 需要它
 那之后 我们就有了制作 EnderIO 机器所需的末影珍珠
 
 1204
-00:31:49,166 --> 00:31:54,200
-为那些机器供电的诀窍是你必须首先放置机器
+00:31:49,166 --> 00:31:50,333
+为那些机器供电
+
+1205
+00:31:50,733 --> 00:31:54,200
+诀窍是你必须首先放置机器
 
 1206
 00:31:54,566 --> 00:31:56,866
@@ -4784,7 +4852,7 @@ AE2 需要它
 
 1214
 00:32:22,200 --> 00:32:27,466
-不管怎样 我们刷下界之星是为了造一个NASA工作台
+不管怎样 我们刷下界之星是为了造一个 NASA 工作台
 
 1215
 00:32:27,533 --> 00:32:31,500
@@ -4824,7 +4892,7 @@ AE2 需要它
 
 1224
 00:32:54,733 --> 00:32:56,600
-还要小心用工业TNT
+还要小心用工业 TNT
 
 1225
 00:32:56,600 --> 00:32:58,066
@@ -4852,7 +4920,7 @@ AE2 需要它
 
 1231
 00:33:17,133 --> 00:33:26,033
-就像几集前一样 我说过有了NEI 用自动制作要容易得多
+就像几集前一样 我说过有了 NEI 用自动制作要容易得多
 
 1232
 00:33:26,033 --> 00:33:27,400
@@ -5244,7 +5312,7 @@ AE2 需要它
 
 1329
 00:39:01,566 --> 00:39:05,400
-现在每个GregTech modpack或多或少都相似
+现在每个 GregTech modpack 或多或少都相似
 
 1330
 00:39:05,400 --> 00:39:08,400
