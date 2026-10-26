@@ -39,7 +39,7 @@ You should probably automate it passively
 But you can totally get all you need just by keeping on buying it
 
 11
-00:00:45,666 --> 00:00:48,566
+00:00:45,666 --> 00:00:48,533
 Then, there are probably another few things you may want
 
 12
@@ -63,7 +63,7 @@ You can craft those into the next tier
 And the HV loot bag is actually quite interesting
 
 17
-00:01:10,866 --> 00:01:14,966
+00:01:10,866 --> 00:01:15,066
 I mean, it's not the greatest thing ever
 
 18
@@ -139,7 +139,7 @@ And you can get super easily filled up with any kind of food
 But the best thing is the new Advanced Miner
 
 36
-00:02:14,366 --> 00:02:17,866
+00:02:14,366 --> 00:02:17,966
 While we could have got mining machines way earlier
 
 37
@@ -275,7 +275,7 @@ This one was raw oil which is a different oil
 Under my base I have a huge deposit of heavy oil which is what I want to do
 
 70
-00:04:19,000 --> 00:04:21,000
+00:04:19,000 --> 00:04:21,100
 And I also found some light oil
 
 71
@@ -283,7 +283,7 @@ And I also found some light oil
 Now all of those different oils what it changes is the amount of byproducts they give each one
 
 72
-00:04:27,666 --> 00:04:29,200
+00:04:27,666 --> 00:04:29,300
 You look in the distillation tower
 
 73
@@ -303,7 +303,7 @@ Each oil has a different output
 But if we want to collect the oil under the bedrock
 
 77
-00:04:46,300 --> 00:04:48,266
+00:04:46,300 --> 00:04:48,233
 We're going to need a fluid drilling rig
 
 78
@@ -315,7 +315,7 @@ Which is a multiblock that will slowly pump the oil out of the bedrock
 Now, doing such thing will slowly deplete the oil field
 
 80
-00:04:57,566 --> 00:05:03,100
+00:04:57,566 --> 00:05:03,200
 But if these are huge field, it will last a long time
 
 81
@@ -339,7 +339,7 @@ And I suggest looking for deposit that is at least 1/4 of the maximum amount
 This field I found here is really huge
 
 86
-00:05:22,933 --> 00:05:26,666
+00:05:22,933 --> 00:05:26,633
 This is the cheapest drilling rig there is, the steel version
 
 87
@@ -363,7 +363,7 @@ The biggest version takes the whole oil field at once
 But for the moment that is more than enough
 
 92
-00:05:44,866 --> 00:05:46,900
+00:05:44,866 --> 00:05:46,966
 Next, we are going to process this oil
 
 93
@@ -435,7 +435,7 @@ And there are many tips
 First of all, when you build it double check the recipes
 
 110
-00:06:49,466 --> 00:06:51,466
+00:06:49,466 --> 00:06:51,433
 Because for example the filter
 
 111
@@ -447,7 +447,7 @@ If you craft it in a crafting table, it's going to cost you 3 filters
 If you make it in a assembler, it's only 2, which is way cheaper
 
 113
-00:06:57,966 --> 00:07:00,466
+00:06:57,966 --> 00:07:00,433
 Also, calcite, you don't have to dig a calcite
 
 114
@@ -459,11 +459,11 @@ You can make it in a chemical reactor super easily
 Then there are all sorts of other tricks
 
 116
-00:07:10,566 --> 00:07:15,566
+00:07:10,566 --> 00:07:15,666
 For example, I heavily suggest having a dedicated battery buffer
 
 117
-00:07:15,666 --> 00:07:18,133
+00:07:15,666 --> 00:07:18,200
 This is the old battery buffer I use at the beginning
 
 118
@@ -487,7 +487,7 @@ It will take a long time before it's actually usable
 Once you turn it on
 
 123
-00:07:30,600 --> 00:07:32,200
+00:07:30,600 --> 00:07:32,166
 It will slowly work
 
 124
@@ -535,7 +535,7 @@ But I also wanted it to look nice
 You can use glass instead of the wall to cheap out
 
 135
-00:08:19,166 --> 00:08:22,900
+00:08:19,166 --> 00:08:23,000
 Also I made it slightly bigger than the minimum requirement
 
 136
@@ -595,7 +595,7 @@ I didn't wanna bother making this
 So I didn't use it
 
 150
-00:09:04,466 --> 00:09:06,200
+00:09:04,466 --> 00:09:06,166
 But that's a way
 
 151
@@ -743,7 +743,7 @@ And thus we are getting 4 different fluids out of oil without wasting anything
 The issue is that now we have to refine 4 fluid out of this sulfur
 
 187
-00:11:12,733 --> 00:11:15,166
+00:11:12,733 --> 00:11:15,266
 We could use 4 single block chemical reactors
 
 188
@@ -827,7 +827,7 @@ There are another few things I want to tell you about the large chemical reactor
 Because this machine is way more powerful than what I have just shown you
 
 208
-00:12:27,133 --> 00:12:30,866
+00:12:27,133 --> 00:12:30,966
 And I just realize I never explained how overclocks work in this modpack
 
 209
@@ -859,7 +859,7 @@ Total 24,000 EU per tick
 If you use a higher tier machine
 
 216
-00:12:53,266 --> 00:12:54,600
+00:12:53,266 --> 00:12:54,666
 You are going to overclock it
 
 217
@@ -959,7 +959,7 @@ So you can craft whatever you need without worrying too much or messing up any a
 Now back to our oil processing
 
 241
-00:14:07,266 --> 00:14:08,466
+00:14:07,266 --> 00:14:08,566
 As you can probably notice
 
 242
@@ -967,7 +967,7 @@ As you can probably notice
 We are producing different ratios of those fuels
 
 243
-00:14:11,866 --> 00:14:13,800
+00:14:11,866 --> 00:14:13,900
 So everything will stop
 
 244
@@ -1127,7 +1127,7 @@ And then we got the fuel to power the small drilling setups
 that I will be laying all around the ore veins to collect ores
 
 283
-00:16:59,066 --> 00:17:01,200
+00:16:59,066 --> 00:17:01,266
 But that's far from a complete
 
 284
@@ -1183,7 +1183,7 @@ Which will charge up my battery buffer
 Here I used quadruple pipes
 
 297
-00:17:47,000 --> 00:17:49,566
+00:17:47,000 --> 00:17:49,666
 I had to use bronze because for whatever reason
 
 298
@@ -1235,7 +1235,7 @@ Those two will go into energy
 Those two directly go into power
 
 310
-00:18:37,866 --> 00:18:40,866
+00:18:37,866 --> 00:18:40,933
 This one is basically all converted into diesel
 
 311
@@ -1255,7 +1255,7 @@ And now we have a lot of this leftover
 This one, we could distill it
 
 315
-00:18:57,733 --> 00:19:00,900
+00:18:57,733 --> 00:19:00,966
 That's something you probably want to do but later game
 
 316
@@ -1271,7 +1271,7 @@ Like this is good for TNT's when we will need a lot of TNT's later
 This is super useful and this is super useful too
 
 319
-00:19:08,366 --> 00:19:10,600
+00:19:08,366 --> 00:19:10,700
 But this is a recipe for later
 
 320
@@ -1411,7 +1411,7 @@ So I did this setup where every gas should mostly go inside this tank
 And all of the leftover is slowly moved to the pipe that burns the leftover gases
 
 354
-00:21:11,100 --> 00:21:14,733
+00:21:11,100 --> 00:21:14,800
 This will still leak a little bit of gas to the burning setup
 
 355
@@ -1459,7 +1459,7 @@ Whatever leftover fuel we have we can send it up
 Where we'll go into those generators
 
 366
-00:21:47,866 --> 00:21:50,500
+00:21:47,866 --> 00:21:50,566
 Which are toggle on and off with that redstone
 
 367
@@ -1511,7 +1511,7 @@ And maybe that's it
 Let's make this one tick slowly
 
 379
-00:22:26,966 --> 00:22:29,700
+00:22:26,966 --> 00:22:29,766
 OK, that should make sure we never have power issues
 
 380
@@ -1567,7 +1567,7 @@ So it should work really nicely
 Use all of the free power from solar
 
 393
-00:23:01,533 --> 00:23:04,966
+00:23:01,533 --> 00:23:04,933
 And if some EBF or something is draining too much
 
 394
@@ -1579,7 +1579,7 @@ The generators will turn on
 This distillation tower is going to be expensive
 
 396
-00:23:10,500 --> 00:23:16,900
+00:23:10,500 --> 00:23:16,966
 But there are other projects I can prepare that do not require much stainless steel
 
 397
@@ -1715,7 +1715,7 @@ I'm leaving the game AFK a lot
 So it just processes limonite slowly
 
 430
-00:25:12,533 --> 00:25:14,933
+00:25:12,533 --> 00:25:14,899
 You can get hydrogen by electrolyzing water
 
 431
@@ -1763,11 +1763,11 @@ Theoretically, if you have a lot of sodium
 You can react this with water to get hydrogen
 
 442
-00:26:01,700 --> 00:26:03,100
+00:26:01,700 --> 00:26:03,200
 I'm just showing options
 
 443
-00:26:03,200 --> 00:26:06,800
+00:26:03,200 --> 00:26:06,766
 Right now I'm fine with hydrogen for the moment
 
 444
@@ -1799,7 +1799,7 @@ What it does is that it processes something called platinum metallic powder
 It processes that platinum metallic powder into refined platinum dust
 
 451
-00:26:35,233 --> 00:26:38,266
+00:26:35,233 --> 00:26:38,333
 Now, this is something that is relatively complicated
 
 452
@@ -1911,7 +1911,7 @@ But thing is that you need just a little bit of this
 A little few drops of this to double the power output of diesel
 
 479
-00:28:23,666 --> 00:28:29,766
+00:28:23,666 --> 00:28:29,733
 Because normal diesel has a fuel value of half million
 
 480
@@ -1971,7 +1971,7 @@ And we're getting a lot of stuff
 We also have a lot of power available
 
 494
-00:29:20,800 --> 00:29:22,900
+00:29:20,800 --> 00:29:22,966
 And with all of that power
 
 495
@@ -2059,7 +2059,7 @@ That has a base chance of getting heads at least 20%
 But we can add first a diamond and a block of gold to increase the modifier by 1
 
 516
-00:30:41,966 --> 00:30:46,933
+00:30:41,966 --> 00:30:47,000
 Then one diamond block and then enchanting golden apple
 
 517
@@ -2167,7 +2167,7 @@ But I'm not too sure if every lazy person is also smart
 And correlation does not mean causation
 
 543
-00:32:22,200 --> 00:32:27,466
+00:32:22,200 --> 00:32:27,533
 Anyways, the reason we are farming nether stars is so that we can build a NASA workbench
 
 544
@@ -2215,7 +2215,7 @@ Also be careful with the industrial TNT
 Because as far as I remember
 
 555
-00:32:58,100 --> 00:32:59,666
+00:32:58,100 --> 00:32:59,766
 If you place this one
 
 556
@@ -2319,7 +2319,7 @@ We finally obtain our rocket
 To launch it, we are going to have to fuel it up
 
 581
-00:34:23,266 --> 00:34:24,933
+00:34:23,266 --> 00:34:24,899
 So we use a fuel loader
 
 582
@@ -2363,7 +2363,7 @@ that as a reward will give us enough fuel to go whatever we want with our rocket
 So once again, we place the rocket on the loading site thing
 
 592
-00:35:03,100 --> 00:35:05,566
+00:35:03,100 --> 00:35:05,533
 And then we move the fuel in
 
 593
@@ -2387,7 +2387,7 @@ Because it's going to produce a lot of pollution when you launch it
 And another super important thing before launching is always do a backup
 
 598
-00:35:31,800 --> 00:35:35,066
+00:35:31,800 --> 00:35:35,033
 You do not want to mess this up
 
 599
@@ -2395,7 +2395,7 @@ You do not want to mess this up
 Many things can go wrong
 
 600
-00:35:36,966 --> 00:35:38,700
+00:35:36,966 --> 00:35:38,800
 Most likely you will forget something
 
 601
@@ -2423,7 +2423,7 @@ The tier 1 rocket
 This one is also rather slow
 
 607
-00:35:55,466 --> 00:35:59,000
+00:35:55,466 --> 00:35:58,966
 Higher tier rockets would be a little bit faster at reaching the moon
 
 608
@@ -2447,7 +2447,7 @@ I mean you can tilt it like that and go wherever you want
 But ideally you should simply go up
 
 613
-00:36:18,900 --> 00:36:20,566
+00:36:18,900 --> 00:36:20,666
 And after enough time
 
 614
@@ -2687,7 +2687,7 @@ I almost forgot to say bye bye
 但是你只要一直买就可以获得你需要的数量
 
 673
-00:00:45,666 --> 00:00:48,566
+00:00:45,666 --> 00:00:48,533
 然后 你可能还想要一些别的东西
 
 674
@@ -2711,7 +2711,7 @@ I almost forgot to say bye bye
 高压时代的战利品袋很值得一看
 
 679
-00:01:10,866 --> 00:01:14,966
+00:01:10,866 --> 00:01:15,066
 我说虽然不是不是最好的东西
 
 680
@@ -2787,7 +2787,7 @@ I almost forgot to say bye bye
 但最好的机器是新的高级矿机
 
 698
-00:02:14,366 --> 00:02:17,866
+00:02:14,366 --> 00:02:17,966
 虽然我们可以更早做出矿机
 
 699
@@ -2923,7 +2923,7 @@ I almost forgot to say bye bye
 在我的基地下面有大量的重油储量 这正是我想处理的
 
 732
-00:04:19,000 --> 00:04:21,000
+00:04:19,000 --> 00:04:21,100
 我还发现了一些轻油
 
 733
@@ -2931,7 +2931,7 @@ I almost forgot to say bye bye
 所有这些不同的油 不同的是它们产生的副产品的数量
 
 734
-00:04:27,666 --> 00:04:29,200
+00:04:27,666 --> 00:04:29,300
 看看蒸馏塔配方
 
 735
@@ -2951,7 +2951,7 @@ I almost forgot to say bye bye
 但如果我们想收集基岩下的石油
 
 739
-00:04:46,300 --> 00:04:48,266
+00:04:46,300 --> 00:04:48,233
 我们需要一个流体钻机
 
 740
@@ -2963,7 +2963,7 @@ I almost forgot to say bye bye
 这样做会慢慢耗尽油田
 
 742
-00:04:57,566 --> 00:05:03,100
+00:04:57,566 --> 00:05:03,200
 但如果油田很大 它能撑很长时间
 
 743
@@ -2987,7 +2987,7 @@ I almost forgot to say bye bye
 我发现的这块油田的数值真的很高
 
 748
-00:05:22,933 --> 00:05:26,666
+00:05:22,933 --> 00:05:26,633
 这是最便宜的钻机 用钢做的
 
 749
@@ -3011,7 +3011,7 @@ I almost forgot to say bye bye
 但就目前而言 这样已经足够了
 
 754
-00:05:44,866 --> 00:05:46,900
+00:05:44,866 --> 00:05:46,966
 接下来 我们要处理这些油
 
 755
@@ -3083,7 +3083,7 @@ I almost forgot to say bye bye
 首先 当你搭它的时候 请仔细检查配方
 
 772
-00:06:49,466 --> 00:06:51,466
+00:06:49,466 --> 00:06:51,433
 因为 拿过滤器举个例子
 
 773
@@ -3095,7 +3095,7 @@ I almost forgot to say bye bye
 如果在组装机里做就只要两个 便宜多了
 
 775
-00:06:57,966 --> 00:07:00,466
+00:06:57,966 --> 00:07:00,433
 还有 方解石 你不必挖方解石
 
 776
@@ -3107,11 +3107,11 @@ I almost forgot to say bye bye
 还有很多其他的小技巧
 
 778
-00:07:10,566 --> 00:07:15,566
+00:07:10,566 --> 00:07:15,666
 例如 我强烈建议做一个专用的电池箱
 
 779
-00:07:15,666 --> 00:07:18,133
+00:07:15,666 --> 00:07:18,200
 这是我一开始用的旧电池箱
 
 780
@@ -3135,7 +3135,7 @@ I almost forgot to say bye bye
 一旦你打开它
 
 785
-00:07:30,600 --> 00:07:32,200
+00:07:30,600 --> 00:07:32,166
 它会慢慢工作
 
 786
@@ -3183,7 +3183,7 @@ I almost forgot to say bye bye
 你可以用玻璃代替墙壁来省成本
 
 797
-00:08:19,166 --> 00:08:22,900
+00:08:19,166 --> 00:08:23,000
 另外 我把它做得比最小要求稍微大一些
 
 798
@@ -3247,7 +3247,7 @@ I almost forgot to say bye bye
 所以我没有用它
 
 813
-00:09:04,466 --> 00:09:06,200
+00:09:04,466 --> 00:09:06,166
 但那也是一种方法
 
 814
@@ -3395,7 +3395,7 @@ I almost forgot to say bye bye
 现在的问题是我们得把这四种流体都脱硫
 
 850
-00:11:12,733 --> 00:11:15,166
+00:11:12,733 --> 00:11:15,266
 我们可以用四个单方块化学反应釜
 
 851
@@ -3479,7 +3479,7 @@ I almost forgot to say bye bye
 因为这台机器比我刚刚向你展示的要强大得多
 
 871
-00:12:27,133 --> 00:12:30,866
+00:12:27,133 --> 00:12:30,966
 我刚刚想起来到我没解释过这个整合包中超频的工作原理
 
 872
@@ -3511,7 +3511,7 @@ I almost forgot to say bye bye
 如果你用更高等级的机器
 
 879
-00:12:53,266 --> 00:12:54,600
+00:12:53,266 --> 00:12:54,666
 它就会超频
 
 880
@@ -3611,7 +3611,7 @@ HV 下两秒
 现在回到我们的石油加工
 
 904
-00:14:07,266 --> 00:14:08,466
+00:14:07,266 --> 00:14:08,566
 正如你可能注意到的那样
 
 905
@@ -3619,7 +3619,7 @@ HV 下两秒
 我们生产不同比例的燃油
 
 906
-00:14:11,866 --> 00:14:13,800
+00:14:11,866 --> 00:14:13,900
 所以一个停会所有都停
 
 907
@@ -3779,7 +3779,7 @@ HV 下两秒
 我会在矿脉周围铺设一些钻井来收集矿石
 
 946
-00:16:59,066 --> 00:17:01,200
+00:16:59,066 --> 00:17:01,266
 但这还远没有完
 
 947
@@ -3835,7 +3835,7 @@ HV 下两秒
 这里我用了四联管道
 
 960
-00:17:47,000 --> 00:17:49,566
+00:17:47,000 --> 00:17:49,666
 我不得不用青铜 因为一些神秘的原因
 
 961
@@ -3887,7 +3887,7 @@ HV 下两秒
 这两种直接用于发电
 
 973
-00:18:37,866 --> 00:18:40,866
+00:18:37,866 --> 00:18:40,933
 这个基本上全部转化成柴油
 
 974
@@ -3907,7 +3907,7 @@ HV 下两秒
 我们可以蒸馏它
 
 978
-00:18:57,733 --> 00:19:00,900
+00:18:57,733 --> 00:19:00,966
 这可能是你想做的事情 但是是游戏后期的事
 
 979
@@ -3923,7 +3923,7 @@ HV 下两秒
 这个超级有用 这个也超级有用
 
 982
-00:19:08,366 --> 00:19:10,600
+00:19:08,366 --> 00:19:10,700
 但这是以后的配方
 
 983
@@ -4063,7 +4063,7 @@ HV 下两秒
 所有剩余的气体都会被缓慢地转移到燃烧剩余气体的管道中
 
 1017
-00:21:11,100 --> 00:21:14,733
+00:21:11,100 --> 00:21:14,800
 这仍然会向燃烧装置泄漏一点气体
 
 1018
@@ -4111,7 +4111,7 @@ HV 下两秒
 送进那些发电机去烧
 
 1029
-00:21:47,866 --> 00:21:50,500
+00:21:47,866 --> 00:21:50,566
 用红石控制开启和关闭
 
 1030
@@ -4163,7 +4163,7 @@ HV 下两秒
 让我们让这个慢慢工作吧
 
 1042
-00:22:26,966 --> 00:22:29,700
+00:22:26,966 --> 00:22:29,766
 好的 这应该能保证我们没有电力问题
 
 1043
@@ -4219,7 +4219,7 @@ HV 下两秒
 用太阳能的所有免费电力
 
 1056
-00:23:01,533 --> 00:23:04,966
+00:23:01,533 --> 00:23:04,933
 如果一些 EBF 或其他东西用电过多
 
 1057
@@ -4231,7 +4231,7 @@ HV 下两秒
 这个蒸馏塔很贵
 
 1059
-00:23:10,500 --> 00:23:16,900
+00:23:10,500 --> 00:23:16,966
 但是同时我可以准备其他不需要太多不锈钢的项目
 
 1060
@@ -4367,7 +4367,7 @@ HV 下两秒
 所以它会缓慢处理褐铁矿从中得到氢气
 
 1093
-00:25:12,533 --> 00:25:14,933
+00:25:12,533 --> 00:25:14,899
 你也可以通过电解水得到氢气
 
 1094
@@ -4415,11 +4415,11 @@ HV 下两秒
 你可以把他和水反应得到氢气
 
 1105
-00:26:01,700 --> 00:26:03,100
+00:26:01,700 --> 00:26:03,200
 我只是在展示一些可选项
 
 1106
-00:26:03,200 --> 00:26:06,800
+00:26:03,200 --> 00:26:06,766
 现在我在氢气这一块没有缺口
 
 1107
@@ -4451,7 +4451,7 @@ HV 下两秒
 它将铂金属粉末加工成精制的铂粉
 
 1114
-00:26:35,233 --> 00:26:38,266
+00:26:35,233 --> 00:26:38,333
 这是一件对于我们这个时期而言比较复杂的事情
 
 1115
@@ -4563,7 +4563,7 @@ AE2 需要它
 几滴这个可以使柴油的功率输出翻倍
 
 1142
-00:28:23,666 --> 00:28:29,766
+00:28:23,666 --> 00:28:29,733
 因为普通柴油有 50 万的热值
 
 1143
@@ -4623,7 +4623,7 @@ AE2 需要它
 我们也有很多电力可用
 
 1157
-00:29:20,800 --> 00:29:22,900
+00:29:20,800 --> 00:29:22,966
 有了所有的能源
 
 1158
@@ -4711,7 +4711,7 @@ AE2 需要它
 但是我们可以先添加一颗钻石和一块黄金来增加 1 个升级槽
 
 1179
-00:30:41,966 --> 00:30:46,933
+00:30:41,966 --> 00:30:47,000
 然后是一个钻石块 然后是附魔金苹果
 
 1180
@@ -4819,7 +4819,7 @@ AE2 需要它
 有相关关系并不意味着因果关系
 
 1206
-00:32:22,200 --> 00:32:27,466
+00:32:22,200 --> 00:32:27,533
 不管怎样 我们刷下界之星是为了造一个 NASA 工作台
 
 1207
@@ -4867,7 +4867,7 @@ AE2 需要它
 因为据我所知
 
 1218
-00:32:58,100 --> 00:32:59,666
+00:32:58,100 --> 00:32:59,766
 如果你把这个放……
 
 1219
@@ -4971,7 +4971,7 @@ AE2 需要它
 要发射它 我们必须给它加油
 
 1244
-00:34:23,266 --> 00:34:24,933
+00:34:23,266 --> 00:34:24,899
 所以我们用燃油装载机
 
 1245
@@ -5015,7 +5015,7 @@ AE2 需要它
 所以再说一次我们的流程 把火箭放在装载点
 
 1255
-00:35:03,100 --> 00:35:05,566
+00:35:03,100 --> 00:35:05,533
 然后我们把燃油运进去
 
 1256
@@ -5039,7 +5039,7 @@ AE2 需要它
 发射前的另一件超级重要的事情是始终做备份
 
 1261
-00:35:31,800 --> 00:35:35,066
+00:35:31,800 --> 00:35:35,033
 你不会想搞砸的
 
 1262
@@ -5047,7 +5047,7 @@ AE2 需要它
 很多事情都可能出错
 
 1263
-00:35:36,966 --> 00:35:38,700
+00:35:36,966 --> 00:35:38,800
 最有可能的是你会忘了带什么
 
 1264
@@ -5075,7 +5075,7 @@ AE2 需要它
 这个也相当慢
 
 1270
-00:35:55,466 --> 00:35:59,000
+00:35:55,466 --> 00:35:58,966
 高级的火箭到达月球会快一点
 
 1271
@@ -5099,7 +5099,7 @@ AE2 需要它
 但理想情况下 你应该直接上去
 
 1276
-00:36:18,900 --> 00:36:20,566
+00:36:18,900 --> 00:36:20,666
 经过足够的时间
 
 1277
