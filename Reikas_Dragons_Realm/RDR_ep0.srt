@@ -124,11 +124,11 @@ Before venturing any further, let's collect some iron to make an armor
 
 32
 00:02:25,733 --> 00:02:27,866
-Here irons spawn in veins
+Here ores spawn in veins
 
 33
 00:02:28,300 --> 00:02:32,300
-Not as big as Gregtech ones, but not as small as Vanilla's
+Not as big as Gregtech ones, but not as small as vanilla's
 
 34
 00:02:32,800 --> 00:02:38,800
