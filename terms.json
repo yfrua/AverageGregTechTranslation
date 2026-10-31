@@ -209,7 +209,18 @@
     "jetpack": "喷气背包",
     "fuel value": "燃料值",
     "processing tier": "处理等级",
-    "batch mode": "批处理模式"
+    "batch mode": "批处理模式",
+    "americium": "镅",
+    "pulverizer": "研磨机",
+    "induction smelter": "感应炉",
+    "enriched coal": "富集煤",
+    "blaze rod": "烈焰棒",
+    "spawner": "刷怪笼",
+    "nether fortress": "下界要塞",
+    "dungeon": "地牢",
+    "mine shaft": "矿井",
+    "HSLA steel": "HSLA 钢",
+    "lava stone": "熔岩石"
   },
   "world_generation": {
     "vein": "矿脉",
@@ -361,7 +372,9 @@
     "OpenBlocks": "开源方块",
     "OpenComputers": "开放式电脑",
     "Computronics": "电脑外设",
-    "Draconic Evolution": "龙之研究"
+    "Draconic Evolution": "龙之研究",
+    "RotaryCraft": "旋转工艺",
+    "Immersive Engineering": "沉浸工程"
   },
   "game_mechanics": {
     "quest": "任务",
@@ -425,6 +438,9 @@
     "mid game": "中期",
     "end game": "大后期",
     "progression": "发展过程",
+    "armor": "盔甲",
+    "health": "生命值",
+    "hunger": "饱食度",
     "grindy": "肝",
     "ghetto": "简陋",
     "stock": "库存",
