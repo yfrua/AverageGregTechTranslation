@@ -888,5 +888,5 @@ we could try to see if we find a way of making so much power to break even the b
 
 223
 00:16:07,633 --> 00:16:08,366
-Bye-bye
+Bye bye
 
