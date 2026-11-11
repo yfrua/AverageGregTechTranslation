@@ -12,6 +12,27 @@ and [guidelines.md](guidelines.md).
 3. **Look up terminology first** (see below) and use the returned EN→ZH pairs.
 4. Lint and auto-fix: `python3 scripts/subtitle_lint.py --fix <path-to.srt>`
 
+## Task: dubbing with TTS
+
+`scripts/tts_dub.py` reads a subtitle aloud with Amazon Polly's classic
+British "Brian" voice and writes an audio track. Needs `ffmpeg`/`ffprobe`
+on PATH, `pip install boto3`, and AWS credentials allowed to call
+`polly:SynthesizeSpeech`.
+
+1. Each cue is synthesized separately and starts on its subtitle time
+   (`--merge` joins cues the subtitle split mid-sentence).
+2. Dubs automatically pick the EN run of a bilingual `.srt` (pass
+   `--source zh` for a Chinese dub; Polly voice becomes `Zhiyu`).
+3. Overrunning lines are re-synthesized faster (SSML prosody), then
+   time-stretched up to `--max-tempo` before trimming.
+4. Run: `python3 scripts/tts_dub.py <input.m4a> <srt> -o <out.m4a>`
+   (`--limit 180` for a quick check, `--workdir DIR` to keep intermediates).
+   Input and output are audio; a video file also works as the timing
+   reference because only its duration is read.
+
+The default `--region ap-southeast-2` exists because the organization's SCP
+denies Polly elsewhere; change it only if your account allows other regions.
+
 ## Terminology lookup
 
 `scripts/terms_lookup.py` merges two sources and prints the terms that
